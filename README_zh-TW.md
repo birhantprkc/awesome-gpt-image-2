@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6270** |
+| 📝 提示詞總數 | **6254** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年5月16日 星期六 中午12:56:27 [UTC]** |
+| 🔄 最後更新 | **2026年5月17日 星期日 凌晨1:58:48 [UTC]** |
 
 </div>
 
@@ -5822,7 +5822,7 @@ QR Code 與品牌細節：在右下角放置一個白色圓角方形 QR Code 區
 
 <div align="center">
 
-### 🎯 6150 更多提示詞未在此顯示
+### 🎯 6134 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5885,6 +5885,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-16T12:56:27.543Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-17T01:58:48.879Z</sub>
 
 </div>

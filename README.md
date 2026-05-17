@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6270** |
+| 📝 Total Prompts | **6254** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Saturday, May 16, 2026 at 12:56:14 PM UTC** |
+| 🔄 Last Updated | **Sunday, May 17, 2026 at 1:58:38 AM UTC** |
 
 </div>
 
@@ -5822,7 +5822,7 @@ Create a vertical fantasy trading-card portrait poster of {argument name="charac
 
 <div align="center">
 
-### 🎯 6150 more prompts not shown here
+### 🎯 6134 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5885,6 +5885,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-16T12:56:14.640Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-17T01:58:38.146Z</sub>
 
 </div>

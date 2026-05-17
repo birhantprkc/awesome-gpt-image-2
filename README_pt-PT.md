@@ -139,9 +139,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6270** |
+| 📝 Total de prompts | **6254** |
 | ⭐ Destaque | **6** |
-| 🔄 Última atualização | **sábado, 16 de maio de 2026 às 12:57:34 UTC** |
+| 🔄 Última atualização | **domingo, 17 de maio de 2026 às 01:59:55 UTC** |
 
 </div>
 
@@ -5822,7 +5822,7 @@ Crie um pôster vertical de retrato de carta de fantasia colecionável de {argum
 
 <div align="center">
 
-### 🎯 6150 mais prompts não mostrados aqui
+### 🎯 6134 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5885,6 +5885,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-16T12:57:34.672Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-17T01:59:55.384Z</sub>
 
 </div>

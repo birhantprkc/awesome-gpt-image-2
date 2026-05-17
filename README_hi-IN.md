@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **6270** |
+| 📝 कुल प्रॉम्पट्स | **6254** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **शनिवार, 16 मई 2026 को 12:56:56 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **रविवार, 17 मई 2026 को 1:59:18 am UTC बजे** |
 
 </div>
 
@@ -5821,7 +5821,7 @@ DIY स्मार्ट डोरबेल एनक्लोजर के फ
 
 <div align="center">
 
-### 🎯 6150 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 6134 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5884,6 +5884,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-16T12:56:56.637Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-17T01:59:18.170Z</sub>
 
 </div>

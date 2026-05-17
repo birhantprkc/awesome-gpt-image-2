@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6270** |
+| 📝 Gesamtanzahl Prompts | **6254** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Samstag, 16. Mai 2026 um 12:57:11 UTC** |
+| 🔄 Zuletzt aktualisiert | **Sonntag, 17. Mai 2026 um 01:59:34 UTC** |
 
 </div>
 
@@ -5819,7 +5819,7 @@ Erstelle ein vertikales Fantasy-Sammelkarten-Porträtposter von {argument name="
 
 <div align="center">
 
-### 🎯 6150 weitere Prompts hier nicht angezeigt
+### 🎯 6134 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5882,6 +5882,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-16T12:57:11.427Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-17T01:59:34.573Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6270** |
+| 📝 Total de prompts | **6254** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **sábado, 16 de mayo de 2026, 12:57:06 p.m. UTC** |
+| 🔄 Última actualización | **domingo, 17 de mayo de 2026, 1:59:28 a.m. UTC** |
 
 </div>
 
@@ -5821,7 +5821,7 @@ Crea un póster vertical de retrato para carta coleccionable de fantasía de {ar
 
 <div align="center">
 
-### 🎯 6150 prompts más no mostrados aquí
+### 🎯 6134 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5884,6 +5884,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-16T12:57:06.472Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-17T01:59:28.365Z</sub>
 
 </div>

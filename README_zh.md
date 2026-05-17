@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **6270** |
+| 📝 提示词总数 | **6254** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年5月16日星期六 UTC 12:56:20** |
+| 🔄 最后更新 | **2026年5月17日星期日 UTC 01:58:43** |
 
 </div>
 
@@ -5822,7 +5822,7 @@ null
 
 <div align="center">
 
-### 🎯 6150 更多提示词未在此显示
+### 🎯 6134 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5885,6 +5885,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-16T12:56:20.446Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T01:58:43.525Z</sub>
 
 </div>
