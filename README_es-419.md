@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6458** |
+| 📝 Total de prompts | **6456** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **domingo, 17 de mayo de 2026, 12:54:51 p.m. UTC** |
+| 🔄 Última actualización | **lunes, 18 de mayo de 2026, 2:10:59 a.m. UTC** |
 
 </div>
 
@@ -1685,41 +1685,7 @@ Restricciones: Mantén exactamente 12 paneles y exactamente un animal principal 
 
 ---
 
-### No. 21: Publicación en redes sociales - Meme del novio distraído de Skywork
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una imagen callejera fotorrealista estilo meme donde el formato del novio distraído está personalizado con una tarjeta con el logotipo de Skywork sobre la mujer en primer plano.
-
-#### 📝 Prompt
-
-```
-Crea una escena callejera cinematográfica y fotorrealista al estilo del clásico meme del “novio distraído”, capturada horizontalmente en un formato 16:9. En la parte frontal izquierda, muestra a una mujer con un vestido sin mangas de color {argument name="foreground woman dress color" default="rojo"} caminando hacia la cámara, con el rostro intencionalmente desenfocado; coloca una tarjeta con un logotipo cuadrado blanco y limpio sobre la parte superior de su torso, con un ícono abstracto en forma de S de color azul verdoso y la palabra legible {argument name="logo text" default="Skywork"} debajo. En el centro, muestra a un hombre con una camisa de manga corta a cuadros azules girando la cabeza y el torso para mirar hacia atrás, hacia la mujer en primer plano, con su rostro también desenfocado. A la derecha, muestra a su novia con un vestido sin mangas de color {argument name="girlfriend dress color" default="azul"} claro, parada a su lado y mirándolo con una expresión de disgusto, con el rostro también desenfocado. Utiliza una concurrida calle peatonal urbana como fondo con luz solar cálida, poca profundidad de campo, un suave efecto bokeh, colores realistas y una composición de fotografía de stock espontánea. Mantén exactamente a tres personas principales visibles, conserva el diseño humorístico del meme, haz que la tarjeta del logotipo sea nítida y legible, y evita añadir subtítulos, marcas de agua o bordes adicionales.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779008301515_kw3s24_HIecoi5WkAAemY-.png" width="600" alt="Publicación en redes sociales - Meme del novio distraído de Skywork - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Alejandro Martinez | IA](https://x.com/copyelpadrino)
-- **Fuente:** [Twitter Post](https://x.com/copyelpadrino/status/2055785153494982854#reversed-0)
-- **Publicado:** 16 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=20903)**
-
----
-
-### No. 22: Publicación en redes sociales - Fotografía de larga exposición con desenfoque de movimiento
+### No. 21: Publicación en redes sociales - Fotografía de larga exposición con desenfoque de movimiento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1771,7 +1737,7 @@ Una fotografía {argument name="mood" default="cinematográfica"} de un {argumen
 
 ---
 
-### No. 23: Publicación en redes sociales - Collage de retratos de recién nacidos con cuatro temáticas
+### No. 22: Publicación en redes sociales - Collage de retratos de recién nacidos con cuatro temáticas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1819,7 +1785,7 @@ Restricciones: Genere exactamente cuatro retratos de recién nacidos con temáti
 
 ---
 
-### No. 24: Publicación en redes sociales - Muro oceánico surrealista en una ciudad lluviosa
+### No. 23: Publicación en redes sociales - Muro oceánico surrealista en una ciudad lluviosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1853,7 +1819,7 @@ Crea una fotografía nocturna cinematográfica hiperrealista de {argument name="
 
 ---
 
-### No. 25: Publicación en redes sociales - Imagen fija de transmisión de fútbol hiperrealista
+### No. 24: Publicación en redes sociales - Imagen fija de transmisión de fútbol hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1887,7 +1853,7 @@ usa el mismo rostro de la imagen de referencia @Image sin cambiar los rasgos fac
 
 ---
 
-### No. 26: Publicación en redes sociales - Fotografía de moda con perspectiva desde un carrito de compras
+### No. 25: Publicación en redes sociales - Fotografía de moda con perspectiva desde un carrito de compras
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1940,7 +1906,7 @@ Negative prompt: posición de las piernas real, normal, sin anomalías en las pi
 
 ---
 
-### No. 27: Publicación en redes sociales - Grupo de moda de lujo de animales adorables
+### No. 26: Publicación en redes sociales - Grupo de moda de lujo de animales adorables
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1979,7 +1945,7 @@ Un grupo de adorables animales antropomórficos formando un círculo y mirando h
 
 ---
 
-### No. 28: Publicación en redes sociales - Superposición de imágenes con garabatos creativos
+### No. 27: Publicación en redes sociales - Superposición de imágenes con garabatos creativos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2025,7 +1991,7 @@ Edita esta imagen preservando ESTRICTAMENTE el sujeto, la composición, el fondo
 
 ---
 
-### No. 29: Publicación en redes sociales - Cuadrícula de Retratos de Ballet en Estudio de Lujo
+### No. 28: Publicación en redes sociales - Cuadrícula de Retratos de Ballet en Estudio de Lujo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2226,7 +2192,7 @@ Las 9 imágenes deben parecer el mismo conjunto de muestras de alta gama: misma 
 
 ---
 
-### No. 30: Publicación en redes sociales - Retrato en una librería a pie de calle
+### No. 29: Publicación en redes sociales - Retrato en una librería a pie de calle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2260,7 +2226,7 @@ Genera un retrato realista de un {argument name="subject" default="joven"} que s
 
 ---
 
-### No. 31: Publicación en redes sociales - Cuento de hadas pastoral en bote de remos etéreo
+### No. 30: Publicación en redes sociales - Cuento de hadas pastoral en bote de remos etéreo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2296,7 +2262,7 @@ Fotografía hiperrealista, luz natural cinematográfica, atardecer dorado suave,
 
 ---
 
-### No. 32: Publicación en redes sociales - Póster de viaje vintage del tranvía de Lisboa
+### No. 31: Publicación en redes sociales - Póster de viaje vintage del tranvía de Lisboa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2348,7 +2314,7 @@ Crea una fotografía de viaje emocional estilo smartphone de {argument name="cit
 
 ---
 
-### No. 33: Publicación en redes sociales - Retrato de collage de papel de revista vintage
+### No. 32: Publicación en redes sociales - Retrato de collage de papel de revista vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2382,7 +2348,7 @@ Retrato estético de collage de papel vintage de {argument name="subject" defaul
 
 ---
 
-### No. 34: Publicación en redes sociales - Diseño de póster de streetwear estilo anime
+### No. 33: Publicación en redes sociales - Diseño de póster de streetwear estilo anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2438,7 +2404,7 @@ Relación de aspecto: 4:5 vertical.
 
 ---
 
-### No. 35: Publicación en redes sociales - Cuadrícula editorial de moda de cuatro paneles
+### No. 34: Publicación en redes sociales - Cuadrícula editorial de moda de cuatro paneles
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,6 +2440,46 @@ Todos los paneles muestran al mismo sujeto masculino, rostro consistente, detall
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=20842)**
+
+---
+
+### No. 35: Publicación en redes sociales - Atuendo de Gothic Lolita Furisode
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para una fusión del estilo tradicional japonés furisode y el estilo gothic lolita, que presenta detalles intrincados como encaje, volantes y botas de cuero.
+
+#### 📝 Prompt
+
+```
+{argument name="estilo japonés" default="furisode lolita"}, encaje, volantes, {argument name="cinturón" default="cinturón de cuero"}, medias, {argument name="botas" default="botas largas con cordones"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252361_a1syku_HIcJGp5bIAEfuyh.jpg" width="600" alt="Publicación en redes sociales - Atuendo de Gothic Lolita Furisode - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252314_h9fc9w_HIcJGrLaUAA0gtl.jpg" width="600" alt="Publicación en redes sociales - Atuendo de Gothic Lolita Furisode - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [白亜@AIチャット民](https://x.com/hono9rayray)
+- **Fuente:** [Twitter Post](https://x.com/hono9rayray/status/2055621768178753786)
+- **Publicado:** 16 de mayo de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=20834)**
 
 ---
 
@@ -6143,58 +6149,19 @@ Catálogo de [Escribe aquí el tipo de moda] • fotografía editorial deportiva
 
 ---
 
-### No. 120: Imagen principal de e-commerce - Cédula de Identidad de Ciudadanía Sudafricana
+### No. 120: Imagen principal de e-commerce - Captura de pantalla de livestream shopping
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt altamente detallado para generar una cédula de identidad de ciudadanía sudafricana ultrarrealista, que presenta elementos de seguridad complejos, superposiciones holográficas y detalles de diseño auténticos.
+Genera una captura de pantalla realista de un evento de comercio en vivo con un influencer demostrando productos y una interacción activa en el chat.
 
 #### 📝 Prompt
 
 ```
-Fotografía de estudio en primer plano, formato 16:9 y ultrarrealista, de una cédula de identidad de ciudadanía sudafricana colocada sobre un fondo limpio gris claro o neutro suave. La tarjeta está alineada horizontalmente, centrada en el encuadre, capturada con un enfoque macro nítido y una iluminación de estudio suave y difusa.
-El diseño sigue la estética de un documento de identidad moderno emitido por el gobierno de Sudáfrica, con tipografía multilingüe estructurada, arte de seguridad grabado y detalles avanzados contra la falsificación.
-El encabezado grande y en negrita en la parte superior dice: “REPUBLIC OF SOUTH AFRICA” con el título secundario “CITIZENSHIP CARD” y el subtítulo “National Identity System”.
-La esquina superior izquierda presenta la bandera nacional de Sudáfrica. La parte superior derecha incluye el escudo de armas oficial de Sudáfrica con el emblema del águila y el escudo.
-La tarjeta contiene un retrato estilo pasaporte de una joven mujer sudafricana negra:
-– Tono de piel marrón cálido y profundo con textura de piel realista
-– Cabello negro largo trenzado y peinado cuidadosamente hacia atrás
-– Ojos marrón oscuro, expresión neutra, mirada directa
-– Maquillaje mínimo con realismo documental
-– Viste un blazer negro o una prenda formal oscura con un collar y aretes dorados sutiles
-Información de identidad personal mostrada en formato multilingüe sudafricano:
-– Surname / Van / Isibongo: {argument name="surname" default="DLAMINI"}
-– Forenames / Voornames / Amagama: {argument name="forenames" default="NOMSA THANDO"}
-– Date of Birth / Geboortedatum / Usuku Lokuzalwa: 12 MAR 1992
-– Place of Birth / Geboorteplek / Indawo Yokuzalwa: DURBAN, KZN
-– Citizenship / Burgerskap / Ubuni Bakambi: SOUTH AFRICAN CITIZEN
-– Identity / Identity Number / Inombolo Yobuqhuba: {argument name="identity number" default="920312 1234 08 7"}
-– Date of Issue / Datum Uitgereik / Usuku Lokukhishwa: 20 MAY 2024
-– Date of Expiry / Datum Verval / Usuku Lokuphela: 19 MAY 2034
-– Sex / Geslag / Ubulili: F
-– Nationality / Nasionaliteit: RSA
-– Country of Birth / Land van Geboorte: SOUTH AFRICA
-Las características de seguridad y diseño incluyen:
-– Patrones de líneas de seguridad guilloché intrincados en toda la superficie de la tarjeta
-– Texturas contra la falsificación con microimpresión fina
-– Parches de lámina holográfica con reflejos iridiscentes de arcoíris
-– Superposiciones de seguridad transparentes en capas
-– Sello de seguridad holográfico circular “RSA”
-– Parche floral holográfico que presenta la flor nacional protea
-– Mapa de contorno tenue de Sudáfrica integrado en la textura del fondo
-– Ilustración grabada detallada de la Montaña de la Mesa y el horizonte de Ciudad del Cabo en el lado derecho
-– Arte de una gran flor protea mezclado en la esquina inferior derecha
-– Banda de identidad legible por máquina a lo largo del borde inferior
-– Firma en la parte inferior: “Nomsa T. Dlamini”
-Estilo de diseño adicional:
-– Degradados suaves en verde, dorado, azul, rojo, negro y blanco inspirados en la bandera sudafricana
-– Textura de tarjeta laminada de policarbonato con reflejos realistas y microdetalles en relieve
-– Apariencia moderna de documento gubernamental de alta seguridad con trabajo de ilustración estilo billete grabado
-La iluminación es suave y uniformemente difusa, enfatizando los efectos holográficos, las texturas grabadas y los detalles de impresión realistas sin sombras duras. No se ven manos.
-Estilo: ultradetallado, fotorrealista
+Una captura de pantalla de una transmisión de ventas en vivo, con el presentador sosteniendo un {argument name="product" default="labial"} para probar el color, y el chat con mensajes tipo bullet lleno de "{argument name="chat text" default="Pedido realizado"}".
 ```
 
 #### 🖼️ Imágenes generadas
@@ -6202,23 +6169,17 @@ Estilo: ultradetallado, fotorrealista
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891363_xmfvej_HILGFB4aIAItByG.jpg" width="600" alt="Imagen principal de e-commerce - Cédula de Identidad de Ciudadanía Sudafricana - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891361_1a73mg_HILGFDEbsAE8SkX.jpg" width="600" alt="Imagen principal de e-commerce - Cédula de Identidad de Ciudadanía Sudafricana - Image 2">
+<img src="https://cms-assets.youmind.com/media/1778662258189_mxjaf1_HIFeL3pbkAAVOhf.jpg" width="600" alt="Imagen principal de e-commerce - Captura de pantalla de livestream shopping - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **Fuente:** [Twitter Post](https://x.com/Ankit_patel211/status/2054422174241620027)
-- **Publicado:** 13 de mayo de 2026
-- **Idiomas:** en
+- **Autor:** [Mr.pinecone](https://x.com/Mrpinecone888)
+- **Fuente:** [Twitter Post](https://x.com/Mrpinecone888/status/2054026553152147716)
+- **Publicado:** 12 de mayo de 2026
+- **Idiomas:** zh
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=20056)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=19667)**
 
 ---
 
@@ -6228,7 +6189,7 @@ Estilo: ultradetallado, fotorrealista
 
 <div align="center">
 
-### 🎯 6338 prompts más no mostrados aquí
+### 🎯 6336 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6291,6 +6252,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-17T12:54:51.448Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-18T02:10:59.103Z</sub>
 
 </div>

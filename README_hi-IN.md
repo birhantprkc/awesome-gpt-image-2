@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **6458** |
+| 📝 कुल प्रॉम्पट्स | **6456** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **रविवार, 17 मई 2026 को 12:54:37 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 18 मई 2026 को 2:10:44 am UTC बजे** |
 
 </div>
 
@@ -1681,41 +1681,7 @@ null
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - Distracted Boyfriend Skywork मीम
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक फोटो-रियलिस्टिक मीम-स्टाइल स्ट्रीट इमेज, जहाँ 'डिस्ट्रैक्टेड बॉयफ्रेंड' फॉर्मेट को फोरग्राउंड वाली महिला पर Skywork लोगो कार्ड के साथ कस्टमाइज़ किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-क्लासिक “डिस्ट्रैक्टेड बॉयफ्रेंड” मीम की शैली में एक फोटो-रियलिस्टिक, सिनेमैटिक स्ट्रीट सीन तैयार करें, जिसे 16:9 क्रॉप में हॉरिजॉन्टल शूट किया गया हो। बाईं ओर फोरग्राउंड में, एक महिला को चमकीले {argument name="foreground woman dress color" default="लाल"} स्लीवलेस ड्रेस में कैमरे की ओर चलते हुए दिखाएं, जिसका चेहरा जानबूझकर धुंधला (blurred) हो; उसके ऊपरी धड़ पर एक साफ सफेद चौकोर लोगो कार्ड रखें, जिस पर एक रंगीन नीला-हरा एब्सट्रैक्ट S आइकन हो और उसके नीचे स्पष्ट रूप से {argument name="logo text" default="Skywork"} लिखा हो। बीच में, एक आदमी को नीली प्लेड शर्ट पहने हुए दिखाएं जो अपना सिर और ऊपरी शरीर घुमाकर पीछे की ओर उस महिला को देख रहा हो, उसका चेहरा भी धुंधला हो। दाईं ओर, उसकी गर्लफ्रेंड को हल्के {argument name="girlfriend dress color" default="नीले"} स्लीवलेस ड्रेस में दिखाएं, जो उसके बगल में खड़ी है और उसे नाखुश भाव से देख रही है, उसका चेहरा भी धुंधला है। बैकग्राउंड में एक व्यस्त धूप वाली शहरी पैदल सड़क का उपयोग करें, जिसमें गर्म दिन का प्रकाश, उथला डेप्थ ऑफ फील्ड, सॉफ्ट बोकेह, यथार्थवादी रंग और कैंडिड स्टॉक-फोटो कंपोजिशन हो। केवल तीन मुख्य लोगों को दृश्य में रखें, मजाकिया मीम लेआउट को बनाए रखें, लोगो कार्ड को स्पष्ट और पढ़ने योग्य रखें, और कोई अतिरिक्त कैप्शन, वॉटरमार्क या बॉर्डर न जोड़ें।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779008301515_kw3s24_HIecoi5WkAAemY-.png" width="600" alt="सोशल मीडिया पोस्ट - Distracted Boyfriend Skywork मीम - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Alejandro Martinez | IA](https://x.com/copyelpadrino)
-- **स्रोत:** [Twitter Post](https://x.com/copyelpadrino/status/2055785153494982854#reversed-0)
-- **प्रकाशित:** 16 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=20903)**
-
----
-
-### No. 22: सोशल मीडिया पोस्ट - लॉन्ग एक्सपोज़र मोशन ब्लर फ़ोटोग्राफ़ी
+### No. 21: सोशल मीडिया पोस्ट - लॉन्ग एक्सपोज़र मोशन ब्लर फ़ोटोग्राफ़ी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1767,7 +1733,7 @@ null
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - चार-थीम वाला नवजात शिशु पोर्ट्रेट कोलाज
+### No. 22: सोशल मीडिया पोस्ट - चार-थीम वाला नवजात शिशु पोर्ट्रेट कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1815,7 +1781,7 @@ null
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - बारिश वाले शहर में असली जैसा लगने वाला विशाल समुद्री दृश्य
+### No. 23: सोशल मीडिया पोस्ट - बारिश वाले शहर में असली जैसा लगने वाला विशाल समुद्री दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1849,7 +1815,7 @@ null
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - अति-यथार्थवादी फुटबॉल प्रसारण स्टिल
+### No. 24: सोशल मीडिया पोस्ट - अति-यथार्थवादी फुटबॉल प्रसारण स्टिल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1883,7 +1849,7 @@ null
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - शॉपिंग ट्रॉली POV फैशन फोटोग्राफी
+### No. 25: सोशल मीडिया पोस्ट - शॉपिंग ट्रॉली POV फैशन फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1936,7 +1902,7 @@ null
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - Adorable Animals Luxury Fashion Group
+### No. 26: सोशल मीडिया पोस्ट - Adorable Animals Luxury Fashion Group
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1975,7 +1941,7 @@ null
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - क्रिएटिव डूडल इमेज ओवरले
+### No. 27: सोशल मीडिया पोस्ट - क्रिएटिव डूडल इमेज ओवरले
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2021,7 +1987,7 @@ null
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - लक्ज़री स्टूडियो बैले पोर्ट्रेट ग्रिड
+### No. 28: सोशल मीडिया पोस्ट - लक्ज़री स्टूडियो बैले पोर्ट्रेट ग्रिड
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2226,7 +2192,7 @@ null
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - सड़क किनारे बुकस्टोर का पोर्ट्रेट
+### No. 29: सोशल मीडिया पोस्ट - सड़क किनारे बुकस्टोर का पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2260,7 +2226,7 @@ null
 
 ---
 
-### No. 31: सोशल मीडिया पोस्ट - ईथरियल रोबोट पेस्टोरल फेयरीटेल
+### No. 30: सोशल मीडिया पोस्ट - ईथरियल रोबोट पेस्टोरल फेयरीटेल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2296,7 +2262,7 @@ null
 
 ---
 
-### No. 32: सोशल मीडिया पोस्ट - लिस्बन विंटेज ट्राम ट्रैवल पोस्टर
+### No. 31: सोशल मीडिया पोस्ट - लिस्बन विंटेज ट्राम ट्रैवल पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2348,7 +2314,7 @@ null
 
 ---
 
-### No. 33: सोशल मीडिया पोस्ट - विंटेज मैगज़ीन पेपर कोलाज पोर्ट्रेट
+### No. 32: सोशल मीडिया पोस्ट - विंटेज मैगज़ीन पेपर कोलाज पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2382,7 +2348,7 @@ null
 
 ---
 
-### No. 34: सोशल मीडिया पोस्ट - एनीमे स्ट्रीटवियर पोस्टर डिज़ाइन
+### No. 33: सोशल मीडिया पोस्ट - एनीमे स्ट्रीटवियर पोस्टर डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2438,7 +2404,7 @@ One Piece से प्रेरित एक स्ट्रीटवियर-
 
 ---
 
-### No. 35: सोशल मीडिया पोस्ट - फोर-पैनल फैशन एडिटोरियल ग्रिड
+### No. 34: सोशल मीडिया पोस्ट - फोर-पैनल फैशन एडिटोरियल ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,6 +2440,46 @@ One Piece से प्रेरित एक स्ट्रीटवियर-
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=20842)**
+
+---
+
+### No. 35: सोशल मीडिया पोस्ट - गॉथिक लोलिता फुरिसोडे ऑउटफिट
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+पारंपरिक जापानी फुरिसोडे और गॉथिक लोलिता शैली के मिश्रण के लिए एक विस्तृत प्रॉम्प्ट, जिसमें लेस, फ्रिल्स और लेदर बूट्स जैसे जटिल विवरण शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+{argument name="japanese style" default="फुरिसोडे लोलिता"}, लेस, फ्रिल्स, {argument name="belt" default="लेदर बेल्ट"}, टाइट्स, {argument name="boots" default="लेस-अप लॉन्ग बूट्स"}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252361_a1syku_HIcJGp5bIAEfuyh.jpg" width="600" alt="सोशल मीडिया पोस्ट - गॉथिक लोलिता फुरिसोडे ऑउटफिट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252314_h9fc9w_HIcJGrLaUAA0gtl.jpg" width="600" alt="सोशल मीडिया पोस्ट - गॉथिक लोलिता फुरिसोडे ऑउटफिट - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [白亜@AIチャット民](https://x.com/hono9rayray)
+- **स्रोत:** [Twitter Post](https://x.com/hono9rayray/status/2055621768178753786)
+- **प्रकाशित:** 16 मई 2026
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=20834)**
 
 ---
 
@@ -6141,58 +6147,19 @@ DIY स्मार्ट डोरबेल एनक्लोजर के फ
 
 ---
 
-### No. 120: ई-कॉमर्स मुख्य इमेज - दक्षिण अफ्रीकी नागरिकता पहचान पत्र
+### No. 120: ई-कॉमर्स मुख्य इमेज - लाइवस्ट्रीम शॉपिंग स्क्रीनशॉट
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-अत्यधिक विस्तृत दक्षिण अफ्रीकी नागरिकता पहचान पत्र बनाने के लिए एक अल्ट्रा-रियलिस्टिक प्रॉम्प्ट, जिसमें जटिल सुरक्षा तत्व, होलोग्राफिक ओवरले और प्रामाणिक डिज़ाइन विवरण शामिल हैं।
+एक इन्फ्लुएंसर द्वारा उत्पादों का प्रदर्शन और सक्रिय चैट जुड़ाव के साथ लाइवस्ट्रीम कॉमर्स इवेंट का एक यथार्थवादी स्क्रीनशॉट तैयार करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-साफ हल्के भूरे या नरम तटस्थ पृष्ठभूमि पर रखे गए दक्षिण अफ्रीकी नागरिकता पहचान पत्र की अल्ट्रा-रियलिस्टिक 16:9 क्लोज़-अप स्टूडियो तस्वीर। कार्ड क्षैतिज रूप से संरेखित है, फ्रेम के केंद्र में है, और इसे नरम डिफ्यूज्ड स्टूडियो लाइटिंग के साथ शार्प मैक्रो फोकस में कैप्चर किया गया है।
-डिज़ाइन आधुनिक दक्षिण अफ्रीकी सरकार द्वारा जारी पहचान दस्तावेज के सौंदर्य का पालन करता है, जिसमें संरचित बहुभाषी टाइपोग्राफी, उत्कीर्ण सुरक्षा कलाकृति और उन्नत एंटी-काउंटरफीट विवरण शामिल हैं।
-शीर्ष पर बड़े बोल्ड हेडर में लिखा है: “REPUBLIC OF SOUTH AFRICA” जिसके साथ द्वितीयक शीर्षक “CITIZENSHIP CARD” और उपशीर्षक “National Identity System” है।
-ऊपरी-बाएं कोने में दक्षिण अफ्रीका का राष्ट्रीय ध्वज है। ऊपरी-दाएं कोने में ईगल क्रेस्ट और ढाल प्रतीक के साथ आधिकारिक दक्षिण अफ्रीकी कोट ऑफ आर्म्स शामिल है।
-कार्ड में एक युवा अश्वेत दक्षिण अफ्रीकी महिला का पासपोर्ट-शैली का चित्र है:
-– यथार्थवादी त्वचा बनावट के साथ गहरा गर्म भूरा रंग
-– पीछे की ओर करीने से स्टाइल किए गए लंबे काले लट वाले बाल
-– गहरी भूरी आँखें, तटस्थ अभिव्यक्ति, सीधी नज़र
-– दस्तावेजी यथार्थवाद के साथ न्यूनतम मेकअप
-– सूक्ष्म सोने के हार और झुमके के साथ काला ब्लेज़र या गहरा औपचारिक टॉप पहने हुए
-बहुभाषी दक्षिण अफ्रीकी प्रारूप में प्रदर्शित व्यक्तिगत पहचान जानकारी:
-– Surname / Van / Isibongo: {argument name="surname" default="DLAMINI"}
-– Forenames / Voornames / Amagama: {argument name="forenames" default="NOMSA THANDO"}
-– Date of Birth / Geboortedatum / Usuku Lokuzalwa: 12 MAR 1992
-– Place of Birth / Geboorteplek / Indawo Yokuzalwa: DURBAN, KZN
-– Citizenship / Burgerskap / Ubuni Bakambi: SOUTH AFRICAN CITIZEN
-– Identity / Identity Number / Inombolo Yobuqhuba: {argument name="identity number" default="920312 1234 08 7"}
-– Date of Issue / Datum Uitgereik / Usuku Lokukhishwa: 20 MAY 2024
-– Date of Expiry / Datum Verval / Usuku Lokuphela: 19 MAY 2034
-– Sex / Geslag / Ubulili: F
-– Nationality / Nasionaliteit: RSA
-– Country of Birth / Land van Geboorte: SOUTH AFRICA
-सुरक्षा और डिज़ाइन सुविधाओं में शामिल हैं:
-– पूरे कार्ड की सतह पर जटिल गिलोक सुरक्षा लाइन पैटर्न
-– महीन माइक्रोप्रिंटेड एंटी-काउंटरफीट बनावट
-– इंद्रधनुषी प्रतिबिंबों के साथ होलोग्राफिक फ़ॉइल पैच
-– पारदर्शी लेयर्ड सुरक्षा ओवरले
-– गोलाकार “RSA” होलोग्राफिक सुरक्षा सील
-– राष्ट्रीय प्रोटिया फूल वाला होलोग्राफिक फ्लोरल पैच
-– पृष्ठभूमि बनावट में एकीकृत दक्षिण अफ्रीका का धुंधला आउटलाइन मानचित्र
-– दाईं ओर टेबल माउंटेन और केप टाउन स्काईलाइन का विस्तृत उत्कीर्ण चित्रण
-– निचले-दाएं कोने में मिश्रित बड़ा प्रोटिया फूल
-– निचले किनारे पर मशीन-पठनीय पहचान पट्टी
-– नीचे हस्ताक्षर: “Nomsa T. Dlamini”
-अतिरिक्त डिज़ाइन स्टाइलिंग:
-– दक्षिण अफ्रीकी ध्वज से प्रेरित नरम हरा, सुनहरा, नीला, लाल, काला और सफेद ग्रेडिएंट
-– यथार्थवादी प्रतिबिंबों और उभरे हुए माइक्रो-विवरण के साथ पॉलीकार्बोनेट लैमिनेटेड कार्ड बनावट
-– उत्कीर्ण बैंकनोट-शैली चित्रण कार्य के साथ आधुनिक उच्च-सुरक्षा सरकारी दस्तावेज़ का स्वरूप
-प्रकाश नरम और समान रूप से फैला हुआ है, जो कठोर छाया के बिना होलोग्राफिक प्रभावों, उत्कीर्ण बनावट और यथार्थवादी प्रिंट विवरण पर जोर देता है। कोई हाथ दिखाई नहीं दे रहा है।
-शैली: अल्ट्रा-डिटेल्ड, फोटो-रियलिस्ट
+एक लाइवस्ट्रीम सेल्स ब्रॉडकास्ट का स्क्रीनशॉट, जिसमें होस्ट रंग परीक्षण के लिए {argument name="product" default="लिपस्टिक"} पकड़े हुए है, और बुलेट चैट "{argument name="chat text" default="ऑर्डर दे दिया गया है"}" से भरी हुई है।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -6200,23 +6167,17 @@ DIY स्मार्ट डोरबेल एनक्लोजर के फ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891363_xmfvej_HILGFB4aIAItByG.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - दक्षिण अफ्रीकी नागरिकता पहचान पत्र - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891361_1a73mg_HILGFDEbsAE8SkX.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - दक्षिण अफ्रीकी नागरिकता पहचान पत्र - Image 2">
+<img src="https://cms-assets.youmind.com/media/1778662258189_mxjaf1_HIFeL3pbkAAVOhf.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - लाइवस्ट्रीम शॉपिंग स्क्रीनशॉट - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **स्रोत:** [Twitter Post](https://x.com/Ankit_patel211/status/2054422174241620027)
-- **प्रकाशित:** 13 मई 2026
-- **भाषाएं:** en
+- **लेखक:** [Mr.pinecone](https://x.com/Mrpinecone888)
+- **स्रोत:** [Twitter Post](https://x.com/Mrpinecone888/status/2054026553152147716)
+- **प्रकाशित:** 12 मई 2026
+- **भाषाएं:** zh
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=20056)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=19667)**
 
 ---
 
@@ -6226,7 +6187,7 @@ DIY स्मार्ट डोरबेल एनक्लोजर के फ
 
 <div align="center">
 
-### 🎯 6338 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 6336 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6289,6 +6250,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-17T12:54:37.434Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-18T02:10:44.544Z</sub>
 
 </div>

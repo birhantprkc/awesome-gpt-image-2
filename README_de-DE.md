@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6458** |
+| 📝 Gesamtanzahl Prompts | **6456** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Sonntag, 17. Mai 2026 um 12:54:58 UTC** |
+| 🔄 Zuletzt aktualisiert | **Montag, 18. Mai 2026 um 02:11:07 UTC** |
 
 </div>
 
@@ -1685,41 +1685,7 @@ Einschränkungen: Behalten Sie genau 12 Felder und genau ein Haupttier pro Feld 
 
 ---
 
-### No. 21: Social-Media-Beitrag - „Distracted Boyfriend“-Meme mit Skywork
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein fotorealistisches Bild im Meme-Stil, bei dem das „Distracted Boyfriend“-Format mit einer Skywork-Logokarte auf der Frau im Vordergrund angepasst wurde.
-
-#### 📝 Prompt
-
-```
-Erstelle eine fotorealistische, filmische Straßenszene im Stil des klassischen „Distracted Boyfriend“-Memes, aufgenommen im horizontalen 16:9-Format. Zeige vorne links eine Frau in einem hellen {argument name="foreground woman dress color" default="roten"} ärmellosen Kleid, die auf die Kamera zuläuft, wobei ihr Gesicht absichtlich unscharf dargestellt ist; platziere eine klare, weiße, quadratische Logokarte über ihrem Oberkörper mit einem farbenfrohen, blau-grünen, abstrakten S-Symbol und dem lesbaren Wort {argument name="logo text" default="Skywork"} darunter. Zeige in der Mitte einen Mann in einem blau karierten Kurzarmhemd, der seinen Kopf und Oberkörper dreht, um über die Schulter zurück zur Frau im Vordergrund zu schauen, wobei auch sein Gesicht unscharf ist. Zeige rechts seine Freundin in einem hellen {argument name="girlfriend dress color" default="blauen"} ärmellosen Kleid, die neben ihm steht und ihn mit einem missbilligenden Ausdruck ansieht, wobei auch ihr Gesicht unscharf ist. Verwende eine belebte, sonnige Fußgängerzone als Hintergrund mit warmem Tageslicht, geringer Schärfentiefe, weichem Bokeh, realistischen Farben und einer authentischen Stockfoto-Komposition. Achte darauf, dass genau drei Hauptpersonen sichtbar sind, bewahre das humorvolle Meme-Layout, mache die Logokarte scharf und lesbar und vermeide das Hinzufügen zusätzlicher Bildunterschriften, Wasserzeichen oder Ränder.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779008301515_kw3s24_HIecoi5WkAAemY-.png" width="600" alt="Social-Media-Beitrag - „Distracted Boyfriend“-Meme mit Skywork - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Alejandro Martinez | IA](https://x.com/copyelpadrino)
-- **Quelle:** [Twitter Post](https://x.com/copyelpadrino/status/2055785153494982854#reversed-0)
-- **Veröffentlicht:** 16. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=20903)**
-
----
-
-### No. 22: Social-Media-Beitrag - Langzeitbelichtung: Bewegungsunschärfe-Fotografie
+### No. 21: Social-Media-Beitrag - Langzeitbelichtung: Bewegungsunschärfe-Fotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1771,7 +1737,7 @@ Eine {argument name="mood" default="filmische"} Aufnahme eines {argument name="s
 
 ---
 
-### No. 23: Social-Media-Beitrag - Neugeborenen-Porträt-Collage mit vier Themen
+### No. 22: Social-Media-Beitrag - Neugeborenen-Porträt-Collage mit vier Themen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1819,7 +1785,7 @@ Einschränkungen: Generieren Sie genau vier verschiedene thematische Neugeborene
 
 ---
 
-### No. 24: Social-Media-Beitrag - Surreale Ozeanwand in einer verregneten Stadt
+### No. 23: Social-Media-Beitrag - Surreale Ozeanwand in einer verregneten Stadt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1853,7 +1819,7 @@ Erstelle ein hyperrealistisches, filmisches Nachtfoto von {argument name="city s
 
 ---
 
-### No. 25: Social-Media-Beitrag - Hyperrealistisches Standbild einer Fußballübertragung
+### No. 24: Social-Media-Beitrag - Hyperrealistisches Standbild einer Fußballübertragung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1887,7 +1853,7 @@ Verwende dasselbe Gesicht aus dem Referenzbild @Image, ohne die Gesichtszüge zu
 
 ---
 
-### No. 26: Social-Media-Beitrag - Einkaufswagen-POV-Modefotografie
+### No. 25: Social-Media-Beitrag - Einkaufswagen-POV-Modefotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1940,7 +1906,7 @@ Negative prompt: Beine, Position, echt, normal, keine anomalen Beine.
 
 ---
 
-### No. 27: Social-Media-Beitrag - Luxuriöse Modegruppe aus niedlichen Tieren
+### No. 26: Social-Media-Beitrag - Luxuriöse Modegruppe aus niedlichen Tieren
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1979,7 +1945,7 @@ Eine Gruppe niedlicher anthropomorpher Tiere, die einen Kreis bilden und in die 
 
 ---
 
-### No. 28: Social-Media-Beitrag - Kreatives Doodled-Image-Overlay
+### No. 27: Social-Media-Beitrag - Kreatives Doodled-Image-Overlay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2025,7 +1991,7 @@ Bearbeite dieses Bild und bewahre dabei STRENG das ursprüngliche Motiv, die Kom
 
 ---
 
-### No. 29: Social-Media-Beitrag - Luxuriöses Studio-Ballett-Porträt-Raster
+### No. 28: Social-Media-Beitrag - Luxuriöses Studio-Ballett-Porträt-Raster
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2058,7 +2024,7 @@ Ein High-End-Studiofotografie-Prompt zur Erstellung eines konsistenten 3x3-Raste
 
 ---
 
-### No. 30: Social-Media-Beitrag - Porträt vor einer Buchhandlung an der Straßenecke
+### No. 29: Social-Media-Beitrag - Porträt vor einer Buchhandlung an der Straßenecke
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,7 +2058,7 @@ Generiere ein realistisches Porträt eines {argument name="subject" default="jun
 
 ---
 
-### No. 31: Social-Media-Beitrag - Ätherisches Ruderboot-Märchen
+### No. 30: Social-Media-Beitrag - Ätherisches Ruderboot-Märchen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2128,7 +2094,7 @@ Hyperrealistische Fotografie, kinoreifes natürliches Licht, sanfter goldener So
 
 ---
 
-### No. 32: Social-Media-Beitrag - Vintage-Reiseposter: Lissabon-Straßenbahn
+### No. 31: Social-Media-Beitrag - Vintage-Reiseposter: Lissabon-Straßenbahn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2180,7 +2146,7 @@ Erstelle ein emotionales Reisefoto im Smartphone-Stil von {argument name="city n
 
 ---
 
-### No. 33: Social-Media-Beitrag - Vintage-Magazin-Papiercollage-Porträt
+### No. 32: Social-Media-Beitrag - Vintage-Magazin-Papiercollage-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2214,7 +2180,7 @@ Ein kreativer Prompt zur Erstellung von Mixed-Media-Kunstwerken im Stil einer Pa
 
 ---
 
-### No. 34: Social-Media-Beitrag - Anime-Streetwear-Posterdesign
+### No. 33: Social-Media-Beitrag - Anime-Streetwear-Posterdesign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2270,7 +2236,7 @@ Seitenverhältnis: 4:5 Hochformat.
 
 ---
 
-### No. 35: Social-Media-Beitrag - Vierteiliges Mode-Editorial-Raster
+### No. 34: Social-Media-Beitrag - Vierteiliges Mode-Editorial-Raster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2306,6 +2272,46 @@ Alle Panels zeigen dieselbe männliche Person, konsistentes Gesicht, ultra-schar
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=20842)**
+
+---
+
+### No. 35: Social-Media-Beitrag - Gothic Lolita Furisode Outfit
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein detaillierter Prompt für eine Fusion aus traditionellem japanischem Furisode und Gothic-Lolita-Stil, mit aufwendigen Details wie Spitze, Rüschen und Lederstiefeln.
+
+#### 📝 Prompt
+
+```
+{argument name="japanese style" default="Furisode-Lolita"}, Spitze, Rüschen, {argument name="belt" default="Ledergürtel"}, Strumpfhose, {argument name="boots" default="geschnürte Langschaftstiefel"}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252361_a1syku_HIcJGp5bIAEfuyh.jpg" width="600" alt="Social-Media-Beitrag - Gothic Lolita Furisode Outfit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252314_h9fc9w_HIcJGrLaUAA0gtl.jpg" width="600" alt="Social-Media-Beitrag - Gothic Lolita Furisode Outfit - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [白亜@AIチャット民](https://x.com/hono9rayray)
+- **Quelle:** [Twitter Post](https://x.com/hono9rayray/status/2055621768178753786)
+- **Veröffentlicht:** 16. Mai 2026
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=20834)**
 
 ---
 
@@ -5975,58 +5981,19 @@ Stil-Tags:
 
 ---
 
-### No. 120: E-Commerce-Hauptbild - Südafrikanischer Personalausweis
+### No. 120: E-Commerce-Hauptbild - Livestream-Shopping-Screenshot
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein hochdetaillierter Prompt zur Erstellung eines ultrarealistischen südafrikanischen Personalausweises mit komplexen Sicherheitselementen, holografischen Overlays und authentischen Designdetails.
+Erzeugt einen realistischen Screenshot eines Livestream-Commerce-Events, bei dem ein Influencer Produkte präsentiert und eine aktive Chat-Interaktion stattfindet.
 
 #### 📝 Prompt
 
 ```
-Ultrarealistisches 16:9-Nahaufnahme-Studiofoto eines südafrikanischen Personalausweises auf einem sauberen, hellgrauen oder weichen, neutralen Hintergrund. Die Karte ist horizontal ausgerichtet, mittig im Bild platziert und in scharfem Makrofokus bei weicher, diffuser Studiobeleuchtung aufgenommen.
-Das Design folgt der Ästhetik moderner, von der südafrikanischen Regierung ausgestellter Identitätsdokumente mit strukturierter mehrsprachiger Typografie, gravierten Sicherheitsgrafiken und fortschrittlichen Fälschungsschutzdetails.
-Die große, fette Überschrift oben lautet: „REPUBLIC OF SOUTH AFRICA“ mit dem Sekundärtitel „CITIZENSHIP CARD“ und dem Untertitel „National Identity System“.
-In der oberen linken Ecke befindet sich die südafrikanische Nationalflagge. Oben rechts ist das offizielle südafrikanische Wappen mit Adler und Schildemblem abgebildet.
-Die Karte enthält ein Porträt im Passbildstil einer jungen schwarzen Südafrikanerin:
-– Tiefer, warmer brauner Hautton mit realistischer Hautstruktur
-– Langes, geflochtenes schwarzes Haar, ordentlich nach hinten gestylt
-– Dunkelbraune Augen, neutraler Ausdruck, direkter Blick
-– Minimales Make-up für dokumentarischen Realismus
-– Trägt einen schwarzen Blazer oder ein dunkles, formelles Oberteil mit dezenter Goldkette und Ohrringen
-Persönliche Identitätsdaten im mehrsprachigen südafrikanischen Format:
-– Surname / Van / Isibongo: {argument name="surname" default="DLAMINI"}
-– Forenames / Voornames / Amagama: {argument name="forenames" default="NOMSA THANDO"}
-– Date of Birth / Geboortedatum / Usuku Lokuzalwa: 12. MÄR 1992
-– Place of Birth / Geboorteplek / Indawo Yokuzalwa: DURBAN, KZN
-– Citizenship / Burgerskap / Ubuni Bakambi: SOUTH AFRICAN CITIZEN
-– Identity / Identity Number / Inombolo Yobuqhuba: {argument name="identity number" default="920312 1234 08 7"}
-– Date of Issue / Datum Uitgereik / Usuku Lokukhishwa: 20. MAI 2024
-– Date of Expiry / Datum Verval / Usuku Lokuphela: 19. MAI 2034
-– Sex / Geslag / Ubulili: F
-– Nationality / Nasionaliteit: RSA
-– Country of Birth / Land van Geboorte: SOUTH AFRICA
-Zu den Sicherheits- und Designmerkmalen gehören:
-– Komplexe Guillochen-Sicherheitslinienmuster über die gesamte Kartenoberfläche
-– Feine, mikrogedruckte Fälschungsschutztexturen
-– Holografische Folienpatches mit irisierenden Regenbogenreflexionen
-– Transparente, geschichtete Sicherheitsoverlays
-– Kreisförmiges holografisches „RSA“-Sicherheitssiegel
-– Holografischer Blumenpatch mit der nationalen Protea-Blume
-– Schwache Umrisskarte von Südafrika, integriert in die Hintergrundtextur
-– Detaillierte gravierte Illustration des Tafelbergs und der Skyline von Kapstadt auf der rechten Seite
-– Großes Protea-Blumenmotiv, das in die untere rechte Ecke übergeht
-– Maschinenlesbarer Identitätsstreifen am unteren Rand
-– Unterschrift unten: „Nomsa T. Dlamini“
-Zusätzliches Design-Styling:
-– Weiche Farbverläufe in Grün, Gold, Blau, Rot, Schwarz und Weiß, inspiriert von der südafrikanischen Flagge
-– Textur einer laminierten Polycarbonatkarte mit realistischen Reflexionen und geprägten Mikrodetails
-– Modernes Erscheinungsbild eines Hochsicherheits-Regierungsdokuments mit gravierten Illustrationen im Banknotenstil
-Die Beleuchtung ist weich und gleichmäßig diffus, was holografische Effekte, gravierte Texturen und realistische Druckdetails ohne harte Schatten hervorhebt. Keine Hand sichtbar.
-Stil: ultra-detailliert, fotorealistisch
+Ein Screenshot einer Livestream-Verkaufsübertragung, bei der der Moderator einen {argument name="product" default="Lippenstift"} zum Testen der Farbe in die Kamera hält und der Chat mit „{argument name="chat text" default="Bestellung aufgegeben"}“ gefüllt ist.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -6034,23 +6001,17 @@ Stil: ultra-detailliert, fotorealistisch
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891363_xmfvej_HILGFB4aIAItByG.jpg" width="600" alt="E-Commerce-Hauptbild - Südafrikanischer Personalausweis - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891361_1a73mg_HILGFDEbsAE8SkX.jpg" width="600" alt="E-Commerce-Hauptbild - Südafrikanischer Personalausweis - Image 2">
+<img src="https://cms-assets.youmind.com/media/1778662258189_mxjaf1_HIFeL3pbkAAVOhf.jpg" width="600" alt="E-Commerce-Hauptbild - Livestream-Shopping-Screenshot - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **Quelle:** [Twitter Post](https://x.com/Ankit_patel211/status/2054422174241620027)
-- **Veröffentlicht:** 13. Mai 2026
-- **Sprachen:** en
+- **Autor:** [Mr.pinecone](https://x.com/Mrpinecone888)
+- **Quelle:** [Twitter Post](https://x.com/Mrpinecone888/status/2054026553152147716)
+- **Veröffentlicht:** 12. Mai 2026
+- **Sprachen:** zh
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=20056)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/gpt-image-2-prompts?id=19667)**
 
 ---
 
@@ -6060,7 +6021,7 @@ Stil: ultra-detailliert, fotorealistisch
 
 <div align="center">
 
-### 🎯 6338 weitere Prompts hier nicht angezeigt
+### 🎯 6336 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6123,6 +6084,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-17T12:54:58.500Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-18T02:11:07.814Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6458** |
+| 📝 提示詞總數 | **6456** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年5月17日 星期日 中午12:54:02 [UTC]** |
+| 🔄 最後更新 | **2026年5月18日 星期一 凌晨2:10:10 [UTC]** |
 
 </div>
 
@@ -1683,41 +1683,7 @@ null
 
 ---
 
-### No. 21: 社群媒體貼文 - 「分心男友」Skywork 迷因圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張照片級寫實風格的街頭迷因圖，將經典的「分心男友」構圖客製化，並在前景女性身上加上 Skywork 的標誌卡片。
-
-#### 📝 提示詞
-
-```
-創作一張照片級寫實、電影感的街頭場景，風格仿照經典的「分心男友」迷因，採用 16:9 橫向比例。在左側前景，展示一名穿著亮色 {argument name="foreground woman dress color" default="紅色"} 無袖連身裙的女性正朝鏡頭走來，她的臉部刻意模糊處理；在她的上半身放置一張乾淨的白色方形標誌卡片，上面印有色彩鮮豔的藍綠色抽象 S 圖示，下方則有清晰可見的 {argument name="logo text" default="Skywork"} 字樣。在中央，展示一名穿著藍色格紋短袖襯衫的男子，他轉過頭和上半身，回頭看向前景的女性，他的臉部同樣模糊處理。在右側，展示他的女友穿著淺色 {argument name="girlfriend dress color" default="藍色"} 無袖連身裙，站在他身旁並露出不悅的表情看著他，她的臉部也經過模糊處理。背景使用繁忙且陽光充足的城市行人街道，呈現溫暖的日光、淺景深、柔和的散景、真實的色彩以及自然抓拍的構圖。畫面中僅保留三位主要人物，維持幽默的迷因佈局，確保標誌卡片清晰易讀，並避免添加額外的標題、浮水印或邊框。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779008301515_kw3s24_HIecoi5WkAAemY-.png" width="600" alt="社群媒體貼文 - 「分心男友」Skywork 迷因圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Alejandro Martinez | IA](https://x.com/copyelpadrino)
-- **來源:** [Twitter Post](https://x.com/copyelpadrino/status/2055785153494982854#reversed-0)
-- **發布時間:** 2026年5月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=20903)**
-
----
-
-### No. 22: 社群媒體貼文 - 長曝光動態模糊攝影
+### No. 21: 社群媒體貼文 - 長曝光動態模糊攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1769,7 +1735,7 @@ null
 
 ---
 
-### No. 23: 社群媒體貼文 - 四主題新生兒肖像拼貼
+### No. 22: 社群媒體貼文 - 四主題新生兒肖像拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1817,7 +1783,7 @@ null
 
 ---
 
-### No. 24: 社群媒體貼文 - 雨中城市的超現實海洋之牆
+### No. 23: 社群媒體貼文 - 雨中城市的超現實海洋之牆
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1851,7 +1817,7 @@ null
 
 ---
 
-### No. 25: 社群媒體貼文 - 超逼真足球轉播劇照
+### No. 24: 社群媒體貼文 - 超逼真足球轉播劇照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1885,7 +1851,7 @@ null
 
 ---
 
-### No. 26: 社群媒體貼文 - 購物推車視角時尚攝影
+### No. 25: 社群媒體貼文 - 購物推車視角時尚攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1938,7 +1904,7 @@ null
 
 ---
 
-### No. 27: 社群媒體貼文 - Adorable Animals Luxury Fashion Group
+### No. 26: 社群媒體貼文 - Adorable Animals Luxury Fashion Group
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1977,7 +1943,7 @@ null
 
 ---
 
-### No. 28: 社群媒體貼文 - 創意塗鴉影像疊加
+### No. 27: 社群媒體貼文 - 創意塗鴉影像疊加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2023,7 +1989,7 @@ null
 
 ---
 
-### No. 29: 社群媒體貼文 - 奢華攝影棚芭蕾舞肖像九宮格
+### No. 28: 社群媒體貼文 - 奢華攝影棚芭蕾舞肖像九宮格
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2225,7 +2191,7 @@ null
 
 ---
 
-### No. 30: 社群媒體貼文 - 街邊書店人像
+### No. 29: 社群媒體貼文 - 街邊書店人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2259,7 +2225,7 @@ null
 
 ---
 
-### No. 31: 社群媒體貼文 - 空靈划艇田園童話
+### No. 30: 社群媒體貼文 - 空靈划艇田園童話
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2295,7 +2261,7 @@ null
 
 ---
 
-### No. 32: 社群媒體貼文 - 里斯本復古電車旅行海報
+### No. 31: 社群媒體貼文 - 里斯本復古電車旅行海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2347,7 +2313,7 @@ null
 
 ---
 
-### No. 33: 社群媒體貼文 - 復古雜誌紙藝拼貼肖像
+### No. 32: 社群媒體貼文 - 復古雜誌紙藝拼貼肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2381,7 +2347,7 @@ null
 
 ---
 
-### No. 34: 社群媒體貼文 - 動漫街頭潮流海報設計
+### No. 33: 社群媒體貼文 - 動漫街頭潮流海報設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2437,7 +2403,7 @@ null
 
 ---
 
-### No. 35: 社群媒體貼文 - 四格時尚編輯網格
+### No. 34: 社群媒體貼文 - 四格時尚編輯網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2473,6 +2439,46 @@ null
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=20842)**
+
+---
+
+### No. 35: 社群媒體貼文 - 哥德蘿莉振袖和服造型
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一份結合傳統日本振袖與哥德蘿莉風格的詳細提示詞，包含蕾絲、荷葉邊與皮革靴等精緻細節。
+
+#### 📝 提示詞
+
+```
+{argument name="japanese style" default="furisode lolita"}, 蕾絲, 荷葉邊, {argument name="belt" default="leather belt"}, 褲襪, {argument name="boots" default="lace-up long boots"}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252361_a1syku_HIcJGp5bIAEfuyh.jpg" width="600" alt="社群媒體貼文 - 哥德蘿莉振袖和服造型 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252314_h9fc9w_HIcJGrLaUAA0gtl.jpg" width="600" alt="社群媒體貼文 - 哥德蘿莉振袖和服造型 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [白亜@AIチャット民](https://x.com/hono9rayray)
+- **來源:** [Twitter Post](https://x.com/hono9rayray/status/2055621768178753786)
+- **發布時間:** 2026年5月16日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=20834)**
 
 ---
 
@@ -6142,58 +6148,19 @@ anime, manga, cartoon, illustration, 3D render, game CGI, plastic skin, waxy fac
 
 ---
 
-### No. 120: 電子商務主圖 - 南非公民身分證
+### No. 120: 電子商務主圖 - 直播帶貨截圖
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一份用於生成超逼真南非公民身分證的高度詳細提示詞，包含複雜的安全元素、全息覆蓋層以及真實的設計細節。
+生成一張逼真的直播帶貨活動截圖，畫面包含網紅展示產品以及活躍的聊天互動。
 
 #### 📝 提示詞
 
 ```
-超逼真 16:9 特寫攝影棚照片，展示一張放置在乾淨淺灰色或柔和中性背景上的南非公民身分證。卡片水平對齊，置於畫面中央，以清晰的微距對焦拍攝，並採用柔和的漫射攝影棚燈光。
-設計遵循現代南非政府發行的身分證件美學，具有結構化的多語言排版、雕刻安全圖案以及先進的防偽細節。
-頂部的大型粗體標題為：「REPUBLIC OF SOUTH AFRICA」，副標題為「CITIZENSHIP CARD」，次標題為「National Identity System」。
-左上角印有南非國旗。右上角包含正式的南非國徽，帶有鷹冠和盾牌標誌。
-卡片包含一張護照風格的年輕南非黑人女性肖像：
-– 深暖棕色膚色，具有真實的皮膚紋理
-– 長編織黑髮，整齊地向後梳理
-– 深棕色眼睛，表情中性，直視鏡頭
-– 妝容極簡，符合證件照的真實感
-– 穿著黑色西裝外套或深色正式上衣，搭配精緻的金色項鍊和耳環
-個人身分資訊以南非多語言格式顯示：
-– 姓氏 / Van / Isibongo: {argument name="surname" default="DLAMINI"}
-– 名字 / Voornames / Amagama: {argument name="forenames" default="NOMSA THANDO"}
-– 出生日期 / Geboortedatum / Usuku Lokuzalwa: 12 MAR 1992
-– 出生地點 / Geboorteplek / Indawo Yokuzalwa: DURBAN, KZN
-– 公民身分 / Burgerskap / Ubuni Bakambi: SOUTH AFRICAN CITIZEN
-– 身分證號 / Identity Number / Inombolo Yobuqhuba: {argument name="identity number" default="920312 1234 08 7"}
-– 發證日期 / Datum Uitgereik / Usuku Lokukhishwa: 20 MAY 2024
-– 有效期限 / Datum Verval / Usuku Lokuphela: 19 MAY 2034
-– 性別 / Geslag / Ubulili: F
-– 國籍 / Nasionaliteit: RSA
-– 出生國家 / Land van Geboorte: SOUTH AFRICA
-安全與設計特徵包括：
-– 覆蓋整個卡片表面的複雜扭索紋安全線圖案
-– 精細的微縮印刷防偽紋理
-– 帶有虹彩反射的全息箔片貼片
-– 透明分層安全覆蓋層
-– 圓形「RSA」全息安全封印
-– 包含國家花卉帝王花（Protea）的全息花卉貼片
-– 背景紋理中融入了南非的淡淡輪廓地圖
-– 右側有桌山（Table Mountain）和開普敦天際線的詳細雕刻插圖
-– 右下角融合了大型帝王花藝術圖案
-– 底部邊緣設有機器可讀的身分識別條
-– 底部簽名：「Nomsa T. Dlamini」
-額外設計風格：
-– 受南非國旗啟發的柔和綠色、金色、藍色、紅色、黑色和白色漸層
-– 聚碳酸酯層壓卡片質感，具有真實的反射效果和浮雕微細節
-– 現代高安全性政府文件外觀，採用鈔票風格的雕刻插圖工藝
-燈光柔和且均勻漫射，強調全息效果、雕刻紋理和真實的印刷細節，且無強烈陰影。畫面中無人手出現。
-風格：超詳細、照片級真實感
+一張直播帶貨的截圖，畫面中主播正拿著 {argument name="product" default="口紅"} 進行試色，彈幕區則充滿了「{argument name="chat text" default="已下單"}」的訊息。
 ```
 
 #### 🖼️ 生成圖片
@@ -6201,23 +6168,17 @@ anime, manga, cartoon, illustration, 3D render, game CGI, plastic skin, waxy fac
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891363_xmfvej_HILGFB4aIAItByG.jpg" width="600" alt="電子商務主圖 - 南非公民身分證 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891361_1a73mg_HILGFDEbsAE8SkX.jpg" width="600" alt="電子商務主圖 - 南非公民身分證 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1778662258189_mxjaf1_HIFeL3pbkAAVOhf.jpg" width="600" alt="電子商務主圖 - 直播帶貨截圖 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **來源:** [Twitter Post](https://x.com/Ankit_patel211/status/2054422174241620027)
-- **發布時間:** 2026年5月13日
-- **多語言:** en
+- **作者:** [Mr.pinecone](https://x.com/Mrpinecone888)
+- **來源:** [Twitter Post](https://x.com/Mrpinecone888/status/2054026553152147716)
+- **發布時間:** 2026年5月12日
+- **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=20056)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=19667)**
 
 ---
 
@@ -6227,7 +6188,7 @@ anime, manga, cartoon, illustration, 3D render, game CGI, plastic skin, waxy fac
 
 <div align="center">
 
-### 🎯 6338 更多提示詞未在此顯示
+### 🎯 6336 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6290,6 +6251,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-17T12:54:02.885Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-18T02:10:10.565Z</sub>
 
 </div>

@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6458** |
+| 📝 Total Prompts | **6456** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Sunday, May 17, 2026 at 12:53:48 PM UTC** |
+| 🔄 Last Updated | **Monday, May 18, 2026 at 2:09:55 AM UTC** |
 
 </div>
 
@@ -1683,41 +1683,7 @@ Constraints: Keep exactly 12 panels and exactly one main animal per panel. Maint
 
 ---
 
-### No. 21: Social Media Post - Distracted Boyfriend Skywork Meme
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A photorealistic meme-style street image where the distracted boyfriend format is customized with a Skywork logo card on the foreground woman.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic, cinematic street scene in the style of the classic “distracted boyfriend” meme, shot horizontally in a 16:9 crop. In the foreground left, show a woman in a bright {argument name="foreground woman dress color" default="red"} sleeveless dress walking toward camera, her face intentionally blurred; place a clean white square logo card over her upper torso with a colorful blue-green abstract S icon and the readable word {argument name="logo text" default="Skywork"} beneath it. In the center, show a man in a blue plaid short-sleeve shirt turning his head and upper body to look back over his shoulder toward the foreground woman, with his face also blurred. On the right, show his girlfriend in a light {argument name="girlfriend dress color" default="blue"} sleeveless dress, standing beside him and looking at him with a displeased expression, her face blurred as well. Use a busy sunlit urban pedestrian street as the background with warm daylight, shallow depth of field, soft bokeh, realistic colors, and candid stock-photo composition. Keep exactly three main people visible, preserve the humorous meme layout, make the logo card crisp and readable, and avoid adding extra captions, watermarks, or borders.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779008301515_kw3s24_HIecoi5WkAAemY-.png" width="600" alt="Social Media Post - Distracted Boyfriend Skywork Meme - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Alejandro Martinez | IA](https://x.com/copyelpadrino)
-- **Source:** [Twitter Post](https://x.com/copyelpadrino/status/2055785153494982854#reversed-0)
-- **Published:** May 16, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=20903)**
-
----
-
-### No. 22: Social Media Post - Long Exposure Motion Blur Photography
+### No. 21: Social Media Post - Long Exposure Motion Blur Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1769,7 +1735,7 @@ A {argument name="mood" default="cinematic"} photograph of a {argument name="sub
 
 ---
 
-### No. 23: Social Media Post - Four-Theme Newborn Portrait Collage
+### No. 22: Social Media Post - Four-Theme Newborn Portrait Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1817,7 +1783,7 @@ Constraints: Generate exactly four distinct themed newborn portraits in one 2x2 
 
 ---
 
-### No. 24: Social Media Post - Surreal Ocean Wall in Rainy City
+### No. 23: Social Media Post - Surreal Ocean Wall in Rainy City
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1851,7 +1817,7 @@ Create a hyperreal cinematic nighttime photograph of {argument name="city settin
 
 ---
 
-### No. 25: Social Media Post - Hyper-Realistic Football Broadcast Still
+### No. 24: Social Media Post - Hyper-Realistic Football Broadcast Still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1885,7 +1851,7 @@ use the same face from the rrefference image @Image without changing ffacial fea
 
 ---
 
-### No. 26: Social Media Post - Shopping Trolley POV Fashion Photography
+### No. 25: Social Media Post - Shopping Trolley POV Fashion Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1938,7 +1904,7 @@ Negative prompt legs position real normal no anomali legs.
 
 ---
 
-### No. 27: Social Media Post - Adorable Animals Luxury Fashion Group
+### No. 26: Social Media Post - Adorable Animals Luxury Fashion Group
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1977,7 +1943,7 @@ A group of adorable anthropomorphic animals forming a circle and looking down in
 
 ---
 
-### No. 28: Social Media Post - Creative Doodled Image Overlay
+### No. 27: Social Media Post - Creative Doodled Image Overlay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2023,7 +1989,7 @@ Edit this image while STRICTLY preserving the original subject, composition, bac
 
 ---
 
-### No. 29: Social Media Post - Luxury Studio Ballet Portrait Grid
+### No. 28: Social Media Post - Luxury Studio Ballet Portrait Grid
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2056,7 +2022,7 @@ A high-end studio photography prompt for creating a consistent 3x3 grid of luxur
 
 ---
 
-### No. 30: Social Media Post - Street Side Bookstore Portrait
+### No. 29: Social Media Post - Street Side Bookstore Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2090,7 +2056,7 @@ Generate a realistic portrait of a {argument name="subject" default="young man"}
 
 ---
 
-### No. 31: Social Media Post - Ethereal Rowboat Pastoral Fairytale
+### No. 30: Social Media Post - Ethereal Rowboat Pastoral Fairytale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2126,7 +2092,7 @@ Hyperrealistic photography, cinematic natural light, soft golden sunset, shallow
 
 ---
 
-### No. 32: Social Media Post - Lisbon Vintage Tram Travel Poster
+### No. 31: Social Media Post - Lisbon Vintage Tram Travel Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2178,7 +2144,7 @@ Create an emotional smartphone-style travel photograph of {argument name="city n
 
 ---
 
-### No. 33: Social Media Post - Vintage Magazine Paper Collage Portrait
+### No. 32: Social Media Post - Vintage Magazine Paper Collage Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2212,7 +2178,7 @@ Aesthetic vintage paper collage portrait of a {argument name="subject" default="
 
 ---
 
-### No. 34: Social Media Post - Anime Streetwear Poster Design
+### No. 33: Social Media Post - Anime Streetwear Poster Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2268,7 +2234,7 @@ Aspect ratio: 4:5 portrait.
 
 ---
 
-### No. 35: Social Media Post - Four-Panel Fashion Editorial Grid
+### No. 34: Social Media Post - Four-Panel Fashion Editorial Grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2304,6 +2270,46 @@ All panels same male subject, consistent face, ultra sharp detail, seamless grid
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=20842)**
+
+---
+
+### No. 35: Social Media Post - Gothic Lolita Furisode Outfit
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A detailed prompt for a fusion of traditional Japanese furisode and gothic lolita style, featuring intricate details like lace, frills, and leather boots.
+
+#### 📝 Prompt
+
+```
+{argument name="japanese style" default="furisode lolita"}, lace, frills, {argument name="belt" default="leather belt"}, tights, {argument name="boots" default="lace-up long boots"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252361_a1syku_HIcJGp5bIAEfuyh.jpg" width="600" alt="Social Media Post - Gothic Lolita Furisode Outfit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779008252314_h9fc9w_HIcJGrLaUAA0gtl.jpg" width="600" alt="Social Media Post - Gothic Lolita Furisode Outfit - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [白亜@AIチャット民](https://x.com/hono9rayray)
+- **Source:** [Twitter Post](https://x.com/hono9rayray/status/2055621768178753786)
+- **Published:** May 16, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=20834)**
 
 ---
 
@@ -5973,58 +5979,19 @@ Style Tags:
 
 ---
 
-### No. 120: E-commerce Main Image - South African ID Card Design
+### No. 120: E-commerce Main Image - Live Stream Shopping Screenshot
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-An ultra-realistic macro photograph of a South African citizenship card with detailed security features and professional portrait.
+A prompt for a realistic screenshot of a live stream e-commerce session, showing an influencer demonstrating lipstick with active chat comments.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic 16:9 close-up studio photograph of a South African citizenship identity card placed on a clean light grey or soft neutral background. The card is horizontally aligned, centered in frame, captured in sharp macro focus with soft diffused studio lighting.
-The design follows a modern South African government-issued identity document aesthetic with structured multilingual typography, engraved security artwork, and advanced anti-counterfeit detailing.
-Large bold header at top reads: “REPUBLIC OF SOUTH AFRICA” with secondary title “CITIZENSHIP CARD” and subtitle “National Identity System.”
-Top-left corner features the South African national flag. Upper-right includes the official South African coat of arms with eagle crest and shield emblem.
-The card contains a passport-style portrait of a young Black South African woman:
-– Deep warm brown skin tone with realistic skin texture
-– Long braided black hair neatly styled back
-– Dark brown eyes, neutral expression, direct gaze
-– Minimal makeup with documentary realism
-– Wearing a black blazer or dark formal top with subtle gold necklace and earrings
-Personal identity information displayed in multilingual South African format:
-– Surname / Van / Isibongo: {argument name="surname" default="DLAMINI"}
-– Forenames / Voornames / Amagama: {argument name="forenames" default="NOMSA THANDO"}
-– Date of Birth / Geboortedatum / Usuku Lokuzalwa: {argument name="birth date" default="12 MAR 1992"}
-– Place of Birth / Geboorteplek / Indawo Yokuzalwa: DURBAN, KZN
-– Citizenship / Burgerskap / Ubuni Bakambi: SOUTH AFRICAN CITIZEN
-– Identity / Identity Number / Inombolo Yobuqhuba: 920312 1234 08 7
-– Date of Issue / Datum Uitgereik / Usuku Lokukhishwa: 20 MAY 2024
-– Date of Expiry / Datum Verval / Usuku Lokuphela: 19 MAY 2034
-– Sex / Geslag / Ubulili: F
-– Nationality / Nasionaliteit: RSA
-– Country of Birth / Land van Geboorte: SOUTH AFRICA
-Security and design features include:
-– Intricate guilloche security line patterns across the entire card surface
-– Fine microprinted anti-counterfeit textures
-– Holographic foil patches with iridescent rainbow reflections
-– Transparent layered security overlays
-– Circular “RSA” holographic security seal
-– Holographic floral patch featuring the national protea flower
-– Faint outline map of South Africa integrated into background texture
-– Detailed engraved illustration of Table Mountain and Cape Town skyline across the right side
-– Large protea flower artwork blended into lower-right corner
-– Machine-readable identity strip along bottom edge
-– Signature at bottom: “Nomsa T. Dlamini”
-Additional design styling:
-– Soft green, gold, blue, red, black, and white gradients inspired by the South African flag
-– Polycarbonate laminated card texture with realistic reflections and embossed micro-detail
-– Modern high-security government document appearance with engraved banknote-style illustration work
-Lighting is soft and evenly diffused, emphasizing holographic effects, engraved textures, and realistic print detail without harsh shadows. No hand visible.
-Style: ultra-detailed, photorealist
+Live stream shopping screenshot, host holding {argument name="product" default="lipstick"} for color testing, bullet chat filled with "{argument name="comment" default="Order placed"}"
 ```
 
 #### 🖼️ Generated Images
@@ -6032,23 +5999,17 @@ Style: ultra-detailed, photorealist
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891363_xmfvej_HILGFB4aIAItByG.jpg" width="600" alt="E-commerce Main Image - South African ID Card Design - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778835891361_1a73mg_HILGFDEbsAE8SkX.jpg" width="600" alt="E-commerce Main Image - South African ID Card Design - Image 2">
+<img src="https://cms-assets.youmind.com/media/1778662258189_mxjaf1_HIFeL3pbkAAVOhf.jpg" width="600" alt="E-commerce Main Image - Live Stream Shopping Screenshot - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **Source:** [Twitter Post](https://x.com/Ankit_patel211/status/2054422174241620027)
-- **Published:** May 13, 2026
-- **Languages:** en
+- **Author:** [Mr.pinecone](https://x.com/Mrpinecone888)
+- **Source:** [Twitter Post](https://x.com/Mrpinecone888/status/2054026553152147716)
+- **Published:** May 12, 2026
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=20056)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=19667)**
 
 ---
 
@@ -6058,7 +6019,7 @@ Style: ultra-detailed, photorealist
 
 <div align="center">
 
-### 🎯 6338 more prompts not shown here
+### 🎯 6336 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6121,6 +6082,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-17T12:53:48.861Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-18T02:09:56.052Z</sub>
 
 </div>
