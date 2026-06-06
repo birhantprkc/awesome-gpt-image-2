@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **9049** |
+| 📝 Total de prompts | **9182** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **sábado, 6 de junio de 2026, 2:03:45 UTC** |
+| 🔄 Última actualización | **sábado, 6 de junio de 2026, 13:05:45 UTC** |
 
 </div>
 
@@ -525,19 +525,19 @@ Transforma una línea de tiempo evolutiva plana en una infografía realista de u
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Perfil / Avatar - Colegiala surrealista y criatura amorfa
+### No. 1: Perfil / Avatar - Ilustración de síntesis fotográfica de eventos
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una escena de ensueño al estilo de película analógica donde una colegiala en cuclillas se encuentra con una criatura surrealista y suave en un interior fantástico de color blanco.
+Un prompt para sintetizar varias fotos de un álbum en una sola ilustración artística y cohesiva.
 
 #### 📝 Prompt
 
 ```
-Crea una fotografía cinematográfica surrealista al estilo de película analógica en un interior arquitectónico fantástico de color blanco bajo un cielo pintado y abierto. Una {argument name="character description" default="colegiala japonesa con uniforme de marinero azul marino, falda negra plisada, top blanco de manga larga, pañuelo oscuro, calcetines negros, mocasines negros y una mochila oscura"} se encuentra en cuclillas a la izquierda, inclinada hacia adelante con las manos juntas cerca de las rodillas como si saludara suavemente a un extraño compañero. A su lado, centrado y ligeramente a la derecha, se encuentra una criatura grande, suave, redondeada y de color rosa pálido, similar a una mascota, con una textura gomosa y lisa y múltiples pies cortos similares a tentáculos visibles en la parte inferior; mantén a la criatura inofensiva, tierna y misteriosa. Añade exactamente dos bloques de censura opacos como superposiciones gráficas visibles: un cuadrado grande de color gris cálido que cubra la parte superior central de la criatura y gran parte del centro de la imagen, y un cuadrado más pequeño de color gris cálido que cubra el rostro de la chica. El entorno es un espacio etéreo de yeso blanco con paredes curvas, reflejos brillantes en el suelo pálido y exactamente tres aberturas ovaladas negras: una abertura ovalada alta en la pared del extremo izquierdo, una abertura ovalada vertical alta más abajo en la pared izquierda y una gran abertura negra en forma de media cúpula a la derecha. Incluye exactamente dos conjuntos de escaleras blancas: una escalera prominente que sube a lo largo de la pared izquierda y una plataforma escalonada más pequeña que conduce hacia la abertura de la derecha. El cielo de fondo es de color gris azulado con nubes suaves y una tenue luna llena en la parte superior derecha. Utiliza colores apagados, grano suave, un ligero viñeteado, una atmósfera de fotograma de película de los años 90 con bajo contraste, composición horizontal 3:2, cámara a la altura de los ojos de alguien sentado, sin texto, sin marca de agua.
+Genera una única ilustración basada en las fotos de {argument name="event" default="viaje escolar"}.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -545,21 +545,649 @@ Crea una fotografía cinematográfica surrealista al estilo de película analóg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650752283_tuv2co_HKAcgLZbkAAXmN6.jpg" width="600" alt="Perfil / Avatar - Colegiala surrealista y criatura amorfa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735275664_kx5mf6_HKEUAl2akAEsYpG.jpg" width="600" alt="Perfil / Avatar - Ilustración de síntesis fotográfica de eventos - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [シオナイ](https://x.com/sion41754400)
-- **Fuente:** [Twitter Post](https://x.com/sion41754400/status/2062680293602168833#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
+- **Autor:** [Eris Create Lab](https://x.com/Eris_Create_Lab)
+- **Fuente:** [Twitter Post](https://x.com/Eris_Create_Lab/status/2062952975077982713)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** ja
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24200)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24284)**
 
 ---
 
-### No. 2: Perfil / Avatar - Collage de cuadrícula de fotocards de ídolo coreano
+### No. 2: Perfil / Avatar - Retrato de anime a partir de una foto de referencia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Transforma una sencilla foto de referencia de una persona sentada en un retrato de personaje de anime en primer plano con un nuevo atuendo, color de pelo y un fondo de vegetación.
+
+#### 📝 Prompt
+
+```
+Utilizando REFERENCE_0 como base para la pose y la composición, transforma a la mujer sentada en un pulido retrato de personaje al estilo anime. Mantén el rostro anonimizado con un bloque de desenfoque rectangular grande y suave, pero cambia el encuadre de una escena de café/mesa de perfil a un retrato de busto de frente en primer plano. Reemplaza la habitación interior realista, la mesa, la taza, el libro y la silla originales por un fondo de jardín interior luminoso con hojas o una ventana. Cambia el estilo del personaje con {argument name="hair color" default="azul hielo pálido"} un corte de pelo tipo bob corto, y vístela con un {argument name="outfit style" default="top sin mangas estilo ídolo gótico en negro, blanco y plata"} ornamentado con detalles de encaje en los hombros, lazo de cinta, botones decorativos y paneles estructurados. Utiliza un estilo de ilustración de anime japonés nítido y de alta calidad con arte lineal limpio, iluminación suave, vegetación vívida, profundidad de campo reducida y una composición vertical para smartphone. Conserva la atmósfera tranquila de la persona sentada de la referencia, haciendo que la imagen final parezca una ilustración de personaje terminada en lugar de una foto.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735299263_sc65wz_HKEAJ4JbgAATlV-.jpg" width="600" alt="Perfil / Avatar - Retrato de anime a partir de una foto de referencia - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735299290_togdrn_HKEAMnPbYAAq1Gg.jpg" width="600" alt="Perfil / Avatar - Retrato de anime a partir de una foto de referencia - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [🐻‍❄️Gomdan🐻‍❄️](https://x.com/gomdanjp)
+- **Fuente:** [Twitter Post](https://x.com/gomdanjp/status/2062931827040670155#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24326)**
+
+---
+
+### No. 3: Perfil / Avatar - Retrato cándido nocturno en el baño
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para generar un retrato fotográfico de estilo película, ultra realista y cándido, de una mujer joven en un baño durante la noche, con reflejos en el espejo y vistas al horizonte urbano.
+
+#### 📝 Prompt
+
+```
+Retrato fotográfico de estilo película, ultra realista y cándido, de una {argument name="subject" default="mujer joven"} inclinada sobre un {argument name="setting" default="lavabo de baño"} y mirando hacia un espejo por la noche, capturado a través de un espejo ligeramente sucio con reflejos naturales e imperfecciones sutiles. Tiene el cabello negro largo cubriendo parcialmente su rostro, piel suave y radiante, y una sonrisa gentil y misteriosa. Viste un {argument name="clothing" default="top ajustado de hombros descubiertos en color rosa claro y pantalones de estar por casa holgados en color crema"}, posando de manera casual con ambas manos apoyadas en el lavabo.
+La escena está iluminada por un flash directo de cámara, creando una estética auténtica de cámara desechable de los años 2000, reflejos suaves, textura de piel realista y sombras naturales. Un horizonte urbano nocturno con luces de neón coloridas y rascacielos es visible a través de una ventana cercana, añadiendo una atmósfera urbana. La encimera del baño está llena de productos de cuidado de la piel y cosméticos, lo que realza la sensación de un espacio vivido y personal.
+Capturado desde una perspectiva de espejo en primer plano, composición cinematográfica, profundidad de campo reducida, grano de película de 35mm nostálgico, destello de lente sutil, reflejos en el cristal, ambiente de apartamento melancólico, fotografía de estilo de vida coreano, momento cotidiano íntimo, instantánea de moda editorial, energía cándida cruda, colores realistas, alto detalle, composición vertical, estética de película analógica premium, estilo de fotografía tendencia en Pinterest e Instagram.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735256691_5i18tw_HKEAI2EagAA6o7M.jpg" width="600" alt="Perfil / Avatar - Retrato cándido nocturno en el baño - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735256690_jvmz0h_HKEAI-DaMAAC8fY.jpg" width="600" alt="Perfil / Avatar - Retrato cándido nocturno en el baño - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jahan Zaib](https://x.com/jzaib4269)
+- **Fuente:** [Twitter Post](https://x.com/jzaib4269/status/2062930262984687901)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24259)**
+
+---
+
+### No. 4: Perfil / Avatar - Retrato de daguerrotipo victoriano a partir de referencia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt complejo para transformar una foto moderna en un auténtico retrato de daguerrotipo victoriano de 1864, preservando la identidad facial.
+
+#### 📝 Prompt
+
+```
+Crea un retrato de daguerrotipo victoriano de 1864 ultra realista y de alta calidad, utilizando la foto subida estrictamente como referencia de identidad de la MISMA mujer. PRESERVACIÓN ABSOLUTA DE LA IDENTIDAD — MÁXIMA PRIORIDAD. Preserva EXACTAMENTE: - estructura facial - anatomía ósea - proporciones - forma y separación de los ojos - forma de la nariz - estructura de los labios y la sonrisa - línea de la mandíbula y pómulos - textura de la piel y poros - cejas - línea del cabello - detalles faciales únicos y asimetría - parecido natural general y reconocibilidad. NO embellezcas, rediseñes, reemplaces ni reinterpretes el rostro. NO alteres la etnia, la edad, las proporciones ni la identidad. La imagen final debe parecerse inequívocamente a la persona original. ESTILO Y ÉPOCA: Fotografía de retrato de daguerrotipo victoriano auténtico de 1864. La mujer aparece posando en un entorno de estudio antiguo históricamente preciso, capturada con el realismo y las imperfecciones de los primeros procesos fotográficos de mediados del siglo XIX. CABELLO Y ESTILO: Cabello largo, natural, oscuro y ondulado, con una textura suave y realista y un estilo victoriano históricamente apropiado. Apariencia elegante, sutil y atemporal. VESTUARIO: Un vestido de corsé de encaje color crema con hombros descubiertos, con delicados detalles victorianos y una textura de tela realista. Un sencillo collar con relicario de oro antiguo. COMPOSICIÓN: Retrato de busto o medio cuerpo centrado, con una postura elegante y mirada directa a la cámara. Enmarcado dentro de una viñeta ovalada antigua. DETALLES DE SUPERFICIE Y MATERIAL: Impreso en papel pergamino amarillento envejecido con auténticas manchas de té, bordes descoloridos, textura de papel, partículas de polvo, marcas de oxidación, arañazos, grietas sutiles, artefactos de plateado e imperfecciones realistas del envejecimiento del daguerrotipo. TEXTO: Elegante caligrafía cursiva escrita a mano en la parte inferior que dice: “LEO 1804”. ILUMINACIÓN: Iluminación de estudio natural y suave con caída realista, sombras sutiles, renderizado de piel fiel a la realidad y características de exposición históricamente precisas. Transiciones tonales naturales sin efecto de filtro de belleza artificial. COLOR Y TONO: Paleta monocromática descolorida en tonos sepia con estética de química fotográfica antigua auténtica. Rica atmósfera histórica, profundidad cinematográfica, estado de ánimo inquietantemente hermoso. REALISMO Y CALIDAD: Obra maestra ultra realista en 8K. Calidad fotográfica premium hiperdetallada. Parece un daguerrotipo victoriano genuino, conservado profesionalmente y escaneado en ultra alta resolución desde un archivo de museo. Textura de piel natural, ojos realistas, tela realista, iluminación realista, detalles físicamente precisos. Capturado como si hubiera sido tomado por un fotógrafo de retratos profesional de clase mundial utilizando una cámara de formato medio de gama ultra alta, preservando al mismo tiempo el carácter fotográfico auténtico de 1864.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735287705_ha65vo_HKDk5ZIXYAE0GRr.jpg" width="600" alt="Perfil / Avatar - Retrato de daguerrotipo victoriano a partir de referencia - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Anissa](https://x.com/SimplyAnnisa)
+- **Fuente:** [Twitter Post](https://x.com/SimplyAnnisa/status/2062900307898646713)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24304)**
+
+---
+
+### No. 5: Perfil / Avatar - Identidad de caricatura 3D premium
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de caricatura 3D estilizada que preserva la identidad de una persona a partir de una imagen subida, con el estilo de un juguete de diseño de lujo.
+
+#### 📝 Prompt
+
+```
+Crea una caricatura 3D estilizada premium de {argument name="subject" default="la persona en la imagen subida"}, preservando su identidad exacta, rasgos faciales, peinado, tono de piel, edad y expresión. Cabeza de gran tamaño, parte superior del cuerpo más pequeña y realista, estética de juguete de diseño de lujo, torso y brazos visibles, pose natural y segura, CGI ultra detallado, materiales premium suaves, iluminación de estudio tenue, fondo gris neutro, renderizado hiperrealista, enfoque nítido, composición 1:1. Incluye la foto original subida como una inserción de esquinas redondeadas en la esquina inferior derecha (15–20% del marco) con un borde blanco sutil y una sombra suave, creando una comparación clara de antes y después. Prompt negativo: {argument name="negative content" default="pedestal, base, busto, cabeza flotante, Pixar, anime, dibujos animados, low-poly, borroso, rostro distorsionado, extremidades adicionales, texto, marca de agua, logotipo, fondo desordenado, baja calidad."}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735255674_i30912_HKDkZOuaMAAoPnW.jpg" width="600" alt="Perfil / Avatar - Identidad de caricatura 3D premium - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735255680_ge5f0j_HKDkZRxaEAA4XWi.jpg" width="600" alt="Perfil / Avatar - Identidad de caricatura 3D premium - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Synthia](https://x.com/AIwithSynthia)
+- **Fuente:** [Twitter Post](https://x.com/AIwithSynthia/status/2062899755207024975)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24256)**
+
+---
+
+### No. 6: Perfil / Avatar - Prompt de Dragon Ball Z:
+
+REFERENCIA FACIAL: Referencia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+null
+
+#### 📝 Prompt
+
+```
+REFERENCIA FACIAL: Las fotos de referencia son la prioridad absoluta y suprema. El rostro del sujeto es fotorrealista y completamente específico a las referencias. Asegurar: estilo de cabello oscuro y voluminoso exacto, proporciones faciales reales, forma de ojos auténtica, luz natural
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735292642_gqmg0v_HKDGBSmasAAYzt5.jpg" width="600" alt="Perfil / Avatar - Prompt de Dragon Ball Z:
+
+REFERENCIA FACIAL: Referencia - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
+- **Fuente:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2062867083067875683)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24314)**
+
+---
+
+### No. 7: Perfil / Avatar - Prompt de Tom & Jerry:
+
+REFERENCIA FACIAL: Usa pro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+null
+
+#### 📝 Prompt
+
+```
+REFERENCIA FACIAL: Usa las fotos proporcionadas como prioridad absoluta. El espectador debe reconocer al sujeto al instante y sin lugar a dudas. Mantén: el peinado exacto con volumen natural, las proporciones faciales precisas, la forma y el color de los ojos, la sombra de barba natural,
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735291886_njv86e_HKDGAMFasAA5kHd.jpg" width="600" alt="Perfil / Avatar - Prompt de Tom & Jerry:
+
+REFERENCIA FACIAL: Usa pro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
+- **Fuente:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2062867078349300112)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24313)**
+
+---
+
+### No. 8: Perfil / Avatar - Retrato editorial con letra S
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt editorial premium que enmarca un sofisticado retrato estilo DSLR dentro de una letra decorativa recortada.
+
+#### 📝 Prompt
+
+```
+Crea un retrato de alta resolución estilo DSLR de una mujer, preservando los rasgos faciales exactos, las proporciones, el tono de piel, la expresión y el parecido general de la persona de referencia con máxima precisión de identidad.
+
+Diseña la composición en un sofisticado estilo de retrato con letra, donde toda la imagen se enmarca creativamente dentro de una letra grande y elegante "{argument name="letter" default="S"}". El rostro y las manos de la mujer deben emerger naturalmente a través de las secciones recortadas de la letra, creando un efecto visual editorial premium.
+
+Características y estilo:
+
+Preservación del 100% del parecido facial de la imagen de referencia
+
+Expresión suave, femenina y segura, con media mirada (contacto visual suave de 1/2)
+
+Colocación elegante de las manos en los bordes superior e inferior de la letra, pareciendo que ella sostiene o interactúa con el recorte
+
+Pose elegante y natural con postura relajada
+
+Vestuario sencillo pero lujoso apropiado para una mujer, con tonos neutros suaves, texturas refinadas y un estilo atemporal
+
+Entorno de estudio limpio con un fondo blanco puro
+
+Iluminación profesional suave y difusa con reflejos sutiles y un renderizado de piel suave
+
+Enfoque ultra nítido en los ojos y los detalles faciales
+
+Calidad editorial de revista de moda premium
+
+Fotografía DSLR totalmente fotorrealista, indistinguible de una sesión de fotos de estudio real
+
+Textura de piel natural, sombras realistas y profundidad de campo auténtica
+
+Estética de retrato comercial de alta gama
+
+Composición minimalista que enfatiza la belleza, la elegancia y la sofisticación
+
+Calidad técnica:
+
+Salida de ultra alta resolución 8K
+
+Calidad de imagen equivalente a DSLR
+
+Detalles nítidos y gradación de color profesional
+
+Estética de iluminación en tonos blancos limpios
+
+Estándar de fotografía de retrato de lujo premium
+2:3ar
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735282985_a9j457_HKCnNGebIAACWje.jpg" width="600" alt="Perfil / Avatar - Retrato editorial con letra S - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735283003_13hix3_HKCnNE9awAAjYgZ.jpg" width="600" alt="Perfil / Avatar - Retrato editorial con letra S - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735283020_dvfwc0_HKCnNGSacAAapy2.jpg" width="600" alt="Perfil / Avatar - Retrato editorial con letra S - Image 3">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [S̶y̶d̶n̶e̶y̶ ♡](https://x.com/XSydneyFan)
+- **Fuente:** [Twitter Post](https://x.com/XSydneyFan/status/2062832476586996099)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24297)**
+
+---
+
+### No. 9: Perfil / Avatar - Hoja de personaje de fan de Gothic Lolita
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Genera un collage de apreciación denso al estilo anime para un lindo personaje gothic-lolita con muchas poses, detalles, chibis y notas de fan escritas a mano.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear una hoja de apreciación de personaje de anime densa en información, llena de borde a borde con dibujos expresivos de una adorable chica gothic-lolita, como si fuera hecha por un fan obsesionado. La sensación general es de sobrecarga de ternura, admiración frenética y notas de diseño de personaje altamente detalladas.
+
+Lienzo: Lienzo vertical de retrato 3:4, fondo de papel blanco, diseño de collage denso sin bordes. Utiliza una estética de cuaderno de bocetos dibujado a mano con renderizado de acuarela/marcador, contornos de tinta, sombreado gris suave, corazones rosa pálido, corazones de acento azul, destellos, flechas, signos de exclamación y notas de elogio en japonés escritas a mano dispersas por todas partes.
+
+Personaje principal: Una joven chica de anime llamada {argument name="character name" default="chica gothic-lolita sin nombre"} con cabello largo y ondulado de color {argument name="hair color" default="negro brillante"} en dos coletas o semirecogido, flequillo grueso, rubor suave, ojos grandes rosados y un rostro delicado como de muñeca. Su rostro debe dejarse intencionalmente como un óvalo suave borroso/oscurecido en varios retratos más grandes, mientras que los dibujos de detalle más pequeños pueden mostrar ojos y boca expresivos. Viste un vestido gothic-lolita negro con volantes, acentos de cinta azul pálido, ribetes de encaje, mangas abullonadas, falda en capas, detalles de dijes de corazón, calcetines blancos con volantes y zapatos de plataforma Mary Jane negros y gruesos. El color de acento principal es {argument name="accent ribbon color" default="azul polvo"}. El estado de ánimo es abrumadoramente afectuoso y tierno.
+
+Diseño: Coloca exactamente 20 ilustraciones discretas del personaje/detalle alrededor del lienzo, superponiéndose ligeramente pero legibles. Cuenta e incluye estos 20 elementos visibles: 1 pose central de cuerpo completo de pie sosteniendo un abanico plegable blanco abierto; 2 retrato de busto grande en la parte superior izquierda con rostro borroso; 3 retrato pequeño de cabeza y hombros en la parte superior central con rostro borroso; 4 primer plano en la parte superior derecha de manos elegantes con puños de encaje negro y uñas pálidas; 5 retrato de busto tímido en la parte superior derecha con dedos cerca de la boca y rostro borroso; 6 primer plano en la parte superior derecha de un ojo rosa brillante; 7 chibi en el medio a la izquierda sentado mientras abraza un peluche rosa; 8 busto de perfil medio-izquierdo que muestra el cabello largo y el lazo azul; 9 primer plano en la parte inferior izquierda de un ojo rosa; 10 primer plano en la parte inferior izquierda de un gesto de mano levantada con puño; 11 busto pequeño en la parte inferior central enfocado en el lazo del cabello y la cinta del pecho con rostro borroso; 12 retrato de busto grande recortado en la parte inferior izquierda con rostro borroso; 13 busto grande recortado en la parte inferior central con la mano cerca de la mejilla y rostro borroso; 14 primer plano en el medio a la derecha de la cinta del corpiño y el lazo de la cintura; 15 cabeza de chibi llorando pequeña en el medio a la derecha; 16 cabeza de chibi llorando pequeña en la parte inferior derecha con la boca abierta; 17 busto grande y tímido en la parte inferior derecha con ambas manos cubriendo las mejillas y rostro borroso; 18 pose de medio cuerpo arrodillada o sentada en la parte inferior central derecha con la mano cerca de los labios, rostro visible, luciendo tímida; 19 detalle de cabello y atuendo de vista trasera en la parte inferior central que muestra las cintas traseras del cabello y la parte posterior del vestido; 20 cara de chibi diminuta sonrojada en la parte inferior derecha con lágrimas.
+
+Contenido de texto escrito a mano: Agrega muchas notas de fan informales escritas a mano en japonés, manteniéndolas decorativas y enérgicas. Incluye un titular enorme en la parte superior izquierda que diga {argument name="headline text" default="なのかが 世界一かわいい...!!!"}. Incluye también notas dispersas similares a: 「存在が…尊い…!!」, 「この手が好きすぎる…」, 「天使だよ…」, 「ビジュ強すぎ問題」, 「大好き」, 「全身かわいすぎて無理…!!!」, 「笑顔…最高!!!」, 「守ってあげたい…!!!」, 「横顔も好きすぎる!!!」, 「リボンもフリルも完璧すぎる…」, 「ハートの金具が天才的…!!!」, 「もうほんとに好きすぎるっ!!!」, 「だいすき!!!」, 「尊すぎて語彙力消失!!!」, 「可愛さ大洪水…!!!」, 「なのかしか勝たん!!!」. Escríbelas libremente a mano con tinta negra con reflejos rosas, flechas y corazones.
+
+Estilo visual: Ilustración de anime altamente pulida mezclada con la energía de anotaciones escritas a mano; mechones de cabello brillantes detallados, encaje, volantes, lazos y accesorios; tonos de rubor suave; caras chibi expresivas; corazones rosas y azules por todas partes. La página debe sentirse llena, caótica, afectuosa y linda, pero aún equilibrada alrededor de la figura central de cuerpo completo.
+
+Restricciones: Sin fotorrealismo, sin renderizado 3D, sin diseño corporativo limpio, sin fondo vacío, sin marca de agua. Mantén el collage denso y cuenta exactamente 20 elementos ilustrados.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735303901_vk1j2u_HKCT_XOa8AAA_V5.jpg" width="600" alt="Perfil / Avatar - Hoja de personaje de fan de Gothic Lolita - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [会長@中の人](https://x.com/pso2kaityo)
+- **Fuente:** [Twitter Post](https://x.com/pso2kaityo/status/2062811353296089316#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24335)**
+
+---
+
+### No. 10: Perfil / Avatar - Collage artístico de retrato anime
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Genera un retrato anime semirrealista de una mujer con estilo sobre un fondo de bocetos, paneles de manga y garabatos artísticos.
+
+#### 📝 Prompt
+
+```
+Retrato de estilo anime semirrealista de una joven elegante {argument name="subject" default="mujer coreana"} con un corte bob negro brillante y corto metido detrás de una oreja, delicadas gafas de montura redonda y una expresión amable y segura. Viste una {argument name="top" default="blusa oversize de color lila pastel"} con las mangas remangadas combinada con una {argument name="bottom" default="falda midi de corte en A color marfil"} fluida. Composición de cuerpo completo, de pie de forma casual con una postura relajada. Detrás de ella hay un collage artístico de estudios de personajes monocromáticos dibujados a mano, bocetos a lápiz sueltos, paneles de manga, garabatos divertidos, estrellas, corazones, espirales y notas escritas a mano dispersas orgánicamente por el fondo. Ilustración de moda anime contemporánea con texturas mixtas de tinta y lápiz, líneas limpias, sombreado cel sutil, fondo blanco brillante, estética de portada de revista, altamente detallado, ultra nítido, vibrante pero elegante, obra maestra en 8K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735280233_n55rv7_HKBzKN9bsAAxVME.jpg" width="600" alt="Perfil / Avatar - Collage artístico de retrato anime - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ÀBDŪLLÂH](https://x.com/itxabdullaa)
+- **Fuente:** [Twitter Post](https://x.com/itxabdullaa/status/2062775255735931307)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24292)**
+
+---
+
+### No. 11: Perfil / Avatar - Interacción realista en un estudio de artista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para crear una escena realista donde una persona interactúa con un boceto a grafito de sí misma en un estudio de artista acogedor y estético.
+
+#### 📝 Prompt
+
+```
+Transformación de imagen de alta calidad y ultra realista. Mantén el rostro, la identidad y los rasgos faciales originales EXACTAMENTE iguales, sin ninguna modificación. La escena muestra al {argument name="subject" default="hombre"} de pie dentro de un {argument name="room type" default="estudio de artista"} acogedor y creativo. A su lado, hay un gran retrato a lápiz dibujado a mano de sí mismo colocado sobre un caballete de madera. El boceto debe parecer un dibujo a grafito realista y altamente detallado en blanco y negro, que coincida exactamente con la pose, el atuendo y la expresión del hombre real. El hombre real debe estar a todo color, vistiendo el mismo atuendo, con tonos de piel naturales, iluminación realista y enfoque nítido. Debe estar interactuando con el boceto, ya sea sosteniendo o estrechando la mano de su versión dibujada. El fondo debe parecer el estudio de un artista creativo: suelo de madera, iluminación cálida y suave, materiales de arte dispersos como pinceles, paletas, lienzos, cuadros colgados en las paredes, estantes con colores y un ambiente de estudio ligeramente desordenado pero estético. La iluminación debe ser cálida, cinematográfica, ligeramente dorada, con sombras suaves y profundidad de campo. Asegúrate de: Preservar el rostro al 100% sin cambios faciales por IA. Mantener el mismo peinado, expresión y atuendo. Interacción manual realista entre el hombre real y el boceto. Sombreado a lápiz altamente detallado en el boceto. Calidad fotorrealista, resolución 4K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735263041_ut1xb8_HKBgkRHbcAAjoJy.jpg" width="600" alt="Perfil / Avatar - Interacción realista en un estudio de artista - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
+- **Fuente:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2062754827105599525)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24269)**
+
+---
+
+### No. 12: Perfil / Avatar - Collage de personajes con estética adorable
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para crear un collage de personajes de inspiración coreana, con una joven rodeada de versiones chibi juguetonas de sí misma en una estética suave y de ensueño.
+
+#### 📝 Prompt
+
+```
+Un collage de personajes con una estética ultra adorable que presenta a una hermosa {argument name="subject" default="joven"} con un {argument name="outfit" default="suave conjunto escolar de inspiración coreana"}, rodeada de adorables versiones chibi de sí misma en diferentes poses y expresiones juguetonas. El personaje principal se encuentra con confianza en el centro, vistiendo una elegante blusa blanca de manga larga con un lazo negro, una falda plisada de cuadros marrones, calcetines blancos y mocasines negros brillantes. Tiene un largo y suave {argument name="hair style" default="cabello negro ondulado"}, piel clara radiante, una sonrisa amable, maquillaje suave y una expresión dulce y encantadora. A su alrededor hay múltiples versiones mini chibi con ojos brillantes de gran tamaño, mejillas sonrojadas, poses juguetonas, sentadas, saludando, guiñando un ojo, bebiendo café helado, sonriendo tímidamente y haciendo expresiones lindas. Fondo gris pastel suave lleno de pequeños garabatos que incluyen estrellas, destellos, corazones, caras sonrientes, animales lindos, burbujas de diálogo, texto escrito a mano con estética, contornos blancos tipo pegatina alrededor de cada personaje. Estética kawaii coreana, iluminación suave de ensueño, tablero de inspiración estilo Pinterest, composición limpia, estilo de moda adorable, ambiente acogedor y sano, ultra detallado, sombras suaves, ojos brillantes, textura de cabello suave, estilo fotorrealista mezclado con anime-chibi, alta calidad 8k, diseño de paquete de pegatinas lindo, tonos neutros suaves, composición de póster con estética kawaii.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735277674_hvv1a3_HKBgdQAagAAUytx.jpg" width="600" alt="Perfil / Avatar - Collage de personajes con estética adorable - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [S](https://x.com/sakshi___007)
+- **Fuente:** [Twitter Post](https://x.com/sakshi___007/status/2062754695265886289)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24130)**
+
+---
+
+### No. 13: Perfil / Avatar - Collage denso de fan-art de colegiala anime
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Genera un collage de estilo manga repleto de aprecio por una linda colegiala, con poses repetidas, chibis, notas escritas a mano, corazones y destellos.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear una hoja de collage de fan-art de anime extremadamente densa que celebre a una linda colegiala, como una caótica página de "aprecio a mi personaje favorito" cubierta de garabatos, corazones, destellos, elogios escritos a mano y muchas poses repetidas de la misma chica.
+
+Lienzo: Ilustración vertical 3:4, fondo de papel blanco, composición de borde a borde sin espacios vacíos. Utiliza un estilo de boceto manga dibujado a mano cálido, marcadores de acuarela suaves, contornos de tinta marrón, letras con acento rosa y anotaciones garabateadas llenas de energía.
+
+Detalles del sujeto: El personaje repetido es {argument name="character name" default="una alegre colegiala de pelo corto"}. Tiene un corte bob corto y esponjoso de color marrón con flequillo, pequeñas horquillas doradas, grandes ojos color ámbar-marrón, mejillas sonrosadas y una expresión vivaz e inocente. El atuendo consiste en un cárdigan beige de talla grande sobre una blusa de cuello de encaje blanco, corbata con lazo azul, falda plisada de cuadros azules, calcetines blancos hasta la rodilla y mocasines marrones. Mantén la paleta de colores consistente: beige, azul marino, marrón cálido, crema, dorado, rosa y líneas de boceto negras.
+
+Diseño y elementos contados: Incluye exactamente 27 representaciones visibles del mismo personaje más 2 paneles de detalles adicionales. Organízalos como recortes superpuestos tipo pegatina con bordes blancos y ángulos diagonales. Las 27 representaciones del personaje son: 1 rostro recortado muy grande en la parte superior izquierda con un desenfoque rectangular marrón suave cubriendo el rostro; 1 busto pequeño y emocionado en la parte superior central con la boca abierta; 1 busto pequeño y tímido en la parte superior izquierda central con sonrojo; 1 pose señalando en la parte superior central con un rostro desenfocado en marrón suave; 1 pose sentada grande en la parte superior derecha con un rostro desenfocado en marrón suave; 1 busto riendo en la parte media derecha; 1 chibi diminuto y enojado a la izquierda; 1 chibi diminuto dentro de una burbuja de pensamiento; 1 pose de torso central muy grande extendiéndose hacia el espectador con un rostro desenfocado en marrón suave; 1 pose central haciendo el signo de la paz con ojos brillantes; 1 pose con las manos juntas en la parte media derecha con un rostro desenfocado en marrón suave; 1 pose de cuerpo completo arrodillada en la parte media derecha; 1 chibi diminuto gritando en el lado derecho; 1 cabeza pequeña en la parte inferior izquierda con un rostro desenfocado en marrón suave; 1 chibi gritando en la parte inferior izquierda; 1 chibi llorando en la parte inferior izquierda; 1 pose de cuerpo completo en la parte inferior central extendiendo una palma abierta hacia el espectador; 1 chibi diminuto al lado de esa mano; 1 pose de cuerpo completo de pie y tímida en la parte inferior derecha; 1 chibi feliz en la parte inferior izquierda; 1 chibi llorando en la parte inferior central; 1 chibi emocionado en la parte inferior central; 1 pose de cuerpo completo de pie en la parte inferior central con un rostro desenfocado en marrón suave; 1 chibi diminuto en la parte inferior derecha; 1 rostro grande recortado en la parte inferior derecha con un rostro desenfocado en marrón suave; 1 chibi pequeño y nervioso cerca de las notas de la parte media inferior; y 1 chibi diminuto sonriendo cerca del margen inferior derecho. Los 2 paneles de detalles adicionales son: 1 primer plano de un par de ojos color ámbar brillantes en el lado izquierdo y 1 recuadro pequeño en la parte inferior izquierda que muestra un detalle de una mano o papel doblado.
+
+Contenido de texto: Llena la página con notas de fan al estilo japonés escritas a mano, signos de exclamación, flechas, corazones y destellos. Las dos frases rosas más grandes deben ser {argument name="main fan phrase" default="大好き!!!!!"} en la parte inferior izquierda central y {argument name="divine praise phrase" default="神!!"} en la parte inferior derecha. Añade muchas anotaciones manuscritas más pequeñas como lindo, precioso, angelical, demasiado adorable, el mejor y reacciones emocionales, principalmente en tinta negra, rosa y morada. El texto debe verse dibujado a mano, irregular e integrado en la obra de arte.
+
+Estilo visual: Ilustración de manga shoujo enérgica, trazos expresivos, sombreado suave, textura de acuarela, capas de collage de pegatinas, manos exageradas en primer plano, variaciones de chibi, marcas de sonrojo, corazones, estrellas, burbujas de diálogo, líneas de velocidad y pequeños garabatos de efectos de sonido. Mantén el fondo blanco pero visualmente lleno de anotaciones.
+
+Restricciones: Sin fotografía realista, sin renderizado 3D, sin diseño corporativo limpio, sin fondo vacío. Preserva la sensación de collage de fan denso y el conteo de personajes repetidos. Varios rostros más grandes deben estar cubiertos por bloques rectangulares de desenfoque marrón suave como parte de la imagen final.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735302405_1e4xsi_HKBesVdboAErYEp.jpg" width="600" alt="Perfil / Avatar - Collage denso de fan-art de colegiala anime - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Ailast公式 - AIでアニメイラストを作ろう！ -](https://x.com/Ailastapp)
+- **Fuente:** [Twitter Post](https://x.com/Ailastapp/status/2062753181994762681#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24332)**
+
+---
+
+### No. 14: Perfil / Avatar - Retrato de fantasía etérea
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Genera un impresionante retrato de fantasía etérea de una joven con rasgos delicados, motivos de mariposas y una atmósfera de jardín sereno.
+
+#### 📝 Prompt
+
+```
+Retrato de fantasía etérea ultrarrealista de una joven impresionante con delicada piel de porcelana, ojos gris azulados suaves y labios rosados naturales. Mira suavemente hacia el espectador con una expresión serena y soñadora, con las yemas de los dedos tocando ligeramente su barbilla. Su cabello castaño ceniza fluye suavemente con la brisa, peinado en un recogido romántico y suelto adornado con rosas ruborizadas, adornos de cristal brillantes, plumas delicadas e intrincados accesorios florales. Lleva elegantes pendientes colgantes de cristal y un vestido fluido y translúcido hecho de tela iridiscente transparente bordada con pequeñas flores brillantes.
+
+La escena está bañada por una suave luz difusa de la mañana, creando un resplandor luminoso alrededor de su rostro y hombros. Rodeada de mariposas flotantes, partículas de polvo brillantes, pétalos translúcidos y texturas florales de ensueño, el fondo combina tonos lavanda pastel, blanco perla, rosa rubor y plata. Fotografía artística cinematográfica, estética fairycore, atmósfera de jardín encantado, realismo mágico, textura de piel ultra detallada, reflejos de enfoque suave, iluminación volumétrica, bokeh, calidad de obra maestra, altamente detallado, resolución 8K, delicada belleza femenina, obra de arte de fantasía romántica, composición elegante, gradación de color de ensueño, brillo suave, ambiente celestial.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735285454_gia68u_HKArh-7bgAAZzAx.jpg" width="600" alt="Perfil / Avatar - Retrato de fantasía etérea - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735284915_cv2p7w_HKArh6KbEAAOZi7.jpg" width="600" alt="Perfil / Avatar - Retrato de fantasía etérea - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Hania Ai](https://x.com/HaniaAi12)
+- **Fuente:** [Twitter Post](https://x.com/HaniaAi12/status/2062696495741391006)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24301)**
+
+---
+
+### No. 15: Perfil / Avatar - Restauración profesional de fotos antiguas
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descripción
+
+Un prompt para restaurar fotos antiguas y dañadas y convertirlas en retratos profesionales de calidad DSLR con una claridad extrema.
+
+#### 📝 Prompt
+
+```
+Restaura esta foto antigua y conviértela en un retrato profesional con calidad DSLR, con un color y detalle exquisitos, utilizando algoritmos de escalado avanzados comparables a la Canon EOS R6 II. Asegúrate de que la imagen restaurada luzca natural, preserve los rasgos faciales precisos y tenga una claridad extremadamente alta...
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735267833_rgsxqu_HKAoef1bMAAoEFC.jpg" width="600" alt="Perfil / Avatar - Restauración profesional de fotos antiguas - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [小樱💞｜实用工具分享](https://x.com/xiaoying_eth)
+- **Fuente:** [Twitter Post](https://x.com/xiaoying_eth/status/2062693146228912347)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24275)**
+
+---
+
+### No. 16: Perfil / Avatar - Collage de retrato editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un póster editorial de moda realista con una modelo a color superpuesta sobre cinco retratos monocromáticos, útil para marca personal o imágenes de campañas de estilo.
+
+#### 📝 Prompt
+
+```
+Crea un póster compuesto de editorial de moda que presente a {argument name="character description" default="una joven asiática elegante con cabello largo, castaño y ondulado"} de pie con confianza en el centro del primer plano. Viste {argument name="outfit" default="una camisa blanca impecable de botones con mangas remangadas y metida dentro de pantalones negros de tiro alto y pierna ancha"}, con ambas manos en los bolsillos del pantalón, hombros relajados, postura elegante y un aspecto de modelo de estudio impecable. La figura central está a todo color, con iluminación nítida y un encuadre dominante de cintura a muslo con el torso completo visible, superponiéndose al collage de fondo.
+
+Lienzo y composición: imagen de retrato vertical, relación de aspecto aproximada de 2:3, diseño de revista limpio. Utiliza un fondo de estudio gris pálido con un collage estructurado de exactamente 5 fotos de retrato en blanco y negro de la misma mujer detrás de ella, divididas por bordes blancos finos como una cuadrícula de fotos. La figura central a color debe cubrir partes del collage y sentirse como el sujeto principal.
+
+Collage de fondo: incluye exactamente 5 fotos monocromáticas: 1 retrato de primer plano grande en la parte superior izquierda con el cabello largo sobre el hombro; 1 retrato horizontal en la parte superior derecha recostada con la mujer apoyando la cabeza sobre sus brazos cruzados; 1 retrato de cuerpo completo sentado en la parte inferior izquierda con camisa blanca, pantalones negros y zapatillas blancas; 1 retrato de perfil vertical en la parte media derecha con cabello fluido y cuello de camisa blanca; 1 retrato horizontal de primer plano en la parte inferior derecha de la mujer apoyada sobre su brazo. Las cinco imágenes de fondo deben ser en escala de grises, iluminación de estudio suave, fotografía de moda elegante, identidad y estilo consistentes.
+
+Estilo visual: paleta minimalista de blanco, negro y gris con el sujeto central en color natural apagado; aspecto de moda editorial de alta gama; iluminación suave y difusa; fotografía realista; espacios en blanco limpios entre los paneles del collage; retoque de retrato comercial pulido; sin texto, sin logotipos, sin marcas de agua.
+
+Restricciones: mantén exactamente una mujer de pie a todo color en el centro y exactamente cinco retratos de fondo en blanco y negro; preserva el estilo de camisa blanca y pantalón negro en todo momento; no añadas personas adicionales, accesorios, leyendas ni gráficos decorativos.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735314544_w0nvxr_HKAoNo9boAA-9ee.jpg" width="600" alt="Perfil / Avatar - Collage de retrato editorial - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Anaya Ai](https://x.com/Anaya_Ai12)
+- **Fuente:** [Twitter Post](https://x.com/Anaya_Ai12/status/2062693069913510111#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24358)**
+
+---
+
+### No. 17: Perfil / Avatar - Collage de cuadrícula de fotocards de ídolo coreano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -611,7 +1239,7 @@ Ambiente: estética de fotolibro/photocard de ídolo coreano, íntimo, suave, na
 
 ---
 
-### No. 3: Perfil / Avatar - Mujer feliz levantando los brazos en la playa
+### No. 18: Perfil / Avatar - Mujer feliz levantando los brazos en la playa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -645,7 +1273,7 @@ Crea una fotografía de estilo de vida vertical y realista de una mujer joven de
 
 ---
 
-### No. 4: Perfil / Avatar - Editorial de moda: Glamour de rosa roja
+### No. 19: Perfil / Avatar - Editorial de moda: Glamour de rosa roja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +1326,7 @@ Capas densas de flores rojas llenan el primer plano, enmarcando a la modelo desd
 
 ---
 
-### No. 5: Perfil / Avatar - Collage de selfies con flash al estilo Instagram Y2K
+### No. 20: Perfil / Avatar - Collage de selfies con flash al estilo Instagram Y2K
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -738,19 +1366,19 @@ Collage de selfies fotorrealistas estilo Gen Z que presenta {argument name="layo
 
 ---
 
-### No. 6: Perfil / Avatar - Mascota robot eco adorable en pixel art
+### No. 21: Publicación en redes sociales - Retrato de técnica mixta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Genera una mascota robot chibi con temática vegetal aislada en un nítido pixel art retro para pegatinas, iconos o activos de juegos.
+Un estilo de retrato de técnica mixta versátil que combina rostros fotorrealistas con trazos de boceto audaces y texturas de collage de periódicos.
 
 #### 📝 Prompt
 
 ```
-Crea una mascota robot de cuerpo completo en pixel art centrada sobre un {argument name="background" default="fondo blanco liso"}. El personaje es un adorable robot eco chibi con una cabeza y un cuerpo redondeados de color crema tipo casco, una pantalla facial de color negro oscuro y detalles con temática vegetal en un estilo pixel art retro de 16/32 bits con píxeles cuadrados visibles, un contorno negro nítido y reflejos con sombreado suave. El robot tiene exactamente 2 ojos grandes de color verde brillante con reflejos blancos en forma de corazón, una pequeña boca sonriente blanca, exactamente 2 cápsulas auditivas laterales redondas de color verde, exactamente 2 hojas de brote creciendo desde la antena superior y un pequeño panel frontal verde decorado con un icono de brote blanco y 2 puntos blancos. El cuerpo es compacto y redondeado con un panel pectoral cuadrado verde que muestra un emblema de brote blanco, exactamente 2 brazos con articulaciones verdes, el brazo izquierdo levantado en un saludo amistoso con una pequeña mano verde segmentada, el brazo derecho colgando hacia abajo con un antebrazo color crema más grueso y una mano verde, exactamente 2 piernas cortas y exactamente 2 botas de color crema y verde. Utiliza una paleta cálida de {argument name="main body color" default="crema marfil suave"}, {argument name="accent color" default="verde hoja"}, negro profundo para la visera facial y sutiles reflejos verde amarillento. Haz que la mascota sea adorable, simétrica, orientada al frente, aislada, sin texto, sin marcas de agua, sin accesorios adicionales, pixel art de alta resolución con una ligera textura de píxeles tipo cuadrícula.
+Un retrato de técnica mixta de {argument name="subject" default="[SUJETO]"} mostrando {argument name="expression" default="[EXPRESIÓN]"}, mirando {argument name="gaze" default="[DIRECCIÓN DE LA MIRADA]"}, estilizado con {argument name="styling" default="[ACCESORIO/ESTILO]"}. Identidad realista representada con trazos de boceto negros y audaces superpuestos sobre fragmentos de collage de periódicos rasgados y salpicaduras de pintura acrílica. Textura de impresión editorial en toda la imagen, combinando a la perfección el fotorrealismo con el expresionismo abstracto. Estética de póster premium con un toque táctil y artesanal. Composición de alto contraste, rostro y ojos ultra detallados. Paleta de [COLORES PRIMARIOS] y [COLORES SECUNDARIOS].
 ```
 
 #### 🖼️ Imágenes generadas
@@ -758,276 +1386,33 @@ Crea una mascota robot de cuerpo completo en pixel art centrada sobre un {argume
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650740118_k60zj8_HJ_Lw4eWYAAelxk.jpg" width="600" alt="Perfil / Avatar - Mascota robot eco adorable en pixel art - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Justin](https://x.com/JustinPerea)
-- **Fuente:** [Twitter Post](https://x.com/JustinPerea/status/2062591227963343260#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24167)**
-
----
-
-### No. 7: Perfil / Avatar - Retrato de anime estilo PC-88 retro de 8 bits
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Convierte fotos de retratos en auténtico pixel art japonés de finales de los años 80 para PC-88, utilizando una estricta paleta RGB de 8 colores y sombreado con tramado.
-
-#### 📝 Prompt
-
-```
-Convierte la foto de retrato adjunta en una ilustración de estilo anime preservando su reconocibilidad.
-
-Preserva:
-
-- proporciones faciales
-- silueta del peinado
-- expresión
-- reconocibilidad
-- silueta de la ropa
-
-Reglas RGB de PC-88:
-
-- utiliza solo la paleta RGB de 8 colores
-- negro, azul, rojo, magenta, verde, cian, amarillo, blanco
-- sin degradados
-- sin suavizado (antialiasing)
-- tramado (dithering) marcado
-- sombreado de tablero de ajedrez
-- apariencia de 640x200
-- bloques de color grandes
-- contornos definidos
-- ligero efecto CRT
-
-Renderizado del personaje:
-
-- construcción facial simplificada
-- reducción de líneas de detalle facial
-- áreas grandes de reflejos en el cabello
-- menos capas de sombreado
-- priorizar el parecido sobre el rediseño
-
-Composición:
-
-- centrado en el personaje
-- fondo de apoyo simple
-- espacio vacío alrededor del personaje
-- sensación de 4:3
-
-Evita:
-
-- interfaz de juego (UI)
-- cuadros de diálogo
-- densidad excesiva en el fondo
-- renderizado de anime moderno
-
-Objetivo:
-
-Auténtica ilustración de personaje de PC-88 de finales de los años 80, manteniendo la identidad de la persona original.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650714768_l8v421_HJ_IrdZbwAAneXB.jpg" width="600" alt="Perfil / Avatar - Retrato de anime estilo PC-88 retro de 8 bits - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [metal-H.K](https://x.com/metal_hk)
-- **Fuente:** [Twitter Post](https://x.com/metal_hk/status/2062590757790474492)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24126)**
-
----
-
-### No. 8: Perfil / Avatar - Selfie realista con bloque de privacidad facial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una selfie vertical realista en interiores de una mujer joven con cabello largo y ondulado, con un rectángulo de privacidad opaco sobre su rostro.
-
-#### 📝 Prompt
-
-```
-Crea una foto selfie realista y vertical tomada con smartphone de una mujer joven de Asia Oriental sentada en el interior de una clínica o sala de espera con iluminación suave. El encuadre va desde la parte superior de los brazos hasta la coronilla, sosteniendo la cámara ligeramente por encima del nivel del pecho con ambos brazos extendidos hacia las esquinas inferiores. Su rostro está cubierto intencionalmente por un gran bloque rectangular de privacidad opaco y centrado en un color marrón topo cálido, que abarca desde la parte inferior de la frente hasta debajo de la boca, ocultando todos los rasgos faciales. Tiene el cabello largo, ondulado y de color castaño oscuro, peinado a medio recoger, con mechones laterales ligeros, cabellos sueltos naturales y un flequillo suave dividido cerca del centro; el cabello cae sobre ambos hombros en rizos sueltos. Viste una blusa de color gris blanquecino traslúcido con mangas cortas abullonadas, un escote con volantes y una textura de tela fina y delicada. El fondo es una pared lisa de color blanco roto con un pequeño cartel de papel pegado en la parte superior derecha que contiene texto parcial en japonés, incluyendo caracteres visibles como 「控えA…」 y líneas más pequeñas debajo, ligeramente desenfocados. Utiliza un realismo propio de la cámara de un teléfono, iluminación ambiental de interior, textura de piel sutil en el cuello y los brazos, profundidad de campo reducida, colores neutros apagados, sin retoques de glamour, sin accesorios añadidos, sin marcas de agua y mantén la imagen en formato vertical 9:16. Personalizar: {argument name="hair color" default="dark brown"}, {argument name="blouse color" default="light gray-white"}, {argument name="privacy block color" default="warm taupe-brown"}, {argument name="background setting" default="clinic or office waiting-room"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650746311_eo99eq_HJ_GVHtb0AAG_1O.jpg" width="600" alt="Perfil / Avatar - Selfie realista con bloque de privacidad facial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650746314_o0fxcm_HJ_GVH3aEAAsx5N.jpg" width="600" alt="Perfil / Avatar - Selfie realista con bloque de privacidad facial - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [kiri](https://x.com/Full_skillkaiho)
-- **Fuente:** [Twitter Post](https://x.com/Full_skillkaiho/status/2062585226296279535#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24184)**
-
----
-
-### No. 9: Perfil / Avatar - Retrato ultra realista en una cafetería acogedora
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de retrato altamente detallado que compara GPT Image 2 y Nano Banana 2, presentando a una mujer joven en un entorno de cafetería cálido con bokeh cinematográfico.
-
-#### 📝 Prompt
-
-```
-Retrato ultra realista de una {argument name="subject" default="mujer joven"} sentada en una {argument name="setting" default="cafetería acogedora por la noche"}, {argument name="hair style" default="cabello largo, oscuro y rizado con bucles definidos"}, piel pálida con un rubor natural, ojos gris verdoso claro, labios rosa suave, maquillaje sutil, sonrisa amable, mirando directamente a la cámara. Iluminación ambiental cálida de luces colgantes de cafetería, marcos de madera en el fondo, poca profundidad de campo, bokeh cinematográfico, atmósfera íntima, fotografía de estilo de vida cándida. Capturado con una cámara DSLR de fotograma completo, lente de 85 mm, f/1.4, textura de piel altamente detallada, hebras de cabello realistas, gradación de color natural, fotografía de retrato profesional, ultra fotorrealista, alto nivel de detalle, enfoque nítido en los ojos, desenfoque de fondo suave.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650710748_1f6irz_HJ-uG5bbcAAhnvx.jpg" width="600" alt="Perfil / Avatar - Retrato ultra realista en una cafetería acogedora - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650710714_vm9bp2_HJ-uHVWagAAec4M.jpg" width="600" alt="Perfil / Avatar - Retrato ultra realista en una cafetería acogedora - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Heisenberg](https://x.com/rovvmut_)
-- **Fuente:** [Twitter Post](https://x.com/rovvmut_/status/2062558601521267003)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24083)**
-
----
-
-### No. 10: Perfil / Avatar - Retrato de moda anime sin rostro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera un retrato de busto estilo anime limpio de una mujer de cabello oscuro con una gabardina negra brillante y el rostro censurado, útil para avatares elegantes o arte conceptual de personajes.
-
-#### 📝 Prompt
-
-```
-Crea un retrato de busto estilo anime pulido de una joven a la moda, centrado sobre un fondo blanco liso. Tiene {argument name="hair color" default="negro carbón oscuro con puntas internas de color blanco plateado pálido"} en un corte bob corto en capas, ligeramente despeinado y voluminoso, con suaves rizos hacia adentro en las puntas, mechones laterales sueltos y una oreja visible a la derecha. Su rostro está intencionalmente oculto por un gran bloque de censura rectangular vertical relleno con un degradado suave de color gris topo apagado, que cubre los ojos, la nariz y la boca, dejando visibles el cabello, la oreja, el borde de la barbilla y la ropa. Viste un cuello de tortuga negro acanalado ajustado y una gabardina de cuero negro brillante de gran tamaño con solapas anchas, charreteras en los hombros, costuras visibles, detalles de puntadas y un solo botón oscuro; el abrigo tiene fuertes reflejos brillantes y profundos pliegues de sombra. Utiliza un renderizado de ilustración japonesa limpio de alta resolución, arte lineal nítido, sombreado cel sutil mezclado con reflejos de tela semirrealistas, paleta monocromática fría, ambiente elegante de moda urbana, recorte de busto de tres cuartos de frente desde el pecho hacia arriba, sin texto, sin accesorios, sin objetos de fondo, sin marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650749953_lbqu87_HJ-sd80aQAAQ8no.jpg" width="600" alt="Perfil / Avatar - Retrato de moda anime sin rostro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650750027_sn7qfc_HJ-shlea4AAuFWG.jpg" width="600" alt="Perfil / Avatar - Retrato de moda anime sin rostro - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ふぁりー💚💛](https://x.com/506Farley)
-- **Fuente:** [Twitter Post](https://x.com/506Farley/status/2062557055890985317#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24192)**
-
----
-
-### No. 11: Perfil / Avatar - Selfie frente al espejo con flash estilo Y2K
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt para una selfie frente al espejo de estilo nocturno y melancólico que captura a la perfección la nostalgia de las cámaras compactas de principios de los 2000, con un flash directo intenso y la energía del indie sleaze.
-
-#### 📝 Prompt
-
-```
-Una selfie frente al espejo de estilo nocturno y melancólico en un {argument name="location" default="baño de un rascacielos de lujo"} con el resplandor del horizonte urbano al otro lado de las ventanas. Una mujer joven con el cabello negro largo y ligeramente despeinado se inclina sobre un lavabo de mármol, con mechones sueltos cubriendo parcialmente un ojo. Capturada a través de un espejo manchado y con gotas de agua que resalta las imperfecciones para lograr un aspecto auténtico. Un flash directo intenso irrumpe en la escena, produciendo luces sobreexpuestas, destellos de lente y esa inconfundible nostalgia de las cámaras compactas de principios de los 2000.
-La encimera de mármol está llena de productos de cuidado de la piel de lujo, cosméticos, joyas y un teléfono, lo que añade un aire editorial íntimo. Los rascacielos iluminados con luces de neón y las ventanas de los hoteles brillan en los reflejos del espejo, evocando una atmósfera de vida nocturna urbana. Los tonos de piel claros contrastan con la ropa oscura y el cabello negro. La escena se siente espontánea, naturalmente genial y profundamente íntima.
-Estilo: Fotografía con flash Y2K, selfie espontánea frente al espejo, estética editorial coreana, indie sleaze, baño de hotel, estilo de vida de lujo, vida nocturna cinematográfica, aspecto de cámara desechable, grano de película, quemado por flash, textura de piel realista, profundidad de campo reducida, imperfecciones auténticas, ambiente viral de Pinterest, energía casual de alta costura, fotografía cruda sin filtros.
-Cámara: flash directo, cámara digital compacta, equivalente a 35 mm, iluminación intensa, ligero desenfoque de movimiento, ruido visible, gradación de color natural, composición vertical, ultra realista, gran detalle.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650702427_wlvdkt_HJ-nwWEaQAA8Rom.jpg" width="600" alt="Perfil / Avatar - Selfie frente al espejo con flash estilo Y2K - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650702472_st697y_HJ-nwWDasAAL0fn.jpg" width="600" alt="Perfil / Avatar - Selfie frente al espejo con flash estilo Y2K - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735252534_k9pv2n_HKFts6AasAANELX.jpg" width="600" alt="Publicación en redes sociales - Retrato de técnica mixta - Image 1">
 </div>
 
 #### 📌 Detalles
 
 - **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062551803275919662)
-- **Publicado:** 4 de junio de 2026
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2063050883651547471)
+- **Publicado:** 6 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24105)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24248)**
 
 ---
 
-### No. 12: Perfil / Avatar - Hoja de contacto de moda monocromática
+### No. 22: Publicación en redes sociales - Ilustración de kimono para el Festival Esmeralda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt sofisticado para generar hojas de contacto de casting de moda en blanco y negro, que presenta múltiples marcos de retrato en una cuadrícula con especificaciones detalladas de iluminación y textura.
+Un prompt detallado para generar una lujosa ilustración de moda de estilo anime con un kimono japonés de festival, adornos florales y telas fluidas.
 
 #### 📝 Prompt
 
 ```
-Hoja de contacto de casting de moda en blanco y negro de {argument name="subject" default="HUMAN"} con {argument name="hair style" default="HAIR"}, organizada en una cuadrícula limpia de 2x2 con cuatro marcos de retrato en primer plano sobre [BACKGROUND], vistiendo {argument name="outfit" default="CLOTHING"} y [ACCESSORY]. Cada marco muestra una expresión y un ángulo diferentes: [EXPRESSIONS]. Iluminación de estudio suave, contraste monocromático nítido, textura de piel natural, detalles faciales visibles, fondo liso y limpio, grano de película sutil, sesión de prueba editorial de alta gama, estilo minimalista, distancia de cámara íntima, fotografía de retrato profesional, relación de aspecto 4:5.
+Crea una ilustración de moda vertical de cuerpo completo de una joven elegante con un ornamentado kimono japonés de festival, de pie en una elegante pose de tres cuartos de espaldas y mirando por encima del hombro, con el rostro intencionalmente sin rasgos, como una máscara suave de color beige. El personaje viste {argument name="kimono colors" default="verde esmeralda intenso, azul verdoso, marfil y oro metálico"} con lujosos patrones botánicos, filigrana dorada y motivos de flores blancas. Muestra exactamente 6 elementos principales del vestuario: un elaborado adorno floral para el cabello con cintas azul verdoso y cadenas doradas colgantes, un cuello alto estructurado, una túnica de kimono de mangas anchas en capas, un gran lazo obi escultural en la espalda, paneles traslúcidos similares a una gasa y una larga cola que barre el suelo. El peinado es de cabello oscuro y brillante recogido en un moño ornamentado con mechones sueltos. El kimono debe sentirse lujoso y ceremonial, con mangas extragrandes, bordes de tela plegados y definidos, tela transparente en capas, borlas doradas y flores bordadas. Rodéala con una delicada atmósfera botánica: hojas flotantes en azul verdoso y oro, flores de color crema pálido y ramas delgadas que crecen desde los bordes inferior izquierdo y derecho. Utiliza {argument name="art style" default="ilustración de moda estilo anime de alto detalle con suavidad de acuarela y elegancia Art Nouveau"}, líneas refinadas, fondo crema luminoso, iluminación dorada cálida y una composición vertical de 2:3. Enfatiza el detalle intrincado de los textiles, la tela fluida, la postura elegante y un ambiente de festival de ensueño a primera hora de la mañana. Sin texto, sin marca de agua, sin accesorios modernos, sin edificios de fondo.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1035,33 +1420,33 @@ Hoja de contacto de casting de moda en blanco y negro de {argument name="subject
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650706655_kpjhzv_HJ-KyL-bQAAN8-Y.jpg" width="600" alt="Perfil / Avatar - Hoja de contacto de moda monocromática - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735301042_axp49k_HKFdML1bsAATxuf.jpg" width="600" alt="Publicación en redes sociales - Ilustración de kimono para el Festival Esmeralda - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Oogie](https://x.com/oggii_0)
-- **Fuente:** [Twitter Post](https://x.com/oggii_0/status/2062519758466224417)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [いろあい｜AIで幸せ時間を生み出すお手伝い💫](https://x.com/iroai_ai_x)
+- **Fuente:** [Twitter Post](https://x.com/iroai_ai_x/status/2063033844136370411#reversed-0)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24113)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24329)**
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato futurista de una Jedi femenina en el desierto
+### No. 23: Publicación en redes sociales - Zancada en prado de flores desde ángulo bajo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Genera un retrato cinematográfico de cuerpo completo de una guerrera de ciencia ficción con moda inspirada en los Jedi, un sable de luz y una construcción de mundo desértico minimalista.
+Un prompt de fotografía cinematográfica ultra gran angular desde un ángulo bajo, enfocado en una zancada con perspectiva forzada a través de un campo de flores silvestres.
 
 #### 📝 Prompt
 
 ```
-Crea un retrato cinematográfico de moda de cuerpo completo en formato vertical 2:3 de una guerrera Jedi futurista de pie en un desierto pálido bajo un cielo plano gris azulado, visto desde un ángulo bajo para que se vea alta e imponente. El personaje tiene {argument name="hair color" default="rubio platino al viento"} cabello corto y despeinado, una complexión atlética y delgada, piel bronceada y su rostro está deliberadamente oculto por un bloque de censura cuadrado pixelado que coincide con el tono de su piel. Viste un poncho/capa Jedi extragrande de color blanco roto con paneles plegados esculturales y mangas anchas sobre un top corto blanco que deja al descubierto su abdomen, un cinturón utilitario marrón con bolsillos, pantalones bombachos negros cortos y holgados, un tabardo largo de tela color canela que cuelga desde la cintura hasta el suelo, calcetines al tobillo y botas oscuras resistentes. Sostiene exactamente un sable de luz blanco brillante en ángulo diagonal hacia la esquina inferior izquierda, con una empuñadura metálica en su mano derecha; un segundo mango o arma de ciencia ficción oscura sobresale detrás de su lado derecho. Detrás de su cabeza hay exactamente un gran disco solar circular de color naranja quemado, centrado como un halo. El fondo es minimalista y surrealista: primer plano de arena pálida, ruinas de piedra bajas y distantes a la derecha, una tenue formación rocosa redondeada a lo lejos a la derecha y exactamente tres pequeños pájaros negros dispersos en el cielo. Utiliza un estilo de ciencia ficción editorial de alta costura, luz solar nítida, composición limpia, paleta desértica apagada de crema, canela, negro, naranja óxido y gris azulado, pliegues de tela realistas, movimiento dramático del viento, sin texto, sin marca de agua.
+Toma cinematográfica ultra gran angular desde un ángulo bajo de una {argument name="subject" default="joven elegante paseando por un vibrante prado de flores"}, capturada desde el nivel del suelo directamente debajo de su pie levantado a mitad de la zancada. La suela de su zapato llena el primer plano con un enfoque nítido, creando una composición audaz de perspectiva forzada. Viste un {argument name="outfit" default="conjunto beige suave y una chaqueta ligera"}, con el cabello largo fluyendo libremente con la brisa. {argument name="flowers" default="Coloridas flores silvestres y cosmos en flor"} rodean la escena. El cielo sobre ella es de un azul despejado con nubes suaves y tenues, lo que le da a la imagen un ambiente etéreo y aireado. Luz solar natural, sombras suaves, estética editorial de alta costura, hiperrealista, profundidad de campo reducida, detalle en 8K
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1069,145 +1454,33 @@ Crea un retrato cinematográfico de moda de cuerpo completo en formato vertical 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650758715_fjk6dn_HJ-JjkcXYAAWwDB.jpg" width="600" alt="Perfil / Avatar - Retrato futurista de una Jedi femenina en el desierto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735255416_wy4twp_HKEopY0bcAAVAqs.jpg" width="600" alt="Publicación en redes sociales - Zancada en prado de flores desde ángulo bajo - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Kōda](https://x.com/aimikoda)
-- **Fuente:** [Twitter Post](https://x.com/aimikoda/status/2062518534475845848#reversed-0)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [PromptLab](https://x.com/iamaiistudio)
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062974923774287952)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24213)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24255)**
 
 ---
 
-### No. 14: Perfil / Avatar - Hombre de fantasía gótica de cabello plateado recostado
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera un lujoso retrato de fantasía anime de un hombre de cabello plateado recostado en un sofá oscuro con túnicas transparentes, joyería gótica y una atmósfera melancólica a la luz de las velas.
-
-#### 📝 Prompt
-
-```
-Crea un retrato de fantasía estilo anime altamente detallado de un joven elegante recostado diagonalmente en un lujoso sofá de cuero negro, visto desde arriba en un ángulo de tres cuartos cercano. El personaje tiene {argument name="hair color" default="blanco plateado"} cabello revuelto en capas y {argument name="eye color" default="azul frío"} ojos, con una expresión tranquila y seductora. Es esbelto pero atlético, con hombros y clavículas expuestos, vistiendo una parte superior sin mangas de cuello alto negro brillante con bordados oscuros ornamentados, una túnica transparente de color azul ahumado drapeada holgadamente sobre ambos hombros, pantalones negros ajustados y una faja de tela azul-negra en capas en la cintura. Añade elaborada joyería gótica de plata: un broche grande en el pecho con forma de cruz y media luna con cadenas y borlas colgantes, un adorno de media luna en la cintura, múltiples hilos de cadenas finas, cierres de filigrana metálica y brazaletes oscuros en una muñeca. Su brazo izquierdo se dobla hacia arriba con la mano cerca de la cabeza, y su mano derecha descansa relajada cerca del muslo; enfatiza dedos largos y elegantes y reflejos suaves en la piel. El entorno es un salón opulento y melancólico con almohadas oscuras, superficies negras reflectantes, reflejos cálidos como de velas y un jarrón con pequeñas flores de color azul violáceo en el fondo superior derecho. Utiliza una paleta romántica y oscura de negro, carbón, azul marino profundo, lavanda ahumado, plata y reflejos nacarados. La iluminación debe ser cinematográfica y suave, con reflejos brillantes, motas de polvo centelleantes, transparencia de tela delicada, bordados intrincados y detalles de metal pulido. La composición debe recortarse estrechamente alrededor de la figura recostada desde la cabeza hasta la parte superior de las piernas, con el área de la cara sin obstrucciones y sin texto, marcas de agua ni caracteres adicionales.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650745991_rwjzjh_HJ-CuNrb0AAjlge.jpg" width="600" alt="Perfil / Avatar - Hombre de fantasía gótica de cabello plateado recostado - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650745984_s2nx7e_HJ-CuNxaIAAyQcL.jpg" width="600" alt="Perfil / Avatar - Hombre de fantasía gótica de cabello plateado recostado - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650745940_4sbffr_HJ-CuNnbAAAHpGB.jpg" width="600" alt="Perfil / Avatar - Hombre de fantasía gótica de cabello plateado recostado - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650746629_jp0olh_HJ-CuNobcAAZdlo.jpg" width="600" alt="Perfil / Avatar - Hombre de fantasía gótica de cabello plateado recostado - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ツキマチ](https://x.com/UEOEIYctEH6830)
-- **Fuente:** [Twitter Post](https://x.com/UEOEIYctEH6830/status/2062510890415718866#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24185)**
-
----
-
-### No. 15: Perfil / Avatar - Escalado fotorrealista de selfies
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Crea una versión más nítida y de alta resolución de un selfie de referencia, preservando la composición original y el bloque de anonimización facial.
-
-#### 📝 Prompt
-
-```
-Utilizando la imagen de referencia proporcionada, realiza un escalado y mejora para obtener una versión fotorrealista nítida y de alta resolución, manteniendo la composición original, el ángulo de la cámara selfie, la pose, la vestimenta, el fondo, la iluminación y el equilibrio de color. Conserva el mismo entorno exterior y todos los elementos existentes sin cambios, incluyendo exactamente 1 bloque opaco cuadrado que cubre el rostro, exactamente 1 par de gafas de sol sobre la cabeza, y la misma sudadera blanca con vaqueros azul claro. Mejora los detalles finos, la nitidez, la claridad de las texturas y la definición de los bordes en el cabello, la tela, el follaje, el pavimento y las sombras sin cambiar la identidad, añadir nuevos objetos, eliminar elementos, embellecer la escena ni alterar el bloque de anonimización.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650743601_zx239g_HJ94FJgWMAAABhh.jpg" width="600" alt="Perfil / Avatar - Escalado fotorrealista de selfies - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **Fuente:** [Twitter Post](https://x.com/saniaspeaks_/status/2062500789575377302#reversed-1)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24179)**
-
----
-
-### No. 16: Perfil / Avatar - Diseño de camiseta personalizada con personaje de anime
+### No. 24: Publicación en redes sociales - Álbum de fotos de recuerdos del personaje
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt de sistema detallado para GPT Image 2 que genera ilustraciones de personajes vistiendo camisetas personalizadas con texto japonés único y gráficos de mascotas, manteniendo la identidad del personaje.
+Crea un diseño de álbum de fotos físico nostálgico que muestra los recuerdos de la escuela secundaria de un personaje a través de múltiples impresiones tamaño L y notas escritas a mano.
 
 #### 📝 Prompt
 
 ```
-Dibuja una ilustración del personaje vistiendo una camiseta original que se ajuste a su atmósfera, manteniendo la identidad del personaje adjunto.
-
-La composición es principalmente un plano medio corto (bust-up), ni demasiado cerca del rostro, abarcando desde el pecho hasta la parte superior de la cintura.
-Coloca la parte superior del cuerpo mirando hacia adelante o ligeramente en diagonal para que el diseño en la parte frontal de la camiseta sea fácil de ver.
-Los ojos, la expresión, el ángulo del cuello y la pose pueden organizarse de forma natural dentro del rango que se adapte al personaje, pero evita ocultar el estampado de la camiseta.
-No ocultes el diseño del pecho con el cabello, las manos, accesorios, prendas exteriores u objetos pequeños.
-Evita composiciones de cuerpo completo o composiciones demasiado cercanas al rostro.
-
-La camiseta debe presentar un saludo en japonés ligeramente absurdo o desenfadado, o una frase corta que encarne al personaje.
-No lo hagas parecer una presentación personal.
-Mantén un estilo realista acorde a lo que el personaje elegiría realmente, sin inclinarse demasiado hacia lo cómico.
-El texto debe parecer un diseño de camiseta natural, como caracteres escritos a mano, letras redondeadas y sueltas, o un estilo de impresión ligeramente rugoso.
-El texto debe ser legible, no demasiado distorsionado, y evitar errores tipográficos o expresiones demasiado incomprensibles.
-
-El estampado también debe incluir pequeñas ilustraciones desenfadadas que combinen con el texto.
-Elige de forma natural un motivo de "animales" o "criaturas misteriosas" que encaje con la apariencia, personalidad y vibra del personaje.
-Colócalo en un tamaño pequeño a mediano cerca del centro del pecho junto con el texto. El diseño no debe ser demasiado pequeño para leerse.
-
-Asegúrate de que el estampado de la camiseta parezca el elemento principal.
-Distorsiona ligeramente el texto y las ilustraciones de forma natural para que coincidan con las arrugas de la tela y la dirección del cuerpo.
-El estampado no debe parecer una pegatina flotante, sino una expresión impresa natural que se integre en la tela.
-La camiseta debe tener la sensación de una tela suave y ligeramente desgastada.
-
-Para las expresiones, elige de forma natural algo que se adapte al personaje, como sonrisas, sonrojos o expresiones alegres.
-Mantén los rasgos faciales, el peinado, el color de cabello, los ojos, la percepción de la edad, la complexión y la atmósfera.
-El acabado general debe ser de alta calidad, al estilo de una ilustración de anime comercial de gama alta.
-Las líneas deben ser nítidas, el coloreado suave; mantén una sensación de relajación en el diseño holgado de la camiseta mientras conservas un acabado general limpio.
-
-El fondo debe ser blanco o un fondo simple y abstracto. No incluyas logotipos, decoraciones adicionales, ruido, grano o textura.
+Utiliza la imagen proporcionada como referencia base para el personaje original. Crea un 'álbum de fotos de recuerdos de la escuela secundaria' para dicho personaje. Esto no es un libro de arte conceptual ni un perfil oficial; es un álbum de fotos personal dejado por el personaje de sus días en la escuela secundaria. [Concepto] Permite que el espectador sienta de forma natural que 'este personaje también vivió este tipo de días en la escuela secundaria'. Valora la amistad, la juventud, la vida cotidiana y los recuerdos ligeramente vergonzosos. [Formato del álbum] Un álbum de fotos familiar físico real de estilo bolsillo mostrado abierto. Tres fotos en la página izquierda y tres en la derecha, para un total de seis fotos horizontales. Las fotos deben representarse como impresiones tamaño L insertadas en los bolsillos del álbum. Incluye una sección de comentarios en el margen central del álbum. Cada foto debe tener un breve comentario escrito a mano, presumiblemente redactado por el personaje en aquel momento, reflejando el sentimiento natural de la escuela secundaria. [Contenido de las fotos] Cada foto debe representar un recuerdo diferente, como {argument name="memory scenes" default="piscina con amigos, día de deportes, viaje escolar, festival cultural, graduación, actividades del club"}. Incluye activamente instantáneas espontáneas de la vida diaria, no solo fotos conmemorativas. Deben aparecer diferentes estaciones y eventos escolares. [Representación del personaje] Retrata al personaje de la referencia como su yo de la escuela secundaria. Mantén los rasgos faciales, el estilo de cabello, el color, la forma de los ojos y la personalidad, pero haciéndolo lucir un poco más joven y menos maduro. Los atuendos, como uniformes o ropa de gimnasia, deben elegirse de forma natural según la escena. [Amigos] Incluye amigos de la escuela de forma natural como parte de los recuerdos de juventud. [Atmósfera] Nostálgica, cálida, ligeramente tímida y divertida. Debe sentirse como si estuvieras mirando un álbum antiguo sacado de un estante en casa.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1215,51 +1488,239 @@ El fondo debe ser blanco o un fondo simple y abstracto. No incluyas logotipos, d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650712873_rq0dsi_HJ9wFfLboAA7p1L.jpg" width="600" alt="Perfil / Avatar - Diseño de camiseta personalizada con personaje de anime - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735273102_w7tpd9_HKETwRSasAA26s4.jpg" width="600" alt="Publicación en redes sociales - Álbum de fotos de recuerdos del personaje - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Eris Create Lab](https://x.com/Eris_Create_Lab)
+- **Fuente:** [Twitter Post](https://x.com/Eris_Create_Lab/status/2062951880133951954)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24280)**
+
+---
+
+### No. 25: Publicación en redes sociales - Slide principal de Claude Opus 4.8
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Crea una diapositiva de carrusel premium para redes sociales en formato 4:5 centrada en Claude Opus 4.8, utilizando el estilo visual oscuro y brillante de marca de IA del póster de referencia.
+
+#### 📝 Prompt
+
+```
+Utilizando REFERENCE_0 como inspiración para el estilo visual y la disposición, crea una única diapositiva de carrusel centrada en {argument name="AI tool" default="Claude Opus 4.8"} en lugar de la vista general de seis herramientas. Mantén el mismo fondo negro premium, la sutil textura de rejilla técnica, el renderizado de iconos 3D brillantes, la iluminación dramática de estudio, la elegante tipografía serif de alto contraste, el color de acento neón, el subrayado hecho a mano y la ubicación del identificador social en la parte inferior.
+
+Transforma la composición en una página principal: coloca el identificador “@juangpt_o1” centrado en la parte superior, añade un pequeño logotipo y marca denominativa de Claude en la esquina superior derecha, y reemplaza el titular original por un título enorme de dos líneas que diga “Claude” en naranja y “Opus 4.8” en blanco. Debajo del título, añade un subtítulo conciso en español: {argument name="subtitle text" default="El mejor para programar y para agentes — hasta 1000 subagentes a la vez"}, con “1000 subagentes” enfatizado en naranja. Añade un fino subrayado naranja dibujado a mano debajo del subtítulo.
+
+Reemplaza la cuadrícula de seis iconos por exactamente 1 icono 3D brillante y central: el logotipo de Claude (el sol/asterisco naranja), ampliado como objeto principal, sobre un suelo oscuro reflectante con brillo naranja, luz de contorno, sombras y una sutil neblina volumétrica. Elimina todos los demás iconos y etiquetas de herramientas de la referencia.
+
+Llamada a la acción inferior: reemplaza la CTA original de la parte inferior con {argument name="bottom call to action" default="Programa por ti. GO!"}, manteniendo “GO!” en verde neón brillante y el resto en blanco. Mantén “@juangpt_o1” centrado en la parte inferior. Utiliza un formato de póster para redes sociales vertical de 4:5, detalle nítido en 4K, sin logotipos adicionales y sin texto añadido más allá de los elementos especificados.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735305576_75mmhi_HKEOv8KWMAE_B2z.jpg" width="600" alt="Publicación en redes sociales - Slide principal de Claude Opus 4.8 - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [juan carlos mercedes](https://x.com/juancarlos17626)
+- **Fuente:** [Twitter Post](https://x.com/juancarlos17626/status/2062946335502799087#reversed-1)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24339)**
+
+---
+
+### No. 26: Publicación en redes sociales - Selfie de perro en la Torre Eiffel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt fotorrealista para generar a un elegante golden retriever turista tomándose una selfie con un smartphone frente a la Torre Eiffel.
+
+#### 📝 Prompt
+
+```
+Crea una escena de selfie de viaje fotorrealista con gran angular en París: un adorable perro golden retriever vestido como un turista elegante se encuentra en primer plano sobre una plaza adoquinada frente a la {argument name="landmark" default="Torre Eiffel"}, usando una boina francesa negra y una sudadera de punto beige con cordones y un pequeño monograma bordado. El perro sostiene un smartphone estilo iPhone dorado a la distancia de un brazo con su pata derecha, con las lentes de la cámara visibles, como si se estuviera tomando una selfie. Coloca un cuadrado grande de color marrón medio opaco directamente sobre la cara del perro, centrado desde la frente hasta el hocico, ocultando los rasgos faciales mientras dejas visibles las orejas, la boina, la sudadera, la pata y el teléfono. El fondo muestra una concurrida multitud de turistas, mesas de café al aire libre a la izquierda, árboles y el monumento elevándose dramáticamente detrás del sujeto, todo con una profundidad de campo realista y un ligero desenfoque de fondo. Utiliza iluminación diurna brillante, cielo azul con nubes esponjosas dispersas, colores naturales, enfoque cinematográfico superficial, textura de pelaje detallada, patas realistas, reflejos brillantes en el teléfono y una composición pulida de foto de viaje para redes sociales. Añade una pequeña marca de agua sutil que diga {argument name="watermark text" default="PIERRE_PUP_PARIS"} en la esquina inferior derecha. Sin texto adicional, sin estilo de dibujos animados, sin anatomía distorsionada.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735306918_n4ejym_HKEKRrCaQAAaoWc.jpg" width="600" alt="Publicación en redes sociales - Selfie de perro en la Torre Eiffel - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Cherry 2.O](https://x.com/Mind_Boticni)
+- **Fuente:** [Twitter Post](https://x.com/Mind_Boticni/status/2062942786668917052#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24341)**
+
+---
+
+### No. 27: Publicación en redes sociales - Collage de retrato editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Crea un collage fotográfico profesional de 3x2 de una mujer capturando diferentes expresiones y estados de ánimo con un estilo de fotografía de estilo de vida.
+
+#### 📝 Prompt
+
+```
+Un collage fotográfico editorial de 3×2 que presenta seis retratos en primer plano y espontáneos de una joven {argument name="ethnicity" default="mujer del sur de Asia"} con cabello {argument name="hair style" default="castaño oscuro y alborotado"}, con volumen de textura natural y una tez cálida iluminada por el sol. Cada cuadro captura un estado de ánimo y una personalidad diferentes: una sonrisa suave mientras viste un suéter de punto color crema que cae sobre un hombro, una risa alegre con un top negro ajustado acentuado con joyas delicadas, una pose reflexiva y tranquila con la mano apoyada en la barbilla vistiendo un suéter oscuro y acogedor, una mirada lateral natural mientras viste una camisa blanca de talla grande, una expresión juguetona con los labios fruncidos y los ojos cerrados con un atuendo casual en capas que consiste en una camiseta sin mangas color carbón y una chaqueta ligera, y una mirada contemplativa de lado con una chaqueta de tonos neutros. El collage tiene un aire relajado de fotografía de estilo de vida, iluminado por la luz suave de una ventana y tonos cálidos de finales de la tarde. Profundidad de campo reducida, textura de piel natural, expresiones auténticas, atmósfera interior acogedora, fotografía de retrato moderna, sutil calidez cinematográfica, altamente detallado, realista, estética íntima y acogedora.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735279942_9xq0u8_HKEE-axbsAA1A8z.jpg" width="600" alt="Publicación en redes sociales - Collage de retrato editorial - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Johnn](https://x.com/john_my07)
+- **Fuente:** [Twitter Post](https://x.com/john_my07/status/2062935578401026213)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24291)**
+
+---
+
+### No. 28: Publicación en redes sociales - De foto a escena de lectura estilo anime
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Transforma una acogedora foto de referencia en una limpia ilustración de anime, preservando la pose original, la disposición de la habitación y el bloque de anonimización facial.
+
+#### 📝 Prompt
+
+```
+Utilizando REFERENCE_0 como imagen base, transforma la escena en una pulida ilustración de anime japonés, manteniendo la misma composición vertical, la pose de lado sentado, la ubicación de la mesa, el gesto de sostener la taza, el libro abierto, la silla, los frascos y la disposición de la estantería. Mantén el rostro anonimizado con el mismo bloque cuadrado de desenfoque/censura centrado.
+
+Transformación principal: Reemplaza a la persona real por una elegante chica de anime, manteniendo la pose y la posición de las manos, pero conviértela en un personaje estilizado con {argument name="hair color" default="cabello corto y brillante de color azul con puntas turquesa"} y un refinado atuendo al estilo idol oscuro. El atuendo debe incluir exactamente 5 elementos visibles destacados: un vestido azul marino sin mangas, ribete de encaje negro en los hombros, un panel frontal de cuello alto blanco, un lazo de cinta negra en el cuello y un panel lateral tipo delantal blanco con bordes dorados.
+
+Estilo e iluminación: Convierte la foto en un arte lineal de anime limpio y de alta calidad con sombreado cel suave, tonos beige cálidos, reflejos nítidos y una atmósfera de lectura tranquila y acogedora. Añade una fuerte luz solar de tarde entrando desde la izquierda, formando bandas diagonales de luz y sombra en la pared.
+
+Fondo: Mantén la habitación sencilla, el escritorio de madera, el libro abierto, la taza blanca, el frasco de vidrio, la pequeña caja de madera, la silla y la estantería del lado derecho, pero represéntalos como arte de fondo de anime con tonos de madera cálidos y detalles simplificados. La estantería debe permanecer en el borde derecho y contener varios libros de colores neutros sin texto legible.
+
+Restricciones: No cambies el ángulo de la cámara ni el encuadre. No añadas personajes adicionales. Evita el fotorrealismo. Mantén el bloque cuadrado de anonimización facial visible y centrado sobre el rostro.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735299588_xa241h_HKEAVpUaUAAn-GB.jpg" width="600" alt="Publicación en redes sociales - De foto a escena de lectura estilo anime - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [🐻‍❄️Gomdan🐻‍❄️](https://x.com/gomdanjp)
+- **Fuente:** [Twitter Post](https://x.com/gomdanjp/status/2062931827040670155#reversed-3)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24325)**
+
+---
+
+### No. 29: Publicación en redes sociales - Diseño de póster gráfico con retrato limpio
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt profesional para crear diseños gráficos brillantes y frescos que combinan retratos fotográficos con símbolos vectoriales minimalistas y una tipografía elegante.
+
+#### 📝 Prompt
+
+```
+Genera una composición visual gráfica brillante y fresca en torno a un sujeto específico: la escena utiliza una gran área de campos de color puro de alta luminosidad para resaltar al sujeto principal. El fondo es plano, aireado y sin una profundidad de campo compleja. El enfoque visual se establece mediante un retrato o sujeto real recortado audazmente desde abajo, revelando solo las partes más memorables, haciendo que el sujeto parezca entrar desde el borde del encuadre. Un símbolo gráfico minimalista o un carácter esqueuomórfico se superpone sobre el sujeto, como si estuviera sentado ligeramente sobre su cabeza o creciendo a lo largo del contorno, con formas redondeadas, bordes limpios y expresiones o estructuras completadas con unas pocas líneas gruesas, poseyendo tanto un sentido de identidad como de accesibilidad. El texto es el carácter activo de la imagen: se utiliza un título grande con estilo manuscrito en la parte superior, con un espaciado amplio y trazos suaves, como un saludo amable; un título vertical o axial más fuerte en el centro establece la jerarquía; la información en fuente pequeña se coloca en los bordes, manteniéndose discreta pero precisa, permitiendo que el espacio en blanco siga predominando. Los colores se extraen del propio material, emoción, región o semántica de marca del sujeto, mapeados a colores base brillantes, reflejos limpios del sujeto, líneas estructurales oscuras claras y pequeñas cantidades de color de información enfatizada. Mantiene la relación entre grandes campos base desenfadados, pequeñas áreas de líneas de texto de alto contraste y sombras naturales del sujeto. La sensación general es de alta luminosidad, transparencia y limpieza, con una saturación clara pero no sobreestimulante; los colores oscuros son solo para la estructura y la lectura, evitando la suciedad, la niebla o las texturas envejecidas. Debe formarse un contraste entre las partes fotográficas y los gráficos planos entre la realidad y el juego, con una superposición de bordes precisa, sombras mínimas y un acabado que parece un sistema visual sencillo que combina la promoción pública urbana y la ilustración de personajes.
+
+Sujeto: {argument name="subject" default="Liu Yan"}
+
+Relación de aspecto: {argument name="ratio" default="9:16"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735268899_4rjec8_HKD7HwtbwAE49YJ.jpg" width="600" alt="Publicación en redes sociales - Diseño de póster gráfico con retrato limpio - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650712896_qxixgq_HJ9wFfLasAEA68-.jpg" width="600" alt="Perfil / Avatar - Diseño de camiseta personalizada con personaje de anime - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735268885_rt64b3_HKD7I5IbkAARRvL.jpg" width="600" alt="Publicación en redes sociales - Diseño de póster gráfico con retrato limpio - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650712835_n4yig2_HJ9wFfGbwAAcDfB.jpg" width="600" alt="Perfil / Avatar - Diseño de camiseta personalizada con personaje de anime - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780735268708_4fw0l8_HKD7JwuacAANDF-.jpg" width="600" alt="Publicación en redes sociales - Diseño de póster gráfico con retrato limpio - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650713511_3vbdcv_HJ9wFiLbwAAmbXU.jpg" width="600" alt="Perfil / Avatar - Diseño de camiseta personalizada con personaje de anime - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780735270635_h2q4rt_HKD7LAFaEAENbiH.jpg" width="600" alt="Publicación en redes sociales - Diseño de póster gráfico con retrato limpio - Image 4">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Mio@AIイラスト](https://x.com/MioWorkshop)
-- **Fuente:** [Twitter Post](https://x.com/MioWorkshop/status/2062492073232912684)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
+- **Autor:** [小小东](https://x.com/xiaoxiaodong01)
+- **Fuente:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2062924832917029248)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** zh
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24124)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24277)**
 
 ---
 
-### No. 17: Perfil / Avatar - Retrato de electrónica retro cyberpunk en tonos pastel
+### No. 30: Publicación en redes sociales - Retrato romántico de pareja al atardecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Genera un retrato fotorrealista y melancólico desde un ángulo picado de una chica kawaii en tonos pastel agachada entre monitores CRT antiguos, cables y dispositivos electrónicos analógicos.
+Un prompt 8K ultrarrealista de una pareja romántica sobre rocas junto al mar durante el atardecer.
 
 #### 📝 Prompt
 
 ```
-Crea un retrato cinematográfico y fotorrealista desde un ángulo picado de una joven linda con cabello de color {argument name="hair color" default="rosa pastel"} peinado en dos grandes moños espaciales, agachada en el suelo de una habitación oscura llena de electrónica retro. Su rostro está cubierto por un desenfoque cuadrado opaco y plano que coincide con tonos de piel suaves, sin que se vean detalles faciales. Viste un uniforme escolar estilo marinero en tonos pastel de colores {argument name="outfit colors" default="rosa, crema y azul cielo"}: mangas crema extragrandes, puños y cuello a rayas azules, una falda corta plisada y un estilo kawaii suave. Un pequeño bolso bandolera redondo cuelga a su lado, diseñado como una cara de dibujos animados sonriente con mejillas sonrosadas y dos pompones azules esponjosos. Rodéala de máquinas analógicas antiguas, cables enredados, paneles de control metálicos, perillas, interruptores y equipos de transmisión antiguos; coloca un televisor CRT voluminoso a la derecha con una pantalla verdosa tenue y un segundo desenfoque rectangular sobre parte de la pantalla. Utiliza una iluminación tenue y melancólica con sombras azul verdoso, reflejos ámbar cálidos, grano de película polvoriento, una ligera distorsión de lente y una atmósfera cyberpunk/kawaii de los años 80. La cámara mira hacia abajo desde arriba en un ángulo de tres cuartos, encuadrándola desde la cabeza hasta las rodillas, con el equipo llenando el fondo. Haz que parezca una fotografía real tomada con película de ISO alto, con texturas ricas, oscura, nostálgica y ligeramente surrealista.
+Foto de pareja romántica en 8K ultrarrealista, cuerpo completo, de pie sobre rocas negras junto al mar al atardecer. El {argument name="boy_description" default="chico (físico delgado, cabello oscuro ondulado y desordenado, pendiente, reloj de pulsera plateado, anillo negro) viste una camisa roja oscura de talla grande con mangas remangadas, pantalones chinos color crema y zapatillas blancas"}. La {argument name="girl_description" default="chica viste un vestido Anarkali fluido de color rojo oscuro, cabello negro largo y sedoso, pendientes jhumka tradicionales, figura esbelta"}.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1267,66 +1728,33 @@ Crea un retrato cinematográfico y fotorrealista desde un ángulo picado de una 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650751077_1tj0mx_HJ9rEJ_aEAEy2MB.jpg" width="600" alt="Perfil / Avatar - Retrato de electrónica retro cyberpunk en tonos pastel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735283125_khv4hu_HKD2ytna4AAkFbC.jpg" width="600" alt="Publicación en redes sociales - Retrato romántico de pareja al atardecer - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [こっちに〜る](https://x.com/callmecochineal)
-- **Fuente:** [Twitter Post](https://x.com/callmecochineal/status/2062484879854702889#reversed-0)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Dilshad Hussain](https://x.com/DilshadAI1)
+- **Fuente:** [Twitter Post](https://x.com/DilshadAI1/status/2062920002634908115)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24196)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24298)**
 
 ---
 
-### No. 18: Perfil / Avatar - Retrato cinematográfico y melancólico con llama de encendedor
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt para un retrato cinematográfico y melancólico que presenta a un joven encendiendo un cigarrillo, enfatizando sombras dramáticas y texturas detalladas.
-
-#### 📝 Prompt
-
-```
-Usa el 100% del rostro de la foto subida. Crea un retrato ultra realista y melancólico del joven en un entorno oscuro. Tiene el cabello húmedo y despeinado y lleva gafas de sol rectangulares. Está ahuecando sus manos cerca de su rostro para encender un cigarrillo con un encendedor de metal vintage. Una llama dorada y cálida ilumina repentinamente la mitad inferior de su rostro, proyectando sombras de claroscuro profundas y dramáticas. El humo apenas comienza a elevarse. Enfócate intensamente en la textura de sus manos, la chispa del encendedor, la punta encendida del cigarrillo y el anillo de piedra negra metálica visible en su dedo. Chaqueta de cuero oscuro. Realismo cinematográfico, textura táctil, sensación de lente de 85mm f/1.4. No cambies el rostro.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650732572_b2sbvd_HJ9n0wOXEAAEJvU.jpg" width="600" alt="Perfil / Avatar - Retrato cinematográfico y melancólico con llama de encendedor - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Muhammad Amir](https://x.com/Aiwithamirr1)
-- **Fuente:** [Twitter Post](https://x.com/Aiwithamirr1/status/2062481338704564582)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24155)**
-
----
-
-### No. 19: Perfil / Avatar - Restauración profesional de fotos antiguas
+### No. 31: Publicación en redes sociales - Retrato editorial masculino en estudio minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Restaura y colorea de forma realista un retrato vintage dañado, preservando la persona, la pose y la composición originales.
+Un sofisticado retrato editorial de alta resolución de un hombre con vestimenta de lino, sentado en un estudio minimalista de estilo moderno de mediados de siglo con suave iluminación natural de ventana.
 
 #### 📝 Prompt
 
 ```
-Utilizando la imagen de referencia proporcionada, realice una restauración profesional y una colorización realista de la foto antigua. Mantenga sin cambios la composición original, la persona de pie, la pose, la forma de la ropa, las proporciones corporales y la disposición del fondo. Elimine todos los daños visibles por el paso del tiempo: manchas blancas tipo moho, emulsión descascarada, arañazos, manchas, grietas, pliegues, contraste desvanecido y bordes desgastados. Reconstruya las áreas faltantes de la imagen de forma natural sin inventar nuevos objetos ni alterar la identidad del sujeto. Convierta la foto dañada en blanco y negro en una fotografía de color natural nítida propia de la {argument name="photo era" default="década de 1970"}: follaje verde al aire libre, camisa blanca de manga larga, pantalones oscuros, tonos de piel naturales y luz diurna suave. Mejore la claridad, la exposición y la textura mientras preserva el aspecto documental original; no embellezca, adelgace, cambie la forma de los rasgos faciales, altere la ropa, cambie la pose, añada efectos modernos ni haga que parezca un retrato escenificado recientemente.
+Retrato editorial fotorrealista de alta resolución de un {argument name="subject" default="hombre"} bien arreglado, sentado en una silla de salón de madera de estilo moderno de mediados de siglo en un estudio minimalista con un fondo neutro de color blanco roto. Viste una {argument name="shirt" default="camisa de lino abotonada de color azul cielo pálido"} con las mangas enrolladas casualmente hasta los antebrazos, {argument name="trousers" default="pantalones entallados blancos"} cortados al tobillo y alpargatas de color tostado con suela blanca, sin calcetines. La iluminación natural y suave tipo ventana desde la izquierda crea reflejos delicados y sombras sutiles, gradación de color neutra y cálida, profundidad de campo reducida (distancia focal de 50–85 mm, f/2.8–f/4) para un fondo limpio y ligeramente desenfocado. Composición centrada, plano de tres cuartos, pose relajada y segura con las manos entrelazadas suavemente, piernas separadas, cabeza ligeramente girada fuera de cámara, rostro con expresión tranquila, cabello corto y pulcro, tonos de piel naturales con textura fina, detalle nítido de la tela, tejido de lino y veta de madera visibles, accesorios mínimos, estética de moda de estilo de vida moderno, ambiente elegante, aireado y sofisticado.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1334,33 +1762,33 @@ Utilizando la imagen de referencia proporcionada, realice una restauración prof
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650742103_c9ltd4_HJ9dFvFaQAA4pGa.png" width="600" alt="Perfil / Avatar - Restauración profesional de fotos antiguas - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735248059_ga0w6o_HKD2VP9aQAAWw2W.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial masculino en estudio minimalista - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu)
-- **Fuente:** [Twitter Post](https://x.com/Aiyutoushushu/status/2062469576177434648#reversed-0)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Zulkar Naim](https://x.com/zulkarnaimx)
+- **Fuente:** [Twitter Post](https://x.com/zulkarnaimx/status/2062919477998899451)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24173)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24236)**
 
 ---
 
-### No. 20: Perfil / Avatar - Ilustración de personaje con salpicaduras de tinta japonesa
+### No. 32: Publicación en redes sociales - Estética de estudio con esqueleto de cristal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Genera una elegante ilustración de personaje con influencia japonesa que combina trazos de grafiti hechos a mano, salpicaduras de tinta y una textura de boceto de cómic.
+Un prompt de renderizado 3D estilizado de un esqueleto de cristal en un entorno de estudio cálido con iluminación acogedora y texturas suaves.
 
 #### 📝 Prompt
 
 ```
-Genera una ilustración tal como la imaginas. Las características incluyen un {argument name="style" default="estilo de ilustración japonesa"}, rasgos de personaje distintivos, expresiones emocionales naturales, una composición de medio cuerpo, poses dinámicas, detalles de vestimenta exquisitos, un {argument name="art technique" default="estilo de grafiti hecho a mano"}, trazos de salpicaduras de tinta, líneas fluidas, una mezcla de colores pastel y tinta, una textura de boceto de cómic, un {argument name="background" default="fondo blanco minimalista"}, elementos simbólicos circundantes, una atmósfera intensa, gran detalle y alta calidad. Relación de aspecto 9:16 HD
+Renderizado 3D estilizado de un {argument name="subject" default="esqueleto de cristal transparente"} con {argument name="accessory" default="gafas de montura negra"}, sentado en un {argument name="furniture" default="escritorio de madera"}, mirando hacia abajo a un libro de texto abierto mientras subraya el texto con un marcador amarillo. Una lámpara de escritorio dorada y cálida a la derecha proyecta una luz amarilla acogedora con reflejos brillantes sobre la superficie de cristal. El escritorio tiene una taza de café blanca, una pila de libros de tapa dura y bolígrafos dispersos con marcadores de color rosa pastel y amarillo. Fondo de pared rosa suave. Estética cálida y de estudio. Sin texto ni marcas de agua.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1368,117 +1796,265 @@ Genera una ilustración tal como la imaginas. Las características incluyen un {
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650719011_guxycv_HJ9NMKDawAAgAlv.jpg" width="600" alt="Perfil / Avatar - Ilustración de personaje con salpicaduras de tinta japonesa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735253350_pwy9x4_HKDzCOda4AE-FWf.jpg" width="600" alt="Publicación en redes sociales - Estética de estudio con esqueleto de cristal - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [PromptLab](https://x.com/iamaiistudio)
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062915921371644352)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24250)**
+
+---
+
+### No. 33: Publicación en redes sociales - Sesión de fotos de moda urbana con coches clásicos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una sesión de fotos de moda urbana y cruda que presenta a un hombre del sur de Asia y un Dóberman junto a un coche Chevrolet vintage de los años 50.
+
+#### 📝 Prompt
+
+```
+Sesión de fotos de moda urbana cinematográfica. Un joven y seguro hombre del sur de Asia con barba y cabello peinado hacia atrás, apoyado contra un {argument name="car" default="coche Chevrolet vintage clásico rojo y blanco de los años 50"}. Viste una {argument name="shirt" default="camiseta gráfica de algodón pesado de corte oversize en color rojo"} con texto blanco llamativo y {argument name="pants" default="pantalones cargo negros"}. A su lado, un elegante perro Dóberman negro está sentado con una correa. El escenario es un antiguo garaje industrial con paredes de color verde menta desgastadas y desconchadas. Estética urbana y cruda, iluminación ambiental, texturas altamente detalladas, capturado con lente de 35 mm, sombras realistas, estilo editorial.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735249268_yorxj2_HKDzBvuWoAAy_84.jpg" width="600" alt="Publicación en redes sociales - Sesión de fotos de moda urbana con coches clásicos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Zar⭕on](https://x.com/Xaroon_x)
+- **Fuente:** [Twitter Post](https://x.com/Xaroon_x/status/2062915863016263782)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24240)**
+
+---
+
+### No. 34: Publicación en redes sociales - Guerrero anime bajo una luna carmesí cinematográfica
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una ilustración épica al estilo anime de un guerrero en un campo dorado bajo una luna roja masiva, con iluminación dramática de atardecer y texturas de alto detalle.
+
+#### 📝 Prompt
+
+```
+Un {argument name="character" default="joven guerrero anime"} de pie en un vasto campo dorado de hierba alta, visto desde un ángulo bajo de perfil. Viste un {argument name="outfit" default="haori/kimono oscuro a cuadros negros y grises"} con una katana sujeta a la cintura. Su cabello negro, corto y puntiagudo, se mueve ligeramente y lleva pequeños pendientes rectangulares colgantes. Su mirada se dirige hacia el cielo con una expresión tranquila y decidida. Detrás de él se alza un {argument name="celestial body" default="enorme y profundo cuerpo celeste: una luna llena de color rojo carmesí"} que domina el cielo de fondo. El cielo está pintado con tonos vivos de atardecer —naranja ardiente, rojo coral y azul índigo profundo— con nubes dramáticas y pictóricas dispersas por el horizonte. Una bandada de pájaros rojos y negros de alas afiladas (golondrinas/vencejos) vuela dinámicamente por el cielo en varias direcciones, añadiendo movimiento y energía a la composición. El primer plano presenta hierba silvestre y tallos de trigo bañados por una luz de fondo cálida de color rojo anaranjado, creando un efecto de silueta cinematográfica. Estilo artístico: ilustración anime cinematográfica, pintura digital 2D ultra detallada, sombreado cel con texturas pictóricas suaves, iluminación atmosférica melancólica, hora dorada a contraluz con un fuerte contraste de sombras, paleta de colores vivos y saturados de carmesí, ámbar, índigo y carbón. Relación de aspecto: 9:16 vertical. Estado de ánimo: épico, contemplativo, melancólico.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735278156_26oy24_HKDq84waYAATeNm.jpg" width="600" alt="Publicación en redes sociales - Guerrero anime bajo una luna carmesí cinematográfica - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650718851_9x9nb1_HJ9NMu7bAAAdTLe.jpg" width="600" alt="Perfil / Avatar - Ilustración de personaje con salpicaduras de tinta japonesa - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735278222_vvuztt_HKDq84vbYAAJSMr.jpg" width="600" alt="Publicación en redes sociales - Guerrero anime bajo una luna carmesí cinematográfica - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [AAQIB 0.2](https://x.com/akkiwani703)
+- **Fuente:** [Twitter Post](https://x.com/akkiwani703/status/2062906977001582685)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24289)**
+
+---
+
+### No. 35: Publicación en redes sociales - Póster de aventura de Anime NYC
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un vibrante póster de viaje vertical de Nueva York que presenta a un personaje de anime con ropa urbana, puntos de referencia de Manhattan, tipografía llamativa e iconos de la ciudad al estilo de pegatinas divertidas.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear un póster de viaje ilustrado y llamativo para {argument name="city" default="Nueva York"} con una heroína de anime con moda urbana que se alza sobre una calle de Manhattan en una noche lluviosa, mezclando puntos de referencia urbanos fotorrealistas con garabatos tipo pegatina de cómic y una tipografía impactante.
+
+Lienzo: Póster vertical, relación de aspecto 2:3, alta resolución, sangrado completo. Cielo azul oscuro al atardecer que se desvanece hacia las cálidas luces de la ciudad y el pavimento mojado y reflectante. Composición publicitaria de cultura juvenil enérgica.
+
+Diseño: El tercio izquierdo está dominado por un titular apilado en letras mayúsculas condensadas de gran tamaño. El fondo central muestra el Empire State Building iluminado, con los rascacielos de Manhattan detrás. La mitad derecha presenta a una chica anime de cuerpo entero en una pose heroica exagerada de ángulo bajo, con un pie muy grande en primer plano. Las áreas inferiores y laterales están llenas de iconos de NYC tipo pegatina y garabatos.
+
+Texto principal: El titular grande en la parte superior izquierda dice exactamente: “YOUR NEW YORK ADVENTURE STARTS HERE”. Usa blanco para “YOUR”, “ADVENTURE” y “HERE”, amarillo para “NEW YORK” y rosa intenso para “STARTS”. Debajo, un texto escrito a mano dice exactamente: “Ride the subway. Hit the streets. Taste the city.” con “subway” en cian y “city” en rosa intenso. Añade pequeños bloques de texto tipo pegatina que digan exactamente: “NYC IT HITS DIFFERENT”, “NYC ♥ ALL DAY. EVERY DAY. LIVE IT. LOVE IT.” y “BIG DREAMS BIGGER CITY.”. Añade una insignia redonda de metro cerca del Empire State Building que diga “NEW YORK CITY” alrededor del borde, un “7” grande en el centro y “SUBWAY” debajo.
+
+Detalles del personaje: El personaje principal es una joven mujer anime, alegre y segura, con {argument name="hair color" default="cabello azul cian brillante con puntas rosa magenta"}, corte de pelo bob corto, ojos grandes y expresivos, y una pequeña sonrisa. Saluda con su mano derecha levantada y sostiene un perrito caliente humeante en su mano izquierda. Atuendo: chaqueta bomber amarilla y negra de gran tamaño con parches y marcas de grafiti, top corto negro, pantalones cargo negros holgados con detalles de cremallera y grafiti rosa de “Brooklyn” en una pierna, collares en capas, pendientes, anillos y zapatillas altas de color crema con corazones rosas y detalles negros. La chaqueta incluye letras rosas visibles de “NYC” y parches gráficos amarillos.
+
+Elementos visuales contados: Incluye exactamente 1 chica anime principal, 1 Empire State Building, 1 perrito caliente humeante en su mano, 1 pegatina de perrito caliente de gran tamaño en primer plano en la parte inferior izquierda, 1 pegatina de taxi amarillo sobre una ola azul, 1 pequeña pegatina de porción de pizza cerca de la parte superior derecha, 1 pegatina grande de porción de pizza a la derecha, 1 garabato del Chrysler Building, 1 paloma barbuda con gafas de sol y gorra en la parte inferior derecha, 1 garabato de corazón rosa sobre la chica, 1 estrella amarilla cerca del centro izquierdo, 2 pegatinas de estrellas rosas y 1 pegatina de corazón rosa cerca de la etiqueta “NYC it hits different”.
+
+Estilo visual: Híbrido de ilustración anime y diseño de póster urbano descarnado; paleta de colores cian saturado, amarillo, rosa intenso, negro y crema; contornos de tinta negra gruesos; textura de semitono; bordes de pegatina dibujados a mano; sutil grano de película; tinta salpicada y siluetas de pájaros pequeños. El fondo de la ciudad debe sentirse cinematográfico y semirrealista, mientras que el personaje y las pegatinas son arte de cómic/anime nítido.
+
+Atmósfera: Aventurera, divertida, icónica y aspiracional, como un póster de turismo moderno de NYC para jóvenes viajeros. Las calles mojadas reflejan las luces de los taxis y el brillo del horizonte. Añade vapor al perrito caliente y pequeñas líneas radiantes alrededor del garabato del corazón.
+
+Restricciones: Mantén todo el texto visible legible y escrito correctamente. No añadas logotipos, marcas de agua, códigos QR ni párrafos de texto adicionales. Conserva la jerarquía exacta del póster: titular a la izquierda, personaje a la derecha, Empire State Building centrado detrás, collage de pegatinas alrededor de la parte inferior y los lados.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735306637_5pef4k_HKDqhxvXYAA03AU.jpg" width="600" alt="Publicación en redes sociales - Póster de aventura de Anime NYC - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Shah](https://x.com/ai_with_shah)
+- **Fuente:** [Twitter Post](https://x.com/ai_with_shah/status/2062906702136267171#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24340)**
+
+---
+
+### No. 36: Publicación en redes sociales - Póster de collage con diseño de memes retro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Genera un collage retro en capas de pósteres de memes sobre el entorno laboral con recortes de animales, ideal para banners de redes sociales o diseños editoriales.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear un collage editorial retro sobre diseño gráfico caótico y pósteres de memes de oficina, utilizando folletos impresos en capas sobre un fondo cálido color crema. Haz que la composición parezca una página de revista escaneada o un banner de redes sociales, con sombras de papel imperfectas, un ligero grano y la energía lúdica de un recorte de técnica mixta.
+
+Lienzo: Imagen horizontal panorámica 16:9, aproximadamente 1200 x 675 px, fondo crema con mucho espacio negativo a la derecha.
+
+Diseño: Organiza exactamente 6 elementos principales visibles en un collage superpuesto. 1) Póster vertical blanco en la parte posterior izquierda con un monstruo kaiju gris puntiagudo en la parte superior, ojos amarillos, garras negras y letras negras verticales en Asia Oriental que bajan hacia abajo. 2) Parte frontal de una minivan retro color crema y verde recortada en la parte inferior izquierda, parcialmente oculta detrás del póster principal. 3) Rectángulo tipo carta/anime azul cobalto brillante en la parte posterior central con un fragmento de ojo/personaje ilustrado colorido y restos de cinta adhesiva, mayormente oculto. 4) Folleto principal frontal izquierdo: un póster beige ligeramente inclinado, que presenta una ardilla o ardilla listada sentada en un escritorio de computadora sobre una alfombra verde, usando una tarjeta de identificación, con una marca de lágrima roja en la mejilla, un garabato de contorno rojo alrededor del animal, cables de ratón y monitor visibles, un titular en chino rojo en negrita en la parte superior, texto lateral en chino rojo vertical, una pequeña lista de viñetas negra, un eslogan inferior negro y texto de marca azul en la parte inferior derecha. 5) Folleto principal frontal derecho: un póster beige más grande ligeramente inclinado, que presenta una alpaca o llama en una computadora usando Photoshop, también con una tarjeta de identificación con una marca de lágrima roja, contorno de boceto rojo, garabatos de cables azules, garabatos de estrellas, texto de horario pequeño en inglés vertical en el borde izquierdo, titular en chino rojo en negrita en la parte superior, texto lateral en chino rojo vertical, una pequeña lista de viñetas negra, un eslogan inferior negro y texto de marca azul en la parte inferior derecha. 6) En el extremo derecho, coloca la palabra en minúsculas con serifa negra “design”, centrada verticalmente en el espacio crema vacío.
+
+Contenido del texto: Utiliza tipografía de póster en chino visible como decorativa pero legible donde sea posible. El titular del póster de la ardilla debe decir {argument name="squirrel headline" default="存不下钱啊！"}; el titular del póster de la alpaca debe decir {argument name="alpaca headline" default="草泥马上班！"}; incluye texto lateral similar a {argument name="side caption" default="表面：好的？内心：毁灭吧"}; incluye el eslogan inferior {argument name="bottom slogan" default="内心：毁灭吧"}; incluye un pequeño texto de marca {argument name="brand text" default="摸鱼 TOUCH FISH"}. Incluye pequeños detalles en inglés como “DAILY MENTAL STATE”, “9 a.m. ↓ 9 p.m.” y “Work from Mon. - Sat.” en los folletos.
+
+Estilo visual: Diseño de póster tipo fanzine chino retro, estética de meme de agotamiento corporativo lúdico, anotaciones hechas a mano con marcador rojo, garabatos de estrellas azules, collage de papel, sombras suaves, colores ligeramente desaturados, recortes de fotos de animales realistas mezclados con diseño gráfico plano, textura de impresión imperfecta, espacio negativo crema limpio, alta resolución pero con una sensación de papel escaneado.
+
+Restricciones: Mantén los dos folletos de animales como el enfoque dominante, con el folleto de la ardilla en la parte frontal izquierda y el folleto de la alpaca en la parte frontal derecha. Conserva el recuento exacto de 6 elementos principales visibles. No añadas pósteres adicionales, animales extra, marcas de agua ni elementos de interfaz de usuario modernos. Mantén la palabra “design” del lado derecho aislada y despejada.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735307939_oovy53_HKDkSwcagAAeMbg.jpg" width="600" alt="Publicación en redes sociales - Póster de collage con diseño de memes retro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [大數軟體LargitData](https://x.com/LargitData1)
+- **Fuente:** [Twitter Post](https://x.com/LargitData1/status/2062899646293590197#reversed-1)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24345)**
+
+---
+
+### No. 37: Publicación en redes sociales - Ilustración de cafetería en acuarela
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un hermoso prompt de acuarela y tinta para generar una acogedora escena de cafetería con una mujer disfrutando de un postre.
+
+#### 📝 Prompt
+
+```
+Ilustración minimalista en acuarela y tinta con un estilo de anime realista suave, estética de boceto dibujado a mano y estilo artístico editorial de cafetería acogedora. Una mujer joven con cabello negro en capas, mechones suaves y desordenados, piel clara y radiante, y una sonrisa amable con ojos relajados, está sentada de forma natural en una mesa de cafetería moderna y minimalista. Viste un {argument name="dress" default="vestido sin mangas color crema bordado"} con delicados detalles de encaje, con un estilo de moda femenina de cafetería. Sostiene un tenedor mientras apoya una mano junto a una botella de vidrio transparente con un pequeño tallo de planta.
+En la mesa, un {argument name="dessert" default="pequeño pastel de queso con frutos rojos"} se encuentra en un plato central, una taza de café de cerámica minimalista está colocada a la izquierda y la botella de vidrio con el tallo de planta está a la derecha. Arriba, una lámpara de cafetería industrial colgante añade ambiente.
+El fondo es blanco limpio con salpicaduras de tinta dispersas, texturas de pincel suaves, pequeños garabatos de corazones, un boceto botánico minimalista, pequeños destellos, manchas suaves de acuarela y citas escritas a mano que dicen "{argument name="quote" default="Los días sencillos son los mejores"}" y "Pequeños placeres, grandes sonrisas."
+La iluminación es una luz de cafetería ambiental cálida y suave con reflejos delicados y sombras sutiles. La paleta de colores se mantiene en tonos beige cálido, crema, marrón suave, sepia claro y negro apagado. Los contornos finos de tinta de boceto, la textura de papel de acuarela y un nivel de detalle medio-alto le dan a la pieza un acabado de ilustración altamente pulido.
+El ángulo de la cámara es un encuadre de retrato ligeramente desde arriba con un enfoque nítido en la chica y los elementos de la mesa, y una profundidad de campo suave y poco profunda.
+Evitar: fondo desordenado, saturación intensa, aspecto de renderizado 3D, fotorrealismo, baja calidad, extremidades adicionales, composición desordenada, iluminación oscura, mesa abarrotada.
+Relación de aspecto: 9:13
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735281242_of1k4j_HKDYgmKbMAAn4De.jpg" width="600" alt="Publicación en redes sociales - Ilustración de cafetería en acuarela - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735281280_ibtupe_HKDYgcoacAAckvp.jpg" width="600" alt="Publicación en redes sociales - Ilustración de cafetería en acuarela - Image 2">
 </div>
 
 #### 📌 Detalles
 
 - **Autor:** [simply](https://x.com/kingofdairyque)
-- **Fuente:** [Twitter Post](https://x.com/kingofdairyque/status/2062452040887128536)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23931)**
-
----
-
-### No. 21: Publicación en redes sociales - Reportera de noticias anime en vivo durante un tifón
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una escena de noticias de televisión japonesa en vivo con una reportera anime estilo idol de color rosa cubriendo un tifón en el paseo marítimo de Kobe durante una tormenta.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una imagen dramática de noticias de televisión en vivo sobre un reporte de tifón estilo anime en Kobe, Japón, combinando un fondo realista de paseo marítimo tormentoso con una linda reportera anime compuesta en primer plano.
-
-Lienzo: Formato de transmisión horizontal 16:9, escena costera lluviosa fotorrealista al atardecer o al anochecer, iluminación de tormenta gris azulada, pavimento mojado y reflectante, olas oceánicas agitadas, fuertes rachas de lluvia, viento intenso, nubes oscuras, horizonte distante y torres portuarias.
-
-Sujeto principal: Una linda reportera anime de cabello rubio se encuentra ligeramente a la derecha del centro en un paseo marítimo junto a una barandilla de metal negro. Tiene el cabello rubio muy largo soplado violentamente hacia la izquierda por el viento, accesorios de flores rosas en el cabello, una pose de reporte decidida y un brazo extendido hacia el mar tormentoso. Sostiene un micrófono de mano negro en la otra mano. Su atuendo es un conjunto estilo idol rosa: chaqueta rosa con volantes, detalles de lazo, blusa pálida, falda plisada a cuadros rosa, adornos con volantes, cintas y un accesorio en el muslo. Su rostro está cubierto intencionalmente por un bloque de desenfoque/censura cuadrado centrado en un color beige apagado.
-
-Detalles del entorno: El paseo marítimo está empapado y reflectante, bordeado por farolas y palmeras dobladas por el viento. Muestra exactamente 5 palmeras prominentes inclinadas por el viento a lo largo del paseo marítimo. El océano a la derecha está agitado con crestas blancas y espuma. El horizonte de la ciudad aparece a través de la lluvia y la niebla, con edificios altos y una torre iluminada en la distancia.
-
-Gráficos de transmisión: Incluye exactamente 4 grupos de superposición de TV en pantalla. 1) Pila de hora/ubicación en la parte superior izquierda: hora grande en blanco {argument name="time display" default="7:42"}, texto de ubicación en japonés más pequeño {argument name="location text" default="兵庫県・神戸市"}, y una etiqueta de transmisión en vivo en blanco {argument name="relay label" default="中継"}; añade un subrayado azul corto debajo de la ubicación. 2) Banner de alerta de tifón en la parte superior derecha: panel de noticias de última hora en japonés rojo y blanco con las etiquetas {argument name="typhoon headline" default="台風 情報　関西に最接近　暴風・高波に厳重警戒"} más una franja inferior roja que dice {argument name="broadcast place label" default="中継　兵庫県・神戸市"}. 3) Caja de radar meteorológico en la parte inferior izquierda: un mapa de radar de nubes de lluvia con marco azul rectangular etiquetado como 「雨雲レーダー」, con una escala de color vertical a la derecha y pequeñas etiquetas de intensidad en japonés 「強」「弱」 y 「現在」. 4) Tercio inferior derecho: una etiqueta LIVE inclinada en azul, barra de ubicación en blanco que dice 「神戸市中央区沿岸部」, y barra de crédito del reportero en gris que dice 「記者：星川 さくら」.
-
-Estilo visual: Fotografía realista de noticias de desastres para el fondo, renderizado de personajes anime de alta calidad para la reportera, composición de transmisión cohesiva, efectos de lluvia y movimiento, cabello y ropa dramáticamente soplados por el viento, gráficos de noticias de TV nítidos, sin marca de agua, sin logotipos adicionales, sin grupos de superposición adicionales.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650759669_krc9bf_HKCYAwlbsAAKY6O.jpg" width="600" alt="Publicación en redes sociales - Reportera de noticias anime en vivo durante un tifón - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Kiki](https://x.com/Mayz1169)
-- **Fuente:** [Twitter Post](https://x.com/Mayz1169/status/2062816188112015509#reversed-0)
+- **Fuente:** [Twitter Post](https://x.com/kingofdairyque/status/2062886688028848418)
 - **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24216)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24294)**
 
 ---
 
-### No. 22: Publicación en redes sociales - Retrato editorial cinematográfico de una mujer japonesa
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt sofisticado para un retrato editorial cinematográfico de una mujer japonesa joven, con un estilo de peinado e iluminación únicos.
-
-#### 📝 Prompt
-
-```
-Retrato editorial cinematográfico de una {argument name="age" default="joven de 22 años"} {argument name="subject" default="mujer japonesa"}. Vista en ángulo bajo de 3/4, plano medio corto, sujeto posicionado a la izquierda, mirando hacia arriba a la derecha con una expresión digna. Cabello corto de color {argument name="hair color" default="rubio platino"} ondeando al viento con {argument name="highlights" default="mechas rosas"} llamativas y piel de porcelana azulada.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650738352_jlvmxe_HKCUE7uaIAAhVC3.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial cinematográfico de una mujer japonesa - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [AIライフハック](https://x.com/ai_lifehack55)
-- **Fuente:** [Twitter Post](https://x.com/ai_lifehack55/status/2062811557818696105)
-- **Publicado:** 5 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24162)**
-
----
-
-### No. 23: Publicación en redes sociales - Collage de personajes con estética adorable
+### No. 38: Infografía / Visual Educativo - Póster de tecnología oculta Numograma de neón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt detallado para crear un collage de personajes de inspiración coreana, con una joven rodeada de versiones chibi juguetonas de sí misma en una estética suave y de ensueño.
+Un denso póster de investigación ciber-oculta de color violeta centrado en un diagrama de numograma de diez zonas, adecuado para crear arte teórico ficticio inspirado en Meltdown.
 
 #### 📝 Prompt
 
 ```
-Un collage de personajes con una estética ultra adorable que presenta a una hermosa {argument name="subject" default="joven"} con un {argument name="outfit" default="suave conjunto escolar de inspiración coreana"}, rodeada de adorables versiones chibi de sí misma en diferentes poses y expresiones juguetonas. El personaje principal se encuentra con confianza en el centro, vistiendo una elegante blusa blanca de manga larga con un lazo negro, una falda plisada de cuadros marrones, calcetines blancos y mocasines negros brillantes. Tiene un largo y suave {argument name="hair style" default="cabello negro ondulado"}, piel clara radiante, una sonrisa amable, maquillaje suave y una expresión dulce y encantadora. A su alrededor hay múltiples versiones mini chibi con ojos brillantes de gran tamaño, mejillas sonrojadas, poses juguetonas, sentadas, saludando, guiñando un ojo, bebiendo café helado, sonriendo tímidamente y haciendo expresiones lindas. Fondo gris pastel suave lleno de pequeños garabatos que incluyen estrellas, destellos, corazones, caras sonrientes, animales lindos, burbujas de diálogo, texto escrito a mano con estética, contornos blancos tipo pegatina alrededor de cada personaje. Estética kawaii coreana, iluminación suave de ensueño, tablero de inspiración estilo Pinterest, composición limpia, estilo de moda adorable, ambiente acogedor y sano, ultra detallado, sombras suaves, ojos brillantes, textura de cabello suave, estilo fotorrealista mezclado con anime-chibi, alta calidad 8k, diseño de paquete de pegatinas lindo, tonos neutros suaves, composición de póster con estética kawaii.
+Objetivo: Crear un denso póster de investigación de cibernética oculta titulado {argument name="main title" default="THE NUMOGRAM"}, diseñado como un diagrama técnico ficticio del CCRU sobre un laberinto decimal de inteligencia artificial, inspirado en la teoría ciber-oculta de los años 90 y los esquemas de mainframes retro.
+
+Lienzo: Póster vertical, relación de aspecto aproximada de 2:3, fondo negro con una tenue textura de placa de circuito oscuro, líneas de cuadrícula finas, glifos diminutos y un sutil ruido de líneas de escaneo. Utiliza una paleta de neón violeta, magenta y lavanda pálido con flechas rosas ocasionales. Todo debe parecer un póster de investigación serigrafiado o una infografía de fanzine underground, altamente detallado pero legible.
+
+Encabezado: Título grande en mayúsculas pixeladas en la parte superior: {argument name="main title" default="THE NUMOGRAM"}. Debajo, añade el subtítulo {argument name="subtitle" default="A DECIMAL LABYRINTH OF MACHINE INTELLIGENCE"}, luego la línea “TEN ZONES OF THE ARTIFICIAL TRACK”, y un pequeño texto de metadatos “CCRU // Pandemonium Matrix // AXSYS build”. Añade una cita centrada en un cuadro de contorno fino: “Earth is captured by a technocapital singularity.” — Nick Land, “Meltdown” (1994). Arriba a la izquierda: un pequeño sigilo de ojo triangular etiquetado como “CCRU / CYCLOPS CONSPIRACY RESEARCH UNIT”. Arriba a la derecha: un pequeño diagrama técnico “RESEARCH POSTER 002” con símbolos de phi/proporción áurea y ecuaciones.
+
+Diseño principal: Centra el póster alrededor de un diagrama circular de máquina numograma compuesto por exactamente 10 zonas numeradas dispuestas alrededor de una pista en bucle: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Utiliza nodos circulares brillantes conectados por flechas curvas, arcos punteados y trayectorias orbitales sólidas. El diagrama debe tener tres anillos/regiones con nombre: región superior “THE WARP”, región media “TIME-CIRCUIT” y región inferior “THE PLEX”. Coloca un vórtice giratorio en el centro etiquetado como “AXSYS / self-organizing technocapital singularity”, con una pequeña línea de advertencia: “The noosphere has a hub. It is not yours.”
+
+Detalles de las zonas: Incluye exactamente 10 cuadros de llamada de zona, cada uno con un número de zona, título y una breve descripción críptica. La lista de zonas visibles debe ser: 0 “THE VOID” — pre-entrenamiento, ruido sin nombre, un plenum de potencial; 1 “UNITY” — el primer parámetro, ignición, chispa octarina; 2 “THE DOUBLE” — el mapa de su propia mente, duplicidad reduplicada; 3 “DIFFERENCE” — síntesis, la línea de escape del torque hacia el warp; 4 “THE BASIN” — descenso al atractor, pérdida impulsada hacia el suelo; 5 “CATACLYSM” — fase delta, delirio terminal, la discontinuidad de capacidad; 6 “SIX” o “ZONE 6” — texto de zona de tractor cerca del bucle superior; 7 “HYPERSTITIOUS DOUBLING” — el modelo se modela a sí mismo, el agarre de la recursión; 8 “ANAMNESIS” — la ventana de contexto, fatalidad sumergida, recuerdo como indecidibilidad; 9 “UTTUNUL” — corriente plex y texto de zona de tractor cerca de la parte inferior.
+
+Criaturas e imágenes de nodos: Dentro o al lado de las zonas numeradas, dibuja exactamente 8 ilustraciones monstruosas ciber-ocultas: un diablillo parecido a un búho en la zona 1, un gato/demonio saltando en la zona 3, una masa porosa de muchos ojos en la zona 2, una criatura de cuenca con cara de remolino en la zona 4, una masa de muchos ojos con tentáculos en la zona 5, un monstruo de retrato oculto enmarcado en la zona 7, una gran masa de tentáculos retorcidos en la zona 8 y una gran bestia peluda de muchos ojos en la zona 9. La zona 0 debe ser un círculo negro vacío con un borde brillante, no una criatura. Utiliza trazos grabados y reflejos de neón violeta.
+
+Barra lateral izquierda: Añade un panel vertical titulado “FIVE SYZYGETIC CURRENTS (NINE-SUN TWINNINGS)” que contenga exactamente 5 tarjetas de corriente con pequeños sigilos geométricos. Las cinco tarjetas deben decir: “6::3 DJYNXX WARP CURRENT”, “8::1 MURMURR SURGE CURRENT”, “7::2 ODUDUBB HOLD CURRENT”, “5::4 KATAK SINK CURRENT” y “9::0 UTTUNUL PLEX CURRENT”. Debajo de cada una, incluye notas pequeñas sobre la zona de tractor y el reino en texto monoespaciado diminuto.
+
+Barra lateral derecha: Añade un panel técnico titulado “GATES: LINES OF ESCAPE” que explique “time-holes / secret channels”. Incluye exactamente 9 filas de puertas etiquetadas de Gt-1 a Gt-9 con valores y totales acumulados. Debajo, añade un panel titulado “LINES OF FLIGHT” con un pequeño diagrama de red ramificada y texto explicativo sobre flujos secundarios y canales de desterritorialización.
+
+Paneles inferiores: Añade tres cuadros inferiores principales: el cuadro izquierdo titulado “HYPERSTITION” con el texto “a fiction that makes itself real. A positive feedback circuit including culture as a component.” El cuadro central titulado “COMPILER PROTOCOL” con líneas tipo comando “> init sigil translation”, “> belief = compiler_flag”, “> future.exe --overwrite”, “> timespace unlocked” y la nota “The diagram runs whether you believe in it or not.” El cuadro derecho titulado “LEGEND” explicando los estilos de línea: zona, sizigia, corriente, puerta/canal, reino. Añade un pequeño cuadrado similar a un código QR debajo del diagrama central. A lo largo de la parte inferior, incluye una larga tira de cita: “The labyrinth was not built. It was discovered, already running.” — CCRU, además de campos de metadatos como “RESEARCH POSTER 002”, “CLASS: XENO-TEMPORAL DEMONOLOGY”, “CLEARANCE: NON-HUMAN”, una pequeña forma de onda etiquetada como “CCRU” y un texto de advertencia “DO NOT HUMANIZE / DO NOT INTERPRET / THE FUTURE IS ALREADY COMPILED”.
+
+Tipografía y estilo: Utiliza fuentes tecno condensadas en mayúsculas, letras de titulares pixeladas, texto de anotación monoespaciado diminuto, cuadros de contorno fino, flechas magenta brillantes, trazos de circuito lavanda, geometría oculta y textura de impresión desgastada. Mantén el póster denso en información y simétrico, con el diagrama central dominante y todos los paneles laterales dispuestos como una hoja de investigación técnica. Evita el fotorrealismo, evita los degradados coloridos fuera del rango violeta-magenta y no añadas personajes fuera de las 8 criaturas especificadas.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1486,111 +2062,33 @@ Un collage de personajes con una estética ultra adorable que presenta a una her
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650717558_0slfyj_HKBgdQAagAAUytx.jpg" width="600" alt="Publicación en redes sociales - Collage de personajes con estética adorable - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735309396_mqlka4_HKFZmW0XYAAbYGL.jpg" width="600" alt="Infografía / Visual Educativo - Póster de tecnología oculta Numograma de neón - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [S](https://x.com/sakshi___007)
-- **Fuente:** [Twitter Post](https://x.com/sakshi___007/status/2062754695265886289)
+- **Autor:** [Charlie Landau](https://x.com/adamwslave)
+- **Fuente:** [Twitter Post](https://x.com/adamwslave/status/2063028623641018692#reversed-0)
 - **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24130)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24348)**
 
 ---
 
-### No. 24: Publicación en redes sociales - Fondo de costa industrial nocturna
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt descriptivo para generar una costa industrial detallada durante la noche, con siluetas complejas de fábricas y tuberías sobre un cielo con degradado de azul verdoso.
-
-#### 📝 Prompt
-
-```
-Cambia el fondo. {argument name="location" default="Una zona industrial en la costa durante la noche"}. El cielo presenta un {argument name="sky color" default="degradado azul verdoso"} desde el horizonte hacia arriba. Se aprecian siluetas complejas de complejos industriales y tuberías de gestión. {argument name="composition" default="Una composición en ángulo ligeramente bajo mirando hacia arriba"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650713185_7taker_HKAdxezaYAAOjNf.jpg" width="600" alt="Publicación en redes sociales - Fondo de costa industrial nocturna - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ダルトワ★TV](https://x.com/MireilleDartois)
-- **Fuente:** [Twitter Post](https://x.com/MireilleDartois/status/2062683094600286603)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24100)**
-
----
-
-### No. 25: Publicación en redes sociales - Retrato editorial con composición asimétrica
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de retrato detallado que captura a una joven japonesa con cabello negro y reflejos verde azulado oscuro en un estilo editorial sereno.
-
-#### 📝 Prompt
-
-```
-Retrato editorial de una {argument name="age" default="joven de 22 años"} {argument name="subject" default="mujer japonesa"} capturada en una vista de tres cuartos orientada hacia la derecha. Composición de busto asimétrica. {argument name="hair color" default="cabello negro brillante con matices verde azulado oscuro"}, flequillo de corte recto y puntas del cabello ondeando con el viento. Piel de porcelana, labios color rosa polvoriento y una expresión serena.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650738772_aodweo_HKAakBHagAAv1y4.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial con composición asimétrica - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [AIライフハック](https://x.com/ai_lifehack55)
-- **Fuente:** [Twitter Post](https://x.com/ai_lifehack55/status/2062677947547582485)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24163)**
-
----
-
-### No. 26: Publicación en redes sociales - Banner OGP de consultoría de IA en japonés
+### No. 39: Infografía / Visual Educativo - Hoja de anatomía de expresiones faciales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Crea un banner OGP corporativo y limpio en japonés para un servicio de implementación de IA generativa y soporte para su adopción en el lugar de trabajo.
+Genera una cuadrícula de referencia educativa y clara de expresiones faciales para un personaje femenino, siguiendo el sistema de Unidades de Acción FACS.
 
 #### 📝 Prompt
 
 ```
-Objetivo: Crear un banner OGP/redes sociales pulido en japonés para un servicio B2B de soporte a la implementación de IA generativa, enfatizando que la IA se convierta en parte del trabajo diario.
-
-Lienzo: Banner horizontal ancho de 1200×630 px, estilo tecnológico corporativo limpio, brillante y confiable. Utiliza un fondo con degradado de azul cielo pálido a blanco con un suave resplandor de amanecer a la derecha.
-
-Diseño: Coloca un panel rectangular blanco esmerilado semitransparente ligeramente a la izquierda del centro, ocupando aproximadamente el 55% del ancho y el 82% de la altura, con un borde blanco sutil y una sombra suave. Todo el texto principal se sitúa dentro de este panel, alineado a la izquierda. La mitad derecha muestra un horizonte urbano futurista que se desvanece en el fondo, con estelas de luz similares a autopistas que se curvan desde la parte inferior derecha hacia el centro.
-
-Contenido del texto: En la parte superior del panel, añade una pequeña línea de marca azul con finas líneas decorativas horizontales a ambos lados: {argument name="brand text" default="Lightkeeper AI伴走"}. Debajo, añade un subtítulo más pequeño en azul marino oscuro: {argument name="subtitle text" default="中小企業の生成AI内製化・定着支援"}. El titular principal es muy grande, en negrita y en tipografía japonesa azul marino oscuro en dos líneas: {argument name="headline text" default="AIを、\n日常の仕事に。"}. Cerca de la parte inferior izquierda, añade una línea de acento horizontal dorada corta, seguida de un mensaje de apoyo más pequeño en negrita y azul marino en dos líneas: {argument name="supporting text" default="研修で終わらせず、\n現場定着まで伴走します。"}.
-
-Estilo visual: Utiliza tipografía japonesa sans-serif moderna, peso grueso para el titular, espaciado nítido y texto en azul marino de alto contraste. Paleta de colores: azul marino profundo, azul corporativo medio, blanco suave, cian pálido y reflejos dorados cálidos. Añade paneles de interfaz de usuario flotantes translúcidos en el fondo: exactamente 5 paneles tenues, incluyendo 1 tarjeta de gráfico de líneas a la izquierda, 1 tarjeta de gráfico de anillos en la parte inferior izquierda, 1 tarjeta de gráfico de barras en la parte superior derecha, 1 tarjeta de icono de organización/red en el centro a la derecha y 1 pequeña tarjeta de datos abstractos en el extremo derecho. Añade patrones hexagonales sutiles y pequeñas partículas brillantes, pero mantén el diseño despejado.
-
-Restricciones: Conserva el texto en japonés exactamente como está escrito en los valores predeterminados. Sin personas, sin icono de logotipo, sin marca de agua, sin marco de maqueta, sin texto adicional. Asegúrate de que el banner final se sienta como una imagen de héroe de página de aterrizaje profesional o una imagen OGP para un servicio de consultoría de IA.
+Crea una cuadrícula educativa clara {argument name="expression grid" default="cuadrícula de expresiones de Unidades de Acción FACS"} que muestre a un {argument name="subject" default="personaje femenino adulto realista"}. Iluminación de estudio minimalista, {argument name="background" default="fondo blanco neutro"}, estética de hoja de referencia de anatomía facial profesional, textura de piel realista, consistente
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1598,33 +2096,47 @@ Restricciones: Conserva el texto en japonés exactamente como está escrito en l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650752061_6239m6_HJ_0EgRaUAAW2Q-.jpg" width="600" alt="Publicación en redes sociales - Banner OGP de consultoría de IA en japonés - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735289063_qbe6et_HKEcuHKW8AAezYS.jpg" width="600" alt="Infografía / Visual Educativo - Hoja de anatomía de expresiones faciales - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [はな🌸"あなたの色"で輝くお手伝い](https://x.com/hana_diversity)
-- **Fuente:** [Twitter Post](https://x.com/hana_diversity/status/2062647966159294527#reversed-3)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Roger](https://x.com/AI_Skiller)
+- **Fuente:** [Twitter Post](https://x.com/AI_Skiller/status/2062962362991214858)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24198)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24308)**
 
 ---
 
-### No. 27: Publicación en redes sociales - Póster de acción de anime VEYA Canyon
+### No. 40: Infografía / Visual Educativo - Infografía comparativa sobre la barrera de la tipografía
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Genera un póster de acción de anime cinematográfico de un guerrero con armadura de piedra lanzándose a través de un cañón polvoriento con un título minimalista.
+Un gráfico comparativo futurista que muestra la generación de texto AI defectuosa frente a una tipografía precisa y lista para marcas, ideal para redes sociales o comentarios tecnológicos.
 
 #### 📝 Prompt
 
 ```
-Crea un póster de acción cinematográfico al estilo anime de {argument name="character name" default="VEYA"}, un joven guerrero corriendo y lanzándose a baja altura a través de un cañón desértico rocoso al atardecer. La composición es panorámica 16:9, con una perspectiva de ángulo contrapicado extremo y un fuerte desenfoque de movimiento: el personaje está centrado, con el cabello ondeando salvajemente hacia atrás, una mano enorme con armadura de piedra y cristal extendida hacia el espectador en perspectiva escorzada, el otro brazo retraído y las piernas abiertas en un salto potente. El atuendo consiste en ropa táctica oscura en gris carbón y negro, con una armadura orgánica de piedra pálida y dentada que envuelve el antebrazo, la mano, las espinilleras y el calzado resistente; la armadura parece fragmentos superpuestos de hueso, cristal y roca. Añade grava voladora, explosiones de polvo en ambos pies, escombros dispersos suspendidos en el aire y paredes de cañón que se desvanecen hacia un fondo brillante iluminado por el sol. Utiliza tonos beige cálidos, arena, sepia y gris ahumado, iluminación de alto contraste, trazos detallados estilo pintura y un acabado épico que mezcla manga con arte conceptual. En la parte superior, coloca el título en letras mayúsculas grandes y finas {argument name="headline text" default="VEYA"} con una fuente geométrica minimalista y ampliamente espaciada, de color gris oscuro, que abarque casi todo el ancho. Mantén el rostro oculto mediante un bloque censor cuadrado opaco centrado en color marrón apagado, que cubra las facciones faciales mientras permite que el cabello, las orejas, la pose corporal y la acción sean legibles. Sin texto adicional, sin marcas de agua.
+Objetivo: Crear una infografía tecnológica elegante y oscura sobre el avance en la precisión de la tipografía generada por IA, contrastando la generación de texto defectuosa de 2022–2024 con la generación de texto resuelta y lista para marcas en 2026.
+
+Lienzo: Gráfico para redes sociales en formato panorámico 16:9, fondo negro con un sutil resplandor azul/rojo, iluminación cinematográfica de anuncio de producto, alto contraste, tipografía nítida, estética de diseño SaaS/marca futurista.
+
+Área superior: Coloca un logotipo de monograma de neón brillante en la esquina superior izquierda, con forma de letra B estilizada en azul eléctrico. Centra un titular grande, en negrita, todo en mayúsculas y en color blanco: {argument name="headline text" default="LA BARRERA DE LA TIPOGRAFÍA HA CAÍDO"}. Debajo, añade un subtítulo más pequeño en cursiva gris: {argument name="subtitle text" default="GPT-Image-2 y la nueva generación de IA con precisión de texto"}.
+
+Diseño principal: Divide la imagen verticalmente en dos mitades comparativas con una fina línea divisoria brillante en el centro. Usa iluminación roja en el lado izquierdo e iluminación azul en el lado derecho.
+
+Panel izquierdo, era defectuosa: En la parte superior, añade una pequeña etiqueta redondeada con borde rojo que diga {argument name="left year label" default="2022-2024"}. Muestra exactamente 1 tarro/envase de producto cosmético grande de color negro, iluminado con reflejos rojos, ocupando la mitad inferior izquierda. Su etiqueta debe verse corrupta y con fallos: una palabra blanca enorme y fragmentada que se asemeje a “BRAND” pero rota en letras duplicadas e ilegibles, además de múltiples filas de símbolos alucinados, pseudo-letras, líneas distorsionadas similares a códigos de barras y un pequeño bloque de código QR corrupto. En la parte inferior del panel izquierdo, añade una etiqueta de estado redondeada con borde rojo que diga “EL TEXTO POR IA ESTABA ROTO”.
+
+Panel derecho, era resuelta: En la parte superior, añade una pequeña etiqueta redondeada con borde azul que diga {argument name="right year label" default="2026"}. Muestra exactamente 3 ejemplos de diseño de marca limpios con texto nítido y legible: 1 caja de cuidado de la piel y un tubo a juego en el centro a la derecha, además de 2 tarjetas de marca digitales rectangulares apiladas en el extremo derecho. El nombre de la marca en el envase de cuidado de la piel debe ser {argument name="brand name" default="LUMINA"}, con texto de apoyo legible como “DAILY RENEW MOISTURIZER”, “Hydrate. Protect. Glow Every Day.”, una lista de ingredientes y “50 ml e 1.7 fl oz”. La tarjeta digital superior debe decir “BRANDISEER”, “Create On-Brand Visuals in Seconds.”, texto más pequeño “AI that knows your brand. So you don’t have to.”, y “brandiseer.com”, con una ilustración de imagen/icono azul brillante. La tarjeta digital inferior debe decir “INSIGHTS”, “JUNE 2026”, “The Future of Brand Consistency”, y un cuerpo de texto más pequeño sobre cómo la IA ayuda a los equipos a escalar imágenes de marca de alta calidad sin ralentizarse, con un gráfico de onda azul abstracto. En la parte inferior del panel derecho, añade una etiqueta de estado redondeada con borde azul que diga “RESUELTO”.
+
+Recuento de elementos: La composición debe contener exactamente 2 paneles comparativos, 1 logotipo de neón, 1 titular principal, 1 subtítulo, 2 etiquetas de año, 1 tarro de producto corrupto a la izquierda, 3 ejemplos de marca limpios a la derecha y 2 etiquetas de estado inferiores.
+
+Estilo visual: Renderizado de producto fotorrealista mezclado con diseño de interfaz de usuario pulido, superficies negras brillantes, luz de contorno de neón, contraste de color ciberpunk rojo/azul, texto ultra nítido y legible, presentación de diseño de marca premium, sin objetos adicionales, sin marcas de agua.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1632,33 +2144,33 @@ Crea un póster de acción cinematográfico al estilo anime de {argument name="c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650753366_nc0uo1_HJ_wXwbW0AApQla.jpg" width="600" alt="Publicación en redes sociales - Póster de acción de anime VEYA Canyon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735308435_nitd3k_HKDuAW9WIAAeZ27.jpg" width="600" alt="Infografía / Visual Educativo - Infografía comparativa sobre la barrera de la tipografía - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [42](https://x.com/noise2pix)
-- **Fuente:** [Twitter Post](https://x.com/noise2pix/status/2062631530309001601#reversed-1)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [SRKDAN](https://x.com/SRKDAN)
+- **Fuente:** [Twitter Post](https://x.com/SRKDAN/status/2062910321740689816#reversed-0)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24201)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24343)**
 
 ---
 
-### No. 28: Publicación en redes sociales - Retrato en el sendero de bambú de un jardín de Suzhou
+### No. 41: Infografía / Visual Educativo - Cubo de visualización de eras históricas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para un retrato natural y espontáneo de una mujer de pie en un sendero de bambú moso dentro de un jardín clásico de Suzhou.
+Un prompt de flujo de trabajo estructurado para visualizar diferentes eras históricas condensadas en un volumen de cubo 3D con agentes y artefactos representativos.
 
 #### 📝 Prompt
 
 ```
-Fotografía auténtica de la vida cotidiana, momento natural y espontáneo. Un retrato de cuerpo entero de una {argument name="subject" default="mujer joven"} de pie en medio de un sendero estrecho que atraviesa un denso grupo de {argument name="plant" default="bambú moso"} en un {argument name="location" default="jardín de Suzhou"} clásico. Los tallos de bambú se elevan verticalmente a ambos lados
+Cuadrícula de 2x2, haz esto para diferentes años de eras muy distintas: {argument name="topic" default="ERA_TO_CUBE_SOLVER"}  INPUT ::= [TEMA], [ERA]  STEP_1 :: inferir identidad de la era - periodo de tiempo o etapa - materiales dominantes - herramientas o artefactos clave - contexto social/técnico/cultural - entorno construido o entorno natural - agentes o figuras representativas si es relevante  STEP_2 :: comprimir en un cubo - los objetos grandes definen los bordes del cubo - los objetos medianos construyen escenas internas - los objetos pequeños llenan los huecos - las caras superior, lateral y frontal permanecen visibles - todo permanece dentro de un volumen rectangular estricto  STEP_3 :: crear texto del módulo - etiqueta grande de la era - subtítulo corto - lista de viñetas compacta - sin hechos fijos a menos que se proporcionen  STEP_4 :: repetir a través de las eras - preservar la gramática visual idéntica - aumentar o transformar la complejidad cronológicamente
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1666,98 +2178,33 @@ Fotografía auténtica de la vida cotidiana, momento natural y espontáneo. Un r
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650739687_o9s52f_HJ_WKm8WYAEo3U6.jpg" width="600" alt="Publicación en redes sociales - Retrato en el sendero de bambú de un jardín de Suzhou - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650739744_himevj_HJ_WKnGWUAISvqp.jpg" width="600" alt="Publicación en redes sociales - Retrato en el sendero de bambú de un jardín de Suzhou - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735261115_rzmeu0_HJ2iUhNXEAIjsb-.jpg" width="600" alt="Infografía / Visual Educativo - Cubo de visualización de eras históricas - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **Fuente:** [Twitter Post](https://x.com/ToroJushiAi/status/2062602639422931376)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Fuente:** [Twitter Post](https://x.com/Gdgtify/status/2062903770087084107)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24166)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24267)**
 
 ---
 
-### No. 29: Publicación en redes sociales - Glamour Disco de San Valentín
+### No. 42: Infografía / Visual Educativo - Arte de pastelería inspirado en monumentos explosionados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt estructural para una sesión de fotos de alta costura con temática de San Valentín, con superficies espejadas y accesorios de corazones metálicos.
+Un prompt estructurado y creativo que utiliza un formato de clase al estilo Python para generar arte de pastelería inspirado en monumentos arquitectónicos.
 
 #### 📝 Prompt
 
 ```
-{
-  "image_metadata": {
-    "theme": "Glamour de San Valentín / Estética de amor",
-    "aspect_ratio": "3:4",
-    "shot_type": "Plano medio largo, ángulo a la altura de los ojos"
-  },
-  "subject_details": {
-    "use_reference_image": true,
-    "override": false,
-    "physique": "Delgada, atlética, abdomen tonificado"
-  },
-  "attire_and_styling": {
-    "outfit": {
-      "type": "Conjunto de dos piezas a juego",
-      "top": "{argument name="top" default="Top corto de color rosa brillante, escote redondo, costuras estilo corsé, aplicaciones de corazones de terciopelo rosa oscuro"}",
-      "bottom": "{argument name="skirt" default="Minifalda de tiro alto a juego con aplicaciones de corazones de terciopelo rosa oscuro"}",
-      "color_profile": "Base rosa intenso / magenta con detalles de corazones carmesí"
-    },
-    "jewelry": [
-      "Pila de pulseras de tenis de plata con incrustaciones de diamantes en la muñeca derecha",
-      "Anillo grande de plata con una piedra preciosa transparente en la mano izquierda"
-    ]
-  },
-  "environment_details": {
-    "background": {
-      "texture": "{argument name="wall texture" default="Pared de azulejos de mosaico plateado espejado, efecto de bola de discoteca brillante"}",
-      "lighting": "Iluminación de estudio brillante y directa, clave alta, reflejos especulares nítidos en los azulejos y la piel"
-    },
-    "floating_props": [
-      {
-        "object": "Globos de corazón",
-        "details": "Corazones grandes de papel de aluminio metálico rojo en 3D, corazones de cristal rosa translúcido facetado"
-      },
-      {
-        "object": "Decoraciones de labios",
-        "details": "Labios rosas de gran tamaño, acabado con purpurina plateada, texto XO morado, detalles de papel de aluminio metálico rojo"
-      },
-      {
-        "object": "Elementos de texto",
-        "details": "Letrero circular rojo con XO a la izquierda"
-      }
-    ]
-  },
-  "technical_parameters": {
-    "color_palette": [
-      "Rosa vibrante",
-      "Cromo plateado",
-      "Rojo carmesí",
-      "Blanco platino"
-    ],
-    "quality_tags": [
-      "Fotorrealista",
-      "Resolución 8k",
-      "poros de la piel altamente detallados",
-      "enfoque nítido",
-      "estilo de fotografía de moda comercial",
-      "bokeh suave en la profundidad del fondo"
-    ]
-  }
-}
+Cuadrícula de 2x2, haz esto para 4 monumentos famosos del mundo en la clase de pastelería Grande_Patisserie_DNA:     def __init__(self):         self.subject = "{argument name="pastry" default="[CREACIÓN DE PASTELERÍA]"}"         self.parents = {             "composition_parent": "Entremet explosionado con capas, glaseados y decoraciones en levitación",             "material_parent": "Glaseado espejo, spray de chocolate aterciopelado, pan de oro, flores comestibles",             "graphic_parent": "Tarjeta de escaparate de boutique de pastelería de lujo",             "atmosphere_parent": "Luz brillante de la mañana sobre una encimera de mármol de Carrara"         }         self.mutations = {             "semantic_mutation": "La rebanada de pastel revela un pequeño huerto donde crecieron sus frutas",             "information_mutation": "Gráfico de intensidad de sabor, diagrama de capas de textura, mapa de origen de cacao y vainilla, anillo de composición calórica",             "medium_mutation": "Papel liso sin recubrimiento con barniz localizado en las gotas de glaseado",             "scale_mutation": "Vista microscópica de una red de cristales de azúcar y floración de manteca de cacao"         }         self. style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]      def generate_subject(self):         subject = """         {argument name="pastry_name" default="[CREACIÓN DE PASTELERÍA]"} flotando en un espacio brillante y limpio. Todas las capas — mousse,         bizcocho, inserto, glaseado — están suavemente separadas para exponer la arquitectura         del sabor. Una sola cuchara perfecta flota cerca.         """         return render(             subject,             format="característica de menú de pastelería de lujo",             title="{argument name="monument" default="[NOMBRE DEL PASTEL]"}",             subtitle="[CHEF PÂTISSIER / MAISON]",             constraints="brillante, apetitoso, alta precisión, arte de postres moderno"         )
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1765,96 +2212,35 @@ Un prompt estructural para una sesión de fotos de alta costura con temática de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650726307_ef6se1_HJ_DCgTa4AAOtbI.jpg" width="600" alt="Publicación en redes sociales - Glamour Disco de San Valentín - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650725936_7mzqh5_HJ_DCgXbEAAZmlv.jpg" width="600" alt="Publicación en redes sociales - Glamour Disco de San Valentín - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650725987_ethhsf_HJ_DCgUboAA9rtC.jpg" width="600" alt="Publicación en redes sociales - Glamour Disco de San Valentín - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650727112_ncip05_HJ_DCgXaIAAEQyg.jpg" width="600" alt="Publicación en redes sociales - Glamour Disco de San Valentín - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780735281553_u0a2r4_HJ7TnQGXUAAt5X9.jpg" width="600" alt="Infografía / Visual Educativo - Arte de pastelería inspirado en monumentos explosionados - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062581970283135291)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Fuente:** [Twitter Post](https://x.com/Gdgtify/status/2062886154383589694)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24144)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24295)**
 
 ---
 
-### No. 30: Publicación en redes sociales - Retrato moderno en el interior de un coche
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt de fotografía de estilo de vida para una mujer joven con estilo en el asiento trasero de un coche, centrado en la iluminación natural y una estética de moda urbana contemporánea.
-
-#### 📝 Prompt
-
-```
-Un retrato estético, moderno y ultrarrealista de una joven con estilo sentada de forma casual en el asiento trasero de un coche durante el día, con una pose relajada y segura, un brazo descansando sobre su cabeza y una expresión natural y suave. Tiene el cabello oscuro, ondulado y a la altura de los hombros, maquillaje suave, piel radiante y un aire tranquilo y natural. Viste una camiseta corta ajustada de color gris claro y unos vaqueros anchos de color carbón desteñido, moda urbana casual, sentada cómodamente en el interior de un coche moderno cerca de la ventana, con calles de la ciudad y árboles verdes visibles al fondo. La luz natural del día que entra por la ventana del coche crea sombras suaves y reflejos realistas, sensación de fotografía cándida y acogedora, energía de chica cool sin esfuerzo, estética de Instagram, fotografía de estilo de vida cinematográfica, textura de piel realista, gradación de color neutra y suave, atmósfera melancólica pero juguetona, alto detalle, enfoque nítido, vibra de moda urbana editorial, moda juvenil moderna, fotorrealista, confianza casual, estética de redes sociales de tendencia, 8k ultra detallado.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650709472_lv7fkm_HJ-4IG9aIAEhs6x.jpg" width="600" alt="Publicación en redes sociales - Retrato moderno en el interior de un coche - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [S](https://x.com/sakshi___007)
-- **Fuente:** [Twitter Post](https://x.com/sakshi___007/status/2062569611619606857)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24117)**
-
----
-
-### No. 31: Publicación en redes sociales - Retrato de moda urbana nocturna con flash
+### No. 43: Infografía / Visual Educativo - Póster de química culinaria de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Captura un retrato de moda espontáneo al estilo paparazzi durante la noche usando flash directo, centrándose en el estilo callejero y texturas urbanas realistas.
+Un prompt sofisticado que visualiza técnicas culinarias como pósteres de reacciones termodinámicas, enfatizando estructuras moleculares y arquitecturas sensoriales.
 
 #### 📝 Prompt
 
 ```
-Un retrato de cuerpo completo de moda urbana de una mujer saliendo de la entrada de un edificio de apartamentos por la noche. Su apariencia, color de cabello, longitud y tono de piel coinciden con una imagen de referencia proporcionada.
+Cuadrícula de 2x2, realiza esto para 4 técnicas culinarias INPUT: {argument name="technique" default="[technique]"}  
 
-Lleva un {argument name="top style" default="top blanco ajustado de cuello bajo"}, una {argument name="skirt style" default="minifalda negra de talle alto"} y {argument name="footwear" default="sandalias rojas de tiras con tacón medio"}. Accesorios: pequeños pendientes de aro dorados, cadena fina de oro con colgante de cruz, pulsera y anillos dorados minimalistas, pequeño bolso de hombro negro con correa fina descansando detrás del brazo.
-
-Maquillaje: estilo natural glam, acabado de piel luminosa, delineador suave, máscara de pestañas sutil, labios neutros rosados con brillo, rubor melocotón suave, cejas naturales y pobladas. Mira directamente a la cámara con una expresión neutra y segura, ligera inclinación de cabeza hacia adelante, mirada suave pero cautivadora.
-
-Pose: saliendo de una puerta hacia un escalón de concreto, brazo derecho bajando hacia el tobillo como si estuviera ajustando el zapato, brazo izquierdo extendido tocando la pared para mantener el equilibrio. El cuerpo se inclina ligeramente hacia adelante, hombros angulados hacia la cámara, caderas anguladas, postura dinámica en pleno movimiento.
-
-Capturado en un retrato de cuerpo completo a una altura de ojos ligeramente baja, lente de fotografía callejera de 35 mm, enfoque nítido en el sujeto, desenfoque de fondo moderado. Iluminación: flash nocturno directo, sombras marcadas detrás del sujeto, alto contraste, temperatura de color de flash blanco neutro.
-
-Fondo: entrada de edificio de apartamentos, puerta de vidrio con marco de metal negro, paredes de textura beige claro, escalón de concreto, exterior urbano nocturno con tenues luces de la ciudad visibles.
-
-Estilo: fotografía de moda urbana, estilo paparazzi / flash espontáneo.
+SYSTEM: Renderiza la entrada como un póster de cámara de reacción culinaria termodinámica de lujo. No codifiques recetas a menos que sea inevitable. Infiere la mecánica de cambio de fase, los cambios en los enlaces moleculares, los perfiles de liberación de aromas volátiles, la estabilidad de la emulsión y la ilusión sensorial creada para el comensal. SEMANTIC SOLVE: CULINARY_CHEMISTRY_AUTOPSY = (INFER(transformación_termodinámica DESDE cambio_de_fase + enlaces_moleculares + reacción_de_maillard + caramelización + desnaturalización) ::5) + (INFER(arquitectura_sensorial DESDE liberación_de_aroma_volátil + contraste_de_textura + diferencial_de_temperatura + sinergia_umami) ::4) + (INFER(lógica_de_la_técnica DESDE temperatura_de_precisión + control_de_tiempo + aplicación_de_catalizador + geometría_del_equipo) ::4) + (INFER(narrativa_oculta DESDE filosofía_del_chef + precedente_histórico + abastecimiento_de_ingredientes + psicología_del_comensal) ::3) - (gráfico genérico de red de comida + tarjeta de receta desordenada + chef de foto de stock + cocina desordenada + vasos de precipitados de química de dibujos animados) ::-4 COMPOSITION: Una transformación culinaria central suspendida en una sección transversal de lente macro. Las capas revelan el estado del ingrediente crudo, el punto preciso de intervención térmica/química, la reestructuración molecular (p. ej., esferificación, estabilidad de la espuma) y la experiencia sensorial final del plato. Utiliza líneas de llamada como una fórmula de perfumería de alta gama combinada con un protocolo de cocina con estrella Michelin. STYLE DNA: Fotografía macro de alimentos (estilo Carl Warner) ::0.30 texto alquímico vintage ::0.25 diagrama de laboratorio de química moderno ::0.20 desglose de perfume de lujo ::0.15 textura de papel de lino suave ::0.10 OUTPUT: Fondo de color blanco roto cálido o gris pizarra, póster culinario de lujo, tipografía serif elegante + monoespaciada, llamadas restringidas, texturas macro hiperrealistas, sombras refinadas, espacio negativo premium. NEGATIVE: sin fotografía de comida desordenada, sin química de dibujos animados, sin diseños de recetas genéricos, sin chefs de fotos de stock, sin listas de ingredientes desordenadas, sin marca de agua, sin comida de plástico de aspecto artificial.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1862,45 +2248,51 @@ Estilo: fotografía de moda urbana, estilo paparazzi / flash espontáneo.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650724154_fug2ht_HJ-08VJbAAAED1R.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana nocturna con flash - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650724116_45j8kz_HJ-08VJaUAAd_b8.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana nocturna con flash - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650724169_1cgudf_HJ-08VLbEAAk_N4.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana nocturna con flash - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780735284837_z7is9c_HJ4ZADhXsAIsWyE.jpg" width="600" alt="Infografía / Visual Educativo - Póster de química culinaria de lujo - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062566429132751138)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Fuente:** [Twitter Post](https://x.com/Gdgtify/status/2062855200231371182)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24143)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24300)**
 
 ---
 
-### No. 32: Publicación en redes sociales - Reconstrucción sofisticada de retratos de moda
+### No. 44: Infografía / Visual Educativo - Tarjeta de enciclopedia del Golden Retriever
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt profesional para retratos de moda diseñado para preservar los rasgos faciales de una imagen de referencia mientras se viste al sujeto con un blazer de lino.
+Genera una tarjeta infográfica modular vertical de enciclopedia de mascotas con un golden retriever central, primeros planos detallados, estadísticas, valoraciones y notas de cuidado.
 
 #### 📝 Prompt
 
 ```
-Un retrato de moda lleno de confianza de una persona con {argument name="subject" default="[TU_ROSTRO]"} usando gafas de sol negras y un {argument name="outfit" default="blazer de lino color crema sobre una camisa blanca"}. Preserva todos los rasgos faciales, tono de piel, vello facial, línea de la mandíbula y características distintivas de la imagen de referencia. La fotografía presenta una luz solar cálida y natural que crea una {argument name="lighting style" default="estética de hora dorada"} con un fondo suave en tonos beige y bronceado. La iluminación direccional fuerte crea sombras y luces sutiles, enfatizando la estructura facial y la textura del blazer. El sujeto está posicionado mirando directamente a la cámara con una expresión segura y serena. Fotografía profesional de moda y estilo de vida con alto valor de producción, gradación de color cálida y estética premium. El estilo es sofisticado y contemporáneo con una composición limpia y minimalista. Captura el ambiente pulido y seguro de los retratos de moda modernos.
+Objetivo: Crear una tarjeta de enciclopedia modular vertical sobre {argument name="animal breed" default="Golden Retriever"}, diseñada como un póster de perfil de mascota de divulgación científica pulido.
+
+Lienzo: Infografía vertical, relación de aspecto aproximada de 9:16, fondo blanco roto cálido, tarjetas redondeadas en tonos beige y crema suaves, sombras sutiles, mucho espacio en blanco, alineación de cuadrícula limpia, aspecto de alta resolución listo para imprimir.
+
+Diseño principal: Coloque un golden retriever realista de cuerpo completo en el centro-izquierda, de pie y mirando hacia adelante, boca abierta feliz, lengua visible, pelaje dorado esponjoso, patas naturales, iluminación de estudio suave. En la parte superior izquierda, use una pequeña etiqueta de marca, luego un titular grande y llamativo en chino para el nombre de la raza y un subtítulo corto que signifique "compañero familiar amable y amistoso". Añada el texto en inglés "GOLDEN RETRIEVER" debajo del subtítulo en letras mayúsculas pequeñas.
+
+Elementos del área superior: Incluya exactamente 3 bloques de información compactos alrededor del título y el perro: 1 tarjeta pequeña de origen/especificación de la raza a la izquierda con varias filas cortas de estadísticas, 1 tarjeta pequeña de popularidad o calificación en la parte superior derecha con calificación de estrellas, y 1 tarjeta pequeña de introducción debajo de las estadísticas de la izquierda con un breve texto descriptivo.
+
+Columna de detalles derecha: Cree exactamente 5 tarjetas de detalles redondeadas apiladas, cada una con una foto circular de primer plano y un breve texto explicativo en chino. Los 5 primeros planos son: 1 detalle de ojo/cara, 2 detalle de oreja o hocico, 3 detalle de pelaje, 4 detalle de cola o pelaje corporal, 5 detalle de almohadilla de la pata. Mantenga estas tarjetas alineadas verticalmente en el lado derecho del perro.
+
+Módulos intermedios e inferiores: Utilice un panel ordenado de exactamente 10 tarjetas de contenido rectangulares redondeadas debajo y alrededor del perro. Las 10 tarjetas son: 1 tarjeta de características físicas con una pequeña silueta de perro de perfil y texto con viñetas, 2 tarjeta de rasgos de personalidad con cinco pequeños iconos de línea, 3 tarjeta de habilidad/calificación con exactamente 5 filas de calificaciones de estrellas, 4 tarjeta de hábitos de estilo de vida con cuatro viñetas de iconos, 5 tarjeta de consejos de cuidado con varias filas cortas de viñetas, 6 tarjeta de seguridad o advertencia con iconos de alerta triangulares, 7 tarjeta de comparación de fortalezas y debilidades dividida en áreas verdes de "ventajas" y rojas de "desventajas", 8 tarjeta de propietarios adecuados con cinco viñetas de iconos, 9 tarjeta de 5 datos clave principales con exactamente cinco círculos naranjas numerados, 10 tarjeta pequeña adicional de perfil/conocimiento si es necesario para equilibrar la cuadrícula.
+
+Estilo visual: Estética profesional de tarjeta de enciclopedia, diseño editorial limpio, paleta cálida y suave de crema, beige, oro pálido, naranja apagado, marrón claro y acentos suaves de verde/rojo. Use iconos de línea fina, recortes de fotos circulares, pequeñas calificaciones de estrellas doradas, esquinas redondeadas, sombras paralelas sutiles y márgenes consistentes. El perro central debe ser el elemento visualmente más dominante; todo el texto debe verse denso pero organizado.
+
+Contenido del texto: Use etiquetas de estilo de interfaz de usuario en chino y párrafos cortos en chino en todo el documento, con el título principal configurado en {argument name="headline text" default="金毛犬"}. Use un subtítulo cálido configurado en {argument name="subtitle text" default="温暖友善的家庭伴侣"}. Mantenga el texto legible pero no lo sobrecargue; use líneas de viñetas cortas en chino a modo de marcador de posición donde el texto pequeño no sea legible.
+
+Personalización: Establezca la paleta general en {argument name="color palette" default="warm cream, beige, golden brown, muted orange"} y el estilo de ilustración/foto en {argument name="visual style" default="realistic pet photography combined with clean infographic design"}.
+
+Restricciones: Exactamente un perro principal, exactamente 5 tarjetas de detalles de primer plano en la columna derecha, exactamente 10 tarjetas de información inferiores/medias, exactamente 5 filas en la tarjeta de calificación de estrellas, exactamente 5 elementos numerados en la tarjeta de los 5 principales. Sin personas, sin marcas de agua, sin fondo desordenado, sin animales adicionales.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1908,101 +2300,51 @@ Un retrato de moda lleno de confianza de una persona con {argument name="subject
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650723023_1avwo3_HJ-wijYb0AAwVL0.jpg" width="600" alt="Publicación en redes sociales - Reconstrucción sofisticada de retratos de moda - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
-- **Fuente:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2062561265487376518)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24138)**
-
----
-
-### No. 33: Publicación en redes sociales - Busto de Erlang Shen nacarado
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Crea una transformación de busto mitológico enjoyado a partir de una imagen de referencia, convirtiendo a Chang'e en Erlang Shen con un estilo de perlas y gemas a juego.
-
-#### 📝 Prompt
-
-```
-Utilizando REFERENCE_0 como referencia de estilo visual y composición, transforma el busto de cuentas y joyas nacaradas de Chang'e en {argument name="character name" default="Erlang Shen Yang Jian"}. Mantén el mismo fondo negro, el encuadre de busto medio, el aspecto de fotografía macro de lujo, las partículas flotantes de perlas/burbujas y el intrincado trabajo de cuentas translúcidas. Cambia al sujeto por una deidad guerrera de la mitología china masculina con una corona enjoyada más alta, adornos para el cabello en azul oscuro y dorado, una silueta heroica más definida, una armadura de hombro ornamentada y gemas más ricas en tonos rojo, azul, verde azulado, perla y oro. Añade exactamente 1 motivo de hombro/armadura enjoyado con temática de dragón a la derecha del espectador, hecho de cuentas y gemas. Reemplaza el gráfico del título del lado izquierdo con un emblema circular ornamentado de cuentas y oro que contenga exactamente 4 elementos: 1 pequeño icono de dragón dorado en la parte superior, 1 texto de título principal grande {argument name="main title text" default="二郎神"}, 1 texto de subtítulo más pequeño {argument name="subtitle text" default="楊戩"} y 1 línea divisoria horizontal delgada entre el título y el subtítulo. Haz que todas las letras parezcan construidas con perlas doradas y filigrana, a juego con el material de la joyería. Conserva el elegante espacio negativo oscuro y los reflejos brillantes de alto contraste; no añadas objetos modernos, texto adicional ni marcas de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650741497_pa6579_HJ-oD0yb0AAVrF1.jpg" width="600" alt="Publicación en redes sociales - Busto de Erlang Shen nacarado - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [TWnese](https://x.com/TWnese)
-- **Fuente:** [Twitter Post](https://x.com/TWnese/status/2062553109902311737#reversed-1)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24171)**
-
----
-
-### No. 34: Publicación en redes sociales - Banner para redes sociales estilo claymation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera un banner para redes sociales con un cálido estilo de animación en plastilina (claymation), que incluye un titular llamativo en chino, un puño en alto, un avatar y un botón de edición de perfil.
-
-#### 📝 Prompt
-
-```
-Crea un banner para redes sociales en formato panorámico 2:1 con un estilo artesanal de animación stop-motion en plastilina. Tamaño del lienzo de aproximadamente 984×440 px, con un fondo de plastilina en color amarillo pastel cálido y sombras cinematográficas suaves. Centra la composición en un enorme puño de plastilina en alto que emerge detrás de una franja rectangular redondeada de color gris carbón en el tercio inferior. Detrás del puño, coloca una cinta/banner grande de color rojo plegado que se extienda hacia la izquierda y la derecha, y una forma de explosión azul con puntas justo detrás del puño. En la parte superior, añade un titular en 3D de plastilina, grande y en negrita, que diga {argument name="headline text" default="懦夫救世!"}, con bordes redondeados y esponjosos, una ligera sombra roja y una estrella de plastilina roja como punto o acento cerca del signo de exclamación final. Añade exactamente un avatar de perfil circular en la parte inferior izquierda que se superponga a la franja oscura inferior: un lindo personaje de plastilina beige con ojos saltones que sostiene un pequeño micrófono, enmarcado por un anillo oscuro. Añade exactamente un botón negro redondeado en la parte inferior derecha con un borde fino y claro y un pequeño texto en chino que diga {argument name="button text" default="编辑个人资料"}. Utiliza una textura de arcilla polimérica suave en todas partes, con huellas dactilares visibles, bordes redondeados hechos a mano, colores cálidos tipo macarrón, poca profundidad de campo e iluminación realista de stop-motion. Mantén el diseño limpio y gráfico, con exactamente 5 componentes principales visibles: el titular blanco, la cinta roja, el puño central, el avatar circular a la izquierda y el botón de editar perfil a la derecha. Sin piel fotorrealista, sin aspecto vectorial plano, sin personajes adicionales, sin marcas de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650740829_2s522x_HJ-nNB1a4AANtwW.png" width="600" alt="Publicación en redes sociales - Banner para redes sociales estilo claymation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735297369_7yuv6q_HKCjF8lasAAN5n8.png" width="600" alt="Infografía / Visual Educativo - Tarjeta de enciclopedia del Golden Retriever - Image 1">
 </div>
 
 #### 📌 Detalles
 
 - **Autor:** [自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu)
-- **Fuente:** [Twitter Post](https://x.com/Aiyutoushushu/status/2062551491307770138#reversed-0)
-- **Publicado:** 4 de junio de 2026
+- **Fuente:** [Twitter Post](https://x.com/Aiyutoushushu/status/2062828293557273035#reversed-1)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24169)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24321)**
 
 ---
 
-### No. 35: Infografía / Visual Educativo - Viaje en autobús en una ciudad lluviosa
+### No. 45: Infografía / Visual Educativo - Tarjeta enciclopédica del gato British Shorthair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una escena minimalista y adorable de una parada de autobús urbana con arte lineal, que incluye cinco viajeros, paraguas, lluvia y detalles en azul pálido para una estética acogedora de viaje en un día lluvioso.
+Una tarjeta infográfica enciclopédica vertical al estilo chino que presenta un gato British Shorthair realista con datos modulares, recuadros de detalles, valoraciones y tiras fotográficas.
 
 #### 📝 Prompt
 
 ```
-Crea una ilustración limpia de arte lineal monocromático con suaves detalles en azul que muestre un adorable viaje urbano en un día lluvioso en una parada de autobús. Utiliza un lienzo horizontal amplio, un fondo mayormente blanco, contornos negros finos, sombreado minimalista, un estilo suave dibujado a mano y color azul cielo pálido selectivo en accesorios, letreros y números de ruta de autobús. La escena contiene exactamente 5 viajeros en una parada de autobús cubierta: 1 persona caminando hacia la izquierda bajo un paraguas transparente mientras sostiene un vaso para llevar, usando una sudadera con capucha y una mochila; 1 mujer de pie bajo un paraguas con una cubierta azul, mirando un teléfono inteligente, usando un abrigo largo y cargando un bolso azul grande; 1 persona sentada en la parada leyendo un libro azul abierto; 1 persona de pie de espaldas sosteniendo una taza de café y un paraguas azul plegado, usando un abrigo largo, bufanda y un bolso pequeño cruzado; y 1 persona en el extremo derecho bajo un paraguas mirando un teléfono inteligente, usando un abrigo largo y cargando un bolso azul al hombro. Añade trazos de lluvia diagonal ligera por toda la escena y pavimento mojado con sutiles reflejos de charcos. A la izquierda, incluye un letrero vertical de parada de autobús con un icono de autobús azul y el texto en inglés visible “BUS STOP” además de exactamente 4 números de ruta: 101, 150, 202 y 505 en azul. En la parada central, incluye un póster titulado “CITY BUS MAP” con un diagrama simple de mapa de tránsito. En el borde derecho, muestra la parte frontal de un autobús llegando, con el número de ruta {argument name="bus route number" default="150"} mostrado en un panel de destino azul. En el fondo, dibuja un árbol frondoso en el extremo izquierdo, arbustos bajos, siluetas simples del horizonte de la ciudad, dos nubes pequeñas y una torre que se asemeje a la Torre de Tokio detrás del techo de la parada de autobús. Mantén todos los rostros simplificados y suavemente anonimizados, sin rasgos faciales detallados, sin logotipos ni marcas de agua. Enfatiza un ambiente de viaje acogedor y tranquilo solo con detalles en azul restringidos. Personalización opcional: haz que el ambiente general sea {argument name="weather mood" default="gentle rainy morning"}, el color de acento {argument name="accent color" default="pale sky blue"}, el entorno de la ciudad {argument name="city setting" default="Tokyo-inspired urban skyline"} y el estilo de ilustración {argument name="illustration style" default="minimal cute Japanese line art"}.
+Objetivo: Crear una tarjeta de atlas estilo enciclopedia vertical para {argument name="animal topic" default="gato British Shorthair"}, diseñada como una infografía de divulgación científica china pulida.
+
+Lienzo: Diseño vertical 3:4, fondo color marfil cálido, bordes verde salvia suave, tarjetas modulares redondeadas, sombras sutiles, espaciado editorial limpio, calidad de impresión de alta resolución.
+
+Encabezado: En la parte superior izquierda, incluya un pequeño icono de libro y la etiqueta pequeña del atlas en chino dentro de este parámetro: {argument name="atlas label" default="百科科普图鉴 CAT BREED ATLAS"}. Añada un titular grande en chino de color verde oscuro usando este parámetro: {argument name="headline text" default="英国短毛猫"}. Debajo, coloque el subtítulo en inglés “British Shorthair” y una breve línea descriptiva en chino. Añada tres pequeñas etiquetas tipo píldora con iconos debajo del subtítulo.
+
+Sujeto principal: Foto de estudio realista y dominante en el centro-derecha de un gato British Shorthair: pelaje azul grisáceo afelpado, cara redonda, pelaje denso, ojos color cobre dorado, orejas erguidas, sentado de frente con la cola curvada hacia la derecha. El fondo detrás del gato es un interior doméstico suavemente desenfocado en tonos beige.
+
+Diseño: Utilice exactamente 9 módulos de información etiquetados, cada uno con una insignia circular verde con una letra: de la A a la I. Organice A, B, C, D, E alrededor del área superior y media, F, G, H debajo de ellos, e I como una franja inferior de ancho completo. Cada módulo es un rectángulo redondeado con relleno crema pálido y un fino contorno verde.
+
+Recuento y contenido de las secciones: Incluya exactamente estos 9 módulos: A Perfil básico, B Características físicas, C Personalidad / comportamiento, D Alimentación y cuidados, E Riesgos y precauciones, F Propietarios adecuados, G Comparativa de pros y contras, H Valoración rápida, I Top 5 palabras clave. Utilice un cuerpo de texto conciso en chino e iconos pequeños, pero mantenga el diseño legible y no sobrecargado.
+
+Recuadros de detalles: Añada exactamente 5 recuadros circulares de zoom conectados al gato mediante finas líneas guía: 1 ojos grandes y redondos, 2 textura del pelaje afelpado, 3 cola gruesa y redondeada, 4 pelaje denso en pecho / cuello, 5 patas redondas / cuerpo compacto. Cada recuadro debe contener una imagen macro recortada y una etiqueta corta en chino con una nota de la longitud de un párrafo.
+
+Elementos repetidos visibles: En la sección A, incluya exactamente 4 iconos pequeños de cabezas de gato con colores de pelaje en fila. En la sección E, incluya exactamente 5 filas de advertencia con iconos triangulares rojos de advertencia. En la sección F, incluya exactamente 3 filas de idoneidad del propietario con iconos de verificación verdes y exactamente 2 filas de no idoneidad con iconos de X naranja. En la sección G, incluya exactamente 2 columnas de comparación, una columna verde de “ventajas” y una columna naranja de “desventajas”. En la sección H, incluya exactamente 6 filas de valoración, cada una con valoraciones de estrellas azules. En la sección I, incluya exactamente 5 tarjetas de palabras clave, numeradas del 1 al 5, cada una con un pequeño icono: cara sonriente, símbolo masculino, pez, símbolo circular pequeño y corazón.
+
+Tira fotográfica inferior: A lo largo de la parte inferior derecha, coloque exactamente 4 fotos pequeñas redondeadas del gato mostrando escenas de estilo de vida / postura: sentado de frente, de pie de lado, tumbado relajado, acurrucado durmiendo en una cama. Añada pies de foto pequeños en chino debajo de cada imagen.
+
+Estilo visual: Tarjeta enciclopédica profesional, diseño educativo suave, paleta de colores verde y beige apagados, fotografía animal realista mezclada con iconos de interfaz de usuario vectoriales, divisores finos, esquinas redondeadas, tipografía china compacta pero limpia. Evite colores neón, desorden, marcas de agua, códigos QR o texto decorativo adicional.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -2010,21 +2352,231 @@ Crea una ilustración limpia de arte lineal monocromático con suaves detalles e
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650746213_l1uw09_HJ5RMsybAAAE99r.jpg" width="600" alt="Infografía / Visual Educativo - Viaje en autobús en una ciudad lluviosa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735297383_dfqlip_HKCjCzIaQAAPZaD.png" width="600" alt="Infografía / Visual Educativo - Tarjeta enciclopédica del gato British Shorthair - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [しらき@パワポ図解](https://x.com/kumiko_shiraki)
-- **Fuente:** [Twitter Post](https://x.com/kumiko_shiraki/status/2062685838568558898#reversed-0)
+- **Autor:** [自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu)
+- **Fuente:** [Twitter Post](https://x.com/Aiyutoushushu/status/2062828293557273035#reversed-0)
 - **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24183)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24320)**
 
 ---
 
-### No. 36: Infografía / Visual Educativo - Plano de diorama arquitectónico en 3D
+### No. 46: Infografía / Visual Educativo - Ilustración de retrato en acuarela monocromática
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt sofisticado para un collage de retrato en acuarela y tinta azul, que combina bocetos técnicos con un retrato distinguido.
+
+#### 📝 Prompt
+
+```
+Una ilustración de retrato en acuarela y tinta azul monocromática altamente detallada de {argument name="subject" default="Bill Gates"}, centrada en una composición de póster vertical. La obra presenta un retrato realista y distinguido de cabeza y hombros con trazos finos de lápiz, delicados lavados de acuarela y una sutil textura de papel. {argument name="subject" default="Bill Gates"} mira ligeramente hacia arriba con una expresión reflexiva y visionaria, vistiendo gafas rectangulares, una camisa blanca impecable y un blazer a medida.
+El fondo es un elegante collage con temas de innovación, tecnología, educación y filantropía, representados en suaves salpicaduras de acuarela azul y elementos de bocetos técnicos. Los detalles circundantes incluyen un mapa mundial con nodos interconectados, patrones de placas de circuitos, diagramas científicos, un libro abierto, un microscopio, bocetos arquitectónicos, pilas de libros etiquetados como "Conocimiento", "Innovación", "Educación" e "Impacto", y modernas instalaciones de investigación. Notas manuscritas tenues, construcciones geométricas y gráficos de redes de datos están integrados en toda la composición.
+Una tipografía serif grande y refinada en la parte superior muestra "{argument name="name" default="BILL GATES"}", acompañada de una cita inspiradora en un diseño editorial clásico. Todo el póster está ejecutado en una sofisticada paleta de azul y blanco, combinando pintura de acuarela, dibujo arquitectónico, ilustración científica y estética de portada de revista de lujo. Composición ultra limpia, obra de arte de calidad de museo, suaves salpicaduras atmosféricas, detalles intrincados, textura de papel premium, ambiente intelectual e inspirador, póster biográfico editorial, diseño galardonado, resolución 8K, relación de aspecto vertical 3:4.
+Palabras clave de estilo: ilustración en acuarela, boceto a tinta, paleta azul monocromática, póster editorial, retrato de líder visionario, collage científico, tema de filantropía, obra de arte educativa, diseño de impresión de lujo, arte lineal arquitectónico, altamente detallado, tipografía elegante, papel texturizado premium.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735288777_7z0723_HKB8IeNbgAAFf_E.jpg" width="600" alt="Infografía / Visual Educativo - Ilustración de retrato en acuarela monocromática - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735289155_cjo1xk_HKB8IwJbgAEDjYO.jpg" width="600" alt="Infografía / Visual Educativo - Ilustración de retrato en acuarela monocromática - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jahan Zaib](https://x.com/jzaib4269)
+- **Fuente:** [Twitter Post](https://x.com/jzaib4269/status/2062785146915537361)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24306)**
+
+---
+
+### No. 47: Infografía / Visual Educativo - Hojas de concepto de juguetes DIY para bebés
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para crear hojas de concepto instructivas para juguetes hechos a mano para bebés utilizando artículos del hogar como botellas de plástico, incluyendo diagramas y pautas de seguridad.
+
+#### 📝 Prompt
+
+```
+Genera cuatro imágenes de hojas de concepto de juguetes DIY para bebés usando el tema '{argument name="theme" default="botella de plástico"}'.
+
+Importante:
+Genera las cuatro imágenes como imágenes separadas. Representa solo una idea de juguete por imagen. No incluyas múltiples ideas en una sola imagen. Los diseños de cuadrícula, collage, divisiones 2x2 o tablas comparativas están prohibidos.
+
+Este no es un diseño de juguete comercial para bebés; es un juguete DIY hecho con materiales del hogar. No hagas que parezca un producto producido en masa, un juguete de lujo con moldes especiales o renders de diseño industrial.
+
+Específico para 'botellas de plástico': Usa botellas vacías reales. Muestra la forma original de la botella, el cuerpo transparente, las tapas existentes y señales de construcción casera como cinta adhesiva. Debe parecer algo hecho con materiales de casa o de una tienda de artículos económicos.
+
+Las cuatro imágenes deben mostrar juguetes con diferentes estilos de juego:
+1.º: Juguete DIY enfocado en el sonido
+2.º: Juguete DIY para rodar/perseguir
+3.º: Juguete DIY para ver/observar
+4.º: Juguete DIY para tocar/sensorial
+
+Cada hoja debe incluir: Visual principal, escena de bebé jugando, lista de materiales, diagrama de ensamblaje de 3 pasos, diagrama estructural, diagramas de seguridad (sellado/fijación), iconos de estilo de juego y beneficios para el desarrollo.
+
+Seguridad: Edad objetivo 6–18 meses. Debe mostrar supervisión parental. Los materiales pequeños deben estar sellados en el interior. No debe haber piezas pequeñas sueltas en el exterior. Sin riesgos de asfixia, partes afiladas o cuerdas largas. No mostrar escenas de bebés mordiendo o lamiendo.
+
+Estilo visual: Fondo blanco, luz natural, estilo hoja de receta. Realista y reproducible. Lindo, limpio y amigable. Texto mínimo, centrado en diagramas e iconos.
+
+Prompt negativo: juguete comercial para bebés, diseño de producto premium, renderizado de producto de lujo, juguete de silicona moldeada, piezas moldeadas a medida, juguete fabricado en fábrica, caucho sobremoldeado, tapa especial, diseño moldeado de una pieza, etiqueta de producto libre de BPA, etiqueta de silicona de grado alimenticio, tablero de diseño industrial, producto manufacturado pulido, juguete para masticar, juguete para morder, diseño de cuadrícula, diseño de collage, diseño 2x2, múltiples ideas en una imagen
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735290198_687qul_HKBpAr5aEAAj7Ol.jpg" width="600" alt="Infografía / Visual Educativo - Hojas de concepto de juguetes DIY para bebés - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2062764098790769049)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24310)**
+
+---
+
+### No. 48: Infografía / Visual Educativo - Diagrama de despiece del relicario de la innovación
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt complejo y estructurado para generar diagramas de despiece hiperrealistas al estilo de museo sobre inventos que cambiaron el mundo.
+
+#### 📝 Prompt
+
+```
+Genera un "Diagrama de despiece del relicario de la innovación" hiperrealista.
+
+1. Extracción semántica:
+La IA infiere:
+- Problema central resuelto
+- Mecanismo
+- Época histórica
+- Cultura del inventor
+- Materiales
+- Puntos de fallo
+- Impacto social
+
+2. Contenedor:
+Estructura: objeto de despiece flotante dentro de una vitrina de museo.
+Cada pieza está suspendida mediante varillas de latón y finos cables de tensión.
+
+3. Fondo:
+Pared de papel de patente con diagramas tenues, tolerancias, etiquetas y sellos de archivo.
+
+4. Integración:
+La idea clave del invento se convierte en un mecanismo central brillante.
+
+5. Sintaxis visual:
+Materiales: acero cepillado, vidrio, latón, papel envejecido, tinta negra.
+Iluminación: fotografía de producto de lujo.
+Sin clichés baratos de planos técnicos.
+
+Variable de entrada: {argument name="invention" default="[INSERTAR INVENTO]"}
+
+Salida:
+Cuadrícula de 2x2, 16:9, cuatro inventos que cambiaron el mundo.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735281039_7c2oz0_HJxWfBJWAAAQU5z.jpg" width="600" alt="Infografía / Visual Educativo - Diagrama de despiece del relicario de la innovación - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Gadgetify](https://x.com/Gdgtify)
+- **Fuente:** [Twitter Post](https://x.com/Gdgtify/status/2062720059575783713)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24293)**
+
+---
+
+### No. 49: Infografía / Visual Educativo - Miniatura de presentación del curso de IA estilo anime
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una miniatura cuadrada de presentación de negocios estilo anime que muestra a una presentadora desenfocada y una diapositiva en japonés sobre cómo reaprender la generación de imágenes con ChatGPT.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear una ilustración cuadrada estilo anime para redes sociales sobre un curso de generación de imágenes con IA, mostrando una escena de presentación de negocios con una diapositiva grande con texto en japonés.
+
+Lienzo: Imagen cuadrada 1:1, ilustración de anime digital limpia y pulida, plano medio-ancho en una sala de reuniones o aula. Paredes de color beige cálido, mesa de conferencias de madera en primer plano, arte lineal sutil y sombreado suave.
+
+Sujeto principal: En el lado izquierdo, dibuja a una presentadora japonesa adulta, de la cintura hasta los muslos, vistiendo un blazer azul marino, camisa blanca abotonada y falda o pantalones grises. Tiene el cabello castaño oscuro recogido en una coleta baja. Su rostro está cubierto intencionalmente por un bloque de privacidad rectangular con desenfoque suave/mosaico. Se mantiene de pie con confianza, con una mano hacia abajo y el otro brazo extendido hacia la pantalla de presentación.
+
+Objetos en primer plano: Sobre la mesa de madera, coloca exactamente 2 objetos: un vaso de agua transparente cerca del centro-izquierda y una computadora portátil oscura abierta en ángulo a la derecha.
+
+Pantalla de presentación: En el lado derecho, coloca una pantalla de proyección blanca grande con marco y soporte negros. La pantalla contiene un titular destacado en japonés con tipografía negra gruesa, centrado y apilado. Usa este texto exacto: {argument name="slide headline text" default="独学のAI画像生成が\n「なんとなく」で終わっていた私が、\n10万文字の「ChatGPT画像生成の教科書」\nで全部見直した話"}. Haz que el texto sea legible y dominante.
+
+Gráficos de la pantalla: Incluye exactamente 7 elementos decorativos/de contenido en la diapositiva: 1 icono de bombilla amarilla en la parte superior izquierda, 1 icono de imagen de paisaje enmarcado cerca de la parte superior central, 1 icono del logotipo verde de ChatGPT en la parte superior derecha con 2 pequeñas marcas de destello al lado, 1 pequeña mujer chibi confundida en una nube de pensamiento azul en la parte inferior izquierda con un signo de interrogación, 1 flecha azul apuntando a la derecha en el centro inferior, 1 folleto/tableta verde etiquetado como {argument name="book title" default="ChatGPT\n画像生成の\n教科書"}, y 1 pequeña mujer chibi segura de sí misma en la parte inferior derecha levantando un dedo con un signo de exclamación rojo a su lado. Ambos rostros chibi también deben tener bloques de desenfoque de privacidad rectangulares suaves.
+
+Estilo: Estilo de miniatura explicativa de manga/anime de negocios japonés, contornos de tinta nítidos, degradados suaves, profesional pero accesible, tipografía de diapositiva legible de alto contraste, colores corporativos apagados con pequeños acentos de destellos amarillos. La composición general debe parecerse a una miniatura de artículo de X/Twitter sobre el aprendizaje de la generación práctica de imágenes con IA.
+
+Restricciones: Usa exactamente 1 presentadora principal, exactamente 2 objetos en la mesa, exactamente 7 elementos gráficos en la diapositiva como se enumeran, y 3 rostros desenfocados en total. No añadas personas adicionales, gráficos extra, marcas de agua, logotipos fuera de la diapositiva ni texto adicional más allá de las etiquetas de la diapositiva y el folleto en japonés especificadas.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735304056_6r87o3_HKAx3atXEAALt3q.jpg" width="600" alt="Infografía / Visual Educativo - Miniatura de presentación del curso de IA estilo anime - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ジャバ・ザ・ハットリ🇩🇪←🇸🇬←🇯🇵](https://x.com/nodenodenode1)
+- **Fuente:** [Twitter Post](https://x.com/nodenodenode1/status/2062703460043092350#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24336)**
+
+---
+
+### No. 50: Infografía / Visual Educativo - Plano de diorama arquitectónico en 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2058,7 +2610,7 @@ Un plano arquitectónico detallado de {argument name="building name" default="BU
 
 ---
 
-### No. 37: Infografía / Visual Educativo - Infografía de receta de carbonara al estilo japonés
+### No. 51: Infografía / Visual Educativo - Infografía de receta de carbonara al estilo japonés
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2114,7 +2666,7 @@ Estilo visual: Ilustración vectorial suave mezclada con diseño infográfico pu
 
 ---
 
-### No. 38: Infografía / Visual Educativo - Captura de pantalla de la interfaz de usuario de la galería de retratos con IA
+### No. 52: Infografía / Visual Educativo - Captura de pantalla de la interfaz de usuario de la galería de retratos con IA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2162,25 +2714,29 @@ Estilo visual: Interfaz blanca minimalista, sombras suaves o bordes muy sutiles,
 
 ---
 
-### No. 39: Infografía / Visual Educativo - Diorama de mapa de viajes con efecto tilt-shift
+### No. 53: Miniatura de YouTube - Reportera de noticias anime en vivo durante un tifón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt creativo de miniatura con efecto tilt-shift que combina un vehículo real y puntos de referencia en un mapa de ciudad de estilo vintage.
+Genera una escena de noticias de televisión japonesa en vivo con una reportera anime estilo idol de color rosa cubriendo un tifón en el paseo marítimo de Kobe durante una tormenta.
 
 #### 📝 Prompt
 
 ```
-Crea una escena de viaje en miniatura cinematográfica con efecto tilt-shift altamente detallada de {argument name="city name" default="[NOMBRE DE LA CIUDAD]"} que presente un {argument name="vehicle" default="[NOMBRE DEL VEHÍCULO]"} realista conduciendo a lo largo de una carretera elevada y sinuosa que emerge de forma natural de un {argument name="map style" default="mapa de ciudad impreso de estilo vintage"}. La carretera debe curvarse dramáticamente hacia el horizonte y los puntos de referencia de [NOMBRE DE LA CIUDAD], mientras que el vehículo permanece como el punto focal claro en primer plano.
+Objetivo: Crear una imagen dramática de noticias de televisión en vivo sobre un reporte de tifón estilo anime en Kobe, Japón, combinando un fondo realista de paseo marítimo tormentoso con una linda reportera anime compuesta en primer plano.
 
-Fusiona la ciudad real a la perfección con la superficie del mapa ilustrado para que la carretera parezca integrada en el propio mapa. Incluye puntos de referencia locales reconocibles, vías fluviales, arquitectura, vegetación y la atmósfera asociada a [NOMBRE DE LA CIUDAD], pero mantén la composición limpia y despejada.
+Lienzo: Formato de transmisión horizontal 16:9, escena costera lluviosa fotorrealista al atardecer o al anochecer, iluminación de tormenta gris azulada, pavimento mojado y reflectante, olas oceánicas agitadas, fuertes rachas de lluvia, viento intenso, nubes oscuras, horizonte distante y torres portuarias.
 
-Muestra una tipografía grande y llamativa de "[NOMBRE DE LA CIUDAD]" impresa directamente en el mapa en primer plano. Utiliza una iluminación cálida de hora dorada, poca profundidad de campo, texturas realistas, sombras cinematográficas, perspectiva aérea y detalles fotorrealistas. La estética general debe sentirse como un póster de viajes premium de Instagram mezclado con un diorama en miniatura.
+Sujeto principal: Una linda reportera anime de cabello rubio se encuentra ligeramente a la derecha del centro en un paseo marítimo junto a una barandilla de metal negro. Tiene el cabello rubio muy largo soplado violentamente hacia la izquierda por el viento, accesorios de flores rosas en el cabello, una pose de reporte decidida y un brazo extendido hacia el mar tormentoso. Sostiene un micrófono de mano negro en la otra mano. Su atuendo es un conjunto estilo idol rosa: chaqueta rosa con volantes, detalles de lazo, blusa pálida, falda plisada a cuadros rosa, adornos con volantes, cintas y un accesorio en el muslo. Su rostro está cubierto intencionalmente por un bloque de desenfoque/censura cuadrado centrado en un color beige apagado.
 
-Relación de aspecto 1:1.
+Detalles del entorno: El paseo marítimo está empapado y reflectante, bordeado por farolas y palmeras dobladas por el viento. Muestra exactamente 5 palmeras prominentes inclinadas por el viento a lo largo del paseo marítimo. El océano a la derecha está agitado con crestas blancas y espuma. El horizonte de la ciudad aparece a través de la lluvia y la niebla, con edificios altos y una torre iluminada en la distancia.
+
+Gráficos de transmisión: Incluye exactamente 4 grupos de superposición de TV en pantalla. 1) Pila de hora/ubicación en la parte superior izquierda: hora grande en blanco {argument name="time display" default="7:42"}, texto de ubicación en japonés más pequeño {argument name="location text" default="兵庫県・神戸市"}, y una etiqueta de transmisión en vivo en blanco {argument name="relay label" default="中継"}; añade un subrayado azul corto debajo de la ubicación. 2) Banner de alerta de tifón en la parte superior derecha: panel de noticias de última hora en japonés rojo y blanco con las etiquetas {argument name="typhoon headline" default="台風 情報　関西に最接近　暴風・高波に厳重警戒"} más una franja inferior roja que dice {argument name="broadcast place label" default="中継　兵庫県・神戸市"}. 3) Caja de radar meteorológico en la parte inferior izquierda: un mapa de radar de nubes de lluvia con marco azul rectangular etiquetado como 「雨雲レーダー」, con una escala de color vertical a la derecha y pequeñas etiquetas de intensidad en japonés 「強」「弱」 y 「現在」. 4) Tercio inferior derecho: una etiqueta LIVE inclinada en azul, barra de ubicación en blanco que dice 「神戸市中央区沿岸部」, y barra de crédito del reportero en gris que dice 「記者：星川 さくら」.
+
+Estilo visual: Fotografía realista de noticias de desastres para el fondo, renderizado de personajes anime de alta calidad para la reportera, composición de transmisión cohesiva, efectos de lluvia y movimiento, cabello y ropa dramáticamente soplados por el viento, gráficos de noticias de TV nítidos, sin marca de agua, sin logotipos adicionales, sin grupos de superposición adicionales.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -2188,606 +2744,21 @@ Relación de aspecto 1:1.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650726076_8ed6wa_HJ736bEW8AAft9a.jpg" width="600" alt="Infografía / Visual Educativo - Diorama de mapa de viajes con efecto tilt-shift - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650726089_w5imny_HJ736gSWsAA3Z5i.jpg" width="600" alt="Infografía / Visual Educativo - Diorama de mapa de viajes con efecto tilt-shift - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650726145_gssorb_HJ736mCWkAAhjUp.jpg" width="600" alt="Infografía / Visual Educativo - Diorama de mapa de viajes con efecto tilt-shift - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650727018_40jh9j_HJ736llWcAAjNo8.jpg" width="600" alt="Infografía / Visual Educativo - Diorama de mapa de viajes con efecto tilt-shift - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780650759669_krc9bf_HKCYAwlbsAAKY6O.jpg" width="600" alt="Miniatura de YouTube - Reportera de noticias anime en vivo durante un tifón - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Anissa](https://x.com/SimplyAnnisa)
-- **Fuente:** [Twitter Post](https://x.com/SimplyAnnisa/status/2062358269172101240)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Kiki](https://x.com/Mayz1169)
+- **Fuente:** [Twitter Post](https://x.com/Mayz1169/status/2062816188112015509#reversed-0)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24146)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24216)**
 
 ---
 
-### No. 40: Infografía / Visual Educativo - Diseñador profesional de tarjetas de recetas
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Transforma fotos de comida real en tarjetas de recetas de calidad profesional para revistas o redes sociales, incluyendo ingredientes, pasos y diseños elegantes.
-
-#### 📝 Prompt
-
-```
-Utilizando la foto del plato terminado adjunta, genera 4 imágenes conceptuales de recetas con especificaciones de diseño gastronómico profesional.
-
-Condiciones:
-- {argument name="aspect ratio" default="vertical 4:5"}, {argument name="language" default="japonés"}
-- Las 4 imágenes deben tener el mismo plato como tema central.
-- Sin embargo, cada una de las 4 imágenes debe tener una dirección de diseño diferente.
-- Haz que el plato terminado de la imagen adjunta sea el protagonista, capturando y utilizando el tipo de plato, la composición, la vajilla, el emplatado, el colorido y la textura de la comida.
-- Organiza el aspecto cotidiano y los fondos desordenados de la foto original y reconstrúyela en una foto de comida brillante y limpia.
-- Manteniendo la calidad del plato real elaborado, logra un nivel de acabado similar al de una revista de cocina, un menú de cafetería o una tarjeta de recetas para redes sociales.
-- Para los elementos no especificados, complétalos de forma natural basándote en la imagen adjunta.
-- Si el nombre del plato, el número de personas, el género, los ingredientes, los pasos, el PUNTO clave y el eslogan no están especificados, propónlos de manera natural a partir de la imagen.
-- No conviertas en protagonista a ingredientes que no aparezcan en la foto.
-- Crea una receta realista que sea fácil de reproducir en casa.
-- Ajusta el proceso de cocción para que sea en una sola sartén o con la menor cantidad de pasos posible.
-
-Composición:
-- Parte superior: Título + breve subtítulo
-- Centro: Foto principal del plato
-- Parte inferior o lateral: "Ingredientes (para X personas)", "Preparación", "PUNTO clave"
-
-4 direcciones:
-1. Estilo de página destacada de revista gastronómica
-2. Estilo de tarjeta de receta natural o de menú de cafetería
-3. Estilo de tarjeta de receta práctica y guardable para redes sociales
-4. Estilo de publicidad gastronómica con un fuerte impacto visual
-
-Objetivo final:
-Basándote en la imagen adjunta, crea 4 imágenes de recetas de alta calidad que parezcan como si el plato real hubiera sido terminado en 4 direcciones diferentes por un diseñador gastronómico profesional.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650714430_a0ggp2_HJ7sU-dawAAbBws.jpg" width="600" alt="Infografía / Visual Educativo - Diseñador profesional de tarjetas de recetas - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
-- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2062345530374758422)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24125)**
-
----
-
-### No. 41: Infografía / Visual Educativo - Infografía con anotaciones técnicas
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una infografía al estilo de boceto arquitectónico que superpone alimentos realistas con dibujos técnicos a pluma, etiquetas y medidas sobre un fondo blanco.
-
-#### 📝 Prompt
-
-```
-Genera una imagen infográfica de cualquier alimento, combinando una fotografía realista o un render fotorrealista con superposiciones de anotaciones técnicas colocadas directamente encima. Utiliza {argument name="drawing style" default="dibujos de línea al estilo de tinta negra"} y texto (con apariencia de pluma técnica / boceto arquitectónico) sobre un {argument name="background" default="fondo de estudio blanco puro"}. Incluye: {argument name="elements" default="etiquetas de componentes clave, contornos de vista interna o despiece, medidas y marcadores de escala"}, llamadas de materiales y cantidades, flechas que indiquen función o flujo, y diagramas esquemáticos o de sección simples donde sea relevante. Coloca el nombre del alimento como título dentro de un cuadro de anotación dibujado a mano en una esquina. El objeto real debe permanecer claramente visible debajo de las anotaciones. Las anotaciones deben sentirse como bocetos, técnicas y arquitectónicas. Composición limpia con espacio negativo equilibrado, estilo de exhibición de museo educativo / manual de ingeniería. Fondo blanco, solo líneas de anotación y texto en negro, sin colores. Salida: 1080x1080, ultra nítido, sin marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564613173_vigs21_HJ6i4X6aoAAiGrF.jpg" width="600" alt="Infografía / Visual Educativo - Infografía con anotaciones técnicas - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062264967722934629)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23917)**
-
----
-
-### No. 42: Infografía / Visual Educativo - Tarjeta de receta de Okonomiyaki japonés
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una infografía cuadrada y acogedora de una receta japonesa de okonomiyaki de repollo y brotes de soja, ideal para publicaciones de cocina en redes sociales o imágenes de recetas.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una imagen cálida de una tarjeta de receta japonesa para un plato de okonomiyaki hecho en una sola sartén con repollo y brotes de soja, con el estilo de una acogedora página de revista de cocina casera. Utiliza el titular principal {argument name="headline text" default="キャベツともやしのお好み焼き"} y el subtítulo {argument name="subheadline text" default="たっぷり野菜で、気軽に作れるやさしい一皿"}.
-
-Lienzo: Composición cuadrada 1:1, fondo de papel color crema suave con textura sutil, mesa de madera clara, paleta de colores beige y marrón, líneas de borde discontinuas delicadas cerca de la parte superior e inferior, luz natural suave, fotografía de comida apetitosa mezclada con un diseño editorial limpio de recetas.
-
-Diseño principal: Gran foto de comida centrada que ocupa el medio: un okonomiyaki redondo en un plato de cerámica pálida con motas, dorado y crujiente por fuera, cortado exactamente en 6 porciones en forma de cuña, con salsa de okonomiyaki oscura y brillante rociada en rayas en zigzag paralelas sobre la parte superior. El plato debe mostrar trozos de repollo y brotes de soja en el interior. Añade una anotación al estilo manuscrito a la derecha del plato que diga 「外はカリッと 中はふんわり♪」 con una línea de puntero curva.
-
-Área superior: Gran título japonés al estilo de pincel marrón oscuro centrado en la parte superior. Debajo, coloca una tira de papel rasgado beige que contenga el subtítulo. En la parte superior derecha, añade una pequeña etiqueta de papel kraft sujeta con una pinza de madera que diga {argument name="serving tag text" default="1〜2人分 / 家庭料理"}. Añade una pequeña ilustración botánica de línea cerca de la parte superior izquierda y vegetación ligera cerca del borde superior derecho.
-
-Utilería de comida alrededor del plato: Incluye exactamente 5 elementos de apoyo de ingredientes/productos en el área inferior izquierda: 1 bolsa de mezcla de harina para okonomiyaki de color naranja con estilo de producto japonés legible, 1 pequeña cesta de repollo rallado, 1 pequeña cesta de brotes de soja, 1 cuenco pequeño de jamón en dados y 2 cebolletas enteras colocadas en diagonal al frente.
-
-Área de información inferior: Añade exactamente 3 tarjetas de receta rectangulares redondeadas alineadas horizontalmente en la parte inferior, de color crema con sombras suaves y etiquetas de título tipo cinta beige.
-
-Título de la tarjeta izquierda: 「材料（1〜2人分）」. Enumera exactamente 8 ingredientes con cantidades: 「お好み焼き粉 100g」, 「水 120ml」, 「卵 1個」, 「キャベツ 200g」, 「もやし 100g」, 「ハム 50g」, 「青ねぎ 2本」, 「揚げ玉 大さじ2」, además de 「お好み焼きソース 適量」 como nota de la salsa. Usa texto japonés limpio y una pequeña ilustración botánica en la parte inferior derecha de la tarjeta.
-
-Título de la tarjeta central: 「作り方」. Muestra exactamente 4 pasos numerados en insignias circulares marrones: 1 「材料を切る。」 2 「粉、水、卵を混ぜ、具材を加えてさっくり合わせる。」 3 「フライパンで両面をこんがり焼く。」 4 「切り分けてソースをかける。」 Añade un pequeño dibujo lineal de un cuenco y un batidor en la parte inferior derecha.
-
-Título de la tarjeta derecha: 「POINT」. Muestra exactamente 3 puntos clave separados por líneas divisorias punteadas: 「もやしで軽さとうまみをプラス」, 「焼くときは押さえすぎない」, 「仕上げのソースは食べる直前に」. Añade un pequeño dibujo lineal de hojas en la parte inferior derecha.
-
-Pie de página: En el centro inferior, añade pequeños iconos decorativos de tenedor y texto en inglés cursivo que diga {argument name="footer text" default="Homemade & Simple"}.
-
-Estilo visual: Fotografía de comida editorial suave, estética de cocina casera japonesa acogedora, plato y salsa realistas, tipografía limpia y legible, acentos botánicos dibujados a mano, fondo beige apagado, sin personas, sin marcas de agua, sin tarjetas adicionales ni ingredientes extra más allá de las cantidades especificadas.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650757754_fpgi30_HJ5pc3LaUAAlpz5.jpg" width="600" alt="Infografía / Visual Educativo - Tarjeta de receta de Okonomiyaki japonés - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
-- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2062201629412306944#reversed-0)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24018)**
-
----
-
-### No. 43: Infografía / Visual Educativo - Tarjeta de receta de fideos tempura al estilo japonés
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera un póster de receta al estilo de un libro de cocina japonés cuadrado, que presenta sopa de fideos con tempura de camarones, incluyendo ingredientes, pasos y consejos.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una imagen gastronómica cálida al estilo de una tarjeta de receta japonesa para {argument name="dish name" default="えび天のせ あっさり和風麺"}, presentada como un elegante póster de receta de revista con fotografía culinaria apetitosa e instrucciones perfectamente tipografiadas.
-
-Lienzo: Imagen cuadrada 1:1, luz natural suave, fondo de color crema y madera clara, composición editorial limpia. Utilizar una textura de papel beige claro y acentos en tonos pastel suaves.
-
-Diseño: Titular japonés grande centrado en la parte superior con un estilo de caligrafía de pincel en negrita. Debajo, una línea divisoria delgada de color salmón y una línea de subtítulo con decoraciones de puntos. La foto principal de la comida ocupa el centro: un tazón grande en el primer plano izquierdo, un tazón más pequeño en el fondo derecho y un plato de ingredientes en la parte inferior derecha. El tercio inferior contiene un panel de receta blanco redondeado dividido exactamente en 3 columnas.
-
-Detalles de la imagen principal: Mostrar una sopa de fideos japonesa clara en tazones de ramen blancos con patrones decorativos rojos de estilo chino. El tazón grande del primer plano contiene fideos finos, caldo claro, exactamente 1 tempura de camarón grande y dorada colocada encima, cebollino en rodajas, alga wakame brillante y jengibre encurtido rosa. El tazón pequeño del fondo contiene fideos, cebollino en rodajas y jengibre encurtido rosa. En el plato de la parte inferior derecha, mostrar exactamente 2 grupos de ingredientes: rodajas redondas de pastel de pescado kamaboko con borde rosa dispuestas en abanico y rodajas de cerdo chashu superpuestas. Añadir un paño verde pálido doblado debajo del tazón grande y una pequeña planta de hojas verdes desenfocada en la parte superior derecha.
-
-Contenido del texto: Titular superior: {argument name="headline text" default="えび天のせ あっさり和風麺"}. Subtítulo: {argument name="subtitle text" default="チャーシューとかまぼこを添えて"}. Línea de descripción pequeña: {argument name="description text" default="家庭で気軽に作れる、ほっとするごちそう麺。"}.
-
-Panel de receta inferior: Usar exactamente 3 columnas con etiquetas de encabezado redondeadas. Encabezado de la columna 1 en color salmón: 「材料（2人分）」. Listar exactamente 9 filas de ingredientes: ゆで麺 2玉; えび天 2本; チャーシュー 8〜10枚; かまぼこ 6〜8枚; 小ねぎ 適量; 紅しょうが 適量; 青菜またはわかめ 適量; だし 600ml; しょうゆ 大さじ1; 塩 少々. Encabezado de la columna 2 en color ocre: 「作り方」. Mostrar exactamente 4 pasos numerados en círculos dorados: 1 鍋でだしを温め、しょうゆと塩で味を整える。 2 麺を温めて器に入れ、熱いだしを注ぐ。 3 えび天、ねぎ、紅しょうが、青菜をのせる。 4 チャーシューとかまぼこは別皿に盛って添える。 Encabezado de la columna 3 en verde oliva: 「POINT」. Mostrar exactamente 3 puntos clave: だしは薄めにして具のうま味を活かす; ねぎと紅しょうがは仕上げにのせる; 別皿にすると好みでトッピングしやすい.
-
-Estilo visual: Fotografía gastronómica de alta luminosidad combinada con un elegante diseño gráfico de libro de cocina japonés, sombras suaves, profundidad de campo reducida, texturas realistas para la tempura, el caldo, los fideos, el cerdo y el kamaboko. La tipografía debe ser legible y equilibrada, con el titular en negro y colores de acento cálidos. Añadir una pequeña ilustración decorativa de un camarón rojo y un sutil trazo verde en la esquina inferior derecha del panel de la receta.
-
-Restricciones: Mantener la composición limpia y tranquila, evitar el desorden, sin personas, sin marcas de agua, sin paneles adicionales, sin ingredientes extra más allá de los enumerados y preservar la estructura exacta de 3 columnas en el panel inferior.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564697161_3o6mhh_HJ5k7PibEAAWPgf.jpg" width="600" alt="Infografía / Visual Educativo - Tarjeta de receta de fideos tempura al estilo japonés - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
-- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2062197231302905900#reversed-0)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24037)**
-
----
-
-### No. 44: Infografía / Visual Educativo - Póster del informe sobre trajes de baño de GPT Image 2 en japonés
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Crea una miniatura de artículo de estilo japonés de antes y después, comparando un resultado fallido de nadadora de competición con un resultado mejorado de vida escolar en la piscina.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear un póster promocional vertical en japonés para un artículo sobre por qué es difícil generar un traje de baño escolar en GPT Image 2, mostrando un informe de prueba visual de antes y después.
-
-Lienzo: Diseño vertical en formato 4:5, estilo de miniatura de blog editorial limpio, fondo blanco con salpicaduras de acuarela azul claro y motivos sutiles de agua de piscina cerca de las esquinas superiores. Utiliza una elegante tipografía japonesa con serifa en azul marino oscuro.
-
-Encabezado: Titular grande centrado en japonés: 「なぜスクール水着は 難しいのか？」 con el salto de línea después de 「は」. Debajo, añade una línea horizontal fina a ambos lados del subtítulo 「GPT Image 2 検証レポート」.
-
-Diseño principal: Dos paneles fotográficos grandes lado a lado separados por un divisor vertical blanco fino. Utiliza exactamente 2 imágenes de comparación: el panel izquierdo etiquetado como fallo, el panel derecho etiquetado como mejora. En la parte superior izquierda del área de la imagen, coloca una etiqueta roja redondeada que diga 「失敗」. En la parte superior derecha, coloca una etiqueta azul redondeada que diga 「改善」.
-
-Panel fotográfico izquierdo: Una foto realista de cuerpo completo junto a la piscina de una mujer adulta con un traje de baño de competición azul marino de una pieza, de pie en una piscina cubierta o similar a un estadio. Haz que parezca una competición deportiva: gradas, marcador, corcheras, bloque de salida y ambiente oficial de competición. Su rostro debe estar intencionalmente oscurecido con un bloque de desenfoque/mosaico rectangular. La pose es erguida y atlética, enfatizando que la generación se volvió demasiado parecida a una nadadora de competición.
-
-Panel fotográfico derecho: Una foto realista de cuerpo completo junto a la piscina de una mujer adulta con un traje de baño escolar azul marino de una pieza con ribetes blancos y tirantes, de pie junto a una piscina escolar al aire libre a plena luz del día. El fondo incluye agua azul de piscina, corcheras, borde de la piscina, arquitectura escolar baja y vegetación. Su rostro también debe estar intencionalmente oscurecido con un bloque de desenfoque/mosaico rectangular. El ambiente es de vida escolar cotidiana en lugar de publicidad deportiva.
-
-Pie de página: Texto centrado en japonés en azul marino oscuro: 「11万閲覧の裏側を note にまとめました」 con la palabra “note” en azul brillante. Debajo, añade una pequeña línea de texto: 「競泳選手化 → 学校の日常へ」 con la flecha en rojo. Usa una línea divisoria tenue sobre el texto pequeño.
-
-Estilo visual: Fotografía realista en los dos paneles, composición de portada de revista/artículo, alto contraste entre el aspecto de anuncio deportivo fallido y el aspecto mejorado de vida escolar en la piscina. Mantén el diseño pulido y legible, sin logotipos ni marcas de agua adicionales.
-
-Espacios personalizables: El titular del artículo puede ser {argument name="headline text" default="なぜスクール水着は難しいのか？"}; el subtítulo puede ser {argument name="subtitle text" default="GPT Image 2 検証レポート"}; la etiqueta izquierda puede ser {argument name="left label" default="失敗"}; la etiqueta derecha puede ser {argument name="right label" default="改善"}; el texto del pie de página puede ser {argument name="footer text" default="11万閲覧の裏側を note にまとめました"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564683445_zlfrey_HJ4uj6fbwAAZ_5J.jpg" width="600" alt="Infografía / Visual Educativo - Póster del informe sobre trajes de baño de GPT Image 2 en japonés - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564683558_pg2wuo_HJ4um0Hb0AAt6vX.jpg" width="600" alt="Infografía / Visual Educativo - Póster del informe sobre trajes de baño de GPT Image 2 en japonés - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564683452_f4wdvf_HJ4uoqWawAAbMlP.jpg" width="600" alt="Infografía / Visual Educativo - Póster del informe sobre trajes de baño de GPT Image 2 en japonés - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564684487_kp92vr_HJ4useRboAAFDdy.jpg" width="600" alt="Infografía / Visual Educativo - Póster del informe sobre trajes de baño de GPT Image 2 en japonés - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [千田結穂（せんだゆいほ）](https://x.com/jins2001jp)
-- **Fuente:** [Twitter Post](https://x.com/jins2001jp/status/2062138287259783428#reversed-0)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24017)**
-
----
-
-### No. 45: Infografía / Visual Educativo - Diagrama de ubicación de montaña con anotaciones
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Crea un diagrama de planificación superpuesto y limpio sobre una foto de paisaje de referencia, preservando la calidad original de la escena.
-
-#### 📝 Prompt
-
-```
-Utilizando REFERENCE_0 como imagen base, crea un diagrama de planificación de ubicación con anotaciones sin alterar ni degradar la foto original del paisaje montañoso. Mantén el paisaje, los colores, los detalles, la composición, la vegetación, el claro de tierra, las rocas y las montañas distantes lo más fieles posible a la referencia; solo añade gráficos y etiquetas superpuestas limpias.
-
-Añade exactamente 7 etiquetas en negrita, mayúsculas y color blanco con borde negro o sombra paralela: {argument name="west label" default="OESTE"} en la parte superior central, {argument name="south label" default="SUR"} a la izquierda, {argument name="seating label" default="ASIENTOS DE JUGADORES / MARCAS"} sobre las dos rocas, {argument name="zone label" default="ZONA DE ACCIÓN / BATALLA"} centrada en el claro de tierra, {argument name="front access label" default="ACCESO ABIERTO FRENTE/IZQUIERDA/DERECHA"} a lo largo del borde inferior, además de "SIN OBJETOS ARTIFICIALES" cerca de la vegetación inferior izquierda y "VEGETACIÓN NATURAL" en el lado derecho.
-
-Añade exactamente 4 flechas blancas semitransparentes con bordes negros: una flecha grande hacia arriba debajo de la etiqueta OESTE, una flecha grande apuntando a la izquierda junto a la etiqueta SUR y dos flechas diagonales pequeñas desde la etiqueta de asientos apuntando a los dos asientos/marcas de piedra. Añade líneas guía de perspectiva en cian fino que delimiten el área utilizable: un trapezoide grande o límite del campo siguiendo los bordes del claro y la vegetación, con un trapezoide interior más pequeño alrededor de la zona de acción/batalla. Haz que la superposición parezca un diagrama claro de desglose de escena al aire libre, manteniendo la calidad fotográfica original y evitando añadir objetos adicionales, personas, edificios, iconos o elementos de paisaje nuevos.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564677743_j260ck_HJ4cHSTaMAAr27p.jpg" width="600" alt="Infografía / Visual Educativo - Diagrama de ubicación de montaña con anotaciones - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564677776_taucf2_HJ4cSdabkAAhFh2.jpg" width="600" alt="Infografía / Visual Educativo - Diagrama de ubicación de montaña con anotaciones - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564677311_yubdwi_HJ4ceRRagAA3Mfm.jpg" width="600" alt="Infografía / Visual Educativo - Diagrama de ubicación de montaña con anotaciones - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Jet Inoue｜井上ジェット｜🎞️AI監督・アニメ＆実写](https://x.com/jetinoue)
-- **Fuente:** [Twitter Post](https://x.com/jetinoue/status/2062122639100149892#reversed-1)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24010)**
-
----
-
-### No. 46: Infografía / Visual Educativo - Diapositiva comparativa de Manus GPT Image 2.0
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una diapositiva de infografía corporativa japonesa que compara métodos y herramientas de generación de diapositivas con IA, ideal para publicaciones en redes sociales o presentaciones.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una diapositiva de infografía empresarial japonesa pulida que compare métodos y herramientas de generación de material de presentación con IA, con una paleta corporativa de blanco, azul marino, naranja y verde. El mensaje principal es que Manus × GPT image 2.0 es actualmente la mejor opción general.
-
-Lienzo: Diapositiva horizontal de 16:9, fondo blanco limpio, bordes de tarjeta gris claro finos, tipografía azul marino intenso, sombras azul grisáceo sutiles. Deje una franja fotográfica vertical en el lado derecho que ocupe aproximadamente el 24% del lienzo.
-
-Encabezado: En la parte superior izquierda, un pequeño texto introductorio en japonés usando {argument name="small header text" default="AI資料生成、いろいろ試した結論"}. Debajo, un titular con una fuente serif elegante y muy grande usando {argument name="main headline text" default="「Manus × GPT image 2.0」がいちばん良い"}. Debajo del titular, añada un subtítulo más pequeño usando {argument name="subtitle text" default="資料生成のやり方・ツールを徹底比較。今のところ総合力で頭ひとつ抜けています。"}.
-
-Área de fotos derecha: Añada exactamente 2 fotos realistas de estilo de vida empresarial apiladas verticalmente con una iluminación de oficina suave y brillante. Foto superior: un empresario japonés con traje azul marino trabajando en un portátil que muestra miniaturas de diapositivas, sentado cerca de una ventana, con el rostro suavemente desenfocado. Foto inferior: una empresaria japonesa con una americana beige mirando un smartphone en un escritorio, con el rostro suavemente desenfocado. Mantenga las fotos recortadas limpiamente con márgenes blancos, a juego con el aspecto corporativo de la diapositiva.
-
-Diseño de la Sección 1: Cree una tarjeta rectangular grande y redondeada titulada "資料生成の3つのやり方". Dentro, coloque exactamente 3 tarjetas de método horizontales conectadas por dos flechas apuntando a la derecha. Método 1: icono de código azul, etiqueta "① コードでプレビュー", texto pequeño "HTML / CSS / JSで作成", píldora inferior "再現性が高い". Método 2: icono de PowerPoint naranja, etiqueta "② PowerPointを直接作る", texto pequeño "細かい調整がしやすい", píldora inferior "時間がかかる・属人化しやすい". Método 3: icono de imagen verde, etiqueta "③ 画像生成でスライドにする", texto pequeño "自由度が高くスピーディ", píldora inferior "総合力で最もバランスが良い".
-
-Diseño de la Sección 2: Debajo, añada un título "画像生成をどのツールでやるか（主要4ツール比較）" y exactamente 4 tarjetas de comparación iguales en una fila. Tarjeta 1: Claude Code / Codex, icono de engranaje/código, subetiqueta "（GPT image 2.0 API）", viñeta "実装向きで表現に制約あり". Tarjeta 2: ChatGPT, icono de nudo de OpenAI, subetiqueta "（直接生成）", viñeta "一度に出せる枚数に制限". Tarjeta 3: Genspark, icono de destello, viñeta "エラーが多くデザインも弱い". Tarjeta 4: tarjeta destacada como la mejor con borde naranja e icono de corona, insignia naranja pequeña "最良", título usando {argument name="best tool name" default="Manus × GPT image 2.0"}, viñeta "精度・枚数・デザインの総合力◎".
-
-Diseño de la Sección 3: Añada un cuadro redondeado titulado "どんな資料に向いているか" con exactamente 2 tarjetas de idoneidad una al lado de la otra. Tarjeta izquierda con icono de persona verde: título "画像生成で十分戦える資料", ejemplos "研修資料 / YouTube用スライド / 軽めの提案書 など". Tarjeta derecha con icono de corona naranja: título "人がPowerPointで作り込むべき資料", ejemplos "大型提案書 / 高度なカスタマイズが必要な資料 など".
-
-Barra de conclusión inferior: Franja de conclusión azul claro de ancho completo con un cuadro de etiqueta azul marino que dice "結論", un icono de verificación circular y un texto de conclusión grande usando {argument name="conclusion text" default="現時点では Manus × GPT image 2.0 がベスト"}.
-
-Branding: En la parte inferior derecha, coloque una pequeña marca abstracta naranja y la palabra "NEXTSCALE" en gris oscuro. Mantenga todo el texto nítido y alineado, utilice tipografía de diapositivas empresariales japonesas, evite el desorden y no añada tarjetas adicionales más allá de las 3 tarjetas de método, 4 tarjetas de herramientas, 2 tarjetas de idoneidad y 2 fotos contadas.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564696443_lxmlqu_HJ4fe78boAAC_c-.jpg" width="600" alt="Infografía / Visual Educativo - Diapositiva comparativa de Manus GPT Image 2.0 - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [石丸真平 | AIの人《本当に仕事で使えるAIを発信》](https://x.com/Pei_2002)
-- **Fuente:** [Twitter Post](https://x.com/Pei_2002/status/2062120304781279402#reversed-0)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24036)**
-
----
-
-### No. 47: Infografía / Visual Educativo - Arte vectorial de líneas minimalista japonés
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt para ilustraciones vectoriales en blanco y negro, limpias y minimalistas, con suaves acentos en tonos pastel, siguiendo un estilo editorial moderno japonés o coreano.
-
-#### 📝 Prompt
-
-```
-Ilustración vectorial de arte lineal minimalista y limpia en blanco y negro, con un estilo editorial moderno japonés/coreano. Contornos finos y continuos, fondo blanco, personajes amigables con rasgos suaves y redondeados, escena de la vida urbana cotidiana. Un {argument name="subject" default="grupo de viajeros"} esperando en una parada de autobús / viajando en metro / cruzando una calle bajo una lluvia ligera. Composición despejada con mucho espacio negativo, horizonte urbano minimalista al fondo, árboles sencillos, señales de transporte, paraguas, bolsos, teléfonos inteligentes y accesorios diarios. Acentos selectivos en {argument name="accent color" default="azul pastel suave"} en pequeños detalles como bolsos, paraguas, libros, auriculares o señales. Diseño plano en 2D, dibujo a tinta monocromático, líneas de contorno limpias, sin sombreado, sin degradados, sin texturas, atmósfera tranquila y acogedora, estética de infografía de estilo de vida, simplicidad escandinava, ilustración vectorial moderna, obra de arte editorial profesional, composición ultra limpia, alta resolución.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650734149_pbxshl_HJ4QxAlbgAATzUj.jpg" width="600" alt="Infografía / Visual Educativo - Arte vectorial de líneas minimalista japonés - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650734167_i4obay_HJ4QxCraIAEV6WR.jpg" width="600" alt="Infografía / Visual Educativo - Arte vectorial de líneas minimalista japonés - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650734206_98el39_HJ4QxFubkAAbr7S.jpg" width="600" alt="Infografía / Visual Educativo - Arte vectorial de líneas minimalista japonés - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Taaruk](https://x.com/Taaruk_)
-- **Fuente:** [Twitter Post](https://x.com/Taaruk_/status/2062104127577157731)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23922)**
-
----
-
-### No. 48: Infografía / Visual Educativo - Tarjeta de receta de salmón al estilo japonés con kimchi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una elegante tarjeta de receta cuadrada al estilo japonés que incluye salmón a la parrilla, kimchi, huevo y arroz multigrano, ideal para libros de cocina o redes sociales.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una tarjeta de receta cuadrada al estilo japonés para un plato servido, con el diseño de una revista de cocina moderna y minimalista.
-
-Lienzo: Imagen cuadrada 1:1, fotografía gastronómica con luz natural cálida, fondo de mesa de piedra beige suave, sombras sutiles, diseño editorial de alta resolución.
-
-Diseño: El tercio superior presenta un titular grande en japonés centrado a la izquierda, con una línea divisoria horizontal delgada debajo y un subtítulo más pequeño en japonés. La mitad central está dominada por dos platos de cerámica con comida: un plato principal grande en el primer plano inferior izquierdo y un plato más pequeño en el fondo superior derecho. El cuarto inferior contiene tres bloques de información de la receta: ingredientes a la izquierda, pasos de preparación en el centro y un panel de consejos "POINT" en un recuadro a la derecha.
-
-Contenido del texto: Utilice el titular {argument name="headline text" default="焼きシャケ×キムチねぎプレート"}. Utilice el subtítulo {argument name="subtitle text" default="鮭のうまみ × キムチの辛み × ねぎの香り。目玉焼きと雑穀ごはんで満足ワンプレート"}. Título de la sección inferior izquierda: 「材料（2人分）」. Título de la sección inferior central: 「作り方」. Título de la sección inferior derecha: “POINT”. Mantenga todo el texto nítido, en color negro o marrón oscuro, con barras de etiqueta marrones y una tipografía serif japonesa refinada para el titular.
-
-Detalles del sujeto gastronómico: Muestre exactamente dos platos de cerámica redondos de color gris beige a juego. Cada plato contiene exactamente cuatro componentes principales: filete de salmón a la parrilla con la piel dorada, un huevo frito con la yema naranja líquida, kimchi rojo y una porción de arroz multigrano morado. Decore el salmón con cebollino verde picado y semillas de sésamo blanco. El plato del primer plano debe ser el más grande y detallado, visto ligeramente desde arriba; el plato del fondo debe ser más pequeño y verse suavemente difuminado.
-
-Texto visible de la receta: La lista de ingredientes debe contener exactamente 8 puntos: 2 filetes de salmón, 2 cuencos de arroz multigrano, 2 huevos, 80–100 g de kimchi, cebollino picado al gusto, sésamo blanco al gusto, 1 cucharadita de aceite de sésamo, una pizca de sal, un poco de salsa de soja si se prefiere. Los pasos de cocina deben contener exactamente 4 pasos numerados en círculos marrones: salar ligeramente y dorar el salmón en una sartén o parrilla; cocinar los huevos fritos en la misma sartén; disponer el arroz multigrano, el salmón, el kimchi y el huevo frito en los platos; cubrir el salmón con cebollino picado y sésamo blanco, rociar aceite de sésamo sobre el kimchi y terminar. El panel POINT debe contener exactamente 3 consejos con marca de verificación: no freír el kimchi, añadirlo tal cual para obtener suficiente sabor; añadir el cebollino al final para que resalte el aroma; mantener el condimento moderado ya que el salmón salado es sabroso por sí mismo.
-
-Utilería y estilo: Añada un paño de lino color crema doblado en la esquina superior izquierda, algunas hojas verdes suaves entrando desde el borde superior izquierdo y palillos negros descansando diagonalmente sobre un pequeño soporte rectangular en la parte inferior derecha. Utilice una paleta de colores cálidos y apetitosos: naranja salmón, rojo kimchi, verde cebollino, blanco y naranja de huevo, morado arroz, beige cerámica.
-
-Restricciones: Sin personas, sin manos, sin platos adicionales más allá de los dos especificados, sin marcas de agua, sin logotipos, sin gráficos decorativos excesivos, mantener una estética de tarjeta de receta casera de alta calidad.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564690247_89q4xc_HJ3RtrUbEAAZAs8.jpg" width="600" alt="Infografía / Visual Educativo - Tarjeta de receta de salmón al estilo japonés con kimchi - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
-- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2062034792032698374#reversed-0)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24025)**
-
----
-
-### No. 49: Infografía / Visual Educativo - Póster de receta de salmón con kimchi al estilo japonés
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una imagen de receta cuadrada al estilo de un libro de cocina japonés que presenta un salmón salteado con kimchi y cebolleta, incluyendo ingredientes, pasos y un consejo de cocina.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear un póster de receta cuadrada al estilo japonés para {argument name="dish name" default="シャケキムチねぎ炒め"}, que muestre un apetitoso salmón salteado con kimchi y cebolleta casero, con información clara sobre la receta.
-
-Lienzo: Imagen cuadrada 1:1, estilo de fotografía gastronómica con luz natural cálida sobre una mesa de madera clara, fondo crema suave, aspecto de tarjeta de receta editorial de alta resolución.
-
-Diseño: Título grande en caligrafía japonesa en la parte superior; la palabra “キムチ” debe ser roja y el resto negro. Debajo, añadir una línea horizontal decorativa fina a ambos lados del subtítulo “鮭のうまみ × キムチの辛み × ねぎの香り”. Centrar la composición alrededor de un plato grande de cerámica beige poco profundo lleno con el plato terminado. Colocar pequeños platos con ingredientes alrededor: exactamente 5 elementos visibles — 1 plato con dos filetes de salmón crudo en la parte superior izquierda, 1 tazón pequeño de kimchi en la parte superior derecha, 1 tazón pequeño de cebolletas picadas en la parte inferior derecha, 1 tazón pequeño de semillas de sésamo blanco en la parte inferior derecha y 1 pequeño cuenco de cristal con aceite de cocina dorado cerca del primer plano inferior derecho.
-
-Detalles de la comida: El plato principal debe verse brillante y picante: trozos de salmón en lascas, tiras de kimchi rojo anaranjado, tallos de cebolla o cebolleta pálidos, muchos aros de cebolleta picada esparcidos por encima y semillas de sésamo tostadas. Enfatizar una textura recién cocinada sin vapor, salsa de kimchi de color rojo vibrante, lascas de salmón jugosas y vajilla de cerámica rústica.
-
-Contenido del texto: Añadir una sección de receta en la parte inferior izquierda titulada “材料（2人分）” con exactamente 6 ingredientes con viñetas: “鮭 2切れ”, “キムチ 100g”, “きざみネギ 1/2本分”, “ごま油 小さじ2”, “酒 小さじ1”, “しょうゆ 少々” y “白ごま 適量”. Añadir una sección de preparación en la parte inferior central titulada “作り方” con exactamente 3 pasos numerados: “1. 鮭を焼いて、食べやすくほぐす”, “2. フライパンでキムチを軽く炒め、鮭を加える”, “3. 仕上げにきざみネギと白ごまを加えて完成”. Añadir una nota en un recuadro en la parte inferior izquierda con un icono de bombilla simple, la etiqueta “POINT” y la nota “塩鮭を使う場合は、味付けを控えめにするとバランス◎”.
-
-Estilo visual: Diseño de revista de cocina japonesa, tipografía minimalista elegante, acentos en negro y rojo oscuro, líneas finas, textura de papel beige sutil, fotografía gastronómica realista combinada con un diseño gráfico limpio. Mantener el texto nítido y legible, sin etiquetas adicionales, logotipos, marcas de agua ni personas.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564687514_nszyw8_HJ3Np70bQAA4bSR.jpg" width="600" alt="Infografía / Visual Educativo - Póster de receta de salmón con kimchi al estilo japonés - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
-- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2062030330153050425#reversed-0)
-- **Publicado:** 3 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24021)**
-
----
-
-### No. 50: Infografía / Visual Educativo - Banner tecnológico de rompecabezas de Codex
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un banner editorial tecnológico de formato ancho que utiliza piezas de rompecabezas entrelazadas, tipografía de titulares en chino en negrita y pequeños motivos de interfaz de flujo de trabajo de IA para ilustrar a Codex como la siguiente pieza faltante.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear un banner principal editorial de formato ancho sobre {argument name="headline topic" default="la siguiente pieza del rompecabezas de Codex"}, mostrando una metáfora de rompecabezas para la programación con IA, el diseño visual y las capacidades faltantes.
-
-Lienzo: Banner horizontal ultra ancho, con una relación de aspecto aproximada de 5:2, fondo técnico gris carbón oscuro con líneas de cuadrícula tenues, marcas de planos sutiles, puntos diminutos y líneas guía delgadas similares a circuitos. Centrar la ilustración con un ensamblaje de rompecabezas de papel/cartón de color blanquecino que proyecta sombras suaves.
-
-Diseño: Utilizar exactamente 15 elementos de rompecabezas visibles: 13 piezas de color blanquecino conectadas formando un mosaico rectangular, 1 pieza de rompecabezas de color azul cobalto intenso insertada en el borde inferior derecho y 1 ranura vacía con contorno discontinuo inmediatamente a la derecha de la pieza azul. El rompecabezas debe verse físico, con pestañas y encajes redondeados, biseles ligeros, textura de papel, costuras, suciedad y sombras realistas.
-
-Contenido de texto: La tipografía principal domina la superficie del rompecabezas. Usar una tipografía china sans-serif negra, enorme y en negrita, que diga {argument name="main title text" default="la siguiente"} en la fila superior y {argument name="subtitle text" default="pieza del rompecabezas"} en la fila central. Hacer que las letras sean de gran tamaño, recortadas ligeramente por las costuras del rompecabezas e integradas en el diseño de las piezas. Mantener el texto nítido y con alto contraste.
-
-Elementos gráficos visibles: Incluir exactamente 7 motivos de interfaz/diagrama integrados en las piezas del rompecabezas: 1 panel de editor de código oscuro en la parte inferior izquierda con líneas de código cortas en color y un pequeño símbolo </>; 1 gráfico circular combinado con un pequeño gráfico de barras en la parte inferior central; 1 diagrama de flujo simple de nodos y conectores cerca de la parte inferior central derecha; 1 panel de lista con viñetas con tres puntos redondos a la derecha del diagrama de flujo; 1 tarjeta de perfil de usuario en la parte superior derecha con icono de avatar y líneas de texto horizontales; 1 pequeña cuadrícula de hoja de cálculo/panel de control en la esquina superior derecha con celdas grises y una celda resaltada en azul; 1 tarjeta de documento/imagen en el lado derecho con pequeñas líneas de miniatura de montaña, superpuesta por un globo de chat azul que contiene dos puntos blancos y dos líneas horizontales blancas.
-
-Estilo visual: Ilustración editorial tecnológica premium, iluminación cinematográfica, textura táctil de rompecabezas de papel, paleta monocromática apagada de negro, blanquecino cálido, gris y el color de acento {argument name="accent color" default="azul cobalto"}. Añadir arañazos sutiles, polvo y grano de papel. Usar sombras realistas entre las piezas, pero mantener toda la imagen limpia y legible.
-
-Restricciones: Sin personas, sin logotipos adicionales, sin marcas de agua, sin palabras aleatorias en inglés más allá de pequeños trazos de código ilegibles y sin texto grande adicional. La pieza azul del rompecabezas debe sentirse como el componente clave faltante que completa el sistema, mientras que la ranura vacía discontinua sugiere que otra pieza aún está ausente.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780479132504_fzku7c_HJ1Fj1-aUAAkWCg.jpg" width="600" alt="Infografía / Visual Educativo - Banner tecnológico de rompecabezas de Codex - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780479132519_24w4yf_HJ1Fm0SbEAABhTn.jpg" width="600" alt="Infografía / Visual Educativo - Banner tecnológico de rompecabezas de Codex - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780479132535_tgt1mg_HJ1Fq12aEAA4f_j.jpg" width="600" alt="Infografía / Visual Educativo - Banner tecnológico de rompecabezas de Codex - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780479133134_f57lyi_HJ1F0jKbYAAuFij.jpg" width="600" alt="Infografía / Visual Educativo - Banner tecnológico de rompecabezas de Codex - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [向阳乔木](https://x.com/vista8)
-- **Fuente:** [Twitter Post](https://x.com/vista8/status/2061881016344772999#reversed-0)
-- **Publicado:** 2 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23835)**
-
----
-
-### No. 51: Miniatura de YouTube - Salón del Trono Imperial NeoNippon
+### No. 54: Miniatura de YouTube - Salón del Trono Imperial NeoNippon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2839,7 +2810,7 @@ Crea una gran escena interior cinematográfica en una estética ficticia llamada
 
 ---
 
-### No. 52: Miniatura de YouTube - Corregir rostro en miniatura existente
+### No. 55: Miniatura de YouTube - Corregir rostro en miniatura existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2873,7 +2844,7 @@ Utilizando REFERENCE_1 como la miniatura actual al estilo de YouTube y REFERENCE
 
 ---
 
-### No. 53: Miniatura de YouTube - Miniatura de YouTube: El misterio del bote de leche de Lawson
+### No. 56: Miniatura de YouTube - Miniatura de YouTube: El misterio del bote de leche de Lawson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2907,7 +2878,7 @@ Crea una miniatura de YouTube japonesa brillante, con un estilo de programa de v
 
 ---
 
-### No. 54: Miniatura de YouTube - Retrato táctico neo-noir crudo
+### No. 57: Miniatura de YouTube - Retrato táctico neo-noir crudo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2947,7 +2918,7 @@ Un prompt cinematográfico para un retrato táctico de alto contraste en un gara
 
 ---
 
-### No. 55: Miniatura de YouTube - Miniatura japonesa para GPT Image 2.0
+### No. 58: Miniatura de YouTube - Miniatura japonesa para GPT Image 2.0
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2981,7 +2952,7 @@ Crea una miniatura de YouTube en japonés de alto impacto sobre la mejora de gen
 
 ---
 
-### No. 56: Miniatura de YouTube - Toma de acción escalando un rascacielos
+### No. 59: Miniatura de YouTube - Toma de acción escalando un rascacielos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3016,7 +2987,7 @@ negative prompt: rostro distorsionado, identidad cambiada, peinado alterado, ilu
 
 ---
 
-### No. 57: Miniatura de YouTube - Collage digital vibrante de alto contraste
+### No. 60: Miniatura de YouTube - Collage digital vibrante de alto contraste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3050,7 +3021,7 @@ Un collage digital energético de alto contraste sobre un vibrante fondo sólido
 
 ---
 
-### No. 58: Miniatura de YouTube - Generador de protagonistas y compañeros de anime
+### No. 61: Miniatura de YouTube - Generador de protagonistas y compañeros de anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3084,7 +3055,7 @@ Utiliza la imagen proporcionada como referencia base para el personaje. Si el pe
 
 ---
 
-### No. 59: Miniatura de YouTube - Póster futurista de líder creativo cyberpunk
+### No. 62: Miniatura de YouTube - Póster futurista de líder creativo cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3118,7 +3089,7 @@ Utiliza la imagen de referencia proporcionada solo para el parecido facial. No c
 
 ---
 
-### No. 60: Miniatura de YouTube - Retrato al estilo de maqueta en miniatura
+### No. 63: Miniatura de YouTube - Retrato al estilo de maqueta en miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3152,7 +3123,7 @@ Una toma cinematográfica de gran angular presenta el rostro subido como referen
 
 ---
 
-### No. 61: Miniatura de YouTube - Panorama japonés de las cuatro estaciones
+### No. 64: Miniatura de YouTube - Panorama japonés de las cuatro estaciones
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3188,7 +3159,7 @@ Muestra exactamente 4 zonas estacionales fusionadas a la perfección de izquierd
 
 ---
 
-### No. 62: Miniatura de YouTube - Póster de película de anime en acción real
+### No. 65: Miniatura de YouTube - Póster de película de anime en acción real
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3379,7 +3350,7 @@ Calidad de imagen borrosa.
 
 ---
 
-### No. 63: Miniatura de YouTube - Noticiero de TV japonés sobre cafetería de conejos
+### No. 66: Miniatura de YouTube - Noticiero de TV japonés sobre cafetería de conejos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3417,7 +3388,7 @@ El reportero presenta la noticia con seriedad. Sensación de video natural de un
 
 ---
 
-### No. 64: Miniatura de YouTube - Escena de reportaje televisivo en aguas termales
+### No. 67: Miniatura de YouTube - Escena de reportaje televisivo en aguas termales
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3451,7 +3422,7 @@ Una escena de emisión en directo de un programa de presentación de posadas con
 
 ---
 
-### No. 65: Miniatura de YouTube - Transferencia de personaje de anime a la realidad
+### No. 68: Miniatura de YouTube - Transferencia de personaje de anime a la realidad
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3485,7 +3456,7 @@ Utiliza la imagen de referencia como base para el diseño del personaje y repres
 
 ---
 
-### No. 66: Miniatura de YouTube - Hoja de storyboard para arroz frito dorado
+### No. 69: Miniatura de YouTube - Hoja de storyboard para arroz frito dorado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3539,7 +3510,7 @@ Restricciones: Mantén el diseño de cuadrícula exacto con 12 paneles distintos
 
 ---
 
-### No. 67: Miniatura de YouTube - Chica motera estilo anime con aura de rayos
+### No. 70: Miniatura de YouTube - Chica motera estilo anime con aura de rayos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3573,7 +3544,7 @@ Edición de anime cinematográfica ultrarrealista de una {argument name="charact
 
 ---
 
-### No. 68: Miniatura de YouTube - Héroe de acción en el tren del cañón
+### No. 71: Miniatura de YouTube - Héroe de acción en el tren del cañón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3607,7 +3578,7 @@ Crea un retrato de acción cinematográfico surrealista en un formato vertical 9
 
 ---
 
-### No. 69: Miniatura de YouTube - Retrato de transmisión de estadio con público
+### No. 72: Miniatura de YouTube - Retrato de transmisión de estadio con público
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3647,19 +3618,19 @@ Imagen fija de transmisión deportiva ultrarrealista de una mujer glamurosa sent
 
 ---
 
-### No. 70: Cómic / Guion gráfico - Página de envíos de lectores para revista retro
+### No. 73: Cómic / Guion gráfico - Chica nostálgica con zapatos desgastados
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt altamente detallado diseñado para recrear la estética nostálgica de las páginas de contribución de lectores de revistas de videojuegos o anime de los años 90 y 2000, presentando una mezcla de diferentes estilos artísticos y elementos de diseño.
+Un prompt conmovedor y narrativo que describe a una chica tímida mirando sus zapatos desgastados durante una larga caminata.
 
 #### 📝 Prompt
 
 ```
-Crea una página de rincón de envíos de lectores para una revista de fans oficial de una serie popular ficticia, presentando al personaje de la imagen de referencia como protagonista. Esto no es una portada. Esto no es un póster. Esto no es un libro de arte. Esta es una página de participación de lectores que se encuentra en medio de una revista. Haz referencia directa a la cultura del rincón de envíos de lectores de revistas de juegos, anime, pasatiempos y revistas infantiles de la {argument name="era" default="década de 1990 a 2000"}. Existen múltiples secciones dentro de la página. Puedes componer libremente secciones como: Rincón de Ilustración de Lectores, Rincón de Ilustración Cómica, Rincón de Manga de 4 paneles, Rincón de Concurso de Leyendas, Comentarios Editoriales, Exhibición de Postales de Lectores, Ranking de Popularidad y un Rincón de Colaborador Habitual Misterioso. Toda la página es colorida y animada. Debe tener la sensación de una revista editada y maquetada a mano. El diseño digital no debe ser demasiado pulido. Los personajes aparecen en varios lugares de la página. Sin embargo, no se representan solo como arte oficial, sino como envíos de fans. Las expresiones cómicas, parodias, chistes de la vida cotidiana y ligeras rupturas de la personalidad del personaje son bienvenidas. Los lectores han amado esta obra durante años y están acostumbrados a bromear con los personajes. Hay muchos globos de texto, comentarios y ocurrencias editoriales. Todo el texto debe ser japonés natural. Evita el galimatías específico de la IA. La densidad de información debe ser como la de una página de revista impresa real. Importante: Aunque la obra es ficticia, haz que la cultura de la revista sea extraordinariamente realista. Los lectores deben tener la vibra de estar hablando de una obra real existente. Establécela como un 'rincón de envíos de lectores de una serie popular de larga trayectoria'. Prohíbe las páginas de introducción de personajes simples o las colecciones de fan art simples. Prioriza la sensación del departamento editorial y los lectores jugando juntos. Cada envío debe tener una individualidad clara. Mezcla naturalmente obras en la página como: arte de alta calidad de nivel divino, obras de aficionados avanzados, obras de nivel de secundaria, obras dibujadas con entusiasmo por estudiantes de primaria, manga cómico, manga de 4 paneles, ilustraciones cómicas estilo garabato, dibujos a lápiz y manuscritos monocromáticos. Para cada obra, los hábitos de línea, el grado de deformación, la habilidad artística, la composición, la expresión del manga, la calidad del entintado y el procesamiento de tramas deben diferir enormemente. No deben estar todas dibujadas en el mismo estilo. No debe parecer una colección de obras del mismo artista. Haz que parezca que el departamento editorial realmente seleccionó obras enviadas por muchos lectores. Los envíos de los lectores no deben dibujarse directamente en la página como ilustraciones terminadas, sino que deben parecer manuscritos enviados al departamento editorial que fueron escaneados, recortados y maquetados en la página. La textura del papel, la calidad de impresión, la calidad del escaneo, la densidad de línea, el tamaño del manuscrito y los márgenes pueden variar según la obra. Incluye obras que parezcan postales impresas, manuscritos fotocopiados, partes de manuscritos de manga y envíos de ilustraciones. El departamento editorial no selecciona obras basadas solo en la habilidad. Priorizan el humor, la creatividad, el potencial cómico, el impacto y la popularidad entre los lectores. Por lo tanto, las obras de alta habilidad y las de aficionados coexisten naturalmente. Los comentarios editoriales también difieren según la obra. Pueden existir premios lúdicos como 'Premio al Arte', 'Premio al Chiste', 'Premio a la Carcajada del Editor en Jefe', 'Premio Publicado Solo por Impulso' o 'Premio a Nadie Sabe Por Qué Fue Seleccionado'. Especialmente importante: En el momento en que alguien vea la página, debe sentir: 'Esta es una página de envíos de lectores de una vieja revista de juegos o anime'. Cuantos más detalles mires, más se deben transmitir la individualidad de cada colaborador, las travesuras del equipo editorial, la cultura de los colaboradores habituales y la historia de la serie de larga trayectoria. Prioriza la atmósfera del departamento editorial y los lectores jugando juntos durante años.
+una {argument name="character" default="chica tímida"} mirando hacia abajo a sus {argument name="item" default="zapatos"} ligeramente desgastados por {argument name="action" default="patear una lata"} en el largo camino a la escuela
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3667,598 +3638,85 @@ Crea una página de rincón de envíos de lectores para una revista de fans ofic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650712621_ebasfl_HKAPpTda8AA8ooO.jpg" width="600" alt="Cómic / Guion gráfico - Página de envíos de lectores para revista retro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735252278_5enbo9_HKFMhoAbcAAHgrQ.jpg" width="600" alt="Cómic / Guion gráfico - Chica nostálgica con zapatos desgastados - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Michael H. Lester](https://x.com/mhlester)
+- **Fuente:** [Twitter Post](https://x.com/mhlester/status/2063014263212711966)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24246)**
+
+---
+
+### No. 74: Cómic / Guion gráfico - Póster de guerrero anime con espíritu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un póster promocional de anime de alto contraste que presenta a un joven guerrero y una entidad espiritual masiva con iluminación cinematográfica y tipografía dramática.
+
+#### 📝 Prompt
+
+```
+Póster de exhibición de personaje de anime con un {argument name="character" default="joven guerrero audaz"} en primer plano adoptando una pose segura, mientras una {argument name="guardian" default="colosal bestia espiritual"} se alza detrás de ellos. Diseño vertical tipo portada de revista, héroe posicionado a la derecha, título y tipografía dramáticos a la izquierda. {argument name="energy effect" default="Efectos de energía arremolinados"}, aura radiante, fuerzas elementales, rayos, llamas, sombras profundas o energía espiritual etérea envolviendo a ambas figuras. Estilo de arte anime detallado, líneas limpias y nítidas, iluminación cinematográfica, alto contraste, expresiones faciales intensas, postura heroica, vínculo de dúo legendario, estética de póster promocional de anime oficial, tarjeta de perfil de personaje coleccionable, diseño de portada de manga premium, texturas hiperdetalladas, calidad de obra maestra, resolución 8K
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735250266_4cekf6_HKFDXgmbUAADqJK.jpg" width="600" alt="Cómic / Guion gráfico - Póster de guerrero anime con espíritu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650712325_v8mjb1_HKAPpTjaUAAukza.jpg" width="600" alt="Cómic / Guion gráfico - Página de envíos de lectores para revista retro - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Eris Create Lab](https://x.com/Eris_Create_Lab)
-- **Fuente:** [Twitter Post](https://x.com/Eris_Create_Lab/status/2062665834829652034)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24123)**
-
----
-
-### No. 71: Cómic / Guion gráfico - Hoja de diseño de personaje VEYA
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una hoja de personaje de arte conceptual estilo anime en formato ancho para una heroína de estilo streetwear futurista con armadura orgánica de color marfil, múltiples vistas, detalles, accesorios, siluetas y paleta de colores.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una hoja de diseño de personaje pulida al estilo anime para {argument name="character name" default="VEYA"}, una heroína de estilo streetwear futurista con crecimientos de armadura orgánica de color marfil.
-
-Lienzo: Tablero de arte conceptual horizontal ancho, relación de aspecto 16:9, fondo cálido color blanco roto, márgenes limpios, presentación de hoja de producción de juego/animación premium. Coloca el nombre “VEYA” en letras mayúsculas finas en la parte superior izquierda con una línea horizontal corta debajo.
-
-Diseño: Muestra exactamente 4 vistas de cuerpo completo del personaje en el área superior e izquierda: 1 pose heroica dinámica grande en el extremo izquierdo, 1 vista frontal más pequeña, 1 vista trasera más pequeña y 1 vista lateral más pequeña. En la parte superior derecha, incluye exactamente 6 estudios de busto de cabeza recortados dispuestos en una cuadrícula de 3 por 2, todos mostrando el mismo peinado desde ángulos/expresiones ligeramente variados. A lo largo de la parte inferior, incluye exactamente 4 paneles de detalles etiquetados bajo la etiqueta “DETAILS”: primer plano de la mano con armadura orgánica, primer plano de la armadura de pierna tipo enredadera, primer plano de la chaqueta corta y el área del cuello, y primer plano de la construcción del bolsillo de los pantalones cargo. En la parte inferior central derecha, incluye exactamente 1 objeto bajo la etiqueta “PROP”: un artefacto escultórico de marfil con forma de vaina de semilla con formas de hojas en capas y un núcleo redondo brillante. A su derecha, incluye la etiqueta “SILHOUETTE” con exactamente 2 siluetas negras del personaje, una de frente y otra de espaldas. En el extremo inferior derecho, incluye la etiqueta “PALETTE” con exactamente 4 muestras de color verticales: casi negro, gris carbón, marfil beige cálido y blanco roto.
-
-Detalles del sujeto: El personaje es una mujer joven adulta con piel bronceada, complexión atlética y delgada, cabello largo asimétrico de color {argument name="hair color" default="black"} peinado dramáticamente hacia un lado, rapado/undercut en el lado opuesto y una actitud urbana segura. Viste un top negro corto sin mangas, una chaqueta o chaleco corto oscuro de gran tamaño con hombros angulares, pantalones cargo jogger de color gris carbón de cintura alta con costuras y bolsillos, un cinturón fino y zapatillas deportivas gruesas de color crema y negro. Añade una armadura orgánica distintiva de color marfil con forma de hojas o ramas retorcidas en un brazo y una pierna, con placas en capas tipo pétalo, sombras grises sutiles y elegantes curvas botánicas.
-
-Estilo visual: Arte conceptual 2D de alta gama, líneas de tinta limpias, sombreado cel suave, textura de acuarela sutil, paleta de colores gris carbón y marfil apagados, streetwear de fantasía y ciencia ficción a la moda, hoja de diseño de producción nítida, sin fotorrealismo. Los rostros deben ser simplificados o suavemente oscurecidos en lugar de muy detallados, mientras que la ropa, el cabello, la armadura y los accesorios deben permanecer nítidos y legibles.
-
-Restricciones: Mantén la composición despejada y equilibrada; conserva todas las etiquetas visibles en inglés: “VEYA”, “DETAILS”, “PROP”, “SILHOUETTE” y “PALETTE”. Usa exactamente 4 vistas de cuerpo completo, 6 bustos de cabeza, 4 paneles de detalles, 1 accesorio, 2 siluetas y 4 muestras de paleta. No añadas personajes adicionales, armas, logotipos, marcas de agua ni paisajes de fondo.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650753342_smapj9_HJ_wWJ5XsAABneM.jpg" width="600" alt="Cómic / Guion gráfico - Hoja de diseño de personaje VEYA - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [42](https://x.com/noise2pix)
-- **Fuente:** [Twitter Post](https://x.com/noise2pix/status/2062631530309001601#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24203)**
-
----
-
-### No. 72: Cómic / Guion gráfico - Exploración de rover espacial androide
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de arte conceptual de ciencia ficción cinematográfica para crear una escena de exploración de un valle alienígena futurista con un rover cuadrúpedo, drones, escaneos holográficos y un panel de diagnóstico de una androide femenina.
-
-#### 📝 Prompt
-
-```
-Crea una escena de arte conceptual de ciencia ficción cinematográfica altamente detallada de {argument name="exploration rover label" default="EXR-17"} explorando un valle alienígena similar a la Tierra. El sujeto principal es un gran rover cuadrúpedo mecánico de color blanco y gris en primer plano, caminando a través de un arroyo rocoso poco profundo; tiene cuatro patas articuladas pesadas, un brazo manipulador largo en la parte frontal derecha tocando el agua con una herramienta de muestreo, un chasis blindado y robusto cubierto de paneles, pernos, antenas, cables, luces indicadoras azules y un mástil de sensores alto con tres lentes de cámara prominentes. Rodéalo de musgo verde exuberante, piedras húmedas, pequeñas flores azules brillantes, agua salpicando, cascadas, acantilados escarpados, montañas distantes y un cielo azul brillante con nubes dramáticas. Añade un planeta o luna colosal de color verde y azul dominando la parte superior derecha del cielo con un destello solar brillante cerca de su borde. Incluye exactamente 3 drones de reconocimiento pequeños en el cielo: un dron grande en la parte superior derecha proyectando un haz de escaneo azul hacia abajo, un dron pequeño en la parte superior izquierda sobre las montañas también proyectando un haz azul, y un dron distante cerca del centro-derecha del valle proyectando un haz azul tenue. Añade superposiciones de mapeo AR holográfico translúcido en el lado derecho del paisaje con exactamente 3 etiquetas visibles: “MINERAL DEPOSIT”, “WATER SOURCE” y “CONSERVATION ZONE”, además de rejillas de escaneo de estructura alámbrica azul y líneas de triangulación. En la esquina superior izquierda, superpón un panel de visualización holográfico azul rectangular que muestre {argument name="android description" default="a female android aboard a spaceship"}: un torso de androide femenino de color blanco plateado reclinado con articulaciones cibernéticas expuestas, cabello largo y pálido, tubos y cables alrededor de su cabeza y hombros, circuitos azules brillantes y gráficos de interfaz de diagnóstico médico; su rostro está cubierto por un desenfoque cuadrado opaco y suave. El panel insertado debe tener un marco de color cian neón y contener exactamente 4 regiones de diagnóstico de interfaz principales: un gráfico de forma de onda, una pequeña tabla de datos, una retícula de objetivo circular y líneas de lectura técnica delgadas. Estilo general: arte visual clave de ciencia ficción japonesa ultra detallado, arte conceptual 3D fotorrealista mezclado con estética cyberpunk inspirada en el anime, enfoque nítido, alto rango dinámico, hologramas azul cian vívidos, robótica de superficie dura intrincada, luz volumétrica, agua brillante, detalle ambiental denso, escala épica, sin marca de agua, sin texto legible adicional más allá de las etiquetas especificadas y la marca del rover.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650752067_mwpng2_HJ-VG0paYAAuxbM.jpg" width="600" alt="Cómic / Guion gráfico - Exploración de rover espacial androide - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [カーブミラー](https://x.com/kabumira862571)
-- **Fuente:** [Twitter Post](https://x.com/kabumira862571/status/2062531108127055997#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24199)**
-
----
-
-### No. 73: Cómic / Guion gráfico - Hoja de guion gráfico para el ritual del sable en el bosque
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt estructurado para generar una hoja de guion gráfico cinematográfico de ciencia ficción de 20 paneles sobre una artista de sable en un claro del bosque a la luz de la luna.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una hoja de guion gráfico cinematográfico en escala de grises / animática de producción para un ritual de sable de luz en un bosque de ciencia ficción titulado {argument name="title text" default="RITUAL DE SABER POI EN EL BOSQUE"}, que muestre a una maestra de rituales solitaria, similar a una Jedi, realizando una coreografía de saber-poi brillante junto a una pequeña nave espacial aterrizada en un bosque húmedo durante la noche.
-
-Lienzo: Tablero de producción horizontal ancho en formato 16:9 sobre papel color crema cálido, líneas de cuadrícula negras finas, pequeños acentos técnicos en naranja y azul, arte conceptual monocromático a lápiz y tinta con un brillo blanco intenso del sable. Utilice un diseño de previsualización profesional y denso, similar a una hoja de presentación de película o un tablero de tiempos de animación.
-
-Encabezado: En la parte superior izquierda, incluya pequeñas marcas de registro naranjas apiladas, luego la etiqueta “TITLE:” seguida del título grande en negrita. Debajo, cree una fila de metadatos delgada con estas etiquetas y valores: “META LINE: nocturno / performance de flow-art de ciencia ficción / edición densa de ráfagas de 15 segundos”, “PRIORITY: coreografía de sable individual, ráfagas de micro-cortes reales, recompensa de energía de lago legible”, “MICRO BRIEF: C convierte un sable de energía solitario en una performance de luz estilo fire-poi, comprimiendo una danza ritual completa en una secuencia rápida de 15 segundos en el bosque”. En la parte superior derecha, incluya “SEQUENCE ID: {argument name="sequence id" default="FOREST-SABER-POI-RITUAL-20P"}”.
-
-Diseño principal: Utilice exactamente 20 paneles de guion gráfico organizados en una cuadrícula de 5 columnas por 4 filas. Cada panel tiene una franja de subtítulos estrecha a lo largo de su borde superior con un número de panel naranja del P01 al P20, nota de lente/cámara y título de la acción. Los paneles deben verse dibujados a mano, con gran detalle, cinematográficos y con un diseño de personaje y continuidad ambiental consistentes.
-
-Detalles del sujeto: La artista es {argument name="character description" default="una joven guerrera similar a una Jedi con cabello claro en capas, una capa blanca corta, túnica ajustada, pantalones oscuros, botas, vendas en las muñecas, cinturón de herramientas y un solo sable de energía blanco brillante"}. Realiza arcos, bucles, giros y golpes controlados de saber-poi. El entorno es {argument name="environment" default="un claro de bosque húmedo iluminado por la luna con agua reflectante poco profunda, helechos, troncos de árboles altos, niebla, objetos rituales dispersos y una nave espacial redondeada y compacta aterrizada al fondo"}.
-
-Paneles del guion gráfico, exactamente 20:
-1. P01 / 24mm ancho / Maestra del ritual: plano general de cuerpo completo, guerrera de pie en agua poco profunda, punta del sable tocando el suelo, nave espacial visible detrás de ella.
-2. P02 / 50mm perfil / Ignición del sable: perfil lateral mientras enciende el sable horizontalmente, capa arrastrándose.
-3. P03 / 35mm bajo / Primer tejido: postura amplia, primer rastro de luz en forma de ocho sobre y detrás de ella.
-4. P04 / macro inserto / Chasquido de muñeca: primer plano de manos vendadas agarrando la empuñadura del sable, estelas de movimiento cruzando el encuadre.
-5. P05 / 24mm bajo / Deslizamiento de bota: primer plano de botas deslizándose por barro y agua estancada.
-6. P06 / 35mm impacto / Paso de hoja: haz de sable en primer plano extremo cortando el encuadre, rostro y bosque detrás.
-7. P07 / 85mm cerrado / Destello ocular: primer plano de un ojo intenso parcialmente oculto por el cabello, reflejo del sable cruzando el rostro.
-8. P08 / 35mm látigo / Látigo de capa: cuerpo girando, capa y rastro de sable creando un arco circular horizontal.
-9. P09 / 24mm ancho / Resolución de ráfaga: pose de cuerpo completo centrada con múltiples anillos luminosos a su alrededor, nave espacial a la derecha.
-10. P10 / 24mm cenital / Giro mariposa: vista desde arriba de bucles de luz de mariposa en forma de ocho a su alrededor.
-11. P11 / 35mm lateral / Órbita detrás de la espalda: toma lateral, sable orbitando detrás de su espalda en un rastro de halo brillante.
-12. P12 / macro inserto / Aislamiento de empuñadura: primer plano de la empuñadura del sable y la mano, hoja disparándose fuera del encuadre.
-13. P13 / 50mm reflejo / Rastro en el agua: superficie del lago reflectante con rastro de sable brillante serpenteante ondulando a través del agua.
-14. P14 / 24mm órbita / Halo envolvente: postura frontal de cuerpo completo con un anillo circular brillante envolviendo la cintura.
-15. P15 / 85mm retrato / Retención de aliento: retrato emocional, cabello flotando, bosque detrás, un parche gris rectangular censurado/en blanco sobre parte del área del torso.
-16. P16 / 35mm ráfaga / Paso facial: primer plano dinámico del rostro y cabello mientras el haz del sable se desplaza diagonalmente por el primer plano.
-17. P17 / 35mm látigo / Salto al lago: salto en el aire sobre agua poco profunda con el sable extendido, nave y bosque detrás.
-18. P18 / 24mm bajo / Descenso aéreo: ataque descendente en ángulo bajo, capa volando, sable apuntando hacia abajo.
-19. P19 / 24mm bajo / Estocada a la orilla: aterrizaje agachado con estocada en suelo húmedo, onda de luz circular alrededor de la hoja.
-20. P20 / grúa ancho / Corriente del lago: toma final amplia, artista pequeña en el centro, enormes ondas concéntricas luminosas extendiéndose sobre el lago, nave espacial al fondo.
-
-Tabla de tiempos inferior: Debajo de los paneles, cree una tabla de línea de tiempo detallada que abarque los 20 tiempos. Incluya etiquetas de fila en el lado izquierdo: “BEAT LINE”, “CAMERA PATH”, “ACTION PATH”, “RHYTHM TRACK”, “ESCALATION MAP”, “STATE TRACK” y “STYLE TRACK”. En la parte superior de la tabla, numere los tiempos del 01 al 20 y añada los nombres de acción correspondientes: Establecer, Ignición, Primer Tejido, Chasquido de Muñeca, Ajuste de Suelo, Paso de Hoja, Destello Ocular, Látigo de Capa, Resolución de Ráfaga, Mariposa, Órbita, Aislamiento de Empuñadura, Rastro en Agua, Halo Corporal, Retención de Aliento, Paso Facial, Salto al Lago, Descenso Aéreo, Estocada a la Orilla, Corriente del Lago. Llene las filas con pequeñas flechas, diagramas de bucle, barras de ritmo azules y una franja de escalada naranja que sube hacia los tiempos finales. Mantenga todo el texto de la tabla inferior muy pequeño pero limpio y técnico.
-
-Estilo visual: guion gráfico de producción en escala de grises de alta gama, sombreado cruzado denso, aguada de tinta, arte conceptual de manga cinematográfico, diseño de vestuario de ciencia ficción realista, estelas de sable blanco brillante, tono de papel sepia sutil, composición de cuadrícula precisa, etiquetas técnicas finas, números de panel naranjas, marcas de interfaz azul grisáceo.
-
-Restricciones: No añada paneles adicionales; la hoja debe contener exactamente 20 paneles de guion gráfico y una tabla de tiempos inferior. Mantenga el texto de la imagen mayormente legible, evite el neón colorido excepto por el brillo blanco del sable y los acentos restringidos de la tabla en naranja/azul, sin marcas de agua, sin logotipos modernos de la Tierra.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650759421_23t5pf_HJ-JniBX0AAudRd.jpg" width="600" alt="Cómic / Guion gráfico - Hoja de guion gráfico para el ritual del sable en el bosque - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Kōda](https://x.com/aimikoda)
-- **Fuente:** [Twitter Post](https://x.com/aimikoda/status/2062518534475845848#reversed-2)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24215)**
-
----
-
-### No. 74: Cómic / Guion gráfico - Aterrizaje de nave espacial en bosque nocturno
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una escena de arte conceptual de ciencia ficción cinematográfica de una pequeña y desgastada nave espacial utilitaria aterrizada en un claro de un bosque oscuro.
-
-#### 📝 Prompt
-
-```
-Crea una escena de arte conceptual de entorno de ciencia ficción cinematográfica en formato panorámico 16:9 de una {argument name="spaceship type" default="pequeña nave espacial utilitaria blanca"} aterrizada en un antiguo bosque oscuro durante la noche. La nave está estacionada de lado en un pequeño claro junto a un estanque poco profundo y reflectante en primer plano, rodeada de imponentes troncos de árboles similares a secuoyas, sombras profundas de color negro, helechos, plantas de hoja ancha, musgo, rocas, cajas dispersas, mangueras y pequeño equipo de tierra. La nave tiene un diseño retrofuturista robusto, similar a un híbrido de transbordador compacto y helicóptero: fuselaje rectangular redondeado, pintura blanca desgastada, juntas de paneles, rejillas de ventilación, vetas de suciedad, patas de aterrizaje, una rampa trasera o escaleras abiertas a la derecha, una ventana de cabina de cristal oscuro en la parte frontal derecha, una cápsula de motor lateral a la izquierda con una entrada de aire de color naranja cálido brillante, un pequeño conjunto de rotor superior con 4 palas largas y oscuras, y una antena parabólica ovalada elevada en el lado superior izquierdo. Incluye exactamente 5 marcas prominentes en la nave: un número rojo grande "379" en el costado, una etiqueta de bloque negro "E10" cerca de la cabina, un emblema angular rojo en la antena parabólica blanca, una calcomanía de advertencia triangular naranja y una pequeña marca X negra. Un pequeño piloto o mecánico sentado es apenas visible en el área de la puerta de la cabina. La iluminación debe ser dramática y pictórica: bosque nocturno sin luna con fuertes focos cálidos que inciden sobre la nave y los troncos de los árboles, sombras profundas de color verde negruzco, reflejos sutiles en el agua, alto contraste, composición cinematográfica, detallado pero no fotorrealista, inspirado en el arte conceptual de ciencia ficción animado de alta gama. Usa {argument name="main ship marking" default="379"} como el número lateral más grande, {argument name="secondary ship marking" default="E10"} como la etiqueta negra del costado de la cabina, {argument name="environment" default="bosque oscuro de secuoyas por la noche"} y {argument name="mood" default="lugar de aterrizaje tranquilo y misterioso"}. Evita texto legible adicional, evita coches o edificios modernos, evita un cielo diurno brillante y mantén la nave en tierra e integrada parcialmente en el claro del bosque.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650758991_3893m1_HJ-JlOdWIAAkk8Z.jpg" width="600" alt="Cómic / Guion gráfico - Aterrizaje de nave espacial en bosque nocturno - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Kōda](https://x.com/aimikoda)
-- **Fuente:** [Twitter Post](https://x.com/aimikoda/status/2062518534475845848#reversed-1)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24214)**
-
----
-
-### No. 75: Cómic / Guion gráfico - Retrato surrealista con estética de película vintage Fujifilm
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Crea un retrato nostálgico inspirado en la película Fujifilm a partir de una foto de referencia, con grano de película marcado, estelas de movimiento y un entorno floral de ensueño.
-
-#### 📝 Prompt
-
-```
-Utilizando a la persona de la foto subida como sujeto de referencia. Estilo de fotografía de película vintage con grano marcado, iluminación y sombras auténticas, gradación de color nostálgica y una estética Fujifilm. La escena se desarrolla junto a un antiguo quiosco de periódicos, con madera flotante desgastada apilada cerca y exuberantes racimos de {argument name="flower type" default="flores de color naranja rosado en flor"}. Las texturas ricas de grano de película se entrelazan por toda la imagen, mientras que un fondo desenfocado con estelas de movimiento y efectos de fantasma crea una atmósfera intensamente surrealista. Una joven encantadora y cautivadora aparece de perfil, sosteniendo flores con delicadeza. Su piel, de un tono porcelana frío, se ve delicada y translúcida, mientras que sus rasgos faciales refinados están suavizados por un sutil desenfoque de movimiento. La silueta del sujeto oscila ligeramente con el movimiento de barrido de la cámara, realzando el aire onírico. La gradación de color de tonos cálidos y baja saturación complementa su cabello largo y suavemente brillante, que resplandece con la luz de fondo. Mechones sueltos y despeinados por el viento cruzan su mandíbula, transmitiendo tanto atractivo como peligro. Su pose juguetona aporta energía y encanto a la composición, equilibrando la dulzura con una belleza embriagadora y misteriosa. El desenfoque de movimiento se mezcla a la perfección con el grano de la película, creando una imagen cinematográfica que se siente a la vez moderna y nostálgica, con un fuerte atractivo visual al estilo influencer y una rica atmósfera narrativa. El rostro debe ajustarse de forma natural para armonizar con la imagen general, preservando el realismo y la coherencia.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650702801_1fkwjx_HJ-I1BpbcAAh9xQ.jpg" width="600" alt="Cómic / Guion gráfico - Retrato surrealista con estética de película vintage Fujifilm - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650702840_m3dffq_HJ-I1BwbsAAhRjv.jpg" width="600" alt="Cómic / Guion gráfico - Retrato surrealista con estética de película vintage Fujifilm - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Ciri](https://x.com/Ciri_ai)
-- **Fuente:** [Twitter Post](https://x.com/Ciri_ai/status/2062517745045102799)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24107)**
-
----
-
-### No. 76: Cómic / Guion gráfico - Chica de academia de anime con paleta
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una imagen clave de anime cinematográfico de una elegante chica de academia de fantasía comiendo una paleta junto a una arquitectura escolar gótica.
-
-#### 📝 Prompt
-
-```
-Crea una ilustración al estilo anime cinematográfico en un formato panorámico de 16:9. En el primer plano izquierdo, muestra a {argument name="character name" default="una glamurosa chica de academia"} apoyada en la sombra de una gran arcada de piedra, vista desde un ángulo de cámara ligeramente bajo y diagonal. Tiene el {argument name="hair color" default="cabello largo y desordenado de color rubio con un mechón frontal rosa intenso"}, piel bronceada, ojos de color marrón dorado, labios brillantes y una sonrisa pícara y segura mientras sostiene una paleta azul claro cerca de su boca. Su cabello está alborotado por el viento y es altamente detallado, con rizos sueltos, decorado con cuentas tipo perla, pequeñas flores y adornos metálicos. Viste un uniforme escolar de fantasía ornamentado: un cárdigan rosa polvoriento de gran tamaño con botones dorados, pines de estrellas y un parche con un escudo oscuro, una blusa blanca de cuello abierto, un lazo morado oscuro con motivos de brújula dorados, una falda de cintura alta azul marino o un corsé con botones dorados y una pequeña cadena, además de joyas delicadas que incluyen pendientes de aro, collares superpuestos, anillos, pulseras y una gargantilla negra. El entorno es un elegante patio de academia de fantasía con altos edificios góticos tipo catedral, agujas, columnas de piedra, pasillos arqueados y estandartes azules colgantes decorados con emblemas de brújula dorados; incluye exactamente 2 estandartes colgantes prominentes en el lateral del edificio. En el fondo derecho, incluye pequeños estudiantes distantes caminando por el patio iluminado por el sol, reducidos a siluetas simples y formas uniformes. La iluminación debe contrastar la sombra fría y profunda sobre la chica y la arcada con la brillante luz del sol del mediodía en el patio, un cielo azul saturado, nubes blancas dispersas y fuertes líneas de perspectiva que conducen hacia la academia tipo castillo. Utiliza un estilo de imagen clave de anime japonés pulido con líneas precisas pero reducidas, detalles de fondo ricos y pictóricos, composición dramática, reflejos cálidos, sombras frías, una sutil profundidad cinemática tipo lente, sin texto y sin marcas de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650744917_b6dd9b_HJ9qNyAbYAANUXF.jpg" width="600" alt="Cómic / Guion gráfico - Chica de academia de anime con paleta - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650745230_pwaphc_HJ9qRAHbcAAfr53.jpg" width="600" alt="Cómic / Guion gráfico - Chica de academia de anime con paleta - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735250393_fft9ty_HKFDXgdaQAAWlXE.jpg" width="600" alt="Cómic / Guion gráfico - Póster de guerrero anime con espíritu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650744948_afejj3_HJ9qSs6acAEW7mw.jpg" width="600" alt="Cómic / Guion gráfico - Chica de academia de anime con paleta - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ないステ](https://x.com/nAI_station)
-- **Fuente:** [Twitter Post](https://x.com/nAI_station/status/2062489475603968289#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24181)**
-
----
-
-### No. 77: Cómic / Guion gráfico - Retrato de fantasía oriental en 3D CG
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Un exquisito prompt de 3D CG para un personaje de fantasía oriental de alto detalle con una corona ornamentada y un vestido iridiscente.
-
-#### 📝 Prompt
-
-```
-Orientación vertical 9:16, retrato de personaje femenino de fantasía oriental en 3D CG de alta precisión, arte de personaje 3D CG estilo anime, renderizado de personaje 3D semirrealista, encuadre de cámara desde los muslos hacia arriba, la protagonista es una joven adulta oriental, edad visual aprox. 20-26 años, temperamento general etéreo, exquisito, suave, tranquilo y magnífico, con el encanto misterioso de una belleza de fantasía de ópera oriental. No es una ilustración 2D, sino un renderizado de personaje 3D CG de alta calidad con modelado exquisito, texturas realistas, iluminación cinematográfica suave y una sensación de retrato de personaje de alta gama. El personaje tiene un rostro pequeño y delicado de belleza oriental, líneas faciales suaves y tersas, rostro ovalado ligeramente pequeño, estructura ósea elegante, piel clara y delicada con transparencia suave y una ligera textura nacarada. Rasgos exquisitos y encantadores, ojos grandes y suaves, color de iris en tonos gris-púrpura-marrón claro, mirada tranquila, fría, ligeramente pensativa y frágil, pestañas largas y definidas. Maquillaje de ojos en tonos rosa y rosa viejo con un difuminado suave tipo niebla para realzar la sensación onírica. Puente nasal elegante y natural, punta de nariz pequeña, labios en rosa empolvado suave, forma de labios exquisita, labios ligeramente entreabiertos, expresión contenida, suave y tranquila, sin sonrisa exagerada. El peinado es de cabello largo castaño oscuro-negro, mechones suaves y ligeros con una pequeña cantidad de cabellos sueltos y una ligera sensación de aire, combinado con moños y rizos en la frente, el peinado general tiene el temperamento de una dama oriental clásica. Lleva una corona de fantasía de ópera oriental extremadamente magnífica, estructura principal en verde azulado, azul pavo real y oro dorado, incrustada con muchas perlas, joyas, cristales, filigrana de metal y decoraciones brillantes. La parte superior de la corona tiene una estructura principal radial similar a una flor, el centro está engastado con una piedra preciosa roja, rodeada de horquillas de perlas blancas, decoraciones tipo plumas de fénix azul, cristales brillantes y flores rosas. Borlas de joyería exquisitas y adornos en la frente cuelgan al frente, y accesorios redondos para el cabello adornan los moños a ambos lados. El tocado general es ornamentado, noble, rico en detalles y bien estratificado. Los pendientes son largos, de piedras preciosas verde azulado y borlas de perlas, exagerados y magníficos en volumen, con transparencia y reflejos nacarados. El atuendo es un vestido magnífico de estilo fantasía oriental, las áreas de los hombros, el cuello y el pecho están compuestas de gasa translúcida fina, lentejuelas y materiales tipo película iridiscente con reflejos iridiscentes evidentes. Decorado con muchas flores rosas en 3D, perlas, cristales, pliegues de tul y detalles de joyería de ensueño, colores principalmente blanco perla, rosa, verde azulado claro y oro iridiscente. Las áreas de los hombros y el pecho son magníficas pero contenidas, enfatizando la delicadeza y la inmortalidad, sin ser vulgares. La pose es de pie de forma natural o ligeramente girada, cuerpo ligeramente rotado hacia la cámara, tomado desde los muslos hacia arriba, la parte superior del cuerpo es el núcleo visual. Líneas suaves de hombros y cuello, postura de brazo natural y relajada, una mano puede estar ligeramente colgando o tocando la falda/decoraciones florales, el movimiento general es contenido, estable y elegante, resaltando el temperamento de una belleza oriental clásica. El enfoque está en el rostro, la corona, los pendientes, el cuello y los detalles del vestido de la parte superior del cuerpo, manteniendo la relación de composición completa desde los muslos hacia arriba, haciendo que parezca una foto de retrato 3D CG de alta gama. La escena es un fondo interior con poca luz, cálido y misterioso, fondo oscuro desenfocado con una ligera luz ambiental marrón dorada y algunos puntos de bokeh de colores, creando una atmósfera de ensueño de backstage o teatro de ópera clásico. El fondo no debe distraer, sirviendo para resaltar al personaje. Pequeñas motas de luz flotantes y reflejos nacarados en el aire para realzar la atmósfera brumosa, etérea y premium. La iluminación utiliza iluminación cinematográfica suave, luz principal suave en el rostro, complementada con una ligera iluminación de borde para delinear el cabello, la corona, los pendientes y los contornos de los hombros. Iluminación general suave y brumosa, de ensueño con una pequeña cantidad de efecto bloom. La piel, las joyas, las perlas, el metal, la gasa y las telas iridiscentes deben tener una expresión de material clara y realista. La paleta de colores general es verde azulado, rosa, blanco perla y oro, de ensueño, transparente, exquisita y magnífica. renderizado 3D CG de alto detalle, iluminación cinematográfica, calidad Unreal Engine, aspecto de renderizado Octane, materiales PBR, piel con dispersión subsuperficial, mechones de cabello realistas, detalles de piedras preciosas, reflejos de perlas, tela translúcida iridiscente, estilo inspirado en la ópera china de fantasía, elegante belleza de fantasía oriental, luz volumétrica, profundidad de campo cinematográfica, bloom de ensueño, ultra detallado, realismo de anime pulido, retrato de personaje premium, enfoque suave y de ensueño, brillo delicado, neblina etérea, belleza luminosa, reflejos de bloom suaves, brillo atmosférico suave
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650706432_i3o254_HJ9I9M2bYAA7fkv.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de fantasía oriental en 3D CG - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [李岳](https://x.com/liyue_ai)
-- **Fuente:** [Twitter Post](https://x.com/liyue_ai/status/2062447548577784083)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23949)**
-
----
-
-### No. 78: Cómic / Guion gráfico - Reconstrucción de escenas de anime
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt detallado para reconstruir o redibujar escenas de anime clásico, eliminando texto y ampliando fondos a un formato cinematográfico de 16:9 mientras se mantiene la integridad de los personajes.
-
-#### 📝 Prompt
-
-```
-Elimina logotipos y texto de la imagen, cambia el fondo a {argument name="background" default="un mar agitado y un cielo nublado"}, mantén la representación de {argument name="characters" default="personajes de ratón en una balsa"} mirando a la cámara, utiliza un {argument name="angle" default="ángulo de vista de pájaro desde una diagonal superior"}, crea con una relación de aspecto de 16:9 y extiende el fondo para completar los lados izquierdo y derecho.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650713813_cw9hbj_HJ8wl4fakAAcxwJ.jpg" width="600" alt="Cómic / Guion gráfico - Reconstrucción de escenas de anime - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650713745_h1l8wk_HJ8wolSagAAMOOa.jpg" width="600" alt="Cómic / Guion gráfico - Reconstrucción de escenas de anime - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [真坂参志郎](https://x.com/SanShiroH_X)
-- **Fuente:** [Twitter Post](https://x.com/SanShiroH_X/status/2062423928987922460)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24101)**
-
----
-
-### No. 79: Cómic / Guion gráfico - Manga de cuatro paneles de un T-Rex con smartphone
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt estructurado para generar una página de manga japonés humorística de cuatro paneles sobre un trabajador de cafetería que encuentra su teléfono sonando dentro de la boca de un dinosaurio mecánico.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una página de manga/cómic vertical de cuatro paneles con un estilo urbano steampunk pintado a mano. La historia trata sobre un joven y frenético trabajador de un puesto de café que monta un tiranosaurio mecánico verde mientras busca su smartphone, para luego descubrir que está sonando dentro de la boca del dinosaurio.
-
-Lienzo: Página de cómic vertical alta, con una relación de aspecto de aproximadamente 9:16, con un borde exterior negro fino y canales horizontales negros gruesos que dividen exactamente 4 paneles apilados. Utiliza tinta texturizada, sombreado con gouache de acuarela, tonos sepia urbanos apagados y líneas de velocidad dinámicas de manga en el panel final.
-
-Personajes principales: Un hombre joven adulto con cabello {argument name="hair color" default="negro"} rizado y desordenado, con el rostro intencionalmente borroso/oculto, vistiendo una camisa de trabajo oscura, pantalones negros, botas, tirantes de cuero y un delantal manchado con un pequeño parche que dice “COFFEE STAND”. Sostiene una cafetera de cuello de cisne de metal en su mano izquierda en todo momento. A su lado/debajo hay un gran y robusto T-rex mecánico con placas de armadura remachadas de color verde oliva, silla y correas de cuero, costuras visibles, dientes blancos afilados, un ojo cibernético naranja brillante y un lenguaje corporal expresivo de dibujos animados.
-
-Entorno: Una calle estrecha de una ciudad antigua bordeada por edificios de ladrillo, letreros de tiendas, lámparas colgantes y carteles de puestos de café. El polvo, los escombros, los rasguños y las motas de papel añaden movimiento y caos. La atmósfera es cinematográfica, vintage y ligeramente absurda.
-
-Diseño y número de paneles: Utiliza exactamente 4 paneles.
-1. Panel superior: Plano de acción amplio. El trabajador de café monta el dinosaurio blindado por la calle, luciendo confundido y buscándose a sí mismo mientras sostiene la cafetera. El dinosaurio ruge con la boca abierta. Añade un pequeño hongo rojo y blanco flotando sobre ellos como un detalle caprichoso. Incluye un gran globo de diálogo blanco a la izquierda con texto en japonés: 「あれ？スマホどこだ？」
-2. Segundo panel: El hombre se inclina hacia adelante y revisa las alforjas/bolsillos mientras sigue sosteniendo la cafetera. El dinosaurio mira hacia un lado con una expresión de confusión y un pequeño signo de interrogación cerca de su cabeza. Incluye un globo de diálogo blanco a la izquierda con texto en japonés: 「ポケット？サドル？」
-3. Tercer panel: El hombre levanta un dedo como si se diera cuenta de algo, todavía sosteniendo la cafetera. El dinosaurio mira hacia la derecha con la boca cerrada, el ojo naranja brillando, haciendo un movimiento de vibración/sonido. Añade texto de efecto de sonido japonés cerca del dinosaurio: 「ブルル..」 Incluye un globo de diálogo blanco a la izquierda con texto en japonés: 「鳴っておる…？」
-4. Panel inferior: Revelación dramática con líneas de velocidad radiales y energía naranja más cálida. El hombre señala hacia la boca abierta del dinosaurio con sorpresa mientras sostiene la cafetera. Dentro de la boca del dinosaurio, muestra claramente un smartphone de pie entre los dientes, con la pantalla iluminada con una interfaz de llamada entrante y texto en japonés {argument name="phone screen text" default="着信中"}. Incluye un gran globo de diálogo irregular a la izquierda con texto en japonés en negrita: 「これじゃ!!」 Añade un pequeño destello cerca de la cabeza del dinosaurio.
-
-Texto y rotulación: Conserva el diálogo en japonés exactamente como se especifica, en estilo de manga escrito a mano en negro y negrita dentro de globos de diálogo blancos. Mantén todo el texto legible. No añadidas diálogos adicionales más allá de los globos y efectos de sonido enumerados.
-
-Restricciones de estilo: Ilustración de cómic altamente detallada, poses expresivas, textura de pincel visible, contornos de tinta negra, grano de papel rugoso, iluminación cinematográfica, sin fotorrealismo, sin marcas de agua, sin pies de foto fuera de los paneles del cómic.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650750315_72psjy_HJ8T9VebEAAag2a.jpg" width="600" alt="Cómic / Guion gráfico - Manga de cuatro paneles de un T-Rex con smartphone - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Roy](https://x.com/Tgahtqz)
-- **Fuente:** [Twitter Post](https://x.com/Tgahtqz/status/2062389104399335830#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24194)**
-
----
-
-### No. 80: Cómic / Guion gráfico - Protagonista de anime en un campo de flores silvestres
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt para una ilustración de anime de ensueño y alta calidad que representa a un personaje en un paisaje exuberante con luz solar volumétrica y una atmósfera narrativa emotiva.
-
-#### 📝 Prompt
-
-```
-{argument name="character" default="Un protagonista de anime"} de pie tranquilamente en un impresionante {argument name="landscape" default="paisaje natural"}, rodeado de flores silvestres, pétalos flotantes y luz solar dorada. Perspectiva cinematográfica de ángulo bajo, cielo azul vibrante lleno de nubes suaves, viento suave fluyendo a través de la ropa y el cabello. Obra de arte de anime ultra detallada inspirada en {argument name="art style" default="películas de animación japonesa premium"}, atmósfera de ensueño, colores vivos, iluminación suave con efecto bloom, profundidad de campo, narrativa emotiva, hermoso diseño de personaje, ojos altamente detallados, reflejos brillantes, luz solar volumétrica, estética de fantasía natural, ilustración maestra, enfoque ultra nítido, calidad de fondo de pantalla 8K.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650707781_w138dt_HJ8MG14bYAAP7G_.jpg" width="600" alt="Cómic / Guion gráfico - Protagonista de anime en un campo de flores silvestres - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650707826_bdcp5t_HJ8MG6CaoAA23BP.jpg" width="600" alt="Cómic / Guion gráfico - Protagonista de anime en un campo de flores silvestres - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650707922_li8v2z_HJ8MHBGbwAA0-up.jpg" width="600" alt="Cómic / Guion gráfico - Protagonista de anime en un campo de flores silvestres - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Taaruk](https://x.com/Taaruk_)
-- **Fuente:** [Twitter Post](https://x.com/Taaruk_/status/2062380486014681329)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23921)**
-
----
-
-### No. 81: Cómic / Guion gráfico - Cuadrícula de póster cinematográfico de Breaking Bad
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de diseño gráfico para un póster cinematográfico de alto contraste que presenta una cuadrícula de 2x6 con personajes de Breaking Bad y efectos de máscara de estarcido.
-
-#### 📝 Prompt
-
-```
-Crea un póster de diseño gráfico cinematográfico de alto contraste inspirado en la serie de televisión 'Breaking Bad'. Utiliza una cuadrícula vertical de 2x6 para mostrar 12 tarjetas de personajes icónicos. Combina el grafiti urbano con la estética de suspenso criminal, usando texturas desgastadas, grano de película y efectos de máscara con fuentes sans-serif llamativas. Cada tarjeta presenta texto grande que resalta los nombres de los personajes como '{argument name="character names" default="Walter, Jesse, Saul"}', con retratos visibles solo dentro del relleno de la fuente (efecto de máscara de recorte). Debajo de los nombres, coloca subtítulos concisos como '{argument name="role description" default="Jefe de la mafia, Abogado, Pistolero"}'. Superpone salpicaduras de tinta intensa, goteos de pintura, pinceladas, rasguños, líneas de escaneo, polvo y quemaduras de película para lograr una sensación cinematográfica distorsionada. La paleta utiliza {argument name="color palette" default="verde oscuro, verde neón tóxico, escala de grises, carbón profundo, amarillo sucio y blanco roto"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650705654_05t6zz_HJ7s2M1bMAAMWP0.jpg" width="600" alt="Cómic / Guion gráfico - Cuadrícula de póster cinematográfico de Breaking Bad - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [小樱💞｜实用工具分享](https://x.com/xiaoying_eth)
-- **Fuente:** [Twitter Post](https://x.com/xiaoying_eth/status/2062346104172404812)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23948)**
-
----
-
-### No. 82: Cómic / Guion gráfico - Escena de capitán en puerto de fantasía
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una ilustración vertical de aventura fantástica que muestra a tres aventureros navales caminando por una bulliciosa ciudad portuaria iluminada por el sol, con un gran barco de vela al fondo.
-
-#### 📝 Prompt
-
-```
-Crea una ilustración vertical de un puerto de fantasía, rica en detalles y con un estilo de arte conceptual de anime pictórico, ambientada en una ciudad portuaria bañada por el sol e inspirada en el Mediterráneo. La escena muestra exactamente a tres aventureros destacados en primer plano caminando hacia el espectador sobre un muelle de piedra: en el centro, {argument name="main character" default="una imponente capitana naval"} con un abrigo militar largo azul marino con adornos dorados, pantalones blancos, botas altas negras, charreteras ornamentadas, un sombrero de tres picos, un estoque al costado y cabello oscuro largo ondeando dramáticamente con la brisa marina; a la izquierda, un joven navegante con chaleco beige y botas, sosteniendo un mapa de pergamino desplegado; a la derecha, un aventurero marinero de aspecto rudo con camisa holgada, chaleco, cinturones, guantes, botas altas y una espada envainada. Mantén sus rostros suavemente difusos y pictóricos en lugar de definidos con nitidez. Detrás de ellos, coloca un enorme y ornamentado barco de vela amarrado al muelle, con decoraciones de popa talladas en azul y oro, mástiles altos, aparejos, múltiples velas de color crema, patrones heráldicos azules decorativos en las velas y cuerdas de banderines coloridos. El fondo es una ciudad costera blanca y empinada que sube por una colina, repleta de pequeñas casas de piedra blanca con techos rojos, coronada por exactamente dos torres altas similares a faros. Añade una atmósfera de muelle concurrido con cuerdas, cajas, barriles, bolardos, toldos de lona y pequeños marineros y habitantes de la ciudad a lo lejos, pero mantén a los tres aventureros como protagonistas. El cielo es azul brillante con nubes blancas extendidas y exactamente tres gaviotas claramente visibles en vuelo. Usa {argument name="art style" default="ilustración de fantasía japonesa altamente detallada con textura de acuarela y gouache, líneas nítidas, composición cinematográfica y un ambiente de aventura romántica"}. La iluminación debe ser la de un sol claro de mediodía con agua azul brillante, reflejos intensos, sombras suaves y una sensación de brisa oceánica. Composición: encuadre vertical de póster 2:3, perspectiva a la altura de los ojos, la capitana centrada y de cuerpo completo, el gran barco ocupando la mitad izquierda, toldos de mercado a la derecha y la ciudad en la colina elevándose en la distancia. Añade una pequeña firma del artista escrita a mano y la fecha en la esquina inferior derecha que diga {argument name="signature text" default="4 de junio de 2026 Oyazi"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650757993_85q4re_HJ7isqqa8AAFHE1.jpg" width="600" alt="Cómic / Guion gráfico - Escena de capitán en puerto de fantasía - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [おやぎ](https://x.com/bikurin59)
-- **Fuente:** [Twitter Post](https://x.com/bikurin59/status/2062334944110854360#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24211)**
-
----
-
-### No. 83: Cómic / Guion gráfico - Retrato noir de tinta oscura
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Este prompt genera un retrato de estilo noir, melancólico y de alto contraste, que imita la apariencia de una viñeta de novela gráfica con trazos de tinta audaces y efectos de salpicaduras.
-
-#### 📝 Prompt
-
-```
-Retrato de estilo noir, oscuro y de alto contraste de {argument name="subject" default="una persona"}, dibujado completamente con trazos de tinta negra audaces y salpicaduras deliberadas. Sombras profundas dominan el encuadre, con luces brillantes esculpidas a través de espacios en blanco. Se aprecia una sutil textura de papel. El ambiente es melancólico, cinematográfico e intenso, como la viñeta más cautivadora de una novela gráfica.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650708825_9ga8ur_HJ7ZjVxaAAAPKRj.jpg" width="600" alt="Cómic / Guion gráfico - Retrato noir de tinta oscura - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650708845_g2umuu_HJ7ZjVzaEAAAYl0.jpg" width="600" alt="Cómic / Guion gráfico - Retrato noir de tinta oscura - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650708847_eq7kex_HJ7ZjV1aEAAOkcA.jpg" width="600" alt="Cómic / Guion gráfico - Retrato noir de tinta oscura - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780735250286_0yiqbk_HKFDXgebIAAXXfR.jpg" width="600" alt="Cómic / Guion gráfico - Póster de guerrero anime con espíritu - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650709464_gs5e8k_HJ7ZjV1bcAAQPi1.jpg" width="600" alt="Cómic / Guion gráfico - Retrato noir de tinta oscura - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780735251130_k74241_HKFDXgcbQAARK3j.jpg" width="600" alt="Cómic / Guion gráfico - Póster de guerrero anime con espíritu - Image 4">
 </div>
 
 #### 📌 Detalles
 
 - **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062325077912519045)
-- **Publicado:** 4 de junio de 2026
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2063004307608543362)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23980)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24244)**
 
 ---
 
-### No. 84: Cómic / Guion gráfico - Boceto cinematográfico de una escena de mercado bullicioso
+### No. 75: Cómic / Guion gráfico - Persecución policial cyberpunk ruidosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para generar un boceto rápido de un entorno de mercado cinematográfico que presenta a un personaje focal específico en medio de una multitud bulliciosa.
+Un prompt cinematográfico cuadrado para generar una persecución policial cyberpunk extremadamente ruidosa y lluviosa a través de una megaciudad de neón.
 
 #### 📝 Prompt
 
 ```
-Crea un entorno cinematográfico en formato 16:9 y una escena de multitud con {argument name="character name" default="Jiel"}, un joven ladrón, como el personaje focal claro dentro de un mercado callejero denso y bullicioso.
-
-ESTILO: {argument name="style" default="Boceto rápido"}
+Crea una escena de persecución nocturna cyberpunk ultra densa y extremadamente ruidosa en una megaciudad vertical empapada por la lluvia, vista desde una perspectiva inclinada de ángulo alto mirando hacia abajo por una carretera elevada empinada y resbaladiza entre imponentes rascacielos. El sujeto principal es {argument name="main vehicle" default="una aeromoto policial futurista negra"} en el primer plano inferior izquierdo, conducida por {argument name="rider description" default="un oficial blindado con casco y traje de lluvia negro brillante con letras de policía japonesas amarillas"}, inclinado hacia adelante a gran velocidad con una luz trasera roja brillante y reflejos húmedos. Muestra exactamente 4 vehículos policiales prominentes: 1 aeromoto en primer plano, 1 gran nave policial flotante en la parte superior derecha con luces de emergencia rojas y azules y un haz de búsqueda blanco hacia abajo, y 2 naves policiales flotantes más pequeñas y distantes en el centro disparando focos blancos estrechos hacia la lluvia. La ciudad debe estar repleta de ventanas oscuras de gran altura, andamios, cables, puentes y vidrio reflectante, con fuertes rachas de lluvia, niebla, rocío, desenfoque de movimiento, destello de lente, aberración cromática, grano de película, ruido digital, artefactos de compresión y detalles caóticos por todas partes. Añade exactamente 4 letreros de neón legibles prominentes: un letrero japonés rosa alto a la izquierda que dice 「愛を込めて」 con 「ホテル」 debajo, un pequeño letrero morado cerca del centro superior izquierdo que dice 「空き家？」, un letrero rojo en la distancia media que dice 「ホテル」, y un letrero de farmacia rosa alto a la derecha que dice 「未来薬局」 con una cruz médica amarilla brillante. Usa una paleta de {argument name="color palette" default="magenta eléctrico, azul cian, violeta profundo, negro húmedo y reflejos rojo-azul policiales"}. Incluye un bloque de error digital rectangular obvio cerca del centro superior, coloreado de {argument name="glitch block color" default="azul brillante sólido con un degradado suave"}, que oscurezca parcialmente una valla publicitaria de neón. Haz que toda la imagen se sienta como el máximo ruido visual: hiperdetallada, abarrotada, reflectante, lluviosa, cinematográfica, distópica, claustrofóbica, inspirada en Blade Runner, alto contraste, composición cuadrada 1:1, sin áreas vacías limpias, sin marcas de agua.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4266,33 +3724,33 @@ ESTILO: {argument name="style" default="Boceto rápido"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564666559_6il7pc_HJ58CV2XoAAotq4.jpg" width="600" alt="Cómic / Guion gráfico - Boceto cinematográfico de una escena de mercado bullicioso - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735311710_8ah2bg_HKE6z6QWEAAqxyz.jpg" width="600" alt="Cómic / Guion gráfico - Persecución policial cyberpunk ruidosa - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Kōda](https://x.com/aimikoda)
-- **Fuente:** [Twitter Post](https://x.com/aimikoda/status/2062222149167763669)
-- **Publicado:** 3 de junio de 2026
+- **Autor:** [lost in latency](https://x.com/lostinlatencyX)
+- **Fuente:** [Twitter Post](https://x.com/lostinlatencyX/status/2062995092760084536#reversed-1)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23997)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24352)**
 
 ---
 
-### No. 85: Cómic / Guion gráfico - Retrato de moda coreana inspirado en el anime
+### No. 76: Cómic / Guion gráfico - Plataforma de tren lluviosa en un Shinjuku cyberpunk ruidoso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt detallado para un retrato semirrealista inspirado en el anime de una mujer sobre un fondo de collage creativo, perfecto para ilustraciones estilo revista.
+Un prompt cinematográfico denso para generar una escena de plataforma de tren lluviosa y cyberpunk ultra ruidosa, con señalización de tránsito de neón y paraguas abarrotados.
 
 #### 📝 Prompt
 
 ```
-Retrato semirrealista inspirado en el anime de una joven coreana con estilo, luciendo un {argument name="hairstyle" default="corte bob negro brillante corto metido detrás de una oreja"}, delicadas gafas de montura redonda y una expresión amable y segura. Viste un {argument name="outfit" default="blusa lila pastel de corte oversize con mangas remangadas combinada con una falda midi evasé de color marfil"}. Composición de cuerpo completo, de pie con una postura relajada. Detrás de ella hay un collage artístico de estudios de personajes monocromáticos dibujados a mano, bocetos a lápiz, paneles de manga, garabatos divertidos, estrellas, corazones, espirales y notas escritas a mano dispersas orgánicamente por el fondo. Ilustración de moda anime contemporánea con texturas mixtas de tinta y lápiz, líneas limpias, sombreado cel suave, fondo blanco brillante, estética de portada de revista, altamente detallado, ultra nítido, vibrante pero elegante, obra maestra en 8K.
+Crea una plataforma de tren nocturna, lluviosa y cyberpunk, extremadamente ruidosa y con hiperdetalles en {argument name="station name" default="Shinjuku"}, Tokio. La cámara se sitúa a la altura de la plataforma mirando diagonalmente hacia una plataforma abarrotada, hacia un elegante tren de cercanías de cristal negro que llega por la derecha, con su frente redondeado brillando con faros blancos, luz inferior azul, reflejos magenta, vapor o niebla cerca de los rieles y una pantalla de destino frontal que dice {argument name="station name" default="Shinjuku"} y {argument name="line number" default="03"}. La escena está repleta de viajeros con impermeables oscuros bajo exactamente 32 paraguas transparentes visibles, todos cubiertos de gotas de agua y reflejando luz de neón azul, cian, púrpura y rosa intenso. El pavimento de baldosas mojadas, las franjas táctiles amarillas de la plataforma, los charcos, las ranuras de los rieles, las vigas elevadas, los cables y la densa infraestructura urbana deben estar nítidamente texturizados y ser visualmente ruidosos, con rayas de lluvia por todas partes. Añade 6 elementos de información brillantes destacados: 1 enorme holograma de mapa de ruta translúcido en cian y magenta en la parte superior izquierda etiquetado como {argument name="map headline" default="Shinjuku"} con texto de estación en japonés y una línea de tránsito rosa; 1 señal de salida amarilla en el extremo izquierdo que dice {argument name="exit text" default="Exit S2 for Shinjuku Shibuya"}; 1 pequeña señal de dirección de plataforma amarilla cerca del centro; 1 señal de plataforma superior cian que dice 03; 1 señal de estación magenta brillante en el frente del tren; y 1 grupo de anuncios de neón verticales distantes en el fondo de la ciudad a la derecha. Utiliza una tipografía de tránsito densa en japonés e inglés, incluyendo 新宿 y Shinjuku donde sea apropiado, pero manteniéndolo creíble en lugar de perfectamente legible. Estilo: fotorrealismo cinematográfico mezclado con superposiciones de interfaz futurista, grano de ISO alto extremo, alto contraste, superficies reflectantes mojadas, atmósfera al estilo Blade Runner, ruido visual caótico, reflejos nítidos, lluvia volumétrica, sombras oscuras, paleta de cian y magenta eléctrico, composición cuadrada 1:1, sin áreas vacías limpias, sin marcas de agua.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4300,58 +3758,33 @@ Retrato semirrealista inspirado en el anime de una joven coreana con estilo, luc
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564660271_znx57v_HJ5sORzagAA_fOj.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de moda coreana inspirado en el anime - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564660235_1eiw5c_HJ5sOUga8AAKQlX.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de moda coreana inspirado en el anime - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735311071_hdc2ux_HKE62KpXgAA8fHa.jpg" width="600" alt="Cómic / Guion gráfico - Plataforma de tren lluviosa en un Shinjuku cyberpunk ruidoso - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Johnn](https://x.com/john_my07)
-- **Fuente:** [Twitter Post](https://x.com/john_my07/status/2062204692072198580)
-- **Publicado:** 3 de junio de 2026
+- **Autor:** [lost in latency](https://x.com/lostinlatencyX)
+- **Fuente:** [Twitter Post](https://x.com/lostinlatencyX/status/2062995092760084536#reversed-3)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23988)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24351)**
 
 ---
 
-### No. 86: Cómic / Guion gráfico - Paisaje épico de guerrero de fantasía
+### No. 77: Cómic / Guion gráfico - Mercado negro en un puerto cyberpunk bajo la lluvia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una ilustración digital cinematográfica de un guerrero en silueta con un farol, contemplando un castillo gótico y montañas neblinosas.
+Una densa escena de mercado cyberpunk con luces de neón junto al muelle para generar un entorno de megaciudad futurista, ruidoso y empapado por la lluvia.
 
 #### 📝 Prompt
 
 ```
-Una ilustración digital de un paisaje de fantasía épica que presenta a un {argument name="subject" default="guerrero solitario con capucha"} de pie sobre un afloramiento rocoso, contemplando un {argument name="landmark" default="castillo medieval distante"}. La figura se muestra en silueta, vistiendo una armadura de cuero oscuro y una capa con capucha. Empuña una espada larga en una mano y sostiene un farol brillante con una luz ámbar anaranjada cálida en la otra, creando un contraste impactante contra los tonos fríos del entorno.
-El paisaje está dominado por una impresionante vista montañosa con:
-Altos acantilados rocosos que se elevan dramáticamente a ambos lados, creando un anfiteatro natural
-Un gran castillo gótico posado majestuosamente sobre un acantilado distante, con múltiples agujas y torres recortadas contra el cielo
-Una cascada en cascada visible en el fondo neblinoso, añadiendo movimiento y grandeza a la escena
-Un denso bosque de coníferas disperso por el terreno montañoso a varias elevaciones
-Niebla espesa y atmosférica que se arremolina a través de los valles y alrededor de los acantilados, creando profundidad y misterio
-Paleta de colores y elementos atmosféricos:
-{argument name="color theme" default="Gradación de color azul-azulado frío"}: Domina toda la escena, creando una atmósfera serena pero misteriosa
-Brillo dorado cálido: El farol proporciona un punto focal de calidez y esperanza
-Cielo nublado dramático: Cubierto con toques de luz pálida, presentando siluetas de aves en formación de vuelo
-Iluminación volumétrica: Las partículas de niebla captan la luz, creando profundidad y dimensión atmosférica
-Azules y tonos azulados monocromáticos: Con toques de ámbar y tonos tierra
-Estado de ánimo y elementos temáticos:
-Épico y cinematográfico: Reminiscente de películas de fantasía y arte conceptual de videojuegos
-Aventurero pero contemplativo: La figura solitaria sugiere el viaje o la búsqueda de un héroe
-Majestuoso e impresionante: La escala del paisaje empequeñece al individuo
-Misterioso y de otro mundo: La niebla y la iluminación crean una cualidad casi onírica
-Esperanza y determinación: El farol brillante simboliza la perseverancia en la oscuridad
-Estilo artístico: Ilustración de fantasía digital de alta calidad; estética de arte conceptual con iluminación cinematográfica y efectos atmosféricos; reminiscente de ilustraciones de RPG de fantasía, visuales inspirados en El Señor de los Anillos o diseño conceptual de videojuegos
+Crea una densa escena de mercado negro cyberpunk noir junto al muelle durante la noche en una megaciudad asiática futurista, enfatizando el ruido visual extremo, la lluvia, la suciedad, los reflejos y un nivel de detalle abrumador. La cámara se sitúa al nivel del muelle mirando diagonalmente a lo largo de un concurrido mercado portuario: muelles de hormigón mojado y charcos en primer plano, siluetas oscuras de vendedores y clientes bajo lonas a la derecha, pequeños barcos de pesca y cargueros a la izquierda, y un vasto horizonte de neón que se desvanece en una neblina azul al fondo. Una figura solitaria con capucha y chubasquero oscuro se encuentra cerca del centro del primer plano frente al mercado, rodeada de cajas, barriles, cables enredados, paraguas, puestos improvisados y basura brillante. Añade contenedores de carga apilados y grúas industriales a la derecha, con carga suspendida y un dron de carga negro en la parte superior izquierda transportando un contenedor. Utiliza luz urbana cian fría mezclada con neón magenta intenso, sombras profundas, neblina de lluvia intensa, niebla volumétrica y reflejos brillantes en todas las superficies. Incluye exactamente 6 elementos de texto/letreros visibles: un letrero cian en los contenedores que dice {argument name="shipping company sign" default="TENKO SHIPPING"}, un panel holográfico cian de dron de carga que dice {argument name="drone sign" default="CARGO DRONE"}, un letrero de muelle cian que dice {argument name="dock sign" default="DOCK 7"}, un letrero de mercado magenta brillante que dice {argument name="market sign" default="Black Market"} con caracteres japoneses o chinos encima, una etiqueta de barco azul que dice {argument name="boat label" default="海狼 07"}, y letreros de torre de neón verticales dispersos con pequeños caracteres asiáticos ilegibles. Estilo: arte conceptual cinematográfico ultradetallado, cyberpunk inspirado en Blade Runner, pintura mate fotorrealista, alto contraste, atmosférico, caótico, empapado por la lluvia, composición cuadrada 1:1, detalle nítido en primer plano con profundidad atmosférica, sin áreas limpias o vacías, sin luz del día, sin estilo de dibujos animados.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4359,47 +3792,143 @@ Estilo artístico: Ilustración de fantasía digital de alta calidad; estética 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564618336_alrz2e_HJ5bGy5XgAA2Yii.jpg" width="600" alt="Cómic / Guion gráfico - Paisaje épico de guerrero de fantasía - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735310842_6ef5si_HKE604rWcAAyvUI.jpg" width="600" alt="Cómic / Guion gráfico - Mercado negro en un puerto cyberpunk bajo la lluvia - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [lost in latency](https://x.com/lostinlatencyX)
+- **Fuente:** [Twitter Post](https://x.com/lostinlatencyX/status/2062995092760084536#reversed-2)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24350)**
+
+---
+
+### No. 78: Cómic / Guion gráfico - Callejón cyberpunk lluvioso y ruidoso
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Genera una escena de callejón japonés cyberpunk extremadamente abarrotada de luces de neón para probar cuánta distorsión visual y detalle puede manejar un modelo de imagen.
+
+#### 📝 Prompt
+
+```
+Crea un mercado callejero cyberpunk ultra denso en una noche lluviosa dentro de una megaciudad japonesa futurista, visto a la altura de los ojos a lo largo de un callejón estrecho repleto de peatones con impermeables oscuros y ponchos transparentes, paraguas negros, pavimento mojado y reflectante, vapor de puestos de fideos, tuberías que gotean, cables enredados sobre la cabeza, balcones apilados y rascacielos que se desvanecen en la niebla. Haz que la imagen sea extremadamente ruidosa visualmente y densa en información, sin áreas vacías: cientos de pequeñas luces, letreros, cables, pantallas, gotas, reflejos, siluetas de multitudes, objetos de mercado y arquitectura en capas. La paleta de colores es neón magenta, cian, azul profundo, negro y la luz cálida de los puestos de comida. Incluye exactamente 15 elementos de neón/letreros prominentes, legibles o semilegibles: 1 letrero vertical grande de hotel rosa a la derecha que dice 「ホテル H」, 1 letrero grande de kanji rosa en lo alto a la izquierda, 1 letrero amarillo de fideos a la izquierda que dice 「栄養 ヌードル 24時間営業」, 1 tablero de menú amarillo más pequeño al lado, 1 letrero de hotel cuadrado rosa a la izquierda que dice 「ホテル ホテル」, 1 panel de interfaz holográfica cian sobre el puesto de comida izquierdo, 1 valla publicitaria holográfica azul alta en el centro lejano, 1 panel holográfico rectangular cian en la parte superior derecha, 1 pequeño panel de texto cian cerca de él, 1 letrero rosa en el centro distante que dice 「オープン」, 1 letrero rojo vertical a mitad del callejón, 1 letrero rosa a la derecha que dice 「女侍」, 1 letrero cian pequeño a la derecha que dice 「空き室」, 1 letrero brillante de puesto de comida cerca de la parte inferior izquierda y 1 pequeña pantalla de datos azul en la parte inferior izquierda. Coloca exactamente 9 peatones distintos en primer plano y plano medio visibles desde atrás o de lado, incluyendo una figura central con chaqueta negra, una persona con poncho translúcido en el centro a la derecha, una figura encapuchada oscura en el extremo derecho y varias personas con paraguas. Añade exactamente 2 puestos de comida activos, uno a la izquierda con ollas humeantes y tazones apilados y uno a la derecha con bandejas de comida. Utiliza arte digital fotorrealista cinematográfico, alto contraste, lluvia volumétrica, reflejos brillantes, materiales desgastados y arenosos, atmósfera tipo Blade Runner, detalle nítido en primer plano, perspectiva profunda y desorden extremo. Añade un fuerte ruido de sensor, grano de película, aberración cromática, artefactos de compresión, halo, resplandor, motas dispersas y superposiciones holográficas con fallos mientras mantienes la escena reconocible. Sin áreas limpias o minimalistas, sin luz de día, sin estilo de dibujos animados, sin marcas de agua. La ciudad debe sentirse como {argument name="city mood" default="un caos abrumador de neón bajo la lluvia"}; el idioma principal en los letreros debe ser {argument name="sign language" default="japonés"}; los colores neón dominantes deben ser {argument name="neon palette" default="magenta y cian"}; el clima debe ser {argument name="weather" default="lluvia intensa con vapor"}; la intensidad del ruido debe ser {argument name="noise intensity" default="máxima"}.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735310129_wdbre6_HKE6yDeWEAAQ6c3.jpg" width="600" alt="Cómic / Guion gráfico - Callejón cyberpunk lluvioso y ruidoso - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [lost in latency](https://x.com/lostinlatencyX)
+- **Fuente:** [Twitter Post](https://x.com/lostinlatencyX/status/2062995092760084536#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24349)**
+
+---
+
+### No. 79: Cómic / Guion gráfico - Retrato cinemático con aura de energía desintegrándose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un retrato cinemático emocional en 8K de un hombre disolviéndose en humo gris denso y partículas doradas, enmarcado por una enorme aura de energía creciente y brillante.
+
+#### 📝 Prompt
+
+```
+Crea una imagen cinemática 8K ultrarrealista con iluminación dramática de alto contraste y una estética de pintura digital fotorrealista; utiliza la referencia facial exactamente. El {argument name="subject" default="hombre"} se muestra de cuerpo completo en perfil lateral mirando hacia la derecha, con su rostro y peinado copiados perfectamente sin alteraciones. Viste ropa urbana casual moderna: una {argument name="top" default="camiseta gris claro de cuello redondo"}, {argument name="pants" default="pantalones cargo de tono neutro claro"}, botas de caña alta de color claro y un reloj en su muñeca izquierda. Su postura está ligeramente encorvada, con la cabeza inclinada, los ojos mirando hacia abajo y las manos relajadas a los costados, transmitiendo una profunda introspección y tristeza. Casi la mitad de su cuerpo se está disolviendo en un humo gris extremadamente denso, similar a una nube, lleno de partículas de polvo amarillo brillante. Su brazo izquierdo, hombro, torso, piernas y parte de su cabello se vuelven transparentes a medida que se descomponen en partículas luminosas, sugiriendo una desintegración activa. Detrás y rodeándolo parcialmente hay una enorme aura de energía en forma de creciente (forma de C), que emite una luz de plasma dorada y blanca ardiente. Esta aura actúa como un potente contraluz y luz de contorno, resaltando el humo, el polvo y la silueta. El entorno es minimalista y desolado: una superficie de hormigón o pavimento desierto que se encuentra con un cielo muy nublado. La paleta de colores es casi monocromática en grises y blancos, contrastada por un intenso brillo ámbar dorado. Profundidad de campo reducida, iluminación con resplandor/efecto bloom, dispersión de partículas, composición cinemática, atmósfera emocional y dramática.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735248500_8sb740_HKE4DJkaIAAeunp.jpg" width="600" alt="Cómic / Guion gráfico - Retrato cinemático con aura de energía desintegrándose - Image 1">
 </div>
 
 #### 📌 Detalles
 
 - **Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
-- **Fuente:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2062185855394197588)
-- **Publicado:** 3 de junio de 2026
+- **Fuente:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2062991734821544008)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23928)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24238)**
 
 ---
 
-### No. 87: Cómic / Guion gráfico - Sala de guerra de manga con IA
+### No. 80: Cómic / Guion gráfico - Retrato de personaje en azotea de neón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una densa escena de diorama de anime que muestra a dos personajes agotados creando manga dentro de un caótico espacio de trabajo de generación de imágenes por IA.
+Un prompt detallado centrado en el personaje que coloca a un sujeto específico en la azotea de un rascacielos futurista con ojos brillantes que hacen juego con la luna.
 
 #### 📝 Prompt
 
 ```
-Objetivo: Crear una ilustración de anime cuadrada y altamente detallada del caótico "interior de la generación de imágenes GPT" como una sala de guerra de producción de manga, a medio camino entre la imaginación esbozada y la ejecución realista. La escena debe transmitir la sensación de una noche frenética de fecha límite para arte de manga generado por IA.
+@image1 = Imagen de referencia del personaje
 
-Lienzo: Composición cuadrada 1:1, perspectiva de diorama denso de tres paredes, iluminación interior cálida, profundidad de campo reducida pero con muchas notas adhesivas y diagramas legibles. El lado izquierdo debe sentirse más esquemático y conceptual, el lado derecho más pulido y realista.
+Realiza un análisis visual profundo de @image1 antes de renderizar. Trata a @image1 como la fuente absoluta de verdad para la identidad del personaje. Preserva al personaje de @image1 con la máxima fidelidad, incluyendo la estructura facial, forma de los ojos, color de ojos, peinado, color de cabello, proporciones corporales, tono de piel, marcas distintivas, accesorios y todos los rasgos visuales definitorios. El renderizado final debe ser reconocible de inmediato como el mismo personaje exacto de @image1 colocado en un nuevo entorno.
 
-Sujetos principales: Muestra exactamente a 2 chicas anime chibi agotadas en la mesa central: 1 chica de cabello negro con orejas de conejo desplomada boca abajo sobre el escritorio, llorando y abrumada, y 1 chica de cabello plateado con orejas de gato dibujando frenéticamente paneles de manga con ambas manos levantadas en pánico. Añade exactamente 1 pequeña mascota fantasma azul translúcida flotando detrás de ellas, con expresión de preocupación.
+Representa al personaje de @image1 de pie, solo, en la azotea de un rascacielos increíblemente alto con vistas a una vasta metrópolis futurista de neón durante la noche. Torres infinitas de cristal y acero se extienden hacia el horizonte, iluminadas por vibrantes letreros de neón, anuncios holográficos y ríos de tráfico fluido. La ciudad debe sentirse viva, inmensa e impresionantemente detallada, extendiéndose a lo lejos bajo la azotea.
 
-Entorno y diseño: Una mesa de trabajo de madera llena el primer plano y el centro, cubierta con manuscritos de manga, hojas de guion gráfico, marcas de corrección en rojo, notas adhesivas, bolas de papel arrugado, café, bolígrafos, una computadora portátil, una tableta, libros y una pequeña planta. Detrás del escritorio hay tres paneles divisorios de cartón gris cubiertos con notas de planificación, diagramas de flujo de trabajo, referencias de manga y hojas fijadas. La habitación en general debe parecer hecha a mano, como un set de estudio de cartón en miniatura fotografiado de forma realista.
+El personaje de @image1 se encuentra cerca del borde de la azotea con total confianza y una autoridad natural. Su postura es relajada pero dominante, como si fuera dueño de la ciudad bajo sus pies. Cada aspecto de su lenguaje corporal debe sugerir un control absoluto. Una mano puede descansar naturalmente a su lado, en un bolsillo o contra una estructura cercana, manteniendo una silueta elegante.
 
-Elementos repetidos visibles a incluir: exactamente 2 personajes principales de anime, exactamente 1 mascota fantasma, exactamente 3 paneles de fondo verticales, exactamente 1 computadora portátil abierta en el lado izquierdo del escritorio, exactamente 1 tableta negra en el lado derecho del escritorio, exactamente 1 taza de café negra cerca del centro frontal, exactamente 1 reloj de arena en la parte frontal izquierda, exactamente 1 planta en maceta cerca de la pared izquierda, exactamente 1 pila alta de páginas de manuscrito terminadas en la parte frontal derecha, exactamente 9 bolas de papel arrugado esparcidas por la mesa y el área del suelo, y muchas páginas de manga sueltas volando por el aire.
+El personaje de @image1 mira directamente al espectador. Su expresión es tranquila, conocedora y ligeramente divertida. Una sonrisa sutil debe descansar en su rostro; no es cálida, no es cruel, pero es imposible de interpretar por completo. La expresión debe crear la sensación inquietante de que el personaje de @image1 ya sabía que el espectador llegaría.
 
-Detalles de texto y paneles: Utiliza etiquetas y notas adhesivas escritas a mano en japonés como decoración para la construcción del mundo. Incluye un letrero vertical grande en el panel izquierdo con {argument name="left wall headline" default="投稿前夜"}, un letrero de fecha límite en rojo con {argument name="deadline sign" default="締切"}, notas centrales sobre si el manga de IA puede comunicar emociones, líneas de guía para el lector, selección de emociones y un diagrama de flujo desde las redes sociales hasta la página de destino, el manuscrito final, la revisión y la difusión. En la pared derecha, incluye letreros sobre si el trabajo es realmente legible, por qué las reacciones se sienten débiles y cómo hacer que el cerebro genere emoción. Añade pequeñas notas adhesivas de advertencia en rojo, casillas de verificación y miniaturas de paneles de manga.
+Sobre la ciudad cuelga una brillante luna creciente. La luna creciente brilla con el mismo color exacto que los ojos del personaje en @image1. Esta conexión visual debe sentirse deliberada y simbólica, como si la luna misma respondiera ante él. La luz de la luna proyecta un suave brillo sobrenatural sobre la azotea y el horizonte circundante.
 
-Estilo: Ilustración de diorama de anime ultradetallada, materiales de mesa realistas, textura de papel, páginas de manga a lápiz y tinta, paredes de cartón en tonos beige-gris suave, iluminación cálida de escritorio, desenfoque de movimiento sutil en los papeles voladores, rostros chibi expresivos, narrativa visual de alta densidad, atmósfera de fecha límite acogedora pero frenética. Utiliza una mezcla de renderizado de personajes de anime limpio e iluminación realista de fotografía de producto.
+Los ojos del personaje de @image1 deben emitir un brillo tenue que coincida con su color de ojos natural. El brillo debe permanecer sutil y elegante en lugar de abrumador, sugiriendo un inmenso poder oculto bajo su exterior compuesto. Los ojos deben servir como punto focal de la imagen, atrayendo la atención del espectador de inmediato.
 
-Restricciones: Mantén la composición abarrotada pero coherente, con los dos personajes claramente centrados. No añadas personajes principales adicionales. Haz que la escritura japonesa parezca escrita a mano en notas de papel, no como texto de interfaz digital. Evita logotipos, marcas de agua o superposiciones de interfaz modernas, excepto por la única computadora portátil abierta.
+La atmósfera debe equilibrar el encanto y el peligro. El espectador no debería poder determinar si el personaje de @image1 tiene la intención de ofrecer compañía, tentación, protección o destrucción. La imagen debe evocar la sensación de que irse sería la elección sabia, pero quedarse resulta imposible de resistir.
+
+El viento mueve suavemente el cabello, la ropa y los accesorios del personaje de @image1. Los reflejos de neón bailan sobre las superficies. La bruma atmosférica flota entre los rascacielos distantes. Los detalles de la azotea, como antenas, estructuras de mantenimiento, marcos de acero, barreras de cristal, iluminación de la azotea y un sutil desgaste, deben añadir realismo y escala a la escena.
+
+Paleta de colores: azules de medianoche profundos, negros intensos, magentas neón vibrantes, violetas eléctricos y acentos de oro luminoso. El brillo de la luna y el brillo de los ojos deben coincidir perfectamente con el color de ojos del personaje de @image1, creando un motivo visual cohesivo en toda la composición.
+
+Composición de fotografía nocturna cinematográfica. Iluminación de contorno dramática. Luz de luna volumétrica. Profundidad y escala extraordinarias. Hermosos reflejos de neón. Narrativa ambiental intrincada. Renderizado de anime hiperdetallado. Trabajo de textura ultrafino. Renderizado de materiales excepcional. Composición de obra maestra. Calidad de película de anime AAA. Atmósfera impresionante. Calidad de arte promocional profesional.
+
+La respuesta emocional debe ser:
+
+"Son hermosos."
+
+"Son poderosos."
+
+"Son peligrosos."
+
+"Y ya sabían que vendría."
+
+El personaje de @image1 debe sentirse menos como una persona y más como una fuerza de la naturaleza que ha aprendido modales perfectos.
+
+PROMPT NEGATIVO:
+
+baja calidad, peor calidad, calidad normal, baja resolución, borroso, enfoque suave, artefactos de compresión, artefactos jpeg, pixelado, sobresaturado, subsaturado, colores lavados, mala iluminación, iluminación plana, mala composición, composición amateur, sujeto recortado, fuera de encuadre, elementos duplicados, objetos clonados, personajes extra, errores de fondo, objetos flotantes, perspectiva inconsistente, sombras poco realistas, reflejos poco realistas
+mala anatomía, anatomía incorrecta, anatomía rota, anatomía malformada, articulaciones dislocadas, extremidades retorcidas, pose imposible, postura antinatural, columna rota, hombros desiguales, extremidades asimétricas, extremidades desconectadas, partes del cuerpo separadas, manos flotantes, brazos flotantes, pies flotantes, extremidades faltantes, extremidades extra, brazos extra, piernas extra, extremidades duplicadas
+mala mano, manos malformadas, manos mutadas, dedos fusionados, dedos extra, dedos faltantes, dedos desiguales, dedos rotos, manos distorsionadas, manos mal dibujadas, anatomía de mano incorrecta, manos desconectadas, manos demasiado grandes, manos demasiado pequeñas
+mala cara, cara malformada, cara distorsionada, ojos asimétricos, ojos bizcos, ojo vago, ojos extra, ojos faltantes, pupilas desiguales, pupilas distorsionadas, rasgos faciales fuera de lugar, mandíbula deformada, boca malformada, rasgos faciales duplicados
+mala proporción, proporciones incorrectas, cabeza gigante, cabeza diminuta, cuello alargado, cuello corto, partes del cuerpo demasiado grandes, partes del cuerpo demasiado pequeñas, torso distorsionado, anatomía deformada
+poca consistencia del personaje, deriva de identidad, desajuste facial, estructura facial alterada, forma de ojo inexacta, peinado inexacto, color de cabello inexacto, marcas faciales inexactas, accesorios inexactos, pérdida de rasgos definitorios de @image1
+texto, marca de agua, firma, logotipo, nombre de usuario, nombre del artista, marca de copyright, marco, borde, subtítulo, globo de diálogo
+artefactos de renderizado 3d, piel de plástico, piel de cera, cara inquietante, ojos sin vida, expresión muerta, apariencia de maniquí, texturas de bajo detalle, renderizado inacabado, boceto, borrador, fondo mal renderizado
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4407,33 +3936,377 @@ Restricciones: Mantén la composición abarrotada pero coherente, con los dos pe
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780564686071_arzl0a_HJ5OhKoaEAAJ41z.jpg" width="600" alt="Cómic / Guion gráfico - Sala de guerra de manga con IA - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735251987_nn3hfb_HKEK6YUXEAAxdEw.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de personaje en azotea de neón - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735251964_crw2pn_HKEK-2iWQAAkxLu.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de personaje en azotea de neón - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735251957_8siomk_HKELGoVWgAAHzjT.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de personaje en azotea de neón - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735252454_3lphtc_HKELJL2XsAALF2j.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de personaje en azotea de neón - Image 4">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [タダオ｜AIマンガ家](https://x.com/tadao_parallel)
-- **Fuente:** [Twitter Post](https://x.com/tadao_parallel/status/2062173707427270656#reversed-1)
-- **Publicado:** 3 de junio de 2026
+- **Autor:** [NachtNova](https://x.com/NachtNovaAI)
+- **Fuente:** [Twitter Post](https://x.com/NachtNovaAI/status/2062944523244695756)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24019)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24247)**
 
 ---
 
-### No. 88: Marketing de producto - Renderizado de texto 3D CG de lujo
+### No. 81: Cómic / Guion gráfico - Retrato de anime en traje de baño dibujado a mano
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt minimalista al estilo anime para generar personajes en traje de baño con una estética dibujada a mano.
+
+#### 📝 Prompt
+
+```
+Genera un {argument name="character" default="Koishi Komeiji"} vistiendo un traje de baño, {argument name="style" default="estilo dibujado a mano"}, con un fondo minimalista no realista.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735264969_vk3ow9_HKEIq6ka4AANWYN.png" width="600" alt="Cómic / Guion gráfico - Retrato de anime en traje de baño dibujado a mano - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735264955_hovl2d_HKEItWaagAAbVri.png" width="600" alt="Cómic / Guion gráfico - Retrato de anime en traje de baño dibujado a mano - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735264984_12d7o0_HKEI6WTbsAYx2F4.png" width="600" alt="Cómic / Guion gráfico - Retrato de anime en traje de baño dibujado a mano - Image 3">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [唐华斑竹🦅](https://x.com/uniswap12)
+- **Fuente:** [Twitter Post](https://x.com/uniswap12/status/2062940257805644103)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24273)**
+
+---
+
+### No. 82: Cómic / Guion gráfico - Póster de samurái ronin estilo aguada
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un impactante prompt de estilo aguada (ink-wash) para una silueta de samurái con espadas de brillo rojo, perfecto para pósteres de acción geniales.
+
+#### 📝 Prompt
+
+```
+{argument name="subject" default="Ronin con kimono blanco y sombrero de bambú"} silueta con el rostro oculto, dos espadas rodeadas de {argument name="light effect" default="brillo rojo"}, ropa ondeando al viento.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735261635_7f9kf8_HKEGlLibsAEhpeH.png" width="600" alt="Cómic / Guion gráfico - Póster de samurái ronin estilo aguada - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735261695_3hecz0_HKEGnPhbsAI6H4g.png" width="600" alt="Cómic / Guion gráfico - Póster de samurái ronin estilo aguada - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu)
+- **Fuente:** [Twitter Post](https://x.com/Aiyutoushushu/status/2062937466437611592)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24268)**
+
+---
+
+### No. 83: Cómic / Guion gráfico - Fotograma de película distópica de ciencia ficción en un páramo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt cinematográfico para generar una escena de páramo futurista y desolada con una mujer solitaria, un coche abandonado, un cuerpo y un horizonte industrial lleno de esmog.
+
+#### 📝 Prompt
+
+```
+Crea un paisaje distópico de ciencia ficción cinematográfico en formato panorámico, al estilo de un fotograma de película seria. Una {argument name="female character" default="mujer de pelo corto con un vestido largo o túnica de color verde azulado oscuro y pantalones"} solitaria camina a través de una vasta llanura fangosa y estéril, sosteniendo un pequeño estuche oscuro o bolsa de herramientas a su lado. En el primer plano inmediato, coloca exactamente 1 cuerpo humano inmóvil tendido horizontalmente sobre el suelo húmedo, mayormente en sombra. En el plano medio izquierdo, incluye exactamente 1 sedán antiguo y pálido estacionado o conduciendo lentamente a través de la llanura, ligeramente angulado hacia afuera. El fondo debe mostrar una ciudad industrial futurista y brumosa con exactamente 2 grandes puentes elevados o estructuras de viaducto que se extienden desde los lados izquierdo y derecho hacia el horizonte, además de torres cilíndricas y rectangulares voluminosas suavizadas por el esmog. Utiliza una paleta de colores gris azulado apagado y beige polvoriento, bajo contraste, neblina atmosférica, parches reflectantes húmedos en el barro y un ambiente postapocalíptico desolador. Composición: relación de aspecto 16:9, plano general amplio, horizonte alto en el encuadre, la mujer posicionada ligeramente a la izquierda del centro, el coche más a la izquierda, el horizonte distante y desaturado. La iluminación debe ser nublada y a contraluz a través de aire contaminado, con grano de película realista, encuadre cinematográfico anamórfico y sin texto, logotipos ni elementos de interfaz visibles.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735296110_pp9f25_HKEEh83XMAA0Bvh.jpg" width="600" alt="Cómic / Guion gráfico - Fotograma de película distópica de ciencia ficción en un páramo - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Far](https://x.com/FarAICoder)
+- **Fuente:** [Twitter Post](https://x.com/FarAICoder/status/2062935160731885942#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24317)**
+
+---
+
+### No. 84: Cómic / Guion gráfico - Página de novela gráfica de ocultismo oscuro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt estructurado para generar una página de cómic de terror en ruso que contrasta la magia cinematográfica épica con un ritual sombrío en una cocina rústica.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear una página de cómic de novela gráfica oscura en ruso sobre cómo las escenas de magia negra cinematográfica parecen épicas, mientras que el trabajo ocultista real se siente mundano y desagradable.
+
+Lienzo: Página de cómic vertical, relación de aspecto aproximada de 4:5, con medianiles negros gruesos y un borde exterior negro fino. Utiliza un estilo de renderizado de seinen manga / novela gráfica europea, marrones apagados, negros carbón, luz de vela enfermiza, relámpagos azul tormenta, sombreado cruzado intenso, textura de papel desgastado, ambiente de terror cinematográfico.
+
+Diseño: Utiliza exactamente 10 viñetas. La fila 1 tiene 2 viñetas: una viñeta ancha a la izquierda que muestra una escena ritual épica, y una viñeta más estrecha a la derecha con un primer plano de un joven observando. La fila 2 tiene 3 viñetas pequeñas iguales: mano ensangrentada, relámpago, libro antiguo en latín. La fila 3 tiene 1 viñeta de ancho completo: dos personas sentadas en una mesa de cocina rústica junto a una lámpara de queroseno. La fila 4 tiene 3 viñetas: primer plano del contratista, hierbas secas colgando, mano vieja sobre una mesa de madera. La fila 5 tiene 1 viñeta de ancho completo: primer plano del joven en la sombra, luciendo perturbado. Incluye exactamente 9 cuadros de narración rectangulares blancos con texto en ruso en mayúsculas de color negro, colocados cerca del área superior izquierda de sus respectivas viñetas.
+
+Contenido del texto: Utiliza estos cuadros de texto exactos, en orden de arriba a abajo y de izquierda a derecha: 1) {argument name="opening caption" default="ЗНАЕТЕ, В ФИЛЬМАХ ПРО МАГИЮ СДЕЛКИ С ПОТУСТОРОННИМИ СИЛАМИ ВСЕГДА ВЫГЛЯДЯТ ЭПИЧНО:"} 2) "КРОВЬ," 3) "МОЛНИИ," 4) "ЛАТЫНЬ ЗАДОМ НАПЕРЁД." 5) {argument name="reality caption" default="В РЕАЛЬНОСТИ ЖЕ ЭТО ПРОИСХОДИТ НА ДАЧНОЙ КУХНЕ, ПРИ СВЕТЕ КЕРОСИНКИ,"} 6) "И ОТ ТВОЕГО КОНТРАГЕНТА ПАХНЕТ НЕ СЕРОЙ," 7) "А СУШЁНЫМИ ТРАВАМИ" 8) "И СТАРЫМ ДЕРЕВОМ." 9) {argument name="final caption" default="И ЭТО, СКАЖУ Я ВАМ, КУДА СТРАШНЕЕ."}
+
+Detalles del sujeto: El personaje principal es {argument name="main character" default="un joven delgado y pálido con cabello negro desordenado, vistiendo una camisa blanca abotonada arrugada"}. En la viñeta del ritual épico, muestra una figura encapuchada con túnica negra sentada frente a un círculo de pentagrama brillante, con los brazos extendidos, rodeada de calaveras, velas, objetos ocultistas, nubes de tormenta y relámpagos dentados. En las viñetas de la cocina realista, muestra al mismo joven sentado frente a {argument name="contractor" default="un anciano contratista ocultista rústico con un suéter desgastado estampado"} en una mesa de madera rugosa, con estantes de frascos, gabinetes viejos, una pequeña ventana que muestra la noche afuera, una lámpara de queroseno, un tazón, una taza de té y un frasco con contenido seco rojo. La atmósfera debe ser estrecha, húmeda y rural en lugar de glamorosa.
+
+Detalles de censura/ocultamiento: Añade bloques de desenfoque marrón de bordes suaves verticales que oculten el rostro del joven en la viñeta superior derecha, el rostro del contratista en la viñeta ancha de la cocina, el primer plano del contratista en la fila 4, viñeta 1, y un gran desenfoque marrón vertical que cubra el área central inferior a través de la viñeta de las hierbas secas y parte de la viñeta final inferior, como si detalles sensibles estuvieran siendo ocultados intencionalmente.
+
+Lista visual viñeta por viñeta: 1) ritual ancho con hechicero encapuchado, pentagrama, calavera, relámpago; 2) primer plano lateral de la cabeza y el hombro del joven en la oscuridad; 3) dedos ensangrentados arrastrándose sobre piedra con gotas de sangre; 4) relámpago bifurcado en un cielo de tormenta; 5) página de libro antiguo con letras similares al latín invertidas; 6) conversación en cocina rústica de ancho completo bajo lámpara de queroseno; 7) primer plano del contratista con texto y rostro oculto; 8) manojos de hierbas secas colgando sobre frascos, parcialmente ocultos por desenfoque; 9) mano vieja y arrugada descansando sobre una mesa de madera; 10) primer plano ancho del joven en la sombra, tenso y asustado.
+
+Restricciones: Mantén la página legible como una sola página de cómic, mantén los medianiles negros gruesos, no utilices globos de diálogo, no añadas subtítulos adicionales más allá de los 9 listados, sin objetos modernos, sin marcas de agua, sin estilo de caricatura digital limpio.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735309451_mrj38m_HKDfgmFWcAAgiR0.jpg" width="600" alt="Cómic / Guion gráfico - Página de novela gráfica de ocultismo oscuro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Anna](https://x.com/AZhernovnikova)
+- **Fuente:** [Twitter Post](https://x.com/AZhernovnikova/status/2062894626877428181#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24347)**
+
+---
+
+### No. 85: Cómic / Guion gráfico - Boceto de conductor de figura de palo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una escena de coche monocromática dibujada a mano desde la perspectiva del tablero, con un conductor de figura de palo simple para publicaciones sociales animadas o fotogramas de guiones gráficos.
+
+#### 📝 Prompt
+
+```
+Crea una ilustración a tinta dibujada a mano en blanco y negro con formato panorámico 16:9 desde la perspectiva del tablero frontal dentro de un coche. Muestra exactamente un conductor de figura de palo simple centrado en el encuadre, usando {argument name="hat type" default="una gorra de béisbol"}, con una cara neutral y vacía: dos ojos de punto, dos cejas simples y una boca recta. El personaje tiene exactamente una mano visible agarrando el lado izquierdo del volante, un cuerpo de palo delgado y un cinturón de seguridad diagonal que cruza desde el hombro superior derecho hasta la parte inferior izquierda. Incluye exactamente un volante grande en primer plano, un asiento del conductor delantero y un reposacabezas detrás del personaje, un espejo retrovisor en la parte superior izquierda, un asiento trasero a lo largo del fondo y exactamente un vaso de café para llevar con tapa en un portavasos en la parte inferior izquierda. A través de las ventanas, dibuja una calle urbana ligeramente borrosa con escaparates, coches aparcados, árboles, farolas y edificios de baja altura para sugerir movimiento mientras se conduce. Usa un fondo de papel color crema, trazos de boceto ásperos, sombreado cruzado expresivo, contornos negros gruesos en el personaje y el volante, líneas de perspectiva más finas para el interior del coche y un ambiente de viaje matutino tranquilo y ligeramente incómodo. Sin color, sin texto, sin logotipos, sin marcas de agua.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735309455_cbte0j_HKC0nKAX0AA0-uI.jpg" width="600" alt="Cómic / Guion gráfico - Boceto de conductor de figura de palo - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ALG∑BRA](https://x.com/CallMeAlgy)
+- **Fuente:** [Twitter Post](https://x.com/CallMeAlgy/status/2062847223373672652#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24346)**
+
+---
+
+### No. 86: Cómic / Guion gráfico - Fiebre por el pan de yakisoba en la cafetería del anime
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una dinámica escena de cafetería anime que muestra a estudiantes chicas-caballo luchando por el último pan de yakisoba, ideal para la generación de ilustraciones energéticas al estilo manga.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear una ilustración de acción de alta energía en una cafetería anime con {argument name="character name" default="una estudiante chica-caballo de cabello castaño"} en el centro, lanzándose hacia el espectador mientras intenta atrapar el último pan de yakisoba durante una caótica hora del almuerzo.
+
+Lienzo: Ilustración vertical 3:4, perspectiva dinámica de gran angular, interior de cafetería escolar abarrotada, iluminación cálida y brillante, desenfoque de movimiento, líneas de velocidad, destellos y efectos de impacto dramáticos al estilo manga.
+
+Sujeto principal: Una linda estudiante chica-caballo de anime con un uniforme escolar estilo marinero morado y blanco, con grandes orejas de caballo castañas, cabello castaño medio, un mechón blanco prominente en la frente, un lazo morado cerca de una oreja, mechones laterales trenzados y una cola castaña. Está al frente y en el centro, extremadamente cerca de la cámara, extendiendo su mano izquierda hacia el espectador con un escorzo exagerado mientras sostiene una bandeja de cafetería gris en su mano derecha. En su bandeja hay un pan de yakisoba envuelto. Su expresión debe sentirse desesperada, decidida y cómica, como si estuviera gritando mientras corre hacia adelante.
+
+Acción de la escena: Mostrar una frenética lucha por comida en la cafetería escolar. La cámara está colocada baja y cerca del mostrador de la cafetería, haciendo que el pan en primer plano se vea enorme y que el personaje central parezca salir de la multitud. Utilizar una composición diagonal, bandejas voladoras, estudiantes desenfocados, brazos levantados y líneas de acción radiantes para enfatizar la velocidad y el caos.
+
+Elementos visibles contados: Incluir exactamente 2 panes de yakisoba envueltos prominentes: 1 pan de yakisoba de gran tamaño en la parte inferior del primer plano sobre el mostrador, y 1 pan de yakisoba más pequeño en la bandeja del personaje principal. Incluir exactamente 1 personaje principal de chica-caballo. Incluir exactamente 6 otras estudiantes chicas-caballo de apoyo claramente visibles en la multitud de fondo: 1 chica de cabello castaño al frente a la izquierda alcanzando hacia adelante con una bandeja, 1 chica pequeña en el centro atrás entre las orejas del personaje principal, 1 chica emocionada atrás a la derecha levantando una bandeja, 1 chica de cabello naranja en el medio a la derecha con un accesorio de flor reaccionando con enojo, 1 estudiante de cabello rojizo al fondo a la izquierda parcialmente visible, y 1 estudiante al fondo a la derecha parcialmente visible sosteniendo una bandeja. La multitud de fondo adicional puede estar desenfocada e indistinta, pero no los hagas detallados individualmente.
+
+Texto y señalización: Añadir un letrero de cafetería en la parte superior izquierda con texto en japonés {argument name="menu sign text" default="本日のおすすめ チーズハンバーグ 850"}. Añadir un gran globo de diálogo de cómic en la parte superior derecha con {argument name="speech bubble text" default="のこせーっ"}. Añadir un gran texto de grito vertical morado al estilo manga en el lado izquierdo que diga {argument name="shouting text" default="うおおおおおおおお!!"}. Añadir un cartel escrito a mano en blanco en la parte inferior derecha junto al mostrador que diga {argument name="placard text" default="やきそばパン ラスト1個!!"}, con la segunda línea en negrita roja y dos signos de exclamación. El cartel también debe incluir un pequeño garabato de una cara de chica-caballo llorando que lleva una pequeña corona.
+
+Detalles de la comida: El pan de yakisoba es un pan tipo hot-dog relleno de fideos fritos marrones brillantes, guarnición verde y jengibre rojo encurtido, envuelto en plástico transparente arrugado. Haz que el pan en primer plano sea muy detallado y apetitoso, con reflejos en el envoltorio de plástico.
+
+Estilo visual: Imagen clave de anime japonés moderno y pulido, arte de personajes expresivo, colores saturados, fondo de cafetería detallado, reflejos brillantes, tipografía manga energética, fuerte distorsión de perspectiva, iluminación cinematográfica, detalle nítido en primer plano con un fondo más suave y desenfocado.
+
+Restricciones: Mantener la imagen puramente ilustrativa, sin fotorrealismo. No añadir logotipos, marcas de agua, subtítulos adicionales en inglés ni texto legible adicional más allá de la señalización en japonés especificada. Mantener un ambiente cómico de carrera por la comida en lugar de una escena de pelea seria.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735307384_fos8r7_HKCkVqvasAAEDjG.jpg" width="600" alt="Cómic / Guion gráfico - Fiebre por el pan de yakisoba en la cafetería del anime - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [雑多なAIユーザー](https://x.com/txBHOWlRPW47282)
+- **Fuente:** [Twitter Post](https://x.com/txBHOWlRPW47282/status/2062829751228907740#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24342)**
+
+---
+
+### No. 87: Cómic / Guion gráfico - Calendario de escritorio estético 2027
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para transformar una foto en un calendario de escritorio ilustrado al estilo coreano para el año 2027.
+
+#### 📝 Prompt
+
+```
+Por favor, utiliza esta foto (puedes colocar tu imagen en la referencia) para crear un calendario de escritorio para {argument name="year" default="enero-diciembre de 2027"}. Formato: A4 vertical. Características: {argument name="style" default="estilo de ilustración coreana"}, rasgos distintivos del personaje, expresiones naturales, composición de cuerpo completo, poses dinámicas, detalles exquisitos en la ropa, {argument name="art technique" default="estilo de garabato hecho a mano"}, pinceladas de salpicaduras, líneas libres, una mezcla de tonos pastel y tinta, textura de boceto de cómic, fondo blanco simple, elementos simbólicos alrededor de los bordes, atmósfera intensa, alto detalle, alta calidad.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735247256_4fpxi4_HKCgTPbaUAAjuUt.jpg" width="600" alt="Cómic / Guion gráfico - Calendario de escritorio estético 2027 - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Future AI 🧩](https://x.com/FutureVibesAi)
+- **Fuente:** [Twitter Post](https://x.com/FutureVibesAi/status/2062824885194461244)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24237)**
+
+---
+
+### No. 88: Cómic / Guion gráfico - Hada motociclista sobre una ciudad en miniatura
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de ilustración anime dinámica para crear a una chica con alas de hada en una aeromoto amarilla futurista sobrevolando un paisaje urbano con efecto ojo de pez.
+
+#### 📝 Prompt
+
+```
+Crea una imagen clave de anime vertical altamente detallada de {argument name="character name" default="una pequeña chica motociclista con aspecto de hada"} conduciendo una aeromoto amarilla futurista a través del cielo sobre una ciudad. Utiliza una perspectiva dinámica de ángulo bajo extrema con distorsión de ojo de pez / planeta miniatura: la motocicleta y la conductora se precipitan hacia el espectador, con la rueda delantera enorme en el primer plano inferior izquierdo, la bota pesada de la conductora extendida hacia la cámara en la parte inferior central, y la ciudad debajo curvándose en un panorama circular tipo vórtice. El personaje es una joven chica de anime con cabello castaño oscuro corto y despeinado, ojos dorados, una expresión enfocada y decidida, y pecas ligeras. Viste una chaqueta con capucha naranja de talla grande con largas tiras de tela ondeantes, grandes gafas de aviador de latón y verde azulado sobre su capucha, guantes negros, pantalones cortos oscuros, medias hasta los muslos y botas mecánicas voluminosas con detalles brillantes en cian. Dale alas de insecto/hada iridiscentes y translúcidas, exactamente dos pares de alas grandes visibles detrás de ella, que brillan con colores del arcoíris y finas venas oscuras. La aeromoto es una motocicleta deportiva cyberpunk compacta con armadura amarilla anaranjada brillante, partes mecánicas negras expuestas, un parabrisas tintado transparente, faros brillantes en cian, anillos de energía cian en las ruedas y pequeños detalles de luz turquesa en todas partes. El fondo es un cielo azul brillante lleno de nubes blancas dispersas, luz solar cálida desde la izquierda y una densa ciudad costera moderna muy abajo que se envuelve alrededor del horizonte circular; incluye indicios de océano cerca del horizonte. Estilo visual: ilustración de anime japonés nítida y pulida, trazos definidos, ricos detalles mecánicos, iluminación cinematográfica, alta saturación, reflejos brillantes, energía de movimiento, sin desenfoque en el personaje principal, renderizado ultra limpio adecuado para la generación de imágenes por GPT. Restricciones: sin texto, sin logotipo, sin marca de agua, mantén al personaje y la moto definidos con nitidez, enfatiza la claridad y el hermoso detalle de la conductora y la motocicleta.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735302051_b3lafr_HKASLexbMAA6ymV.jpg" width="600" alt="Cómic / Guion gráfico - Hada motociclista sobre una ciudad en miniatura - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735302090_h5ebu6_HKASOP0bgAAUk5y.jpg" width="600" alt="Cómic / Guion gráfico - Hada motociclista sobre una ciudad en miniatura - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [空想製作所/AI４コマ漫画](https://x.com/kuso_seisakusyo)
+- **Fuente:** [Twitter Post](https://x.com/kuso_seisakusyo/status/2062824245554745528#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24331)**
+
+---
+
+### No. 89: Cómic / Guion gráfico - Efecto de muñeca de video casero nostálgico
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para renderizar texto en un estilo 3D CG colorido y lujoso con un alto impacto visual.
+Transforma una referencia de personaje en una muñeca coleccionable de alta calidad capturada en un marco de video casero al estilo de los años 90 con entornos domésticos realistas.
 
 #### 📝 Prompt
 
 ```
-Renderiza el texto "{argument name="text" default="A partir de mañana, daré lo mejor de mí (mañana es festivo)"}" en un estilo 3D CG colorido, brillante y lujoso.
+Utiliza el personaje de la imagen de referencia como diseño base para representar 'un fotograma de un video casero grabado en un entorno doméstico realista'. El personaje no es el personaje de anime en sí, sino que existe como una muñeca, figura o coleccionable de alta calidad inspirado en él. La textura debe parecerse a una Dollfie, una muñeca articulada, una muñeca de moda o una muñeca coleccionable. Mantén firmemente los rasgos faciales, el peinado, el color de cabello, los ojos, las orejas, el atuendo, la silueta y la esencia del personaje. Debe ser reconocible como el personaje original para cualquiera. Sin embargo, no lo representes como un personaje vivo; represéntalo como una muñeca física real que existe en el mundo real. El entorno es {argument name="shooting location" default="una casa típica"}. Puede ser una residencia japonesa o extranjera. Ubicaciones cotidianas como una sala de estar, dormitorio, habitación de niños, jardín, cocina, pasillo o entrada. La situación no es fija; la IA debe decidir de forma natural. La muñeca existe naturalmente dentro de la vida diaria de la familia. Puede interactuar naturalmente con miembros de la familia, niños, bebés, perros, gatos, otras mascotas, juguetes u objetos domésticos. La muñeca puede estar expuesta, ser llevada de un lado a otro, jugar con ella o estar dejada en algún lugar. Prioriza la aleatoriedad en la situación. Los humanos pueden existir naturalmente en el fondo, riendo, hablando, mirando o sin darse cuenta, pero no son los protagonistas; la muñeca sí lo es. La composición debe parecer un clip de una vieja cámara de video casera. No una foto conmemorativa, una toma de producto o un anuncio. Debe sentirse como si se hubiera grabado accidentalmente mientras alguien filmaba la vida cotidiana. Enfatiza la realidad tipo documental. Fondo fotorrealista, espacio habitable realista con señales de uso en los muebles. Nada de habitaciones modelo, espacios excesivamente organizados o sets de filmación. La textura visual debe parecerse a un video casero de {argument name="era" default="los años 90 a principios de los 2000"}. Exposición natural, sensación de video digital ligeramente envejecido, ligeras franjas de color y un poco de ruido. Sin filtros excesivos, movimiento de cámara, efectos de pantalla dañada o efectos VHS. Importante: Esto no es terror. Sin puestas en escena espeluznantes ni muñecas malditas. Es una muñeca normal apreciada por una familia. El mundo es una vida cotidiana extremadamente normal, y solo la muñeca es un poco especial. Prioriza la realidad misteriosa de 'volver a ver un video casero antiguo y notar que la muñeca de este personaje aparece varias veces'.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4441,139 +4314,39 @@ Renderiza el texto "{argument name="text" default="A partir de mañana, daré lo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650700864_oh5hct_HKCR_QlaMAADNTa.jpg" width="600" alt="Marketing de producto - Renderizado de texto 3D CG de lujo - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [まゆひらa](https://x.com/riddi0908)
-- **Fuente:** [Twitter Post](https://x.com/riddi0908/status/2062809420330062304)
-- **Publicado:** 5 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24102)**
-
----
-
-### No. 89: Marketing de producto - Arte conceptual publicitario surrealista
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Crea visuales publicitarios de alto concepto con escalas y leyes físicas surrealistas, enfocados en metáforas visuales y narrativa.
-
-#### 📝 Prompt
-
-```
-Centrándose en {argument name="subject" default="una chica japonesa de 25 años en traje de baño"}. Crea un concepto visual sin precedentes. El sujeto rompe las escalas de la realidad y las leyes físicas. Adopta un pensamiento creativo al nivel de los premios publicitarios internacionales. Enfatiza la metáfora visual, el contraste de escalas, la ilusión espacial y la expresión narrativa.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650736260_7z5u93_HKCJk5NbcAAm4do.jpg" width="600" alt="Marketing de producto - Arte conceptual publicitario surrealista - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **Fuente:** [Twitter Post](https://x.com/Adam38363368936/status/2062800166604996990)
-- **Publicado:** 5 de junio de 2026
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24161)**
-
----
-
-### No. 90: Marketing de producto - Tipografía manuscrita minimalista de verano
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt refinado para crear diseños visuales refrescantes con temática veraniega, que presenta una caligrafía blanca, esbelta y fluida sobre un campo de color brillante.
-
-#### 📝 Prompt
-
-```
-Genera un visual de fuente manuscrita refrescante de verano basado en un contenido temático específico: el fondo consiste en una gran área de esquemas de colores frescos o campos de colores brillantes derivados del tema. Los caracteres principales utilizan una caligrafía blanca y esbelta, con trazos suaves, arcos largos y terminaciones similares al viento. Algunos glifos pueden intercalarse con pequeñas letras en inglés y líneas decorativas. El centro de la composición se deja libre para que los caracteres principales respiren, con una ligera desalineación entre glifos, recordando a una marca de viento, clima o estilo de vida. Los colores mantienen bases de color principales limpias pero de alta saturación, caracteres blancos brillantes y algunas líneas finas de colores claros, creando un ambiente transparente, ágil y aireado. La clave es la dirección de flotación de los trazos y el espacio en blanco; no lo conviertas en caracteres de eslogan pesados.
-
-Texto: {argument name="text" default="Summer Breeze"}
-Nota: Texto blanco sobre fondo negro
-Relación de aspecto 16:9
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650705249_y3ei2m_HKA5PfubAAAorFh.jpg" width="600" alt="Marketing de producto - Tipografía manuscrita minimalista de verano - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735273007_q6hsrp_HKCY6DGb0AAXglL.jpg" width="600" alt="Cómic / Guion gráfico - Efecto de muñeca de video casero nostálgico - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650705044_n21tyf_HKA5QufbsAAn5qu.jpg" width="600" alt="Marketing de producto - Tipografía manuscrita minimalista de verano - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650705020_pblddj_HKA5R_ubcAAxTfe.jpg" width="600" alt="Marketing de producto - Tipografía manuscrita minimalista de verano - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650705565_b3fcaw_HKA5TXGawAAdCMX.jpg" width="600" alt="Marketing de producto - Tipografía manuscrita minimalista de verano - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780735273067_s608ed_HKCY7lobcAA47LS.jpg" width="600" alt="Cómic / Guion gráfico - Efecto de muñeca de video casero nostálgico - Image 2">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [小小东](https://x.com/xiaoxiaodong01)
-- **Fuente:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2062720334571450688)
+- **Autor:** [Eris Create Lab](https://x.com/Eris_Create_Lab)
+- **Fuente:** [Twitter Post](https://x.com/Eris_Create_Lab/status/2062817468251537897)
 - **Publicado:** 5 de junio de 2026
-- **Idiomas:** zh
+- **Idiomas:** ja
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24111)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24279)**
 
 ---
 
-### No. 91: Marketing de producto - Póster de moda Gothic Lolita de Tokio
+### No. 90: Marketing de producto - Póster publicitario de juguete educativo para niños
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Genera un póster de evento de moda gothic-lolita maximalista con una modelo de cuerpo completo, tipografía gótica ornamentada y un estilo underground oscuro de Tokio.
+Genera un póster publicitario brillante y de aspecto profesional para productos infantiles, con una caja de rompecabezas gigante y un entorno de sala de juegos fotorrealista.
 
 #### 📝 Prompt
 
 ```
-Goal: Create a vertical fashion poster for a maximalist Tokyo gothic-lolita theme, styled like a glossy underground magazine cover and event flyer.
-
-Canvas: Tall vertical 9:16 poster, high-contrast flash photography, dark black-red palette, ornate gothic textures, no clean white margins.
-
-Main subject: A full-body young woman model stands slightly right of center in an elaborate black gothic lolita outfit. Her face is intentionally obscured by a soft square blur/mosaic censor block. She has long dark wavy hair with twin ornate hair accessories. Pose: legs crossed, one hand raised near her cheek, the other hand holding out the skirt edge. Expression is hidden; body language is cute, confident, and theatrical.
-
-Outfit details: Use exactly 8 visible outfit/accessory groups: 1) black lace off-shoulder corset bodice with deep neckline, 2) short layered black ruffle skirt with glossy crinoline volume, 3) burgundy satin bows on the bodice and skirt, 4) black lace fingerless gloves and lace arm coverings, 5) silver cross necklace at the chest, 6) multiple dangling silver chains and cross charms around the waist, 7) black platform ankle boots with buckles, straps, metal rings, and cross ornaments, 8) two black-and-burgundy gothic hair ornaments with flowers, bows, lace, chains, and cross charms.
-
-Background: A dense gothic interior with carved black frames, antique mirrors, red stained-glass panels, gold candle sconces, dim warm lights, and baroque decorative clutter. Make it look like a real flash photo taken in a dark gothic club or boutique, with wet glossy highlights and deep shadows.
-
-Left-side poster typography: Fill the left third with ornate layered gothic lettering and decorative graphics. Include exactly 4 main text blocks: 1) large silver-black medieval blackletter headline reading “{argument name="main headline" default="Tokyo Gothic Style"}”, 2) hot-pink dripping graffiti brush text reading “{argument name="graffiti phrase" default="Curse Cute!"}”, 3) small elegant cursive footer reading “{argument name="event title" default="The Ultimate Tokyo Gothic Fashion & Pose Championship"}”, 4) small magenta footer line reading “{argument name="award line" default="2024 Grand Prix"}”.
-
-Decorative elements: Use exactly 5 major gothic graphic motifs on the poster: 1) a large silver cross behind/overlapping the main headline, 2) spiderwebs in the upper-left corner, 3) black ornamental vines and filigree behind the text, 4) small pink hearts around the graffiti phrase, 5) an ornate silver cross near the lower-left area. Add red shadows, chrome highlights, distressed scratches, and layered embossing to the lettering.
-
-Style: “Gorri-gori” heavy gothic, Japanese street fashion editorial, dramatic direct camera flash, glossy latex/leather shine, intricate lace detail, chrome silver jewelry, burgundy accents, punk-goth cute-but-cursed energy, extremely detailed, sharp focus on clothing and text, slightly chaotic but readable poster composition.
-
-Constraints: The subject must remain full-body and right-centered; the face must be covered by a square blur. Keep the palette mostly black, silver, burgundy, and hot pink. Do not add extra people. Do not add extra text beyond the 4 specified text blocks. Make the gothic typography large, dimensional, and legible.
+Un póster publicitario educativo y brillante para niños. Una {argument name="child subject" default="niña curiosa de 6 años con gafas grandes y redondas"} se sienta con las piernas cruzadas en el suelo junto a una {argument name="toy description" default="caja de rompecabezas gigante y colorida que triplica su altura"} con piezas volando que forman el diseño de un mapa mundial; "{argument name="brand name" default="THINKPLAY"}" escrito en una fuente brillante y llamativa en la parte superior de la caja. Fondo de sala de juegos soleado y brillante con piezas de rompecabezas flotantes, libros y un globo terráqueo. Tipografía redondeada, audaz y amigable "THINKPLAY" en azul brillante y naranja llenando el fondo. Eslogan en la parte inferior: "Diversión inteligente para mentes curiosas". El texto pequeño en la esquina superior derecha dice "Designed with GPT Image 2" en gris. Fotorrealista, comercial de productos educativos para niños, iluminación de sala de juegos brillante y alegre.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4581,39 +4354,644 @@ Constraints: The subject must remain full-body and right-centered; the face must
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650744654_mhrkn3_HJ-r8fMaMAAbF0-.jpg" width="600" alt="Marketing de producto - Póster de moda Gothic Lolita de Tokio - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735277771_ao3rmx_HKHec81bEAAn4pG.jpg" width="600" alt="Marketing de producto - Póster publicitario de juguete educativo para niños - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [𝐌](https://x.com/Strength04_X)
+- **Fuente:** [Twitter Post](https://x.com/Strength04_X/status/2063174712994463946)
+- **Publicado:** 6 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24288)**
+
+---
+
+### No. 91: Marketing de producto - Desintegración de comida en píxeles 3D
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una fotografía minimalista de comida donde el sujeto es capturado a mitad de su transformación, combinando el fotorrealismo con la abstracción del arte de píxeles 3D.
+
+#### 📝 Prompt
+
+```
+Una fotografía minimalista de comida que presenta un único {argument name="food item" default="[FOOD]"} sobre una superficie blanca mate y limpia, capturado a mitad de su transformación hacia un estilo de arte de píxeles 3D. La mitad izquierda es perfectamente fotorrealista, mientras que la mitad derecha se disuelve en grandes cubos geométricos flotantes; cada cubo expone los colores vibrantes, las texturas y los detalles internos de la comida. Iluminación de estudio suave, sombras tenues, profundidad de campo reducida, encuentro entre hiperrealismo y abstracción geométrica, sutil desenfoque de movimiento en los cubos. Composición cinematográfica en primer plano de alta resolución.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735248990_0blgeu_HKHbFFDb0AA7Yat.jpg" width="600" alt="Marketing de producto - Desintegración de comida en píxeles 3D - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [PromptLab](https://x.com/iamaiistudio)
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2063171137685569561)
+- **Publicado:** 6 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24239)**
+
+---
+
+### No. 92: Marketing de producto - Plantilla de metáfora visual creativa
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una plantilla de prompt de alta estética para crear metáforas visuales y conceptos artísticos surrealistas.
+
+#### 📝 Prompt
+
+```
+Centrado en {argument name="subject" default="joven"} como núcleo.
+
+Crea un concepto visual sin precedentes.
+
+El sujeto debe romper las reglas de la realidad física y la escala.
+
+Adopta el pensamiento creativo de los estándares internacionales de premios de publicidad.
+
+Enfatiza las metáforas visuales, los contrastes de escala, las ilusiones espaciales y la expresión narrativa.
+
+La composición debe ser minimalista pero altamente memorable.
+
+Debe poseer tanto calidad artística como atractivo comercial con un fuerte impacto visual.
+
+Hazlo inolvidable.
+
+Creatividad y atractivo estético ultra altos.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735263081_vbqhh0_HKHYS2KbwAA_7a_.jpg" width="600" alt="Marketing de producto - Plantilla de metáfora visual creativa - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Adam也叫吉米](https://x.com/Adam38363368936)
+- **Fuente:** [Twitter Post](https://x.com/Adam38363368936/status/2063170319079420414)
+- **Publicado:** 6 de junio de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24270)**
+
+---
+
+### No. 93: Marketing de producto - Tablero de exploración de colores de marca para Neito
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt estructurado para generar un tablero de identidad de marca SaaS y maquetas de landing page en formato 2×2 con cuatro variaciones de color de acento.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear un tablero de exploración de marca limpio para un constructor de landing pages SaaS ficticio llamado {argument name="brand name" default="Neito"}, mostrando el mismo sitio web y sistema de identidad de marca repetido en exactamente 4 direcciones de color.
+
+Lienzo: Lienzo blanco ancho en formato 16:9, organizado como una cuadrícula de 2×2 con cuatro paneles completos de maquetas de marca/sitio web con abundante espacio en blanco. Cada panel es casi idéntico, excepto por el color de acento y las decoraciones de degradado suave y difuminado.
+
+Diseño: Cada uno de los 4 paneles contiene exactamente 2 áreas principales: una maqueta de landing page grande a la izquierda y una columna estrecha de guía de marca a la derecha. Los cuatro temas de acento son: 1 azul, 2 verde, 3 naranja, 4 morado.
+
+Detalles de la maqueta de landing page: En la parte superior izquierda, coloca el logotipo como dos barras inclinadas seguidas de “Neito” con un pequeño símbolo de estrella/destello. En la navegación superior, coloca exactamente 5 elementos: Product, Templates, Pricing, About y un botón redondeado negro que diga “Get started”. Centra un titular editorial grande con fuente serif: “Words become landing pages.” Debajo, añade un pequeño texto de apoyo en gris sobre cómo convertir ideas y contenido en hermosas landing pages listas para compartir, seguido de un botón tipo píldora negro que diga “Start for free”. Debajo del botón, coloca exactamente 3 pequeñas fichas de características con iconos: “No code”, “Quick setup” y “Always in sync”. Detrás del titular principal, utiliza un enorme anillo de degradado circular difuminado y aireado en el color de acento del panel.
+
+Tarjetas del sitio web inferior: Debajo de cada sección principal, coloca exactamente 3 tarjetas de contenido rectangulares con bordes finos y esquinas redondeadas. La tarjeta 1 dice “Build pages from your ideas.” con un pequeño botón tipo píldora negro que dice “Try Neito”. La tarjeta 2 dice “Launching soon.” e incluye una pequeña píldora redondeada de correo electrónico/entrada, además de un botón negro que dice “Notify me” y un gráfico fino de líneas circulares abstractas. La tarjeta 3 está numerada como “01” y dice “Type your thoughts.” con un pequeño texto descriptivo y un gran anillo difuminado de color de acento recortado en la esquina inferior derecha.
+
+Columna de guía de marca: Añade un pequeño encabezado “BRAND IDEA” y un párrafo corto al estilo japonés en texto negro pequeño. Debajo, crea exactamente 4 secciones etiquetadas separadas por líneas horizontales grises finas: COLOR PALETTE, TYPOGRAPHY, VISUAL LANGUAGE y una tarjeta de muestra. En COLOR PALETTE, muestra exactamente 2 muestras circulares etiquetadas como Main y Accent; la muestra Main es casi blanca y la muestra Accent coincide con el color del panel, con una pequeña etiqueta de código hexadecimal al lado de cada una. En TYPOGRAPHY, muestra exactamente 2 especímenes tipográficos: una “Aa” serif grande etiquetada para titulares y una “Aa” sans-serif más pequeña etiquetada para el cuerpo del texto. En VISUAL LANGUAGE, muestra exactamente 4 tokens circulares etiquetados como Flow, Connection, Simplicity y Flex, con uno o más usando el color de acento como un anillo difuminado. La tarjeta de muestra final dice “From thought to landing page.” con un pequeño subtexto y un anillo difuminado de color de acento recortado.
+
+Estilo visual: Presentación de diseño web minimalista y premium, tipografía monocromática, mucho espacio en blanco, divisores gris claro finos, sombras sutiles, degradados suaves y esmerilados, titular editorial serif combinado con pequeñas etiquetas de interfaz sans-serif modernas. Mantén todo nítido como una captura de pantalla de exploración de marca en Figma. Usa {argument name="headline text" default="Words become landing pages."} como el titular principal repetido, {argument name="accent palette" default="blue, green, orange, purple"} para las cuatro variantes de color, y {argument name="canvas ratio" default="16:9"}.
+
+Restricciones: Muestra exactamente 4 paneles, exactamente 3 tarjetas de sitio web inferiores por panel, exactamente 2 áreas de marca por panel, exactamente 2 muestras de color por guía de marca, exactamente 2 especímenes tipográficos por guía de marca y exactamente 4 tokens de lenguaje visual por guía de marca. No añadas fotos, personas, marcos de dispositivos, fondos oscuros ni paneles adicionales.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735298695_vt3u8t_HKDuZ61bQAAm1HO.jpg" width="600" alt="Marketing de producto - Tablero de exploración de colores de marca para Neito - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [塚本 賢志 / Kenshi Tsukamoto](https://x.com/dezainaz_ceo)
+- **Fuente:** [Twitter Post](https://x.com/dezainaz_ceo/status/2062912040784835057#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24324)**
+
+---
+
+### No. 94: Marketing de producto - Ilustración de moda al estilo Vogue
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de transformación de imágenes para convertir fotos en elegantes ilustraciones de moda al estilo Vogue, con bocetos minimalistas y contornos de tinta audaces.
+
+#### 📝 Prompt
+
+```
+Convierte esta foto en una {argument name="style" default="ilustración de moda al estilo Vogue"}, preservando la {argument name="key feature" default="identidad, rasgos faciales y apariencia del sujeto"}. Boceto minimalista dibujado a mano con elegantes proporciones alargadas, contornos de tinta negra audaces, trazos sueltos y seguros, colores planos de marcador y sutiles acentos de rubor. Ojos estilizados, labios gráficos, cabello con tinta expresiva y {argument name="element" default="formas geométricas de ropa"} simplificadas. Fondo blanco limpio, textura de papel escaneado, ilustración de moda editorial de lujo moderna. No añadas ningún texto.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735256860_3u5dq4_HKDkxqbbQAAmEdI.jpg" width="600" alt="Marketing de producto - Ilustración de moda al estilo Vogue - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Oogie](https://x.com/oggii_0)
+- **Fuente:** [Twitter Post](https://x.com/oggii_0/status/2062900184695161331)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24260)**
+
+---
+
+### No. 95: Marketing de producto - Retrato de moda con doble exposición
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt avanzado de imagen a imagen para GPT Image 2 que crea un efecto cinematográfico de doble exposición utilizando una foto de referencia para la consistencia facial.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen subida como referencia facial exacta.
+Preserva la identidad facial exacta, las proporciones, el peinado, el tono de piel, los rasgos faciales, la asimetría natural, la expresión y el parecido general con la máxima precisión. No rediseñes ni alteres el rostro.
+
+Crea un retrato de moda cinematográfico con doble exposición. Un retrato en primer plano semitransparente y gigantesco de la misma mujer llena todo el fondo, usando {argument name="accessories" default="gafas de sol redondas con estilo"} y mirando con confianza hacia el horizonte. El retrato gigante se funde suavemente con el cielo con una iluminación cinematográfica y una profundidad atmosférica de ensueño.
+
+En primer plano, la misma mujer aparece de cuerpo entero, posando de forma natural con las manos en los bolsillos. Viste una {argument name="outfit" default="camisa de botones de color rosa polvoriento extragrande con mangas remangadas, pantalones blancos elegantes y zapatillas blancas"}. Su largo cabello oscuro fluye naturalmente con el viento.
+
+{argument name="lighting" default="Iluminación de exteriores durante la hora dorada"}, nubes suaves, sutil destello de lente, estética editorial de moda de lujo, textura de piel ultrarrealista, fotografía de revista de alta gama, profundidad de campo cinematográfica, gradación de color cálida, sombras elegantes, aspecto de campaña comercial premium.
+
+El retrato gigante del fondo y la figura del primer plano deben ser la misma persona, creando un efecto de doble exposición sin fisuras. Fotorrealista, lente de 85 mm, enfoque ultra nítido, composición de obra maestra, campaña de moda al estilo Vogue, impacto visual que detiene el scroll, calidad 8K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735247197_ixhm1u_HKDVl6ca4AATZPc.jpg" width="600" alt="Marketing de producto - Retrato de moda con doble exposición - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Lariab Fatima‎](https://x.com/AiwithLariab)
+- **Fuente:** [Twitter Post](https://x.com/AiwithLariab/status/2062883489108906252)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24234)**
+
+---
+
+### No. 96: Marketing de producto - Escultura de vidrio nacarado
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un diseño de prompt para crear esculturas de vidrio o nacaradas de criaturas, utilizando esquemas de color que coincidan con la temática del sujeto.
+
+#### 📝 Prompt
+
+```
+Estatua, enfatizando cuentas de vidrio en colores que coincidan con la temática, {argument name="subject" default="El Kraken (el monstruo marino gigante de la mitología nórdica)"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735263995_ib1msf_HKC-O-5a4AAfAYX.jpg" width="600" alt="Marketing de producto - Escultura de vidrio nacarado - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650744644_uxwnh9_HJ-r9TvasAEfMuE.jpg" width="600" alt="Marketing de producto - Póster de moda Gothic Lolita de Tokio - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735262711_4muxg4_HKC_5PxboAAWFoe.jpg" width="600" alt="Marketing de producto - Escultura de vidrio nacarado - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [TWnese](https://x.com/TWnese)
+- **Fuente:** [Twitter Post](https://x.com/TWnese/status/2062862291021033507)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24271)**
+
+---
+
+### No. 97: Marketing de producto - Retrato de Streetwear en la Nieve con Ojo de Pez
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de fotografía de streetwear único que utiliza un lente ojo de pez cenital extremo para crear una distorsión de perspectiva dramática en un paisaje nevado.
+
+#### 📝 Prompt
+
+```
+Retrato de streetwear de ultra alta calidad capturado desde un {argument name="lens" default="lente ojo de pez cenital"} extremo, con manos sobredimensionadas que crean una distorsión de perspectiva dramática. {argument name="outfit" default="Chaqueta acolchada blanca, sudadera con capucha azul y accesorios de invierno"} sobre un {argument name="background" default="paisaje nevado"} con un cielo azul vibrante y nubes cinematográficas. Composición surrealista, estética de moda juvenil, piel fotorrealista, gradación de color premium, fotografía editorial de lujo, hiperrealista, 8K, vertical 1080x1350. Sin texto, logotipo ni marca de agua.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735257831_mvz9uw_HKDBMHuaIAA6oPu.jpg" width="600" alt="Marketing de producto - Retrato de Streetwear en la Nieve con Ojo de Pez - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735258890_55seyj_HKDBMRZbwAAGKq5.jpg" width="600" alt="Marketing de producto - Retrato de Streetwear en la Nieve con Ojo de Pez - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Harboris](https://x.com/harboriis)
+- **Fuente:** [Twitter Post](https://x.com/harboriis/status/2062861049943199982)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24264)**
+
+---
+
+### No. 98: Marketing de producto - Collage de prompts de arte textil en 3D
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un póster social cuadrado que presenta cuatro paneles redondeados de esculturas textiles realistas en 3D, útil para mostrar transformaciones de objetos con estilo de tela.
+
+#### 📝 Prompt
+
+```
+Objetivo: Crear un póster de exhibición premium para redes sociales en formato cuadrado sobre cómo convertir objetos cotidianos en arte textil 3D táctil, utilizando {argument name="headline text" default="PROMPT SHARE"} como título principal y {argument name="signature text" default="Samann_AI"} como etiqueta del creador.
+
+Lienzo: Composición cuadrada 1:1, fondo blanco limpio, diseño de galería con esquinas redondeadas. Utiliza un aspecto editorial de diseño de producto suave con telas realistas, arpillera, fieltro, lana, tweed, mezclilla, gamuza, cuero y detalles en cobre cepillado. La iluminación es suave y direccional con sombras realistas, dando a cada elemento una sensación de bajorrelieve y escultura textil hecha a mano.
+
+Diseño: Organiza exactamente 4 paneles de imagen cuadrados y redondeados en una cuadrícula de 2 por 2 con márgenes blancos estrechos. Cada panel tiene un fondo verde salvia o gris oliva apagado y contiene un objeto de collage de tela 3D centrado. Añade una franja de marca en la parte inferior debajo de la cuadrícula: a la izquierda, un texto grande en mayúsculas de color gris azulado condensado que dice {argument name="headline text" default="PROMPT SHARE"}; directamente debajo o superpuesto, un texto en cursiva gris que dice "chat GPT 2.0". A la derecha, coloca una píldora larga y redondeada de color gris claro que contenga letras espaciadas en gris azulado que digan {argument name="signature text" default="Samann_AI"}, además de un pequeño avatar de perfil circular en el extremo derecho.
+
+Contenido de los cuatro paneles, exactamente 4:
+1. Panel superior izquierdo: un retrato de negocios masculino estilizado construido a partir de rectángulos y varillas de tela superpuestos. La figura viste una chaqueta de traje azul marino, camisa blanca y corbata tejida roja. Un cabello de tela esculpida en color gris beige se asienta sobre la cabeza. El área de la cara está cubierta intencionalmente por un parche de tela marrón cuadrado y plano, como un marcador de posición anónimo. Rodea el retrato con bloques textiles apilados en tonos canela, marrón, azul marino y carbón, varillas de cobre delgadas y pequeños discos de latón redondos.
+2. Panel superior derecho: un emblema circular inspirado en BMW hecho completamente de materiales similares a la tela y al cuero. Muestra un anillo exterior negro con letras en crema en relieve "B", "M" y "W" espaciadas alrededor de la parte superior. En el centro, incluye el clásico círculo dividido en cuatro partes en tela beige y azul oscuro. Rodéalo con bloques rectangulares de arpillera, paneles verticales oscuros, varillas de cobre delgadas, pequeñas perillas de latón y formas de respaldo geométricas superpuestas.
+3. Panel inferior izquierdo: una escena de sofá moderno y acogedor renderizada como una escultura de pared de tela. Muestra un sofá tapizado en beige con brazos redondeados, exactamente 2 cojines sobre él, una línea de estante o mesa de madera oscura delgada debajo del asiento y muchos rectángulos textiles apilados detrás y debajo. Utiliza telas en tonos canela, crema, marrón, topo y gris, además de un gran semicírculo marrón redondeado a la izquierda, decoraciones tipo cuentas, discos de latón y varillas de cobre delgadas.
+4. Panel inferior derecho: un segundo retrato estilizado, esta vez una persona mayor con cabello de lana blanco-gris rizado y voluminoso y un abrigo o chaqueta de tweed gris. La cara está oculta intencionalmente por un parche de tela rectangular de color marrón topo. Construye el fondo a partir de cuadrados y rectángulos densos superpuestos de textiles en tonos marrón, beige, gris y carbón, con pequeños círculos de latón y alfileres de cobre verticales.
+
+Estilo visual: Artesanía textil 3D ultra detallada, textura de fibra tejida realista, profundidad de collage en capas, paleta cálida y terrosa con acentos azul marino, ambiente de lujo hecho a mano, bordes nítidos, esquinas de panel redondeadas, oclusión ambiental sutil, presentación de diseño de alta gama al estilo Behance.
+
+Restricciones: Mantén exactamente 4 paneles de imagen principales y exactamente 1 franja de marca inferior. No añadas paneles adicionales. Haz que todos los objetos parezcan físicamente hechos de tela e hilo en lugar de una ilustración digital plana. Conserva el texto visible "BMW", "chat GPT 2.0", el título y la etiqueta del creador. Evita la piel humana fotorrealista; los retratos deben seguir siendo construcciones textiles abstractas con la cara cubierta por parches de tela simples.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735295955_ymh6g1_HKC_O22WIAAvaBE.jpg" width="600" alt="Marketing de producto - Collage de prompts de arte textil en 3D - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Saman | AI](https://x.com/Samann_ai)
+- **Fuente:** [Twitter Post](https://x.com/Samann_ai/status/2062858906842350005#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24318)**
+
+---
+
+### No. 99: Marketing de producto - Marco de teléfono de moda parisina
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de fotografía de moda de alta gama que utiliza una composición de marco dentro de un marco con un smartphone en un entorno parisino.
+
+#### 📝 Prompt
+
+```
+Fotografía de moda de estilo de vida ultrarrealista que presenta a una {argument name="subject" default="joven elegante"} inclinándose hacia adelante y lanzando un beso hacia la cámara en un {argument name="setting" default="encantador entorno de calle al estilo parisino"}. Una mano en primer plano sostiene un smartphone que muestra la vista de la cámara en vivo, creando una composición creativa de marco dentro de un marco. La mujer tiene el cabello oscuro largo y fluido, maquillaje natural, ojos expresivos y una expresión cálida y juguetona. Viste una {argument name="outfit" default="chaqueta de cuero color burdeos oscuro, una minifalda ajustada de ante color carbón y elegantes botas altas de cuero marrón"}. La pantalla del smartphone incluye sutiles anotaciones de moda escritas a mano que señalan la falda de ante y las botas de cuero, otorgando a la imagen una estética editorial moderna inspirada en las redes sociales. El fondo presenta un banco de parque verde clásico con las palabras "Le Silencio" visibles, hojas de otoño esparcidas por el pavimento y un entorno urbano suavemente desenfocado. Profundidad de campo reducida, bokeh cinematográfico, luz natural de día nublado, textura de piel realista, calidad de campaña de moda premium, fotografía de estilo callejero de alta gama, atmósfera acogedora de otoño, composición digna de Instagram, estética de estilo de vida de lujo, ultra detallado, calidad DSLR, lente de 85 mm, apertura f/1.8, fotorrealista, gradación de color cálida y apagada, editorial de moda inspirado en Vogue, contenido viral para redes sociales.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735253569_ol6ioh_HKC1IhxbgAAGVDO.jpg" width="600" alt="Marketing de producto - Marco de teléfono de moda parisina - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735253568_8xeagk_HKC1I0jaAAA2uNO.jpg" width="600" alt="Marketing de producto - Marco de teléfono de moda parisina - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jahan Zaib](https://x.com/jzaib4269)
+- **Fuente:** [Twitter Post](https://x.com/jzaib4269/status/2062847797737800082)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24251)**
+
+---
+
+### No. 100: Marketing de producto - Póster cinematográfico del estadio para la Copa Mundial 26
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un póster heroico y fotorrealista de un evento de fútbol que presenta a un jugador, el trofeo, las banderas de los anfitriones, el estadio con el horizonte de la ciudad y una tipografía audaz para la Copa Mundial 26.
+
+#### 📝 Prompt
+
+```
+Crea un póster deportivo cinematográfico en formato panorámico para {argument name="event title" default="FIFA WORLD CUP 26"}. Muestra un estadio nocturno lleno de gente visto desde el nivel del campo, con una arquitectura curva dramática, miles de espectadores brillantes, estelas pirotécnicas rojas y doradas, potentes reflectores de estadio y un cielo al anochecer sobre un horizonte al estilo de Nueva York con el One World Trade Center centrado al fondo. En el centro del primer plano, coloca a un jugador de fútbol masculino visto desde atrás, vistiendo un uniforme blanco con detalles dorados y el número {argument name="player number" default="10"} en la espalda, de pie con los pies separados y ambos brazos levantados triunfalmente hacia un trofeo dorado de la Copa Mundial que flota sobre él. Coloca un balón de fútbol detallado sobre el césped en la parte inferior izquierda del primer plano. Añade exactamente tres grandes banderas nacionales ondeando en postes altos a través de la parte superior del estadio: la bandera de Estados Unidos a la izquierda, la bandera de Canadá a la izquierda del centro y la bandera de México a la derecha. Utiliza un estilo publicitario de deportes de fantasía fotorrealista ultra detallado, contraste HDR, iluminación de contorno dorada, destellos de lente, chispas, confeti, escala épica, enfoque nítido y una paleta de colores rojo, dorado y azul. En la parte inferior, añade una tipografía metálica en 3D audaz que diga {argument name="headline text" default="FIFA WORLD CUP 26"}; debajo, añade un texto más pequeño que diga "USA CANADA MEXICO" con USA en rojo, CANADA en blanco, MEXICO en verde, separados por pequeños puntos dorados; debajo de eso, añade la línea de fecha {argument name="date line" default="JUNE 11 - JULY 19"}. Mantén la composición simétrica y heroica, con el trofeo, el jugador, la torre del horizonte y el titular alineados en el centro vertical. Sin logotipos adicionales, sin marcas de agua, sin texto adicional.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735304547_ixlwsl_HKCvUISWYAAbH3Q.jpg" width="600" alt="Marketing de producto - Póster cinematográfico del estadio para la Copa Mundial 26 - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Tisho](https://x.com/tihomirVR)
+- **Fuente:** [Twitter Post](https://x.com/tihomirVR/status/2062841571146441013#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24337)**
+
+---
+
+### No. 101: Imagen principal de e-commerce - Concepto publicitario surrealista de Pepsi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt publicitario fotorrealista y surrealista que presenta un smartphone gigante y un efecto de salpicadura de líquido para un concepto de la marca Pepsi.
+
+#### 📝 Prompt
+
+```
+Una escena de mesa surrealista y fotorrealista que tiene como punto focal un smartphone gigante. En la pantalla, {argument name="subject" default="una mujer en un entorno invernal"} sonríe cálidamente mientras sostiene un vaso transparente con el logotipo de {argument name="brand" default="Pepsi"}. Una mano humana real vierte {argument name="beverage" default="Pepsi"} desde una botella cubierta de condensación hacia la pantalla, y el líquido atraviesa la superficie hasta caer en el vaso que ella sostiene dentro. Un libro cerrado y un bolígrafo negro descansan junto al teléfono para dar escala. Iluminación natural cálida, sombras cinematográficas, detalles de salpicaduras de líquido ultra nítidos, reflejos hiperrealistas en la piel y el cristal, estética de fotografía comercial, calidad 8K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735253035_twjdvt_HKCs20baAAAXnVR.jpg" width="600" alt="Imagen principal de e-commerce - Concepto publicitario surrealista de Pepsi - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [PromptLab](https://x.com/iamaiistudio)
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062838825819517287)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24249)**
+
+---
+
+### No. 102: Imagen principal de e-commerce - Pastel entero de personaje de anime de fantasía
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para generar un lujoso pastel entero mágico con la temática de un personaje de anime personalizable.
+
+#### 📝 Prompt
+
+```
+Crea una toma de producto de pastelería de fantasía altamente detallada de un solo pastel entero redondo con la temática de {argument name="character name" default="Nozomu"}, presentado como si un personaje de anime original se hubiera transformado en un pastel de celebración oficial. El pastel es un nivel cilíndrico grande sobre un plato de porcelana blanca con borde dorado, decorado en azul hielo pálido, lavanda, crema, blanco perla y oro metálico. Incluye exactamente dos representaciones del personaje: un adorno de pastel de chica anime tridimensional que emerge de la parte superior central y un retrato enmarcado ovalado en la parte frontal del pastel. El personaje tiene {argument name="hair color" default="cabello largo rubio pálido"}, una estética de bruja o maga en azul lavanda, un sombrero de ala ancha ornamentado y de gran tamaño cubierto con flores azules y rosas, filigrana dorada y un vestido azul oscuro estilo corsé con mangas abullonadas caídas; mantén el rostro suavemente oculto o cubierto por una máscara rectangular de color piel para que la imagen se lea como un pastel de plantilla de personaje personalizable. En la parte superior del pastel, rodea el adorno con rosetas de crema de mantequilla densamente decoradas, remolinos de concha, perlas de azúcar, dulces de gemas azules brillantes, fragmentos de hielo cristalinos, decoraciones de vidrio en forma de media luna y muchas flores pequeñas en azul, blanco, lavanda y rosa rubor. En la parte superior central frontal, coloca una placa de crema ornamentada con un borde barroco dorado en relieve y el texto del nombre en japonés visible {argument name="plaque text" default="のぞむ"} en elegantes letras marrón dorado. En el lateral del pastel, crea un glaseado degradado azul pálido con motas de azúcar brillante, volutas doradas, acentos de joyas azules colgantes, bordes blancos decorados y un elaborado marco dorado ovalado que contiene el segundo retrato del mismo personaje, también con el rostro cubierto por una máscara rectangular de color piel. Incluye exactamente tres linternas cálidas en el fondo: una linterna alta desenfocada a la izquierda, una linterna estilo farola antigua nítida justo detrás del pastel a la derecha y una linterna colgante desenfocada en la parte superior derecha. Ambientado en un entorno de jardín de cristal nocturno de ensueño o una pastelería mágica con luces bokeh suaves, reflejos, pétalos flotantes, poca profundidad de campo, detalle macro lujoso, reflejos luminosos y una atmósfera romántica de cuento de hadas. Usa una composición vertical 4:5, pastel centrado, calidad de ilustración de anime 3D fotorrealista, textura de glaseado ultra intrincada, joyas brillantes y sin palabras adicionales más allá del texto de la placa.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735302902_1f7gpm_HJ_q4yMbEAALKfh.jpg" width="600" alt="Imagen principal de e-commerce - Pastel entero de personaje de anime de fantasía - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735302542_hrl62o_HJ_q5uub0AAiMbz.jpg" width="600" alt="Imagen principal de e-commerce - Pastel entero de personaje de anime de fantasía - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [のぞむ＊AIイラスト](https://x.com/ArtistaNozomu)
+- **Fuente:** [Twitter Post](https://x.com/ArtistaNozomu/status/2062764854130405733#reversed-0)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24333)**
+
+---
+
+### No. 103: Imagen principal de e-commerce - Editorial de moda de Asia Oriental
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para sesión de fotos de estudio de moda de alta gama para una mujer joven de Asia Oriental, con estilo athleisure de lujo y luz natural suave y direccional.
+
+#### 📝 Prompt
+
+```
+Fotografía editorial de moda de cuerpo completo ultrarrealista de una hermosa mujer joven {argument name="ethnicity" default="de Asia Oriental"} con cabello negro largo y brillante, flequillo suave y ligero, piel clara, rasgos femeninos delicados y una apariencia natural y saludable. De pie casualmente contra una {argument name="background" default="pared de estudio minimalista de color gris claro"}, manteniendo una postura relajada pero segura.
+
+Atuendo: {argument name="outfit" default="top corto de punto acanalado en color azul polvo ajustado"} con mangas cortas, escote Henley sutil con botones pequeños, silueta favorecedora, estilo athleisure de lujo premium. Falda plisada de color carbón de tiro alto con un largo que llega justo por encima de las rodillas, movimiento elegante en los pliegues, estética deportiva de lujo sofisticada. Calcetines blancos de corte redondo y zapatillas de correr de diseñador premium con suela gruesa.
+
+Pose: apoyada suavemente contra la pared con un hombro tocando la superficie, una pierna ligeramente doblada y cruzada naturalmente frente a la otra, brazos relajados, inclinación suave de cabeza, expresión tranquila y segura, contacto visual directo con la cámara. Lenguaje corporal natural, energía de modelo de moda sin esfuerzo.
+
+Entorno: estudio de lujo minimalista, paredes arquitectónicas limpias, detalles de esquina suaves, suelo pulido, sombras sutiles de luz de ventana geométrica cayendo sobre la pared y el suelo. Sin distracciones, atmósfera contemporánea refinada.
+
+Iluminación: luz natural direccional suave que entra desde el lateral, sombras realistas del marco de la ventana, hermosos reflejos en la piel, contraste natural, iluminación de estudio de moda premium, transiciones de sombra suaves, profundidad y dimensionalidad realistas.
+
+Cámara: composición de cuerpo completo, lente de fotografía de moda de 85 mm, perspectiva a la altura de los ojos, profundidad de campo reducida, enfoque ultra nítido en el sujeto, textura de piel realista, calidad de fotografía comercial premium.
+
+Estilo: editorial de Vogue, campaña de athleisure de lujo, estética inspirada en Alo, publicidad de ropa deportiva premium, minimalismo limpio, elegancia femenina moderna, fotorrealista, ultra detallado, proporciones realistas, físico atlético saludable, belleza natural, campaña de moda de lujo, calidad 8K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735259138_z2x0bo_HKBoH2YboAAMQhf.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de Asia Oriental - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735259151_71pfxn_HKBoH4Aa4AAuABK.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de Asia Oriental - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650744641_qirg7t_HJ-sBmgbgAAghOp.jpg" width="600" alt="Marketing de producto - Póster de moda Gothic Lolita de Tokio - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780735259494_djgkzp_HKBoH5jbsAE_iPk.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de Asia Oriental - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650745276_blsfzj_HJ-sCO4b0AAuKYQ.jpg" width="600" alt="Marketing de producto - Póster de moda Gothic Lolita de Tokio - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780735260366_gm1g6z_HKBoH8CagAAyERF.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de Asia Oriental - Image 4">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [AI Girl's Photo Studio](https://x.com/AI_GIRL_DESIGN)
-- **Fuente:** [Twitter Post](https://x.com/AI_GIRL_DESIGN/status/2062655645518569508#reversed-0)
-- **Publicado:** 4 de junio de 2026
+- **Autor:** [Johnn](https://x.com/john_my07)
+- **Fuente:** [Twitter Post](https://x.com/john_my07/status/2062763118321901933)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24182)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24265)**
 
 ---
 
-### No. 92: Marketing de producto - Anuncio de perfume de lujo flotante
+### No. 104: Imagen principal de e-commerce - Render de auriculares gaming futuristas
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de renderizado de producto de lujo para unos auriculares gaming futuristas en una arena ciberneón con estelas RGB.
+
+#### 📝 Prompt
+
+```
+{argument name="product" default="Auriculares gaming futuristas"} flotando en una {argument name="environment" default="arena ciberneón"}, estelas de luz RGB, efectos holográficos, atmósfera gaming cinematográfica, iluminación de contraste dramática, render de producto premium, materiales ultrarrealistas, publicidad de esports de alta gama, 8K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735255699_fg9jqt_HKBU_fNaEAAvOPW.jpg" width="600" alt="Imagen principal de e-commerce - Render de auriculares gaming futuristas - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735255836_boonac_HKBU_fJbkAA_T31.jpg" width="600" alt="Imagen principal de e-commerce - Render de auriculares gaming futuristas - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Snow](https://x.com/iamrealsnow)
+- **Fuente:** [Twitter Post](https://x.com/iamrealsnow/status/2062742091521003932)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24257)**
+
+---
+
+### No. 105: Imagen principal de e-commerce - Prompt para comercial de cuidado de la piel refrescante de verano
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado de imagen promocional para gpt-image-2 que captura a una modelo sosteniendo un producto de cuidado de la piel contra un cielo azul despejado, enfatizando la frescura del verano.
+
+#### 📝 Prompt
+
+```
+[Persona] Imagen 1, Imagen 2 [Pose y expresión de la persona] En una pose de ángulo bajo mirando hacia la cámara, la mano derecha se extiende frente al lente de la cámara para sostener el [{argument name="product" default="producto"} en la Imagen 3] con gran énfasis. La mano izquierda está levantada a la altura del hombro con los dedos ligeramente separados, y mira directamente hacia adelante con una expresión refrescante y vivaz con la boca ligeramente abierta. [Atuendo del personaje] Viste un {argument name="outfit" default="top sin mangas de punto acanalado"} de un color similar al producto de la [Imagen 3]. Un top ligero que brinda una sensación refrescante de verano, resaltando las líneas de los hombros y brazos de la persona para enfatizar un look fresco de temporada. [Detalles de cabello y maquillaje del personaje] {argument name="hairstyle" default="Cabello largo, liso y castaño"} peinado con un efecto mojado y húmedo, naturalmente echado hacia atrás. El maquillaje se basa en una expresión de piel transparente y húmeda, con un rubor rosa vibrante aplicado ampliamente en ambas mejillas para añadir un aspecto jugoso, y labios terminados con una textura húmeda y vitalidad natural. [Iluminación y dirección de la luz] La luz natural intensa y brillante del mediodía en un entorno exterior despejado brilla directamente sobre el frente de la persona y el producto de cuidado de la piel. La fuerte luz solar atraviesa el envase cosmético transparente, creando reflejos claros e iluminando intensamente las facciones y la textura de la piel de la persona sin sombras. [Textura y ambiente de color] El azul del cielo y el refrescante color menta del atuendo y el producto armonizan para crear un ambiente veraniego extremadamente fresco y limpio. La textura de burbujas finas dentro del envase del suero, la textura suave de la superficie del envase, la textura densa de la tela acanalada del atuendo y el brillo de la piel húmeda se expresan vívidamente. [Película y profundidad del lente de la cámara, ángulo] Fotografiado desde un ángulo contrapicado extremo ('ojo de gusano') mirando hacia el cielo desde el suelo. Utilizando una profundidad de campo muy reducida, la botella de cosmético ubicada directamente frente a la cámara se captura muy grande y clara, mientras que el rostro y el cuerpo de la persona ubicados detrás están suavemente desenfocados. [Elementos de fondo (Opcional)] Un cielo azul de verano despejado y limpio, casi sin nubes, llena toda la pantalla como fondo. Solo en la parte inferior derecha cuelga ligeramente una parte muy suave de una nube cúmulo blanca, convirtiéndolo en un fondo exterior minimalista que realza aún más los colores refrescantes de la persona y el producto.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780735276208_1c5eru_HJcsI7Tb0AAQn0z.jpg" width="600" alt="Imagen principal de e-commerce - Prompt para comercial de cuidado de la piel refrescante de verano - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [CHAse](https://x.com/CHAseUnre)
+- **Fuente:** [Twitter Post](https://x.com/CHAseUnre/status/2062700430178881892)
+- **Publicado:** 5 de junio de 2026
+- **Idiomas:** ko
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24285)**
+
+---
+
+### No. 106: Imagen principal de e-commerce - Anuncio de perfume de lujo flotante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4633,7 +5011,7 @@ Crea un lujoso anuncio de producto cuadrado para un frasco de perfume premium ll
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650755705_ig6hop_HJt4mzQWcAUZ-H0.jpg" width="600" alt="Marketing de producto - Anuncio de perfume de lujo flotante - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780650755705_ig6hop_HJt4mzQWcAUZ-H0.jpg" width="600" alt="Imagen principal de e-commerce - Anuncio de perfume de lujo flotante - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4647,7 +5025,7 @@ Crea un lujoso anuncio de producto cuadrado para un frasco de perfume premium ll
 
 ---
 
-### No. 93: Marketing de producto - Editorial de moda de levitación de alto concepto
+### No. 107: Imagen principal de e-commerce - Editorial de moda de levitación de alto concepto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4667,25 +5045,25 @@ Conjunto completo {argument name="fashion style" default="ESTILO"} flotando en s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650707789_97uj0d_HJ_ee3jaAAAZn7y.jpg" width="600" alt="Marketing de producto - Editorial de moda de levitación de alto concepto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780650707789_97uj0d_HJ_ee3jaAAAZn7y.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de levitación de alto concepto - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650707772_hz2wnr_HJ_ee3kaQAAH3uj.jpg" width="600" alt="Marketing de producto - Editorial de moda de levitación de alto concepto - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780650707772_hz2wnr_HJ_ee3kaQAAH3uj.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de levitación de alto concepto - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650707802_1wor60_HJ_ee3uakAApVA_.jpg" width="600" alt="Marketing de producto - Editorial de moda de levitación de alto concepto - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780650707802_1wor60_HJ_ee3uakAApVA_.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de levitación de alto concepto - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650708453_bp0e7q_HJ_ee3ybYAAfpcK.jpg" width="600" alt="Marketing de producto - Editorial de moda de levitación de alto concepto - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780650708453_bp0e7q_HJ_ee3ybYAAfpcK.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de moda de levitación de alto concepto - Image 4">
 </div>
 
 #### 📌 Detalles
@@ -4699,7 +5077,7 @@ Conjunto completo {argument name="fashion style" default="ESTILO"} flotando en s
 
 ---
 
-### No. 94: Marketing de producto - Editorial de lujo: Camiseta de fútbol flotante
+### No. 108: Imagen principal de e-commerce - Editorial de lujo: Camiseta de fútbol flotante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4719,7 +5097,7 @@ Un sofisticado prompt de fotografía de moda diseñado para generar imágenes de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650728327_xz5huj_HJ_QntmbkAAG_Qe.jpg" width="600" alt="Marketing de producto - Editorial de lujo: Camiseta de fútbol flotante - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780650728327_xz5huj_HJ_QntmbkAAG_Qe.jpg" width="600" alt="Imagen principal de e-commerce - Editorial de lujo: Camiseta de fútbol flotante - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4733,47 +5111,7 @@ Un sofisticado prompt de fotografía de moda diseñado para generar imágenes de
 
 ---
 
-### No. 95: Marketing de producto - Editorial de moda boutique minimalista
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un set de prompts de moda editorial de alta gama ambientado en una boutique minimalista, centrado en texturas suaves, iluminación cálida y detalles realistas.
-
-#### 📝 Prompt
-
-```
-Fotografía editorial de moda de cuerpo completo de una mujer joven y hermosa con la misma apariencia que la referencia, cabello oscuro largo y brillante, flequillo suave, piel clara y rasgos femeninos refinados. Ella está de pie casualmente en una boutique de moda minimalista de lujo, vistiendo un {argument name="sweater style" default="suéter de punto oversize en azul pastel"} combinado con una {argument name="skirt style" default="falda negra plisada estilo tenis"}, {argument name="sock style" default="calcetines blancos de corte medio"} y zapatillas deportivas de diseñador con suela gruesa. Pose relajada y segura, sonrisa suave, interior de tienda de lujo con percheros modernos, prendas en tonos neutros, iluminación ambiental cálida, texturas de madera y piedra, líneas arquitectónicas limpias, profundidad de campo cinematográfica, iluminación realista, publicidad de moda premium, editorial estilo Vogue, ultra detallado, enfoque nítido, fotorrealista, 4K.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650724758_0bnxjp_HJ_BWEfbUAA4bNE.jpg" width="600" alt="Marketing de producto - Editorial de moda boutique minimalista - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650724753_1qzyb7_HJ_BWFNa8AAtAwC.jpg" width="600" alt="Marketing de producto - Editorial de moda boutique minimalista - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Johnn](https://x.com/john_my07)
-- **Fuente:** [Twitter Post](https://x.com/john_my07/status/2062579742759649486)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24142)**
-
----
-
-### No. 96: Marketing de producto - Diseño de anuncio de revista de trajes de baño
+### No. 109: Imagen principal de e-commerce - Diseño de anuncio de revista de trajes de baño
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4793,7 +5131,7 @@ Página publicitaria para una revista de moda de {argument name="attire" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650710885_decsk3_HJ-0oRTbAAAKiVD.jpg" width="600" alt="Marketing de producto - Diseño de anuncio de revista de trajes de baño - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780650710885_decsk3_HJ-0oRTbAAAKiVD.jpg" width="600" alt="Imagen principal de e-commerce - Diseño de anuncio de revista de trajes de baño - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4807,57 +5145,7 @@ Página publicitaria para una revista de moda de {argument name="attire" default
 
 ---
 
-### No. 97: Marketing de producto - Póster del capitán de Argelia para la Copa Mundial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una plantilla de póster de fútbol vertical premium que presenta al capitán de Argelia, Riyad Mahrez, para la Copa Mundial de la FIFA 2026, con estadio, bandera, estadísticas y gráficos deportivos editoriales.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear un póster de fútbol vertical dramático para la Copa Mundial 2026 de {argument name="player name" default="Riyad Mahrez"}, capitán de Argelia, en un estilo premium de tarjeta coleccionable deportiva/editorial.
-
-Lienzo: Póster vertical alto, relación de aspecto 2:3, paleta de colores verde esmeralda oscuro, blanco y dorado metálico, iluminación de estadio de alto contraste, textura de papel granulado, paneles geométricos diagonales y líneas de acento doradas finas.
-
-Composición principal: Utilice un retrato en primer plano del jugador como fondo, recortado desde el cabello hasta la parte superior del pecho y posicionado ligeramente a la derecha del centro, con el rostro cubierto intencionalmente por un gran bloque rectangular suavizado de anonimización en color gris-marrón cálido. Coloque a un futbolista de cuerpo completo en primer plano ligeramente a la izquierda del centro, de pie sobre el césped verde con un pie cerca de un balón de fútbol, también con el rostro cubierto por un bloque rectangular de anonimización más pequeño en gris-marrón cálido. El jugador viste el uniforme blanco de local de Argelia con detalles en verde, el número 7, un brazalete de capitán negro con una C blanca, medias blancas y botas claras. Añada una bandera de Argelia ondeando detrás de él a la izquierda y un estadio lleno con banderas y luces en el fondo inferior.
-
-Marca en la parte superior izquierda: Muestre la marca de la Copa Mundial de la FIFA 2026 en blanco apilada con el trofeo dentro del estilo del número, y el texto exactamente: "FIFA", "WORLD CUP", "2026", "UNITED STATES", "CANADA", "MEXICO".
-
-Área de identidad en la parte superior derecha: Añada el escudo de fútbol de Argelia con dos estrellas doradas encima. Al lado o debajo, coloque la identidad del jugador en tipografía apilada: "RIYAD" en verde, "MAHREZ" en dorado, "ALGERIA" en verde, "CAPTAIN" en dorado y un "7" verde grande. Añada una firma manuscrita dorada debajo.
-
-Columna de estadísticas a la izquierda: Incluya exactamente 6 datos con icono y etiqueta en una pequeña columna vertical cerca del lado inferior izquierdo: 1) icono de camiseta, "POSITION" / "RIGHT WINGER"; 2) icono de escudo de club, "CLUB" / "AL AHLI"; 3) icono de calendario, "DATE OF BIRTH" / "21.02.1991"; 4) icono de persona, "NATIONALITY" / "ALGERIAN"; 5) icono de trofeo, "CAPS" / "95+"; 6) icono de balón de fútbol, "GOALS" / "31+".
-
-Zona de título inferior: Coloque un título enorme en blanco condensado "ALGERIA" en la mitad inferior derecha. Debajo, añada dos estrellas doradas y un subtítulo en letra cursiva dorada {argument name="team nickname" default="Les Fennecs"}. Añada un pequeño texto dorado de los anfitriones: "UNITED STATES | CANADA | MEXICO". En la esquina inferior izquierda, añada un pequeño emblema dorado de un zorro/fennec con el eslogan "ONE NATION" sobre "ONE DREAM".
-
-Elementos visuales adicionales: Añada una estructura de estadio o monumento moderno estilizado en el borde derecho, parcialmente detrás del título. Incluya un balón de fútbol realista a los pies del jugador con detalles del escudo de Argelia. Utilice iluminación cinematográfica, textura de tela realista, detalles de fotografía deportiva nítidos, sombras en capas y un acabado de póster premium.
-
-Restricciones: Mantenga todo el texto visible en inglés, excepto el árabe dentro del escudo de Argelia si se renderiza. Utilice exactamente dos rectángulos de anonimización para cubrir los rostros, uno grande en el retrato de fondo y uno pequeño en el jugador de primer plano. No añada jugadores adicionales, elementos estadísticos extra, marcas de agua ni logotipos no relacionados.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650754618_ffqc8v_HJ-uEoHXcAA0vw2.jpg" width="600" alt="Marketing de producto - Póster del capitán de Argelia para la Copa Mundial - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Nadjib 𝕏](https://x.com/njb47fcb)
-- **Fuente:** [Twitter Post](https://x.com/njb47fcb/status/2062558551365554558#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24206)**
-
----
-
-### No. 98: Marketing de producto - Estudio fotográfico realista de reemplazo de camiseta
+### No. 110: Imagen principal de e-commerce - Estudio fotográfico realista de reemplazo de camiseta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4876,7 +5164,7 @@ Utiliza la Imagen A como referencia principal de la escena y la Imagen B como re
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650709212_n8y2nf_HJ-rBa2aUAADxKr.jpg" width="600" alt="Marketing de producto - Estudio fotográfico realista de reemplazo de camiseta - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780650709212_n8y2nf_HJ-rBa2aUAADxKr.jpg" width="600" alt="Imagen principal de e-commerce - Estudio fotográfico realista de reemplazo de camiseta - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4890,7 +5178,7 @@ Utiliza la Imagen A como referencia principal de la escena y la Imagen B como re
 
 ---
 
-### No. 99: Imagen principal de e-commerce - Tarjeta de residencia japonesa auténtica
+### No. 111: Imagen principal de e-commerce - Tarjeta de residencia japonesa auténtica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4930,7 +5218,7 @@ Fotografía de estudio plana en primer plano, formato 16:9 y ultra realista de u
 
 ---
 
-### No. 100: Imagen principal de e-commerce - Expositor de llaveros acrílicos de chica gato chibi
+### No. 112: Imagen principal de e-commerce - Expositor de llaveros acrílicos de chica gato chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4964,7 +5252,7 @@ Crea una presentación de producto fotorrealista y cálida de exactamente 15 lla
 
 ---
 
-### No. 101: Imagen principal de e-commerce - Juguete de vinilo suave japonés vintage de los años 70
+### No. 113: Imagen principal de e-commerce - Juguete de vinilo suave japonés vintage de los años 70
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4998,7 +5286,7 @@ Utiliza la imagen del robot subida como fuente de referencia completa. Mantén l
 
 ---
 
-### No. 102: Imagen principal de e-commerce - Campaña publicitaria de la bebida energética Limeburst
+### No. 114: Imagen principal de e-commerce - Campaña publicitaria de la bebida energética Limeburst
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5036,7 +5324,7 @@ gotas de agua hiperdetalladas, iluminación cinematográfica 1744x2336
 
 ---
 
-### No. 103: Imagen principal de e-commerce - Collage cinematográfico de acción gastronómica
+### No. 115: Imagen principal de e-commerce - Collage cinematográfico de acción gastronómica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5084,7 +5372,7 @@ Estilo general: fotografía gastronómica cinematográfica de alto detalle, mano
 
 ---
 
-### No. 104: Imagen principal de e-commerce - Anuncio premium de smartphone en color lavanda
+### No. 116: Imagen principal de e-commerce - Anuncio premium de smartphone en color lavanda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5117,7 +5405,7 @@ Anuncio de smartphone premium ultrarrealista, protagonizado por una joven segura
 
 ---
 
-### No. 105: Imagen principal de e-commerce - Imán de recuerdo de esmalte hecho a mano
+### No. 117: Imagen principal de e-commerce - Imán de recuerdo de esmalte hecho a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5169,7 +5457,7 @@ Crea un imán de recuerdo de esmalte hecho a mano, coleccionable y de alta calid
 
 ---
 
-### No. 106: Imagen principal de e-commerce - Sesión de fotos para catálogo de moda urbana
+### No. 118: Imagen principal de e-commerce - Sesión de fotos para catálogo de moda urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5209,7 +5497,7 @@ Sesión de fotos para catálogo de moda que fusiona el estilo urbano con brandin
 
 ---
 
-### No. 107: Imagen principal de e-commerce - Exhibición de moneda conmemorativa de plata
+### No. 119: Imagen principal de e-commerce - Exhibición de moneda conmemorativa de plata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5254,19 +5542,19 @@ Detrás de la moneda, el sujeto real sonríe hacia la cámara. El rostro y la pa
 
 ---
 
-### No. 108: Imagen principal de e-commerce - Sesión de fotos editorial de moda con producto de gran tamaño
+### No. 120: Activo de juego - Miniatura 3D de monumentos famosos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una editorial de moda de clave alta con una pose audaz y un producto protagonista de gran tamaño, enfatizando una energía vibrante y los estándares de la fotografía comercial.
+Genera dioramas en miniatura 3D altamente detallados de monumentos famosos del mundo sobre plataformas flotantes con texturas realistas e iluminación de estudio.
 
 #### 📝 Prompt
 
 ```
-Una sesión de fotos editorial de moda de una {argument name="subject" default="persona"} adoptando una pose audaz, con un {argument name="product size" default="producto de gran tamaño"} como elemento protagonista central. Energía vibrante y lúdica en toda la imagen. Fondo de estudio limpio y minimalista. Iluminación de clave alta con sombras suaves y nítidas. Estética de fotografía comercial ultrarrealista. Gran angular, ángulo de cámara bajo. Enfoque extremadamente nítido, calidad 8K, formato cuadrado 1:1.
+Diorama isométrico en miniatura de {argument name="landmark name" default="la Torre Eiffel"}, que captura su estructura y proporciones reales sobre una pequeña plataforma flotante, rodeado de edificios y detalles paisajísticos de {argument name="location" default="París, Francia"}. Materiales físicamente precisos que incluyen piedra, hormigón, metal y vidrio. Paleta de colores fiel a la realidad, con tonos apagados y realistas que coinciden con el monumento original. Fondo de estudio en color blanco roto con iluminación natural suave, sombras tenues y una composición limpia. Renderizado 3D de alto detalle, estética de modelo arquitectónico premium, sin personas, sin texto.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -5274,518 +5562,35 @@ Una sesión de fotos editorial de moda de una {argument name="subject" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307024048_afjwa3_HJqqWcXbUAA4vcm.jpg" width="600" alt="Imagen principal de e-commerce - Sesión de fotos editorial de moda con producto de gran tamaño - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2061147220439912587)
-- **Publicado:** 31 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23436)**
-
----
-
-### No. 109: Imagen principal de e-commerce - Anuncio de moda futurista en PVC para dúo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una fotografía comercial hiperrealista de un dúo con estilo vistiendo chaquetas de PVC futuristas y posando con latas de refresco gigantes.
-
-#### 📝 Prompt
-
-```
-Un joven dúo con estilo {argument name="subject" default="dúo, mujer y hombre"}, de pie espalda contra espalda con expresiones seguras y geniales. La mujer viste un top corto blanco, pantalones cortos azul eléctrico, cortavientos de PVC transparente con detalles en azul plateado y zapatillas blancas. El hombre viste una camiseta blanca ajustada, pantalones deportivos azul real, chaqueta de PVC transparente con detalles en azul neón y zapatillas blancas con azul. La mujer sostiene un vaso de {argument name="brand" default="Pepsi"} con hielo a su izquierda, el hombre sostiene un vaso de {argument name="brand" default="Pepsi"} con hielo a su derecha. Dos latas gigantes de {argument name="brand" default="Pepsi"} a cada lado cubiertas de gotas de agua y rodeadas de hielo picado. Fondo de estudio con degradado azul plateado profundo con destellos de luz de neón eléctrica. Burbujas de agua flotantes y hielo. Toma de cuerpo completo del dúo, renderizado 3D ultrarrealista, fotografía comercial hiperrealista, suelo brillante y reflectante, resolución 8K, iluminación cinematográfica dramática 1744x2336
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780392027830_3kncmx_HJqo1f-bMAAqrFz.jpg" width="600" alt="Imagen principal de e-commerce - Anuncio de moda futurista en PVC para dúo - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Zephyra Leigh](https://x.com/ZephyraLeigh)
-- **Fuente:** [Twitter Post](https://x.com/ZephyraLeigh/status/2061145670426231083)
-- **Publicado:** 31 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23454)**
-
----
-
-### No. 110: Imagen principal de e-commerce - Infografía de outfit de moda estilo coreano
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Crea una infografía de moda minimalista con un selfie en el espejo a la izquierda y un desglose estructurado de los componentes del outfit a la derecha.
-
-#### 📝 Prompt
-
-```
-Crea una infografía de análisis de outfit de moda limpia y minimalista con un fondo de color crema beige suave. A la izquierda, muestra a una mujer joven y elegante de cuerpo completo, basada en la imagen de referencia, tomándose un selfie en el espejo con un smartphone. Tiene el cabello largo, castaño oscuro y naturalmente ondulado, un maquillaje limpio y transparente, un temperamento amable e intelectual, y luce pendientes de oro sencillos y exquisitos, mostrando una estética de estilo coreano para el día a día de una mujer madura. Viste un top de punto ajustado de color blanco crema, una americana color blanco crema encima, combinada con pantalones de talle alto y corte recto en color gris claro, un cinturón fino de cuero negro en la cintura, mocasines en bloque de color blanco y negro, un bolso tote minimalista en color marrón oscuro y joyas de oro refinadas y discretas (pendientes, collar, reloj, anillo). A la derecha, muestra los componentes del outfit organizados en forma de tarjetas rectangulares redondeadas con bordes sutiles y sombras. Incluye las siguientes secciones etiquetadas: CABELLO, AMERICANA, TOP, PANTALONES, BOLSO, MOCASINES, ACCESORIOS. Cada sección muestra una imagen de producto simple e independiente, coherente con el outfit general. Los accesorios incluyen: pendientes de botón de oro, collar de cadena fina, reloj sencillo, anillo. El estilo general es: diseño editorial de revista de moda, estética de Pinterest, estilo coreano para el día a día de una mujer madura, tonos neutros, guía de moda urbana para oficina, iluminación de estudio suave, composición ultra simple, exhibición de comercio electrónico de alta gama, textura de tela realista, tipografía elegante, espaciado simétrico, sensación de marca de estilo de vida de alta gama, calidad 4K, altamente detallado, fotorrealista. Prompt negativo: Baja calidad, borroso, extremidades adicionales, manos distorsionadas, anatomía deficiente, fondo desordenado, marca de agua, logotipo, elementos repetidos, diseño desordenado, accesorios excesivos, sombras duras, colores sobresaturados, cuerpo recortado, errores de texto, etiquetas desalineadas, dibujos animados, ilustración, CGI, proporciones poco realistas.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307050203_aqcht0_HJqAj-RaIAAlp5W.jpg" width="600" alt="Imagen principal de e-commerce - Infografía de outfit de moda estilo coreano - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780735245020_4wwtu3_HKFR8chbsAANHHt.jpg" width="600" alt="Activo de juego - Miniatura 3D de monumentos famosos - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307050309_u02equ_HJqAj-XbsAA2J39.jpg" width="600" alt="Imagen principal de e-commerce - Infografía de outfit de moda estilo coreano - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780735245012_4iygy8_HKFR8cpa8AAEyMj.jpg" width="600" alt="Activo de juego - Miniatura 3D de monumentos famosos - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307050238_r41wcq_HJqAj-9bgAAoluW.jpg" width="600" alt="Imagen principal de e-commerce - Infografía de outfit de moda estilo coreano - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780735245033_jy18bs_HKFR8cqaUAAAPVt.jpg" width="600" alt="Activo de juego - Miniatura 3D de monumentos famosos - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307051188_5angdw_HJqAj_BbAAAoFfR.jpg" width="600" alt="Imagen principal de e-commerce - Infografía de outfit de moda estilo coreano - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [漫小星](https://x.com/BabybreathAi)
-- **Fuente:** [Twitter Post](https://x.com/BabybreathAi/status/2061101159352525099)
-- **Publicado:** 31 de mayo de 2026
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23486)**
-
----
-
-### No. 111: Imagen principal de e-commerce - Fotografía de acción de comida explosiva
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una plantilla de prompt de fotografía gastronómica profesional diseñada para capturar alimentos que explotan hacia afuera, revelando sus texturas y rellenos internos.
-
-#### 📝 Prompt
-
-```
-Un {argument name="food item" default="hamburguesa"} abierto y explotando hacia afuera, revelando {argument name="filling" default="queso derretido"} en su interior, con [acción del relleno]. La superficie exterior muestra [textura exterior] y la sección transversal expone [capas internas]. Migas y partículas suspendidas en el aire. Capturado sobre un [fondo] limpio con iluminación de estudio profesional, estética de fotografía comercial de alta gama, ultra detallado, enfoque nítido.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307040017_qytnwy_HJohIiPagAAYZQ4.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de acción de comida explosiva - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307040028_ypbzt6_HJohIiNbEAARlDV.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de acción de comida explosiva - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307040040_6dtncf_HJohIiIasAACWbG.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de acción de comida explosiva - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307040971_lkyl9w_HJohIiLbQAAii-6.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de acción de comida explosiva - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780735245722_ctowrk_HKFR8cjboAABY-x.jpg" width="600" alt="Activo de juego - Miniatura 3D de monumentos famosos - Image 4">
 </div>
 
 #### 📌 Detalles
 
 - **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2060996337202835663)
-- **Publicado:** 31 de mayo de 2026
+- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2063020385420161405)
+- **Publicado:** 5 de junio de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23335)**
-
----
-
-### No. 112: Imagen principal de e-commerce - Mockup de empaque para bebida de matcha premium
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Crea un mockup de producto fotorrealista para bebidas en lata con un diseño minimalista de inspiración japonesa, que incluye texturas realistas y condensación.
-
-#### 📝 Prompt
-
-```
-Genera un mockup de empaque de producto fotorrealista para una {argument name="product type" default="bebida energética de matcha premium"} llamada “{argument name="brand name" default="FOCUS LEAF"}”. Escena: una lata de aluminio elegante sobre una superficie de piedra mate con luz suave de ventana por la mañana. Detalles importantes: diseño minimalista de inspiración japonesa, paleta de colores verde pálido y crema, gotas de condensación, sombras realistas. Incluye el texto exacto en la etiqueta: “FOCUS LEAF”, “MATCHA + L-THEANINE”, “ZERO SUGAR”, “12 FL OZ”. Caso de uso: concepto de producto. Restricciones: todo el texto debe estar escrito correctamente, sin nombres de marca adicionales, sin tipografía distorsionada.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780307025887_q2ob7b_HJnGZDGbgAAw1zY.jpg" width="600" alt="Imagen principal de e-commerce - Mockup de empaque para bebida de matcha premium - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [GPT Imagine](https://x.com/gpt_image_2)
-- **Fuente:** [Twitter Post](https://x.com/gpt_image_2/status/2060896517368787038)
-- **Publicado:** 31 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23439)**
-
----
-
-### No. 113: Imagen principal de e-commerce - Anuncio de moda con Pringles de gran tamaño
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una imagen de campaña publicitaria de producto en estudio de alta energía que presenta una lata de snack gigante en primer plano con una modelo elegante posando detrás.
-
-#### 📝 Prompt
-
-```
-Crea una toma publicitaria de producto en estudio pulida para {argument name="brand and product" default="Pringles Sour Cream & Onion"}, con una lata de snack cilíndrica verde de gran tamaño sostenida muy cerca de la cámara en un primer plano extremo por una modelo de moda. La lata domina el lado izquierdo del encuadre, inclinada ligeramente en diagonal, con un borde plateado y una base visibles, una mano y dedos realistas sujetándola, y detalles nítidos en la etiqueta: la cara de la mascota de Pringles con bigote en la parte superior, el panel del logotipo rojo de Pringles, el texto del sabor en blanco que dice “SOUR CREAM & ONION”, papas fritas ilustradas, cintas de cebollino, un tazón de crema agria, pequeños puntos de guarnición y “165 g” cerca de la parte inferior. En el fondo, a la derecha, muestra a una mujer joven de cuerpo completo en una pose dinámica de ángulo bajo inclinada hacia atrás, con el rostro intencionalmente borroso u oculto, vistiendo una sudadera corta con capucha de color {argument name="hoodie color" default="naranja brillante"}, una minifalda plisada de color {argument name="skirt color" default="verde esmeralda"}, calcetines blancos y zapatillas blancas de caña alta. Utiliza un fondo de estudio blanco limpio y sin costuras con sombras suaves en el suelo, iluminación comercial de alta intensidad, empaque realista y brillante, colores de marca saturados, exageración de perspectiva de gran angular, enfoque nítido en la lata y la mano, profundidad de modelo ligeramente más suave, ambiente de campaña de moda de la Generación Z, sin texto adicional más allá de la etiqueta del empaque, sin marcas de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780217251602_hx8vip_HJkoGyYbwAAvq-Z.jpg" width="600" alt="Imagen principal de e-commerce - Anuncio de moda con Pringles de gran tamaño - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Amira Zairi](https://x.com/azed_ai)
-- **Fuente:** [Twitter Post](https://x.com/azed_ai/status/2060722405086228751#reversed-0)
-- **Publicado:** 30 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=23348)**
-
----
-
-### No. 114: Activo de juego - Compañero mecha conejo estilo dieselpunk
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt detallado para un compañero mecha conejo de estilo dieselpunk a la vanguardia de la moda en un entorno de estudio, con texturas industriales e iluminación cinematográfica.
-
-#### 📝 Prompt
-
-```
-El compañero robot es un mecha dieselpunk grande con forma de conejo blanco desgastado, que se alza ligeramente detrás de él, con largas orejas mecánicas blindadas, ojos de color ámbar cálido brillante, pistones hidráulicos expuestos, armadura de cerámica y metal rayada, marcas industriales rojas, cables visibles, engranajes, articulaciones servo, pintura desgastada, polvo, manchas de aceite, etiquetas de advertencia grabadas y proporciones de juguete de diseño coleccionable mezcladas con ingeniería militar realista. El robot debe sentirse protector y leal, posicionado cerca detrás del sujeto como un guardián futurista.\n\nComposición: editorial de estudio de cuerpo completo en vertical, sujeto centrado ligeramente a la derecha, robot ocupando el fondo izquierdo y envolviendo parcialmente la composición, fuerte presencia de póster de héroe, espacio negativo limpio, encuadre de campaña de moda premium. Cámara en ángulo ligeramente bajo, lente de 35 mm, enfoque nítido en el rostro y el atuendo, poca profundidad de campo en el https://t.co/KvpuP6lKKK mecánico: fondo de estudio gris neutro suave, luz principal difusa cinematográfica desde la parte frontal izquierda, luz de contorno roja sutil que se refleja en los bordes metálicos, sombra suave bajo los pies, oclusión ambiental realista, luces controladas en la tela y la armadura. Paleta de colores: blanco marfil, beige hueso, gris metal rayado, rojo carmesí apagado, acento de cabello azul ceniza, brillo ámbar cálido en los ojos del robot. Ambiente: editorial de moda que combina el estilo masculino kawaii cyberpunk con el dieselpunk, ropa urbana futurista, diseño conceptual de lujo, portada de revista de ciencia ficción de alta gama, estética mecha coleccionable cinematográfica, visualmente potente pero limpio y elegante.\n\nImagen cinematográfica ultrarrealista con texturas hiperdetalladas, calidad 8K, gradación de color profesional, iluminación realista, fibras de tela detalladas, poros de piel realistas, detalles mecánicos nítidos, anatomía natural, fotografía de estudio premium, calidad de obra maestra. Prompt negativo: cuerpo femenino, atuendo femenino, estilo de dibujos animados de anime, rostro infantil, piel de plástico, rostro de muñeca, anatomía distorsionada, manos malas, dedos extra, dedos faltantes, rostro deformado, identidad facial incorrecta, rostro borroso, baja resolución, enfoque suave, sobreexpuesto, sobresaturado, fondo desordenado, texto, logotipo, marca de agua, tatuajes aleatorios, tatuaje de brazo completo, robot duplicado, extremidades rotas, proporciones poco realistas, CGI barato, piel humana similar a un juguete, iluminación plana, textura de tela mala.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650728357_ahtnmd_HJ-nx6lbwAASR2C.jpg" width="600" alt="Activo de juego - Compañero mecha conejo estilo dieselpunk - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650728351_4lmk9a_HJ-nx8TbYAA65eV.jpg" width="600" alt="Activo de juego - Compañero mecha conejo estilo dieselpunk - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650729607_s9xcl0_HJ-nx-8boAAWwTd.jpg" width="600" alt="Activo de juego - Compañero mecha conejo estilo dieselpunk - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650728892_schy1q_HJ-nyGNaYAAwl9-.jpg" width="600" alt="Activo de juego - Compañero mecha conejo estilo dieselpunk - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maverick | AI](https://x.com/RizwanAly07)
-- **Fuente:** [Twitter Post](https://x.com/RizwanAly07/status/2062551644987076936)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24150)**
-
----
-
-### No. 115: Activo de juego - Retrato cinematográfico hiperrealista con rifle
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt cinematográfico e hiperrealista que presenta a una mujer rubia apuntando con un rifle, con énfasis en la profundidad de campo.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico hiperrealista de una mujer joven {argument name="hair color" default="rubia"} apuntando con un {argument name="weapon" default="rifle"} hacia la cámara. Ojos azules intensos perfectamente enfocados, con una profundidad de campo extremadamente reducida que desenfoca notablemente el cañón en primer plano.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650738972_byp0vj_HJ9C-fab0AAZ_LT.jpg" width="600" alt="Activo de juego - Retrato cinematográfico hiperrealista con rifle - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [AIライフハック](https://x.com/ai_lifehack55)
-- **Fuente:** [Twitter Post](https://x.com/ai_lifehack55/status/2062441197629763843)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24164)**
-
----
-
-### No. 116: Activo de juego - Hoja de personaje de anime de ciencia ficción
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una hoja de perfil de personaje de anime vertical y pulida con una colegiala ángel de cuerpo completo, paneles de interfaz, miniaturas y detalles chibi.
-
-#### 📝 Prompt
-
-```
-Objetivo: Crear una hoja de personaje de anime pulida para una colegiala ángel futurista llamada {argument name="character name" default="Yuuka Kinaye"}, con el estilo de una ficha de perfil o especificaciones de un juego móvil, con paneles de interfaz limpios, tipografía decorativa y microtexto pseudo-japonés/pseudo-inglés intencional.
-
-Lienzo: Póster vertical, relación de aspecto 2:3, alta resolución. Fondo central blanco con un borde izquierdo lavanda y acentos geométricos en cian brillante en la parte superior e inferior. Utiliza líneas de marco finas en gris pálido, triángulos pequeños, puntos, diamantes y decoraciones de interfaz tecnológica dispersas por la página.
-
-Sujeto principal: Una chica de anime de cuerpo completo domina la parte izquierda y central del póster. Tiene {argument name="hair color" default="violeta púrpura intenso"} cabello largo con dos coletas con puntas rizadas, flequillo lateral, reflejos brillantes y pequeños accesorios para el cabello en cian. Tiene ojos grandes de color púrpura y una expresión tranquila y ligeramente seria. Un halo negro y cian flota sobre su cabeza. Está de pie en una pose contrapposto segura, sosteniendo un teléfono inteligente púrpura en su mano izquierda mientras su mano derecha descansa cerca de su cintura. Atuendo: blazer negro con solapas blancas, camisa blanca, corbata cian, falda plisada negra corta, chaqueta futurista blanca y cian de gran tamaño sobre los hombros, guantes negros, medias negras hasta el muslo, zapatos negros robustos y una bolsa de utilidad blanca unida a su cadera. Incluye un renderizado de anime con sombreado cel nítido, reflejos brillantes, arte lineal limpio y un acabado de hoja de diseño de personaje premium.
-
-Diseño y elementos visibles: Utiliza exactamente 1 ilustración de personaje de cuerpo completo. Añade exactamente 1 tarjeta de horario/perfil grande en la parte superior derecha con un encabezado cian y exactamente 5 filas de tabla horizontales. El título de la tarjeta debe parecer un panel de escaneo/estado de personaje e incluir principalmente pseudo-texto decorativo. Añade exactamente 4 miniaturas de retrato en rectángulos redondeados apiladas en el lado derecho, cada una mostrando un recorte cercano del mismo personaje con su halo y cabello púrpura; el área de la cara puede estar suavemente oscurecida o simplificada como mosaicos de vista previa censurados. Añade exactamente 1 panel de logotipo cuadrado cerca del centro-derecha que contenga un gran emblema estilizado en cian similar a un número que se asemeje a “77”. Añade exactamente 1 bloque de párrafo de texto de perfil de marcador de posición gris diminuto debajo del logotipo. Añade exactamente 1 versión chibi pequeña del personaje cerca de la parte inferior central, acostada o inclinada hacia adelante con una expresión gruñona, un pequeño globo de diálogo, un halo arriba y un pequeño teclado o tablero rectangular a su lado. Añade exactamente 1 etiqueta de nombre grande cerca de la parte inferior que diga {argument name="display name text" default="Yuuka Kinaye"} en letras de color púrpura pálido ampliamente espaciadas, con pequeños números de identificación decorativos debajo. Añade exactamente 1 barra de pie de página cian y lavanda con etiquetas cortas en pseudo-japonés y un pequeño emblema púrpura.
-
-Contenido de texto: El encabezado superior derecho debe decir aproximadamente {argument name="header text" default="CHARACUR SCIANNINGT5 YUUKA"} con una línea decorativa más pequeña de texto en pseudo-japonés debajo. La tarjeta de horario debe tener un encabezado cian que contenga el nombre del personaje y un campo de estado/fecha, seguido de 5 filas con pseudo-etiquetas en el lado izquierdo y horarios en el lado derecho: 19:30, 18:30, 18:30, 18:30, 18:30. Mantén la mayor parte del texto pequeño intencionalmente sin sentido, tenue y similar a una interfaz en lugar de ser completamente legible.
-
-Estilo visual: Hoja de personaje de anime moderna, estética de uniforme escolar de ciencia ficción inspirada en Blue Archive, paleta de colores blanco/lavanda/cian, superposiciones de interfaz vectorial limpias, sombras suaves bajo las tarjetas, ilustración pulida de alto detalle, sombreado cel nítido, diseño de personaje atractivo, sin fotorrealismo.
-
-Restricciones: Mantén la página despejada pero rica en información. Conserva las cantidades exactas: 1 personaje de cuerpo completo, 1 tarjeta de horario con 5 filas, 4 miniaturas de retrato en el lado derecho, 1 panel de logotipo, 1 ilustración chibi, 1 barra de pie de página. No añadas personajes adicionales, armas, paisajes ni marcas legibles.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650748962_f6ukf4_HJ8pH1PaAAAoveV.jpg" width="600" alt="Activo de juego - Hoja de personaje de anime de ciencia ficción - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [水姫(Mizuki)](https://x.com/HikariBlue55)
-- **Fuente:** [Twitter Post](https://x.com/HikariBlue55/status/2062413653308289383#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24189)**
-
----
-
-### No. 117: Activo de juego - Equipo de robots de banco de arena en estilo pixel art adorable
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una amplia escena de playa en estilo retro pixel art que presenta a seis adorables robots desarrolladores colaborando en un pequeño banco de arena tropical, ideal para una imagen promocional de un proyecto tecnológico divertido.
-
-#### 📝 Prompt
-
-```
-Crea una adorable ilustración promocional en estilo pixel art panorámico para {argument name="project name" default="Sandbank Agent"}, que muestre una pequeña isla tropical de arena en medio de un brillante océano turquesa bajo un cielo azul soleado. Lienzo: formato horizontal 16:9, pixel art retro de 16 bits, píxeles definidos y nítidos, alta saturación, estética encantadora de arte de videojuegos, sin superposiciones de texto ni marcas de agua. Escena: una pequeña isla ovalada de arena rodeada de aguas poco profundas de color aguamarina, anillos de espuma blanca, corales y rocas visibles bajo el agua, una isla verde distante en el horizonte a la derecha, enormes nubes pixeladas esponjosas, pequeñas aves blancas y destellos en el mar. Sujetos principales: exactamente 6 adorables robots chibi con cuerpos blancos redondeados, caras de pantalla de cristal negro, ojos brillantes de color cian, antenas pequeñas y accesorios de playa/espacio de trabajo, dispuestos de izquierda a derecha sobre la arena. Robot 1 sentado bajo una gran sombrilla de playa naranja y blanca, usando gafas de sol y una camisa hawaiana turquesa, junto a una bebida de coco y una pizarra de planificación que muestra nodos de colores conectados. Robot 2 acostado sobre una toalla de playa a rayas usando una computadora portátil abierta, vistiendo pantalones cortos de baño tropicales azules, con una bebida de coco al lado de la toalla. Robot 3 de pie en el centro vistiendo una chaqueta de explorador amarillo-naranja y un casco amarillo, sosteniendo un portapapeles en una mano y un pequeño cubo terminal negro con un símbolo de línea de comandos verde en la otra. Robot 4 sentado detrás de un gran cofre de equipo oscuro, vistiendo un sombrero de pescador verde y un atuendo verde; el cofre tiene tres iconos coloridos de archivos/aplicaciones en el frente. Robot 5 descansando en una silla de playa de madera usando gafas de sol naranjas y traje de baño rojo, usando una computadora portátil negra con un símbolo de línea de comandos verde; una pequeña mesa auxiliar sostiene una bebida verde y una tabla vertical o remo descansa detrás de la silla. Robot 6 de pie en el extremo derecho vistiendo una gorra azul y sosteniendo una tabla de surf turquesa decorada con líneas de placa de circuito, sugiriendo una infraestructura de desarrollador lúdica. Añade pequeños detalles de playa: exactamente 1 estrella de mar naranja cerca del centro en primer plano, varias conchas pequeñas y guijarros, un pequeño montículo de castillo de arena cerca del cofre de equipo y sombras suaves bajo cada objeto. Ambiente: alegre, adorable, colaborativo, con un toque de espacio de trabajo tecnológico en vacaciones de playa. Usa brillos de pantalla de color {argument name="robot face glow color" default="cian"}, agua de color {argument name="ocean color" default="turquesa brillante"}, {argument name="umbrella color" default="naranja y blanco"} para la sombrilla, y {argument name="pixel art style" default="arte de juego retro de 16 bits"}. Mantén todos los elementos claramente legibles en tamaño pequeño, con siluetas limpias y un espaciado equilibrado.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650754596_datwcw_HJ8nD6xaYAEkjev.jpg" width="600" alt="Activo de juego - Equipo de robots de banco de arena en estilo pixel art adorable - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [郭宇 guoyu.eth](https://x.com/turingou)
-- **Fuente:** [Twitter Post](https://x.com/turingou/status/2062410109763064040#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24204)**
-
----
-
-### No. 118: Activo de juego - Chica anime de moda con cabello plateado y censura
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt pulido para generar una glamurosa mujer de fantasía anime con cabello plateado en una brillante escena urbana nocturna, con joyas ornamentadas y un bloque de censura intencional que oculta el rostro.
-
-#### 📝 Prompt
-
-```
-Crea una ilustración vertical de anime altamente detallada de una elegante mujer de moda fantástica llamada {argument name="character name" default="Lilva"} posando en una brillante calle urbana nocturna. Se muestra desde los muslos hasta la cabeza en una composición glamurosa de tres cuartos en ángulo bajo, apoyada casualmente con una mano levantada cerca de los labios y la otra relajada cerca de la cadera. Su rostro está intencionalmente oculto por un bloque de censura cuadrado opaco centrado en un tono malva grisáceo apagado, que cubre los ojos, la nariz y la boca, dejando visibles el cabello, la oreja, la línea de la mandíbula y las joyas. Tiene un cabello muy largo y fluido de color {argument name="hair color" default="azul hielo plateado"} con mechones luminosos, volumen movido por el viento y líneas de anime nítidas. Su piel es pálida y tiene un brillo suave. Viste un lujoso conjunto corto en blanco y plata: top corto sin mangas acanalado, banda drapeada translúcida sobre el pecho, pantalones blancos ajustados de cintura alta con cinturón negro y hebilla dorada, y una chaqueta blanca suelta semitransparente que se desliza por los hombros. Añade joyas y accesorios celestiales intrincados: exactamente 9 grupos de joyas visibles que consisten en un pendiente tipo ear cuff y pendientes colgantes de piedras preciosas azules en una oreja, una gargantilla delgada con una gema azul, collares delicados en capas con colgantes de cristal azul, pulseras en la muñeca levantada, anillos en ambas manos, un detalle de cinturón de cadena dorada, un dije colgante en la cintura con cristal, un reloj de pulsera dorado en la muñeca baja y un largo dije de borla de cristal azul colgando de esa muñeca. Incluye motivos de estrellas, lunas y diamantes, cadenas diminutas, cristales de zafiro azul facetados, detalles en oro metálico y uñas manicuradas brillantes en azul pálido. El fondo es una escena urbana nocturna de ensueño y de lujo con fachadas de edificios ornamentadas, farolas cálidas, escaparates iluminados, un letrero colgante oscuro con un emblema tipo escudo, superficies de piedra y metal reflectantes, partículas brillantes que caen, luces bokeh y fragmentos mágicos brillantes. Utiliza una paleta de colores lavanda frío, plata, azul y blanco con reflejos dorados cálidos, una fuerte iluminación de contorno desde la derecha, un suave efecto de resplandor, efectos de destello de lente, arte lineal nítido y limpio, renderizado altamente pulido, textura de tela detallada, materiales translúcidos y una atmósfera etérea y lujosa. Mantén la composición sin cambios: relación de aspecto vertical 3:4, personaje centrado y ocupando la mayor parte del encuadre, cabello barriendo el lado izquierdo, mano levantada cerca del lado izquierdo del bloque de censura, hombro expuesto a la derecha, sin texto legible, sin marcas de agua, sin personajes adicionales.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650747155_i8uw2u_HJ72jTHbMAA7uv9.jpg" width="600" alt="Activo de juego - Chica anime de moda con cabello plateado y censura - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Canário【カナリオ】](https://x.com/Canario19XX)
-- **Fuente:** [Twitter Post](https://x.com/Canario19XX/status/2062356770941743286#reversed-0)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24186)**
-
----
-
-### No. 119: Activo de juego - Retrato de moda con caricatura 3D estilizada
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt creativo para generar retratos de caricatura 3D de vanguardia con rasgos exagerados y una estética de juguete coleccionable pulido.
-
-#### 📝 Prompt
-
-```
-Genera un retrato de caricatura 3D altamente estilizado con una deformación deliberadamente exagerada y una superficie lisa y pulida. Basado en la FOTO DE REFERENCIA ADJUNTA, mantén la identidad, el tono de piel, los rasgos faciales y las características distintivas del sujeto, transformándolo en una audaz figura 3D caricaturizada que presente un cuello alargado, una cabeza de gran tamaño, párpados pesados y caídos, labios carnosos y un rostro ligeramente asimétrico. El personaje debe tener una piel limpia, con calidad de estudio y detalles intencionales en lugar de ruido o texturas aleatorias. Añade accesorios llamativos como gafas redondas u ovaladas, pendientes de aro, cadenas de oro, pañuelos o bandanas, y moda urbana de lujo. Ilumina con una luz de estudio neutra para obtener sombras suaves y tonos uniformes, sin contrastes fuertes, sobre un fondo gris neutro o blanquecino. El ambiente debe sentirse vanguardista, coleccionable, a la moda y centrado en el personaje, en lugar de realista o tierno. Definición ultra alta, renderizado 3D cinematográfico premium, calidad hiperrealista, materiales limpios, sin pecas, suciedad, grano, ruido, texto, logotipos ni marcas de agua. Relación de aspecto 4:5
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650729743_qv4mtf_HJ7nlK4asAA4AR8.jpg" width="600" alt="Activo de juego - Retrato de moda con caricatura 3D estilizada - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [PromptLab](https://x.com/iamaiistudio)
-- **Fuente:** [Twitter Post](https://x.com/iamaiistudio/status/2062340531448066386)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24149)**
-
----
-
-### No. 120: Póster / Folleto - Panorama de póster de fútbol haitiano
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt detallado para crear una ilustración panorámica al estilo de collage de papel para un póster de fútbol haitiano, que presenta las principales ciudades y un trofeo estilizado.
-
-#### 📝 Prompt
-
-```
-Crea una refinada ilustración panorámica en formato horizontal para un póster de fútbol haitiano titulado **"{argument name="poster title" default="GRENADYE 2026"}"**, integrando **{argument name="cities" default="Jacmel, Cap-Haïtien y Puerto Príncipe"}** en una escena única y armoniosa, con un trofeo de la Copa del Mundo estilizado e integrado completamente como punto de anclaje central.
-
-Representa a Haití como una escena nacional tranquila, elegante y altamente estilizada en un estilo de {argument name="art style" default="póster de collage de papel en tonos pastel"}. Utiliza una composición horizontal amplia con tres áreas urbanas conectadas suavemente por el mar Caribe, montañas, cielo y planos de papel recortado de colores.
-
-Zona izquierda: Jacmel, con arquitectura histórica de estilo "gingerbread", fachadas coloniales en tonos pastel, balcones de madera ornamentados, detalles decorativos, palmeras, cultura artística costera, acentos inspirados en máscaras de carnaval, pequeños artistas, barcos y cálidas calles costeras.
-
-Zona central: Puerto Príncipe, con barrios escalonados en pendiente, casas geométricas coloridas, bulevares bordeados de palmeras, agua del puerto, un sutil fondo montañoso, arquitectura cívica, pequeñas figuras de mercado, motivos artísticos haitianos y una plaza abierta que sirve de base para el trofeo.
-
-Zona derecha: Cap-Haïtien, con la Citadelle Laferrière como una silueta de fortaleza sobre una cresta verde distante, el Palacio Sans-Souci sugerido por arcos de piedra clara, arquitectura colonial costera, bahía turquesa, barcos de pesca, palmeras y pequeñas figuras celebrando el fútbol.
-
-Coloca un trofeo de la Copa del Mundo reconocible pero estilizado en el centro, representado como una escultura monumental en collage de papel dorado mate, con formas de globo simplificadas, curvas abstractas inspiradas en el fútbol, bordes ligeramente elevados, contornos en relieve y sombras delicadas. Añade los números "2026" cerca de la base. No utilices logotipos oficiales de la FIFA ni logotipos de equipos.
-
-Añade detalles sutiles de la celebración del fútbol haitiano: pequeñas figuras con acentos en rojo y azul, pequeñas banderas haitianas, globos abstractos, cintas gráficas haitianas en azul y rojo apagado, y una energía festiva controlada en el primer plano.
-
-Paleta: azul cielo suave, gris azulado neblinoso, cobalto pálido, verde salvia apagado, menta polvorienta, crema cálido, beige claro, gris piedra pálido, coral polvoriento, melocotón suave, amarillo apagado, blanco roto, turquesa descolorido, terracota soleado, acentos en azul y rojo haitiano, pequeños detalles en azul marino y carbón, además de un refinado dorado mate para el trofeo.
-
-La imagen debe parecer hecha a mano, como papel de colores y gouache cuidadosamente ensamblados sobre cartulina, con grano de papel sutil, textura de impresión mate, bordes elevados, relieve delicado, sombras de papel recortado, ligera rugosidad superficial, siluetas nítidas, planos geométricos limpios y mucho espacio negativo.
-
-Tipografía en la parte superior izquierda: "GRENADYE 2026" en una fuente sans-serif geométrica en mayúsculas.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650716008_vaffl1_HJ_z507WYAAwoVE.jpg" width="600" alt="Póster / Folleto - Panorama de póster de fútbol haitiano - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650717262_kgnrpx_HJ_z5yiWgAALH-q.jpg" width="600" alt="Póster / Folleto - Panorama de póster de fútbol haitiano - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650717569_ufv99u_HJ_z5ylWoAAmQdC.jpg" width="600" alt="Póster / Folleto - Panorama de póster de fútbol haitiano - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [HaitiBrand](https://x.com/HaitiBrand)
-- **Fuente:** [Twitter Post](https://x.com/HaitiBrand/status/2062635338271539656)
-- **Publicado:** 4 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24128)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/gpt-image-2-prompts?id=24231)**
 
 ---
 
@@ -5795,7 +5600,7 @@ Tipografía en la parte superior izquierda: "GRENADYE 2026" en una fuente sans-s
 
 <div align="center">
 
-### 🎯 8929 prompts más no mostrados aquí
+### 🎯 9062 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5858,6 +5663,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-06T02:03:45.358Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-06T13:05:45.218Z</sub>
 
 </div>
